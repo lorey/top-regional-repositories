@@ -34,3 +34,5 @@ score(repo, region) := #(stars from users in the given region) / (#(stars of rep
 ```
 
 To be able to compute the given score, I have used the geocoded locations of popular GitHub users. I know, this favors repositories starred by popular GitHub users, but I don't think the effect is statistically relevant. The small number of geocoded users should be a bigger problem for statistical correctness :)
+
+Image: [TheAndrasBarta on Pixabay. CC0](https://pixabay.com/en/users/TheAndrasBarta-2004841/)
