@@ -1,4 +1,6 @@
-# The Top Regional Repositories (for Cities and Countries)
+![A map of Europe](.github/world.jpg)
+
+# Top Regional Repositories
 
 Want to explore repositories that are popular in a specific region, e.g. the city/country you live in? This project will help you. For many cities and all countries worldwide it lists the repositories with the highest ratio of stars from users in that region. See it as a list of the most-relevant repositories for a specific region.
 
@@ -31,4 +33,4 @@ Basically, for each popular repository and a given region I compute the ratio of
 score(repo, region) := #(stars from users in the given region) / (#(stars of repo) + 1000)
 ```
 
-To be able to compute the given score, I have geocoded the locations of a few popular GitHub users. I know, this favors repositories starred by popular GitHub users, but I don't think the effect is statistically relevant. The small number of geocoded users should be a bigger problem for statistical correctness :)
+To be able to compute the given score, I have used the geocoded locations of popular GitHub users. I know, this favors repositories starred by popular GitHub users, but I don't think the effect is statistically relevant. The small number of geocoded users should be a bigger problem for statistical correctness :)
