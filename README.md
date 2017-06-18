@@ -1,4 +1,4 @@
-# Most-Popular Repositories in a City or Country
+# The Top Regional Repositories (for Cities and Countries)
 
 Want to explore repositories that are popular in a specific region, e.g. the city/country you live in? This project will help you. For many cities and all countries worldwide it lists the repositories with the highest ratio of stars from users in that region. See it as a list of the most-relevant repositories for a specific region.
 
