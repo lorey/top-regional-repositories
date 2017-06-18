@@ -1,29 +1,29 @@
 # Popular Repositories in Dallas
 
-These are the most-starred repositories from programmers based in Dallas:
+These are the repositories with the highest ratio of stars from programmers based in Dallas:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [bloodhound](https://github.com/snollygolly/bloodhound)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [dallas](https://github.com/nodeschool/dallas)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [koa-starter](https://github.com/snollygolly/koa-starter)
-- [cogs](https://github.com/caseywebdev/cogs)
-- [softlayer-python](https://github.com/softlayer/softlayer-python)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [vinli-cli](https://github.com/vinli/vinli-cli)
-- [borrow-bot](https://github.com/snollygolly/borrow-bot)
-- [algorithms](https://github.com/keon/algorithms)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [active_interaction](https://github.com/orgsync/active_interaction)
-- [sl-ember-components](https://github.com/softlayer/sl-ember-components)
-- [ModelRocket](https://github.com/ovenbits/ModelRocket)
-- [code.mil](https://github.com/deptofdefense/code.mil)
-- [reactide](https://github.com/reactide/reactide)
-- [Angular-Boilerplate](https://github.com/JoshSpears3/Angular-Boilerplate)
-- [joshspears.io](https://github.com/JoshSpears3/joshspears.io)
-- [challah](https://github.com/jdtornow/challah)
-- [paw-wars](https://github.com/snollygolly/paw-wars)
-- [ngLoader](https://github.com/jfeigel/ngLoader)
-- [vinli-node](https://github.com/vinli/vinli-node)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bloodhound](https://github.com/snollygolly/bloodhound): :tv: Makes TV more awesome.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [dallas](https://github.com/nodeschool/dallas): Nodeschool Dallas chapter
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [koa-starter](https://github.com/snollygolly/koa-starter): :koala: A starter kit for a slightly opinionate...
+- [cogs](https://github.com/caseywebdev/cogs): The fast file transform pipeline.
+- [softlayer-python](https://github.com/softlayer/softlayer-python): A set of Python libraries that assist in callin...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [vinli-cli](https://github.com/vinli/vinli-cli): Connected Car Command Line
+- [borrow-bot](https://github.com/snollygolly/borrow-bot): :moneybag: A bot for maximizing the borrow subr...
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [active_interaction](https://github.com/orgsync/active_interaction): :briefcase: Manage application specific busines...
+- [sl-ember-components](https://github.com/softlayer/sl-ember-components): An Ember CLI Addon that provides a variety of U...
+- [ModelRocket](https://github.com/ovenbits/ModelRocket): An iOS framework for creating JSON-based models...
+- [code.mil](https://github.com/deptofdefense/code.mil): An experiment in open source
+- [reactide](https://github.com/reactide/reactide): 
+- [Angular-Boilerplate](https://github.com/JoshSpears3/Angular-Boilerplate): Application starter kit for AngularJS Ready to ...
+- [joshspears.io](https://github.com/JoshSpears3/joshspears.io): My website. As of 10.24.16, this site is under ...
+- [challah](https://github.com/jdtornow/challah): A simple gem for user authorization and session...
+- [paw-wars](https://github.com/snollygolly/paw-wars): :smiley_cat: A spiritual successor to Drugwars,...
+- [ngLoader](https://github.com/jfeigel/ngLoader): Loading animation for AngularJS
+- [vinli-node](https://github.com/vinli/vinli-node): Official Node.js SDK for interacting with the V...

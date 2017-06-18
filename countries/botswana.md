@@ -1,29 +1,29 @@
 # Popular Repositories in Botswana
 
-These are the most-starred repositories from programmers based in Botswana:
+These are the repositories with the highest ratio of stars from programmers based in Botswana:
 
-- [edc-lab](https://github.com/botswana-harvard/edc-lab)
-- [my-site](https://github.com/lebbysam200/my-site)
-- [elasticpress-featured-image-url](https://github.com/rveitch/elasticpress-featured-image-url)
-- [laptop](https://github.com/mikhailov/laptop)
-- [sublimetext-rails-snippets](https://github.com/twice/sublimetext-rails-snippets)
-- [python-astm](https://github.com/kxepal/python-astm)
-- [textmate-themes](https://github.com/ryanb/textmate-themes)
-- [react-native-file-transfer](https://github.com/kamilkp/react-native-file-transfer)
-- [django-datatable-view](https://github.com/pivotal-energy-solutions/django-datatable-view)
-- [Pokemon](https://github.com/VctrySam/Pokemon)
-- [mayan-edms](https://github.com/mayan-edms/mayan-edms)
-- [django-simple-history](https://github.com/treyhunner/django-simple-history)
-- [sample_app_2nd_ed](https://github.com/railstutorial/sample_app_2nd_ed)
-- [react-native-material-ui](https://github.com/xotahal/react-native-material-ui)
-- [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [angularfire2](https://github.com/angular/angularfire2)
-- [cms.js](https://github.com/cdmedia/cms.js)
-- [quickstart](https://github.com/angular/quickstart)
-- [searchkick](https://github.com/ankane/searchkick)
-- [react-native-elements](https://github.com/react-native-community/react-native-elements)
-- [itsy-bitsy-data-structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)
-- [material2](https://github.com/angular/material2)
-- [angular-cli](https://github.com/angular/angular-cli)
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- [edc-lab](https://github.com/botswana-harvard/edc-lab): Lab classes
+- [my-site](https://github.com/lebbysam200/my-site): A polling site
+- [elasticpress-featured-image-url](https://github.com/rveitch/elasticpress-featured-image-url): Automatically adds the featured image url to Wo...
+- [laptop](https://github.com/mikhailov/laptop): Laptop is a set of scripts to get your Mac OS X...
+- [sublimetext-rails-snippets](https://github.com/twice/sublimetext-rails-snippets): My rails related snippets for sublime text 2.
+- [python-astm](https://github.com/kxepal/python-astm): Python implementation of ASTM E1381/1394 data p...
+- [textmate-themes](https://github.com/ryanb/textmate-themes): My TextMate themes (includes Railscasts theme)
+- [react-native-file-transfer](https://github.com/kamilkp/react-native-file-transfer): react-native plugin for uploading files with mu...
+- [django-datatable-view](https://github.com/pivotal-energy-solutions/django-datatable-view): Yet another datatables implementation for Django
+- [Pokemon](https://github.com/VctrySam/Pokemon): Pokemon Go in React Native
+- [mayan-edms](https://github.com/mayan-edms/mayan-edms): Repository mirror of GtLab: https://gitlab.com/...
+- [django-simple-history](https://github.com/treyhunner/django-simple-history): Store model history and view/revert changes fro...
+- [sample_app_2nd_ed](https://github.com/railstutorial/sample_app_2nd_ed): The Rails Tutorial Sample App, 2nd Edition
+- [react-native-material-ui](https://github.com/xotahal/react-native-material-ui): Highly customizable material design components ...
+- [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer): A gem with recipes to create Rails application ...
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [angularfire2](https://github.com/angular/angularfire2): The official Angular 2 library for Firebase.
+- [cms.js](https://github.com/cdmedia/cms.js): The Javascript Site Generator
+- [quickstart](https://github.com/angular/quickstart): Angular 2 QuickStart - source from the document...
+- [searchkick](https://github.com/ankane/searchkick): Intelligent search made easy with Rails and Ela...
+- [react-native-elements](https://github.com/react-native-community/react-native-elements): React Native Elements UI Toolkit
+- [itsy-bitsy-data-structures](https://github.com/thejameskyle/itsy-bitsy-data-structures): :european_castle: All the things you didn't kno...
+- [material2](https://github.com/angular/material2): Material Design components for Angular
+- [angular-cli](https://github.com/angular/angular-cli): CLI tool for Angular
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type...

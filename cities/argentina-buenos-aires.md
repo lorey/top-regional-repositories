@@ -1,29 +1,29 @@
 # Popular Repositories in Buenos Aires
 
-These are the most-starred repositories from programmers based in Buenos Aires:
+These are the repositories with the highest ratio of stars from programmers based in Buenos Aires:
 
-- [vot.ar](https://github.com/prometheus-ar/vot.ar)
-- [democracyos](https://github.com/DemocracyOS/democracyos)
-- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [docker-workshop](https://github.com/gvilarino/docker-workshop)
-- [chico](https://github.com/mercadolibre/chico)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [cuba](https://github.com/soveran/cuba)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [buenosaires](https://github.com/nodeschool/buenosaires)
-- [localstack](https://github.com/atlassian/localstack)
-- [trabajos](https://github.com/bafrontend/trabajos)
-- [canopus](https://github.com/satellogic/canopus)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [sdk-php](https://github.com/mercadopago/sdk-php)
-- [touchandgo](https://github.com/touchandgo-devs/touchandgo)
-- [pilas](https://github.com/hugoruscitti/pilas)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [storm](https://github.com/Cuevana/storm)
-- [Tuiter](https://github.com/impronunciable/Tuiter)
-- [bronzeage-node](https://github.com/decentraland/bronzeage-node)
-- [RestOpenGov](https://github.com/RestOpenGov/RestOpenGov)
-- [streamium](https://github.com/streamium/streamium)
-- [comp](https://github.com/ostap/comp)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [vot.ar](https://github.com/prometheus-ar/vot.ar): VOT.AR - Sistema de Voto Electrónico
+- [democracyos](https://github.com/DemocracyOS/democracyos): DemocracyOS is an online space for deliberation...
+- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory):  :microscope: Where students practice and recei...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [docker-workshop](https://github.com/gvilarino/docker-workshop): Docker workshop
+- [chico](https://github.com/mercadolibre/chico): A collection of easy-to-use UI components.
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [cuba](https://github.com/soveran/cuba): Rum based microframework for web development.
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [buenosaires](https://github.com/nodeschool/buenosaires): Repositorio para organizar y responder pregunta...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [trabajos](https://github.com/bafrontend/trabajos): Una lista de oportunidades de trabajo que puede...
+- [canopus](https://github.com/satellogic/canopus): Canopus framework and flight computer software ...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [sdk-php](https://github.com/mercadopago/sdk-php): MercadoPago PHP SDK
+- [touchandgo](https://github.com/touchandgo-devs/touchandgo): Torrent streaming CLI and python library 
+- [pilas](https://github.com/hugoruscitti/pilas): Pilas engine
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [storm](https://github.com/Cuevana/storm): Cuevana Storm App
+- [Tuiter](https://github.com/impronunciable/Tuiter): Twitter API lib for nodejs
+- [bronzeage-node](https://github.com/decentraland/bronzeage-node): Full node for Decentraland Bronze Age
+- [RestOpenGov](https://github.com/RestOpenGov/RestOpenGov): Indexes static government data and exposes a RE...
+- [streamium](https://github.com/streamium/streamium): Decentralized trustless video streaming using b...
+- [comp](https://github.com/ostap/comp): a tool for querying files in various formats
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...

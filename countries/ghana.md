@@ -1,29 +1,29 @@
 # Popular Repositories in Ghana
 
-These are the most-starred repositories from programmers based in Ghana:
+These are the repositories with the highest ratio of stars from programmers based in Ghana:
 
-- [DV-PHP-CORE](https://github.com/DevlessTeam/DV-PHP-CORE)
-- [mpower-node](https://github.com/samora/mpower-node)
-- [website](https://github.com/PaystackHQ/website)
-- [jeffgodwyll.com](https://github.com/jeffgodwyll/jeffgodwyll.com)
-- [flagen](https://github.com/jeffgodwyll/flagen)
-- [MOTECH-Mobile](https://github.com/motech/MOTECH-Mobile)
-- [slackbot](https://github.com/devcongress/slackbot)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Lab_Python_06](https://github.com/aiti-ghana-2012/Lab_Python_06)
-- [resources-i-like](https://github.com/unicodeveloper/resources-i-like)
-- [loopy](https://github.com/ncase/loopy)
-- [pesaPi](https://github.com/pluspeople/pesaPi)
-- [localstack](https://github.com/atlassian/localstack)
-- [learn-tdd](https://github.com/dwyl/learn-tdd)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [GDGGhana.github.io](https://github.com/GDGGhana/GDGGhana.github.io)
-- [nanobox-googlecloud-adapter](https://github.com/jeffgodwyll/nanobox-googlecloud-adapter)
-- [anware-test](https://github.com/eokyere/anware-test)
-- [papyrus](https://github.com/eokyere/papyrus)
-- [Pokerize](https://github.com/nukturnal/Pokerize)
-- [gpn](https://github.com/kofiasare/gpn)
-- [smsgh-ussd-framework-java](https://github.com/smsgh/smsgh-ussd-framework-java)
-- [smsghapi-csharp](https://github.com/smsgh/smsghapi-csharp)
-- [smsghapi-php](https://github.com/smsgh/smsghapi-php)
-- [myweb](https://github.com/captain-sensible/myweb)
+- [DV-PHP-CORE](https://github.com/DevlessTeam/DV-PHP-CORE): DevLess provides the perfect starting point for...
+- [mpower-node](https://github.com/samora/mpower-node): MPower Payments Node.js Library
+- [website](https://github.com/PaystackHQ/website): Repo for Paystack website
+- [jeffgodwyll.com](https://github.com/jeffgodwyll/jeffgodwyll.com): The source to my page
+- [flagen](https://github.com/jeffgodwyll/flagen): 
+- [MOTECH-Mobile](https://github.com/motech/MOTECH-Mobile): Mobile server application to serve/process xforms
+- [slackbot](https://github.com/devcongress/slackbot): A slackbot
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Lab_Python_06](https://github.com/aiti-ghana-2012/Lab_Python_06): Object Oriented Introduction
+- [resources-i-like](https://github.com/unicodeveloper/resources-i-like): :books::100: Collection of learning resources i...
+- [loopy](https://github.com/ncase/loopy): AHHHHHHH
+- [pesaPi](https://github.com/pluspeople/pesaPi): PesaPI is an API for mobile money systems acros...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [learn-tdd](https://github.com/dwyl/learn-tdd): :white_check_mark: A brief introduction to Test...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [GDGGhana.github.io](https://github.com/GDGGhana/GDGGhana.github.io): Homepage for GDG Accra
+- [nanobox-googlecloud-adapter](https://github.com/jeffgodwyll/nanobox-googlecloud-adapter): 
+- [anware-test](https://github.com/eokyere/anware-test): This is an Android Test Project for Anware
+- [papyrus](https://github.com/eokyere/papyrus): 
+- [Pokerize](https://github.com/nukturnal/Pokerize): Pokerize is a simple demo of Scheduling Backgro...
+- [gpn](https://github.com/kofiasare/gpn): 
+- [smsgh-ussd-framework-java](https://github.com/smsgh/smsgh-ussd-framework-java): Java framework for developing USSD applications...
+- [smsghapi-csharp](https://github.com/smsgh/smsghapi-csharp): A C# library to interact with the SMSGH Unity H...
+- [smsghapi-php](https://github.com/smsgh/smsghapi-php): A PHP wrapper library to interact with the SMSG...
+- [myweb](https://github.com/captain-sensible/myweb): myf3

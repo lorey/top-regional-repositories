@@ -1,29 +1,29 @@
 # Popular Repositories in Oslo
 
-These are the most-starred repositories from programmers based in Oslo:
+These are the repositories with the highest ratio of stars from programmers based in Oslo:
 
-- [unleash](https://github.com/Unleash/unleash)
-- [xp](https://github.com/enonic/xp)
-- [purplejs](https://github.com/purplejs/purplejs)
-- [hdo-site](https://github.com/holderdeord/hdo-site)
-- [imbo](https://github.com/imbo/imbo)
-- [roc](https://github.com/rocjs/roc)
-- [devilry-django](https://github.com/devilry/devilry-django)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [NoCommons](https://github.com/bekkopen/NoCommons)
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [ssehub](https://github.com/vgno/ssehub)
-- [buster](https://github.com/busterjs/buster)
-- [ctop](https://github.com/bcicen/ctop)
-- [reactide](https://github.com/reactide/reactide)
-- [smidig-conference](https://github.com/smidig/smidig-conference)
-- [vinmonopolet](https://github.com/rexxars/vinmonopolet)
-- [statpipe](https://github.com/auduny/statpipe)
-- [react-firebase](https://github.com/unfold/react-firebase)
-- [jottalib](https://github.com/havardgulldahl/jottalib)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [doconce](https://github.com/hplgit/doconce)
-- [react-overdrive](https://github.com/berzniz/react-overdrive)
-- [retire.js](https://github.com/RetireJS/retire.js)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
+- [unleash](https://github.com/Unleash/unleash): Unleash is an enterprise ready feature toggles ...
+- [xp](https://github.com/enonic/xp): Enonic XP
+- [purplejs](https://github.com/purplejs/purplejs): PurpleJS framework :rocket: - A javascript appl...
+- [hdo-site](https://github.com/holderdeord/hdo-site): Parliamentary monitoring website for Norway
+- [imbo](https://github.com/imbo/imbo): Imbo is an image "server" that can be used to a...
+- [roc](https://github.com/rocjs/roc): :bird: Modern JavaScript Development Ecosystem
+- [devilry-django](https://github.com/devilry/devilry-django): Devilry project main repository
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [NoCommons](https://github.com/bekkopen/NoCommons): The NoCommons library is a collection of helper...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [ssehub](https://github.com/vgno/ssehub): Server Sent Events Hub
+- [buster](https://github.com/busterjs/buster): A powerful suite of automated test tools for Ja...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [reactide](https://github.com/reactide/reactide): 
+- [smidig-conference](https://github.com/smidig/smidig-conference): The conference site for Smidig 20xx
+- [vinmonopolet](https://github.com/rexxars/vinmonopolet): Extracts information on products, categories an...
+- [statpipe](https://github.com/auduny/statpipe): Poor mans splunk. Command line statistics real ...
+- [react-firebase](https://github.com/unfold/react-firebase): React bindings for Firebase
+- [jottalib](https://github.com/havardgulldahl/jottalib): A library to access files stored at jottacloud....
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [doconce](https://github.com/hplgit/doconce): Lightweight markup language - document once, in...
+- [react-overdrive](https://github.com/berzniz/react-overdrive): Super easy magic-move transitions for React apps
+- [retire.js](https://github.com/RetireJS/retire.js): scanner detecting the use of JavaScript librari...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.

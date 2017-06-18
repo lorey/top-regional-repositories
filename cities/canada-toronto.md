@@ -1,29 +1,29 @@
 # Popular Repositories in Toronto
 
-These are the most-starred repositories from programmers based in Toronto:
+These are the repositories with the highest ratio of stars from programmers based in Toronto:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Markus](https://github.com/MarkUsProject/Markus)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [cobalt](https://github.com/cobalt-uoft/cobalt)
-- [ctop](https://github.com/bcicen/ctop)
-- [python-fire](https://github.com/google/python-fire)
-- [reactide](https://github.com/reactide/reactide)
-- [react-redux-example](https://github.com/rangle/react-redux-example)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [wet-boew](https://github.com/wet-boew/wet-boew)
-- [prepack](https://github.com/facebook/prepack)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [Auth-Boss](https://github.com/teesloane/Auth-Boss)
-- [guetzli](https://github.com/google/guetzli)
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [augury](https://github.com/rangle/augury)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Markus](https://github.com/MarkUsProject/Markus): Git repository of MarkUs
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [cobalt](https://github.com/cobalt-uoft/cobalt): Open data APIs for interfacing with public info...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [reactide](https://github.com/reactide/reactide): 
+- [react-redux-example](https://github.com/rangle/react-redux-example): Rangle.io official React + Redux starter
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [wet-boew](https://github.com/wet-boew/wet-boew): Web Experience Toolkit (WET): Open source code ...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different auth...
+- [guetzli](https://github.com/google/guetzli): 
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): Continually updated, interactive, test-driven P...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [augury](https://github.com/rangle/augury): Angular 2 development tools for Chrome
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups

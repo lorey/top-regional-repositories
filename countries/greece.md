@@ -1,29 +1,29 @@
 # Popular Repositories in Greece
 
-These are the most-starred repositories from programmers based in Greece:
+These are the repositories with the highest ratio of stars from programmers based in Greece:
 
-- [meetup](https://github.com/thessrb/meetup)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [API](https://github.com/VivaPayments/API)
-- [synnefo](https://github.com/grnet/synnefo)
-- [rb](https://github.com/Athens/rb)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [elasticsearch-skroutz-greekstemmer](https://github.com/skroutz/elasticsearch-skroutz-greekstemmer)
-- [skgtech.github.io](https://github.com/skgtech/skgtech.github.io)
-- [rupture](https://github.com/dionyziz/rupture)
-- [developer.skroutz.gr](https://github.com/skroutz/developer.skroutz.gr)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Practice](https://github.com/thanpolas/Practice)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [devit](https://github.com/skgtech/devit)
-- [elasticsearch-analysis-greeklish](https://github.com/skroutz/elasticsearch-analysis-greeklish)
-- [localstack](https://github.com/atlassian/localstack)
-- [DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion)
-- [throw.js](https://github.com/kbariotis/throw.js)
-- [redux-test-belt](https://github.com/Workable/redux-test-belt)
-- [gityeller](https://github.com/kbariotis/gityeller)
-- [Spamnesty](https://github.com/skorokithakis/Spamnesty)
-- [cogy](https://github.com/skroutz/cogy)
-- [greek_stemmer](https://github.com/skroutz/greek_stemmer)
-- [mist.io](https://github.com/mistio/mist.io)
-- [java-error-handler](https://github.com/Workable/java-error-handler)
+- [meetup](https://github.com/thessrb/meetup): Official thessrb repository
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [API](https://github.com/VivaPayments/API): 
+- [synnefo](https://github.com/grnet/synnefo): Synnefo is open source cloud software, used to ...
+- [rb](https://github.com/Athens/rb): Athens Ruby Meetups
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [elasticsearch-skroutz-greekstemmer](https://github.com/skroutz/elasticsearch-skroutz-greekstemmer): Greek Stemmer for elasticsearch
+- [skgtech.github.io](https://github.com/skgtech/skgtech.github.io): Thessaloniki Tech Community
+- [rupture](https://github.com/dionyziz/rupture): A framework for BREACH and other compression-ba...
+- [developer.skroutz.gr](https://github.com/skroutz/developer.skroutz.gr): The Skroutz developer platform
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [Practice](https://github.com/thanpolas/Practice): A Collection of Best Practices
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [devit](https://github.com/skgtech/devit): The DEVit Web Conference
+- [elasticsearch-analysis-greeklish](https://github.com/skroutz/elasticsearch-analysis-greeklish): A greeklish token filter for elasticsearch
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [DevStaff-Heraklion](https://github.com/devstaff-crete/DevStaff-Heraklion): DevStaff: A Developer Community Gathering in Crete
+- [throw.js](https://github.com/kbariotis/throw.js): HTTP Error collection to use in your next REST ...
+- [redux-test-belt](https://github.com/Workable/redux-test-belt): Flexible Redux testing utilities
+- [gityeller](https://github.com/kbariotis/gityeller): Stay in the loop of your favorite Github reposi...
+- [Spamnesty](https://github.com/skorokithakis/Spamnesty): A service that tries to have some fun with spam...
+- [cogy](https://github.com/skroutz/cogy): Cog + Rails = :heart:
+- [greek_stemmer](https://github.com/skroutz/greek_stemmer): A simple Greek stemming library
+- [mist.io](https://github.com/mistio/mist.io): mist.io is an open platform for managing hetero...
+- [java-error-handler](https://github.com/Workable/java-error-handler): Error handling library for Android and Java

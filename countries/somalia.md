@@ -1,29 +1,29 @@
 # Popular Repositories in Somalia
 
-These are the most-starred repositories from programmers based in Somalia:
+These are the repositories with the highest ratio of stars from programmers based in Somalia:
 
-- [young](https://github.com/leo-le-07/young)
-- [vietnam](https://github.com/awesome-jobs/vietnam)
-- [packages_inputmethods_LatinIME](https://github.com/BenzoRom64/packages_inputmethods_LatinIME)
-- [bootstrap](https://github.com/SBaof/bootstrap)
-- [abootimg](https://github.com/majonez/abootimg)
-- [kottans-homework](https://github.com/jalaz/kottans-homework)
-- [beets](https://github.com/tomjaspers/beets)
-- [geographic](https://github.com/tuandm/geographic)
-- [Environ-Launcher](https://github.com/Darklust/Environ-Launcher)
-- [what-artwork-downloader](https://github.com/capital-G/what-artwork-downloader)
-- [flowt](https://github.com/gnovos/flowt)
-- [iOS7-Sampler](https://github.com/pengwynn/iOS7-Sampler)
-- [ocr](https://github.com/ajay-anand/ocr)
-- [soymilk](https://github.com/soycamo/soymilk)
-- [vrome](https://github.com/rlevins/vrome)
-- [rtorrent.py](https://github.com/Paaskehare/rtorrent.py)
-- [reports](https://github.com/mountielee/reports)
-- [enki](https://github.com/soycamo/enki)
-- [textmate-blackboard-syntax](https://github.com/phthhieu/textmate-blackboard-syntax)
-- [ruby-serialport](https://github.com/soycamo/ruby-serialport)
-- [Spoon-Knife](https://github.com/lampts/Spoon-Knife)
-- [99-problems](https://github.com/m00nlight/99-problems)
-- [hellorails](https://github.com/tuandm/hellorails)
-- [My-Repo](https://github.com/ImpregnableProgrammer/My-Repo)
-- [part_checker](https://github.com/soycamo/part_checker)
+- [young](https://github.com/leo-le-07/young): Look like my blog
+- [vietnam](https://github.com/awesome-jobs/vietnam): The best place to find devs in Vietnam!
+- [packages_inputmethods_LatinIME](https://github.com/BenzoRom64/packages_inputmethods_LatinIME): 
+- [bootstrap](https://github.com/SBaof/bootstrap): The most popular HTML, CSS, and JavaScript fram...
+- [abootimg](https://github.com/majonez/abootimg): abootimg for OSX
+- [kottans-homework](https://github.com/jalaz/kottans-homework): 
+- [beets](https://github.com/tomjaspers/beets): music library manager and MusicBrainz tagger
+- [geographic](https://github.com/tuandm/geographic): 
+- [Environ-Launcher](https://github.com/Darklust/Environ-Launcher): Custom launcher for installing and updating Spo...
+- [what-artwork-downloader](https://github.com/capital-G/what-artwork-downloader): 
+- [flowt](https://github.com/gnovos/flowt): Scheduling System
+- [iOS7-Sampler](https://github.com/pengwynn/iOS7-Sampler): Code examples for the new functions of iOS 7.
+- [ocr](https://github.com/ajay-anand/ocr): Oriya Optical Character Recognition by Sivaji S...
+- [soymilk](https://github.com/soycamo/soymilk): Lyrics database app.
+- [vrome](https://github.com/rlevins/vrome): Vrome:  The most cool, featured Vim keybindings...
+- [rtorrent.py](https://github.com/Paaskehare/rtorrent.py): Simple wrapper around rtorrent_xmlrpc to easily...
+- [reports](https://github.com/mountielee/reports): 
+- [enki](https://github.com/soycamo/enki): A Ruby on Rails blogging app for the fashionabl...
+- [textmate-blackboard-syntax](https://github.com/phthhieu/textmate-blackboard-syntax): 
+- [ruby-serialport](https://github.com/soycamo/ruby-serialport): ruby-serialport is a Ruby library that provides...
+- [Spoon-Knife](https://github.com/lampts/Spoon-Knife): This repo is for demonstration purposes only. C...
+- [99-problems](https://github.com/m00nlight/99-problems): Solution to 99 problem in Prolog Haskell and Er...
+- [hellorails](https://github.com/tuandm/hellorails): First Ruby project
+- [My-Repo](https://github.com/ImpregnableProgrammer/My-Repo): 
+- [part_checker](https://github.com/soycamo/part_checker): 

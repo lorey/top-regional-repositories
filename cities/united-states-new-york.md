@@ -1,29 +1,29 @@
 # Popular Repositories in New York
 
-These are the most-starred repositories from programmers based in New York:
+These are the repositories with the highest ratio of stars from programmers based in New York:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [localstack](https://github.com/atlassian/localstack)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [reactide](https://github.com/reactide/reactide)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [guetzli](https://github.com/google/guetzli)
-- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation)
-- [CycleGAN](https://github.com/junyanz/CycleGAN)
-- [prepack](https://github.com/facebook/prepack)
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [Algorithms](https://github.com/WomenWhoCodeNYC/Algorithms)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [faiss](https://github.com/facebookresearch/faiss)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [reactide](https://github.com/reactide/reactide): 
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [guetzli](https://github.com/google/guetzli): 
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation): Stock options, RSUs, taxes — a guide for humans
+- [CycleGAN](https://github.com/junyanz/CycleGAN): Unpaired image-to-image translation for paintin...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): Continually updated, interactive, test-driven P...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [Algorithms](https://github.com/WomenWhoCodeNYC/Algorithms): This monthly meetup focuses on white boarding a...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and c...

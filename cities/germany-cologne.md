@@ -1,29 +1,29 @@
 # Popular Repositories in Cologne
 
-These are the most-starred repositories from programmers based in Cologne:
+These are the repositories with the highest ratio of stars from programmers based in Cologne:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [shopware](https://github.com/shopware/shopware)
-- [NerdPursuit](https://github.com/Nerds/NerdPursuit)
-- [velocypack](https://github.com/arangodb/velocypack)
-- [data](https://github.com/KoelnAPI/data)
-- [cologne-js](https://github.com/cologne-js/cologne-js)
-- [deptrac](https://github.com/sensiolabs-de/deptrac)
-- [gesetze](https://github.com/bundestag/gesetze)
-- [arangodb](https://github.com/arangodb/arangodb)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [ctop](https://github.com/bcicen/ctop)
-- [rack-tracker](https://github.com/railslove/rack-tracker)
-- [guetzli](https://github.com/google/guetzli)
-- [website](https://github.com/hacken-in/website)
-- [dalek](https://github.com/dalekjs/dalek)
-- [python-fire](https://github.com/google/python-fire)
-- [refugees](https://github.com/colognerb/refugees)
-- [Hackathon](https://github.com/AdvanceHackathon/Hackathon)
-- [kickerapp](https://github.com/railslove/kickerapp)
-- [TYPO3.CMS](https://github.com/TYPO3/TYPO3.CMS)
-- [guesser](https://github.com/arangodb/guesser)
-- [QuickRadar](https://github.com/amyworrall/QuickRadar)
-- [arangodb-php](https://github.com/arangodb/arangodb-php)
-- [postal](https://github.com/atech/postal)
-- [nosql-tests](https://github.com/weinberger/nosql-tests)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [shopware](https://github.com/shopware/shopware): Shopware Repository
+- [NerdPursuit](https://github.com/Nerds/NerdPursuit): Chase down those nerds .. This repo gathers ner...
+- [velocypack](https://github.com/arangodb/velocypack): A fast and compact format for serialization and...
+- [data](https://github.com/KoelnAPI/data): Repository für den bequemen Zugang zu einigen O...
+- [cologne-js](https://github.com/cologne-js/cologne-js): Website for the JavaScript meetup in Cologne, G...
+- [deptrac](https://github.com/sensiolabs-de/deptrac): Keep your architecture clean.
+- [gesetze](https://github.com/bundestag/gesetze): Bundesgesetze und -verordnungen
+- [arangodb](https://github.com/arangodb/arangodb): ArangoDB is a native multi-model database with ...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [rack-tracker](https://github.com/railslove/rack-tracker): Tracking made easy: Don’t fool around with addi...
+- [guetzli](https://github.com/google/guetzli): 
+- [website](https://github.com/hacken-in/website): An event calendar for nerds, geeks & hackers
+- [dalek](https://github.com/dalekjs/dalek): DalekJS Base framework
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [refugees](https://github.com/colognerb/refugees): 
+- [Hackathon](https://github.com/AdvanceHackathon/Hackathon): 
+- [kickerapp](https://github.com/railslove/kickerapp): 
+- [TYPO3.CMS](https://github.com/TYPO3/TYPO3.CMS): The TYPO3 Core - Enterprise Content Management ...
+- [guesser](https://github.com/arangodb/guesser): Building a self-learning game with ArangoDB, io...
+- [QuickRadar](https://github.com/amyworrall/QuickRadar): Mac app to simplify posting bug reports to Appl...
+- [arangodb-php](https://github.com/arangodb/arangodb-php): PHP ODM for ArangoDB
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [nosql-tests](https://github.com/weinberger/nosql-tests): NoSQL benchmark tests for documents and graphs

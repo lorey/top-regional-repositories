@@ -1,29 +1,29 @@
 # Popular Repositories in Vienna
 
-These are the most-starred repositories from programmers based in Vienna:
+These are the repositories with the highest ratio of stars from programmers based in Vienna:
 
-- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
-- [ctop](https://github.com/bcicen/ctop)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [reactide](https://github.com/reactide/reactide)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [guetzli](https://github.com/google/guetzli)
-- [at-registrierkassen-mustercode](https://github.com/a-sit-plus/at-registrierkassen-mustercode)
-- [belle](https://github.com/nikgraf/belle)
-- [micro-analytics](https://github.com/micro-analytics/micro-analytics)
-- [carte-blanche](https://github.com/carteb/carte-blanche)
-- [rapscallion](https://github.com/FormidableLabs/rapscallion)
-- [ScreenInvader_old](https://github.com/screeninvader/ScreenInvader_old)
-- [openengsb](https://github.com/openengsb/openengsb)
-- [awesome-austria](https://github.com/mxstbr/awesome-austria)
-- [polished](https://github.com/styled-components/polished)
-- [localstack](https://github.com/atlassian/localstack)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [Wiener-Linien-API](https://github.com/akirk/Wiener-Linien-API)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [ringojs](https://github.com/ringo/ringojs)
-- [react-loadable](https://github.com/thejameskyle/react-loadable)
-- [Endpoints](https://github.com/tailoredmedia/Endpoints)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [talks](https://github.com/viennaphp/talks)
-- [DataSource](https://github.com/mbuchetics/DataSource)
+- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins): React Plugin Architecture for DraftJS including...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [reactide](https://github.com/reactide/reactide): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [guetzli](https://github.com/google/guetzli): 
+- [at-registrierkassen-mustercode](https://github.com/a-sit-plus/at-registrierkassen-mustercode): 
+- [belle](https://github.com/nikgraf/belle): Configurable React Components with great UX
+- [micro-analytics](https://github.com/micro-analytics/micro-analytics): Public analytics as a Node.js microservice. No ...
+- [carte-blanche](https://github.com/carteb/carte-blanche): An isolated development space with integrated f...
+- [rapscallion](https://github.com/FormidableLabs/rapscallion): Asynchronous React VirtualDOM renderer for SSR.
+- [ScreenInvader_old](https://github.com/screeninvader/ScreenInvader_old): This repository is only preserved for reference...
+- [openengsb](https://github.com/openengsb/openengsb): Open Engineering Service Bus, an easy-to-use en...
+- [awesome-austria](https://github.com/mxstbr/awesome-austria): 🇦🇹 A curated list of things that show the aweso...
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [Wiener-Linien-API](https://github.com/akirk/Wiener-Linien-API): 
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [ringojs](https://github.com/ringo/ringojs): RingoJS is a JavaScript platform built on the J...
+- [react-loadable](https://github.com/thejameskyle/react-loadable): A higher order component for loading components...
+- [Endpoints](https://github.com/tailoredmedia/Endpoints): Type-Safe Swift Networking
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [talks](https://github.com/viennaphp/talks): Storing all talk pdfs for the ViennaPHP Usergroup
+- [DataSource](https://github.com/mbuchetics/DataSource): Simplifies the setup of UITableView data source...

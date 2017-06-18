@@ -1,29 +1,29 @@
 # Popular Repositories in Isle of Man
 
-These are the most-starred repositories from programmers based in Isle of Man:
+These are the repositories with the highest ratio of stars from programmers based in Isle of Man:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [setup_ruby_rails](https://github.com/ericbrooke/setup_ruby_rails)
-- [installfest](https://github.com/GA-WDI/installfest)
-- [spin](https://github.com/fisherman/spin)
-- [getopts](https://github.com/fisherman/getopts)
-- [shark](https://github.com/fisherman/shark)
-- [npm-expansions](https://github.com/npm/npm-expansions)
-- [fishtape](https://github.com/fisherman/fishtape)
-- [sheet](https://github.com/oscardelben/sheet)
-- [pinterest-clone-layout](https://github.com/evenwu/pinterest-clone-layout)
-- [itermplot](https://github.com/daleroberts/itermplot)
-- [monitor-core](https://github.com/ganglia/monitor-core)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [font-to-width](https://github.com/chrissam42/font-to-width)
-- [drive](https://github.com/rakyll/drive)
-- [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view)
-- [CosmosBrowserAndroid](https://github.com/ColdSauce/CosmosBrowserAndroid)
-- [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate)
-- [history_of_javascript](https://github.com/myshov/history_of_javascript)
-- [dotfiles](https://github.com/merqurio/dotfiles)
-- [gravity](https://github.com/marcobambini/gravity)
-- [dotfiles](https://github.com/mainyaa/dotfiles)
-- [Nokogiri_Tutorial](https://github.com/samcallender/Nokogiri_Tutorial)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [setup_ruby_rails](https://github.com/ericbrooke/setup_ruby_rails): my setup quick on a new account in Mac OS X for...
+- [installfest](https://github.com/GA-WDI/installfest): WDI student dev environment setup scripts
+- [spin](https://github.com/fisherman/spin): Background job spinner for fish-shell
+- [getopts](https://github.com/fisherman/getopts): getopts(1) for fish
+- [shark](https://github.com/fisherman/shark): Sparkline generator for fish, inspired by @holm...
+- [npm-expansions](https://github.com/npm/npm-expansions): Send us a pull request by editing expansions.txt
+- [fishtape](https://github.com/fisherman/fishtape): TAP producing test runner for fish
+- [sheet](https://github.com/oscardelben/sheet): Text snippets for the command line
+- [pinterest-clone-layout](https://github.com/evenwu/pinterest-clone-layout): 
+- [itermplot](https://github.com/daleroberts/itermplot): An awesome iTerm2 backend for Matplotlib, so yo...
+- [monitor-core](https://github.com/ganglia/monitor-core): Ganglia Monitoring core
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [font-to-width](https://github.com/chrissam42/font-to-width): Font-To-Width
+- [drive](https://github.com/rakyll/drive): Pull or push Google Drive files
+- [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view): A React Native ListView component with rows tha...
+- [CosmosBrowserAndroid](https://github.com/ColdSauce/CosmosBrowserAndroid): Cosmos Browser allows a person to connect to th...
+- [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate): ⚡️ A template for building cross browser extens...
+- [history_of_javascript](https://github.com/myshov/history_of_javascript): Project "History of JavaScript"
+- [dotfiles](https://github.com/merqurio/dotfiles): A dotfiles bootstraper
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [dotfiles](https://github.com/mainyaa/dotfiles): mainyaa's dotfiles
+- [Nokogiri_Tutorial](https://github.com/samcallender/Nokogiri_Tutorial): Welcome to the Nokogiri webscraping tuorial for...

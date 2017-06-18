@@ -1,29 +1,29 @@
 # Popular Repositories in Afghanistan
 
-These are the most-starred repositories from programmers based in Afghanistan:
+These are the repositories with the highest ratio of stars from programmers based in Afghanistan:
 
-- [fb-messenger-sdk](https://github.com/tgallice/fb-messenger-sdk)
-- [laravel-item-paginate](https://github.com/Askedio/laravel-item-paginate)
-- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters)
-- [docs](https://github.com/laravel/docs)
-- [upvc-designer](https://github.com/alibghz/upvc-designer)
-- [sails-docs](https://github.com/miladmehraban/sails-docs)
-- [offline](https://github.com/hamedmehryar/offline)
-- [laravel-session-tracker](https://github.com/hamedmehryar/laravel-session-tracker)
-- [ussd-pdu-text-converter](https://github.com/DarushDev/ussd-pdu-text-converter)
-- [tracker](https://github.com/hamedmehryar/tracker)
-- [phantomjs](https://github.com/hamedmehryar/phantomjs)
-- [laravel-forum](https://github.com/hamedmehryar/laravel-forum)
-- [highcharts.com](https://github.com/hamedmehryar/highcharts.com)
-- [fontcamp](https://github.com/hamidsafdari/fontcamp)
-- [versal-gadget-api](https://github.com/MYBAHAR/versal-gadget-api)
-- [laracancan](https://github.com/hamedmehryar/laracancan)
-- [october](https://github.com/hamedmehryar/october)
-- [elasticsearch](https://github.com/hamedmehryar/elasticsearch)
-- [DroidPersianCalendar](https://github.com/hamidsafdari/DroidPersianCalendar)
-- [gomshooda](https://github.com/hamidullahamid/gomshooda)
-- [todo](https://github.com/murteza77/todo)
-- [jitsi](https://github.com/hamedmehryar/jitsi)
-- [pashto-cardinals](https://github.com/SadafWaziry/pashto-cardinals)
-- [jitsi-android](https://github.com/hamedmehryar/jitsi-android)
-- [bootstrap-fileinput](https://github.com/hamedmehryar/bootstrap-fileinput)
+- [fb-messenger-sdk](https://github.com/tgallice/fb-messenger-sdk): Facebook Messenger Bot php sdk
+- [laravel-item-paginate](https://github.com/Askedio/laravel-item-paginate): Paginate based on last item instead of pages.
+- [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters): Reporter classes for the jasmine test framework...
+- [docs](https://github.com/laravel/docs): 
+- [upvc-designer](https://github.com/alibghz/upvc-designer): 
+- [sails-docs](https://github.com/miladmehraban/sails-docs): Sails.js Documentation
+- [offline](https://github.com/hamedmehryar/offline): Automatically display online/offline indication...
+- [laravel-session-tracker](https://github.com/hamedmehryar/laravel-session-tracker): Session Tracking Tools For Laravel
+- [ussd-pdu-text-converter](https://github.com/DarushDev/ussd-pdu-text-converter): Convert GSM 7bit USSD from PDU to text and vice...
+- [tracker](https://github.com/hamedmehryar/tracker): Laravel Stats Tracker
+- [phantomjs](https://github.com/hamedmehryar/phantomjs): Scriptable Headless WebKit
+- [laravel-forum](https://github.com/hamedmehryar/laravel-forum): A complete forum package designed for easy inte...
+- [highcharts.com](https://github.com/hamedmehryar/highcharts.com): Highcharts JS, the JavaScript charting framework
+- [fontcamp](https://github.com/hamidsafdari/fontcamp): 
+- [versal-gadget-api](https://github.com/MYBAHAR/versal-gadget-api): Collection of everything needed to create a Ver...
+- [laracancan](https://github.com/hamedmehryar/laracancan): Resource-Based Permission System for Laraval
+- [october](https://github.com/hamedmehryar/october): Free, open-source, self-hosted CMS platform bas...
+- [elasticsearch](https://github.com/hamedmehryar/elasticsearch): Open Source, Distributed, RESTful Search Engine
+- [DroidPersianCalendar](https://github.com/hamidsafdari/DroidPersianCalendar): Android Persian Calendar / تقویم فارسی اندروید
+- [gomshooda](https://github.com/hamidullahamid/gomshooda): 
+- [todo](https://github.com/murteza77/todo): todo app
+- [jitsi](https://github.com/hamedmehryar/jitsi): Jitsi is an audio/video and chat communicator t...
+- [pashto-cardinals](https://github.com/SadafWaziry/pashto-cardinals): Converts numbers to cardinals in Pashto language
+- [jitsi-android](https://github.com/hamedmehryar/jitsi-android): Jitsi for Android is an Android port of the Jit...
+- [bootstrap-fileinput](https://github.com/hamedmehryar/bootstrap-fileinput): An enhanced HTML 5 file input for Bootstrap 3.x...

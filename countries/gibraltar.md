@@ -1,29 +1,29 @@
 # Popular Repositories in Gibraltar
 
-These are the most-starred repositories from programmers based in Gibraltar:
+These are the repositories with the highest ratio of stars from programmers based in Gibraltar:
 
-- [using-stubs](https://github.com/carlosouro/using-stubs)
-- [naturejs](https://github.com/carlosouro/naturejs)
-- [MooFacebox](https://github.com/9Tree/MooFacebox)
-- [NaturePHP](https://github.com/9Tree/NaturePHP)
-- [FTMTableSectionModules](https://github.com/fjtrujy/FTMTableSectionModules)
-- [finagle-consul](https://github.com/kachayev/finagle-consul)
-- [vesta-web](https://github.com/wolflee/vesta-web)
-- [EventEmitter2Async](https://github.com/TobiaszCudnik/EventEmitter2Async)
-- [jenkins](https://github.com/baileys/jenkins)
-- [rails3_1-template](https://github.com/weijen/rails3_1-template)
-- [jQ.Mobi](https://github.com/carlosouro/jQ.Mobi)
-- [wsti-thesis-2012](https://github.com/TobiaszCudnik/wsti-thesis-2012)
-- [ReactFormApp](https://github.com/tutsplus/ReactFormApp)
-- [haockathon](https://github.com/Shauny/haockathon)
-- [MooFacebox](https://github.com/carlosouro/MooFacebox)
-- [NaturePHP](https://github.com/carlosouro/NaturePHP)
-- [oddajcie-mi-sobote](https://github.com/maligree/oddajcie-mi-sobote)
-- [GURUPU-rails2](https://github.com/weijen/GURUPU-rails2)
-- [jruby-prof](https://github.com/simonx1/jruby-prof)
-- [PrawnOnRFPDF](https://github.com/weijen/PrawnOnRFPDF)
-- [contracts.js](https://github.com/TobiaszCudnik/contracts.js)
-- [lastfemulate](https://github.com/bbeesley/lastfemulate)
-- [DPEC](https://github.com/sasij/DPEC)
-- [travis-ci](https://github.com/fery/travis-ci)
-- [try_git](https://github.com/danielblach/try_git)
+- [using-stubs](https://github.com/carlosouro/using-stubs): Stubbing and verification for node.js tests.
+- [naturejs](https://github.com/carlosouro/naturejs): Class system for Javascript supporting private ...
+- [MooFacebox](https://github.com/9Tree/MooFacebox): Port of the original project at http://code.goo...
+- [NaturePHP](https://github.com/9Tree/NaturePHP): Open source auto-loaded library system for PHP.
+- [FTMTableSectionModules](https://github.com/fjtrujy/FTMTableSectionModules): Reusable ViewController with TableView, splitte...
+- [finagle-consul](https://github.com/kachayev/finagle-consul): Service discovery for Finagle cluster with Cons...
+- [vesta-web](https://github.com/wolflee/vesta-web): The web front-end for project vesta.
+- [EventEmitter2Async](https://github.com/TobiaszCudnik/EventEmitter2Async): A nodejs event emitter implementation with name...
+- [jenkins](https://github.com/baileys/jenkins): Jenkins Continuous Integration Server
+- [rails3_1-template](https://github.com/weijen/rails3_1-template): My favorite Rails3 app template
+- [jQ.Mobi](https://github.com/carlosouro/jQ.Mobi): HTML5 javascript libary for mobile application ...
+- [wsti-thesis-2012](https://github.com/TobiaszCudnik/wsti-thesis-2012): Engineering thesis at WSTI, Katowice, 2012
+- [ReactFormApp](https://github.com/tutsplus/ReactFormApp): 
+- [haockathon](https://github.com/Shauny/haockathon): Team Static Mappers
+- [MooFacebox](https://github.com/carlosouro/MooFacebox): Port of the original project at http://code.goo...
+- [NaturePHP](https://github.com/carlosouro/NaturePHP): Open source auto-loaded library system for PHP.
+- [oddajcie-mi-sobote](https://github.com/maligree/oddajcie-mi-sobote): Jesteś czarodziejem, Harry, teraz pizgaj czary.
+- [GURUPU-rails2](https://github.com/weijen/GURUPU-rails2): A Group expenses
+- [jruby-prof](https://github.com/simonx1/jruby-prof): Profiler for JRuby working with JRuby v.1.4.0
+- [PrawnOnRFPDF](https://github.com/weijen/PrawnOnRFPDF): 
+- [contracts.js](https://github.com/TobiaszCudnik/contracts.js): Contract library for JavaScript
+- [lastfemulate](https://github.com/bbeesley/lastfemulate): clone a section of somebody's last.fm scrobbles
+- [DPEC](https://github.com/sasij/DPEC): Práctica de DPEC para la asignatura del máster ...
+- [travis-ci](https://github.com/fery/travis-ci): A distributed build system for the Ruby communi...
+- [try_git](https://github.com/danielblach/try_git): 

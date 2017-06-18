@@ -1,29 +1,29 @@
 # Popular Repositories in Czechia
 
-These are the most-starred repositories from programmers based in Czechia:
+These are the repositories with the highest ratio of stars from programmers based in Czechia:
 
-- [nette](https://github.com/nette/nette)
-- [OSTRAJava](https://github.com/tkohout/OSTRAJava)
-- [tracy](https://github.com/nette/tracy)
-- [nette.ajax.js](https://github.com/vojtech-dobes/nette.ajax.js)
-- [ftp-deployment](https://github.com/dg/ftp-deployment)
-- [tester](https://github.com/nette/tester)
-- [dibi](https://github.com/dg/dibi)
-- [latte](https://github.com/nette/latte)
-- [sandbox](https://github.com/nette/sandbox)
-- [forms](https://github.com/nette/forms)
-- [WebLoader](https://github.com/janmarek/WebLoader)
-- [texy](https://github.com/dg/texy)
-- [intellij-neon](https://github.com/juzna/intellij-neon)
-- [Restful](https://github.com/drahak/Restful)
-- [finder](https://github.com/nette/finder)
-- [application](https://github.com/nette/application)
-- [intellij-latte](https://github.com/JanTvrdik/intellij-latte)
-- [neon](https://github.com/nette/neon)
-- [utils](https://github.com/nette/utils)
-- [mail](https://github.com/nette/mail)
-- [Translation](https://github.com/Kdyby/Translation)
-- [di](https://github.com/nette/di)
-- [caching](https://github.com/nette/caching)
-- [phpstan](https://github.com/phpstan/phpstan)
-- [Doctrine](https://github.com/Kdyby/Doctrine)
+- [nette](https://github.com/nette/nette): 👪 METAPACKAGE for Nette Framework components
+- [OSTRAJava](https://github.com/tkohout/OSTRAJava): Bo neni cas pyco
+- [tracy](https://github.com/nette/tracy): 😎 Tracy: the addictive tool to ease debugging P...
+- [nette.ajax.js](https://github.com/vojtech-dobes/nette.ajax.js): Flexible utility script for AJAX in Nette Frame...
+- [ftp-deployment](https://github.com/dg/ftp-deployment): A tool for automated deployment of web applicat...
+- [tester](https://github.com/nette/tester): Tester: enjoyable unit testing in PHP with code...
+- [dibi](https://github.com/dg/dibi): dibi - smart database abstraction layer
+- [latte](https://github.com/nette/latte): ☕ Latte: the intuitive and fast template engine...
+- [sandbox](https://github.com/nette/sandbox): Pre-packaged Nette Framework project.
+- [forms](https://github.com/nette/forms): 📝 Generating, validating and processing secure ...
+- [WebLoader](https://github.com/janmarek/WebLoader): Nette Framework addon for CSS and JS files loading
+- [texy](https://github.com/dg/texy): Texy! is the best humane Web text generator
+- [intellij-neon](https://github.com/juzna/intellij-neon): Neon language support for PhpStorm / IntelliJ IDEA
+- [Restful](https://github.com/drahak/Restful): Drahak\Restful - Nette REST API bundle
+- [finder](https://github.com/nette/finder): 🔍 Finder: find files and directories with an in...
+- [application](https://github.com/nette/application): 🏆 A full-stack component-based MVC kernel for P...
+- [intellij-latte](https://github.com/JanTvrdik/intellij-latte): Latte plugin for IntelliJ IDEA platform
+- [neon](https://github.com/nette/neon): 🍸 Encodes and decodes NEON file format.
+- [utils](https://github.com/nette/utils): 🛠 Lightweight utilities for string & array mani...
+- [mail](https://github.com/nette/mail): 📧 Handy email creation and transfer library for...
+- [Translation](https://github.com/Kdyby/Translation): Integration of Symfony/Translation into Nette F...
+- [di](https://github.com/nette/di): 💎 Flexible, compiled and full-featured Dependen...
+- [caching](https://github.com/nette/caching): ⏱ Caching library with easy-to-use API and many...
+- [phpstan](https://github.com/phpstan/phpstan): PHP Static Analysis Tool - discover bugs in you...
+- [Doctrine](https://github.com/Kdyby/Doctrine): Doctrine 2 ORM integration into Nette Framework

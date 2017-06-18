@@ -1,29 +1,29 @@
 # Popular Repositories in Moldova
 
-These are the most-starred repositories from programmers based in Moldova:
+These are the repositories with the highest ratio of stars from programmers based in Moldova:
 
-- [Taylor](https://github.com/yopeso/Taylor)
-- [LazyTransitions](https://github.com/serp1412/LazyTransitions)
-- [simpleS](https://github.com/micnic/simpleS)
-- [CodeWay-2016-presentations](https://github.com/yopeso/CodeWay-2016-presentations)
-- [deep-framework](https://github.com/MitocGroup/deep-framework)
-- [FAFSite](https://github.com/TUM-FAF/FAFSite)
-- [db](https://github.com/cuc-project/db)
-- [ernie](https://github.com/vitaliel/ernie)
-- [any-meeting](https://github.com/vgaidarji/any-meeting)
-- [thulog](https://github.com/isuruceanu/thulog)
-- [SyncGenerator](https://github.com/egor-n/SyncGenerator)
-- [cowsay.eu](https://github.com/CowsayOrg/cowsay.eu)
-- [simpleT](https://github.com/micnic/simpleT)
-- [cia_rails](https://github.com/vitaliel/cia_rails)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [Insider](https://github.com/alexmx/Insider)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ex_money](https://github.com/gaynetdinov/ex_money)
-- [options-framework-plugin](https://github.com/devinsays/options-framework-plugin)
-- [fm](https://github.com/Zazza/fm)
-- [dde](https://github.com/blinkreaction/dde)
-- [voca](https://github.com/panzerdp/voca)
-- [jira-api-restclient](https://github.com/chobie/jira-api-restclient)
-- [nosql](https://github.com/petersirka/nosql)
-- [Unyson](https://github.com/ThemeFuse/Unyson)
+- [Taylor](https://github.com/yopeso/Taylor): Measure Swift code metrics and get reports in X...
+- [LazyTransitions](https://github.com/serp1412/LazyTransitions): Lazy pop and dismiss like in the Facebook, Inst...
+- [simpleS](https://github.com/micnic/simpleS): Simple Web Framework for Node.JS
+- [CodeWay-2016-presentations](https://github.com/yopeso/CodeWay-2016-presentations): Presentation slides and other resources from Co...
+- [deep-framework](https://github.com/MitocGroup/deep-framework): Full-stack JavaScript Framework for Cloud-Nativ...
+- [FAFSite](https://github.com/TUM-FAF/FAFSite): Anglophone Department Website
+- [db](https://github.com/cuc-project/db): 
+- [ernie](https://github.com/vitaliel/ernie): Ernie is an Erlang/Ruby BERT-RPC Server.
+- [any-meeting](https://github.com/vgaidarji/any-meeting): Purpose of this project to waste some time atte...
+- [thulog](https://github.com/isuruceanu/thulog): Temperature & Humidity Usb Logger device
+- [SyncGenerator](https://github.com/egor-n/SyncGenerator): A Java annotation processor that generates sync...
+- [cowsay.eu](https://github.com/CowsayOrg/cowsay.eu): Cowsay Show site
+- [simpleT](https://github.com/micnic/simpleT): Simple Template Engine for Node.js
+- [cia_rails](https://github.com/vitaliel/cia_rails): Continuous Integration(CI) builder for Rails ap...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [Insider](https://github.com/alexmx/Insider): Insider is an iOS testing utility framework whi...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ex_money](https://github.com/gaynetdinov/ex_money): A [work-in-progress] self-hosted personal finan...
+- [options-framework-plugin](https://github.com/devinsays/options-framework-plugin): An Options Panel Framework to help speed theme ...
+- [fm](https://github.com/Zazza/fm): Ostora filemanager
+- [dde](https://github.com/blinkreaction/dde): Docker and Docker Compose based environment for...
+- [voca](https://github.com/panzerdp/voca): The ultimate JavaScript string library
+- [jira-api-restclient](https://github.com/chobie/jira-api-restclient): php JIRA REST API
+- [nosql](https://github.com/petersirka/nosql): NoSQL embedded database for small node.js projects
+- [Unyson](https://github.com/ThemeFuse/Unyson): A WordPress framework that facilitates the deve...

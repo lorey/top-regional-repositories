@@ -1,29 +1,29 @@
 # Popular Repositories in Mexico
 
-These are the most-starred repositories from programmers based in Mexico:
+These are the repositories with the highest ratio of stars from programmers based in Mexico:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [tnstatus](https://github.com/tnstatus/tnstatus)
-- [mexicocity](https://github.com/beerjs/mexicocity)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [jobs](https://github.com/Nearsoft/jobs)
-- [guetzli](https://github.com/google/guetzli)
-- [platicas](https://github.com/eventloop/platicas)
-- [factura-electronica](https://github.com/bigdata-mx/factura-electronica)
-- [mejorandocurso](https://github.com/platzi/mejorandocurso)
-- [API-Codigos-Postales](https://github.com/Munett/API-Codigos-Postales)
-- [neon](https://github.com/azendal/neon)
-- [CSS-Guidelines](https://github.com/Wakkos/CSS-Guidelines)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [sismo_alerta](https://github.com/manuel-rabade/sismo_alerta)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [SimpleCFD](https://github.com/bbh/SimpleCFD)
-- [estafeta-api](https://github.com/ivansabik/estafeta-api)
-- [admin-cfdi](https://github.com/LinuxCabal/admin-cfdi)
-- [omegaup](https://github.com/omegaup/omegaup)
-- [sfotipy](https://github.com/proyectos-mejorandola/sfotipy)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [python-fire](https://github.com/google/python-fire)
-- [ZanPHP](https://github.com/MilkZoft/ZanPHP)
-- [conekta-php](https://github.com/conekta/conekta-php)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [tnstatus](https://github.com/tnstatus/tnstatus): Información de Visas de trabajo para profesiona...
+- [mexicocity](https://github.com/beerjs/mexicocity): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [jobs](https://github.com/Nearsoft/jobs): Our openings at Nearsoft
+- [guetzli](https://github.com/google/guetzli): 
+- [platicas](https://github.com/eventloop/platicas): Propón una plática para Eventloop
+- [factura-electronica](https://github.com/bigdata-mx/factura-electronica): Librería de componentes Java para el desarrollo...
+- [mejorandocurso](https://github.com/platzi/mejorandocurso): Contenido Original de los Cursos de Mejorando.l...
+- [API-Codigos-Postales](https://github.com/Munett/API-Codigos-Postales): Un API publico, dado un código postal te regres...
+- [neon](https://github.com/azendal/neon): EcmaScript Code Writting DSL
+- [CSS-Guidelines](https://github.com/Wakkos/CSS-Guidelines): High-level guidelines from writing manageable, ...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [sismo_alerta](https://github.com/manuel-rabade/sismo_alerta): Receptor libre de la alerta sísmica mexicana
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [SimpleCFD](https://github.com/bbh/SimpleCFD): A simple PHP implementation for the Comprobrant...
+- [estafeta-api](https://github.com/ivansabik/estafeta-api): API no oficial para rastrear y cotizar envíos d...
+- [admin-cfdi](https://github.com/LinuxCabal/admin-cfdi): Administrador de CFDIs / Proyecto de colaboraci...
+- [omegaup](https://github.com/omegaup/omegaup): omegaUp automatic programming contest evaluator...
+- [sfotipy](https://github.com/proyectos-mejorandola/sfotipy): El proyecto oficial del curso de Frontend Profe...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ZanPHP](https://github.com/MilkZoft/ZanPHP): ZanPHP is an agile Web application development ...
+- [conekta-php](https://github.com/conekta/conekta-php): PHP Bindings for Conekta's API

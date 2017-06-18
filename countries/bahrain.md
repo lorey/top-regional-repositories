@@ -1,29 +1,29 @@
 # Popular Repositories in Bahrain
 
-These are the most-starred repositories from programmers based in Bahrain:
+These are the repositories with the highest ratio of stars from programmers based in Bahrain:
 
-- [credimax-bahrain](https://github.com/yazinsai/credimax-bahrain)
-- [Splitdown](https://github.com/Necrotex/Splitdown)
-- [Applozic-Android-SDK](https://github.com/AppLozic/Applozic-Android-SDK)
-- [security-checker](https://github.com/sensiolabs/security-checker)
-- [shoestrap-3](https://github.com/codemonkey-jack/shoestrap-3)
-- [rocket](https://github.com/dnomak/rocket)
-- [option-tree](https://github.com/valendesigns/option-tree)
-- [Unyson](https://github.com/ThemeFuse/Unyson)
-- [soil](https://github.com/roots/soil)
-- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl)
-- [WhatsAPI](https://github.com/venomous0x/WhatsAPI)
-- [bootstrap-validator](https://github.com/1000hz/bootstrap-validator)
-- [wp-posts-to-posts](https://github.com/scribu/wp-posts-to-posts)
-- [supertooltips](https://github.com/nhaarman/supertooltips)
-- [android-sliding-layer-lib](https://github.com/wunderlist/android-sliding-layer-lib)
-- [GameDemo](https://github.com/Noplace/GameDemo)
-- [wpbackup](https://github.com/lamoustache/wpbackup)
-- [wp-bootstrap-ready](https://github.com/jenny-q/wp-bootstrap-ready)
-- [ci_mongodb](https://github.com/herrucules/ci_mongodb)
-- [componentkit](https://github.com/DeskConnect/componentkit)
-- [Noobot.Examples](https://github.com/noobot/Noobot.Examples)
-- [Bootstrap-RTL-Jumbotron-Example](https://github.com/mohdsalman86/Bootstrap-RTL-Jumbotron-Example)
-- [restapi_CI](https://github.com/dragan2234/restapi_CI)
-- [StarterTheme](https://github.com/CantoThemes/StarterTheme)
-- [OWASP-ByWaf](https://github.com/asim-jaweesh/OWASP-ByWaf)
+- [credimax-bahrain](https://github.com/yazinsai/credimax-bahrain): This contains the code necessary to setup the C...
+- [Splitdown](https://github.com/Necrotex/Splitdown): A Ghost like Markdown Editor replacement.
+- [Applozic-Android-SDK](https://github.com/AppLozic/Applozic-Android-SDK): Android Real Time Chat & Messaging SDK
+- [security-checker](https://github.com/sensiolabs/security-checker): PHP frontend for security.sensiolabs.org
+- [shoestrap-3](https://github.com/codemonkey-jack/shoestrap-3): A highly customizable WordPress theme with the ...
+- [rocket](https://github.com/dnomak/rocket): Rocket
+- [option-tree](https://github.com/valendesigns/option-tree): Theme Options UI Builder for WordPress. A simpl...
+- [Unyson](https://github.com/ThemeFuse/Unyson): A WordPress framework that facilitates the deve...
+- [soil](https://github.com/roots/soil): WordPress plugin which contains a collection of...
+- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl): RTL Theme for Bootstrap v3.x
+- [WhatsAPI](https://github.com/venomous0x/WhatsAPI): Interface to WhatsApp Messenger
+- [bootstrap-validator](https://github.com/1000hz/bootstrap-validator): A user-friendly HTML5 form validation jQuery pl...
+- [wp-posts-to-posts](https://github.com/scribu/wp-posts-to-posts): Efficient many-to-many connections between post...
+- [supertooltips](https://github.com/nhaarman/supertooltips): SuperToolTips
+- [android-sliding-layer-lib](https://github.com/wunderlist/android-sliding-layer-lib): 
+- [GameDemo](https://github.com/Noplace/GameDemo): 
+- [wpbackup](https://github.com/lamoustache/wpbackup): Simple script to backup a website (wordpress)
+- [wp-bootstrap-ready](https://github.com/jenny-q/wp-bootstrap-ready): Wordpress theme setup using bootstrap 3.
+- [ci_mongodb](https://github.com/herrucules/ci_mongodb): Simple MongoDB library for Codeigniter 2.2.0 
+- [componentkit](https://github.com/DeskConnect/componentkit): A React-inspired view framework for iOS.
+- [Noobot.Examples](https://github.com/noobot/Noobot.Examples): Some example projects of how to use Noobot
+- [Bootstrap-RTL-Jumbotron-Example](https://github.com/mohdsalman86/Bootstrap-RTL-Jumbotron-Example): Jumbotron example with full css direction right...
+- [restapi_CI](https://github.com/dragan2234/restapi_CI): REST API in Codeigniter PHP framework
+- [StarterTheme](https://github.com/CantoThemes/StarterTheme): Our StarterTheme is made with _s and Bootstrap.
+- [OWASP-ByWaf](https://github.com/asim-jaweesh/OWASP-ByWaf): ByWaf is a web application penetration testing ...

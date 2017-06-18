@@ -1,29 +1,29 @@
 # Popular Repositories in El Salvador
 
-These are the most-starred repositories from programmers based in El Salvador:
+These are the repositories with the highest ratio of stars from programmers based in El Salvador:
 
-- [dipusaurios](https://github.com/ricardoerl/dipusaurios)
-- [fooberto](https://github.com/rmayorga/fooberto)
-- [poke-nostalgia](https://github.com/rodrigo-puente/poke-nostalgia)
-- [reactide](https://github.com/reactide/reactide)
-- [Pilgrim](https://github.com/pablomarti/Pilgrim)
-- [Crimagify](https://github.com/trejo08/Crimagify)
-- [calculadora-salarial](https://github.com/iwannabaa/calculadora-salarial)
-- [config-ip-phone](https://github.com/kradssen/config-ip-phone)
-- [JRTForm](https://github.com/ifobos/JRTForm)
-- [JRTViperPattern](https://github.com/ifobos/JRTViperPattern)
-- [JustifiedTextView](https://github.com/amilcar-sr/JustifiedTextView)
-- [mail_safe](https://github.com/myronmarston/mail_safe)
-- [dockership](https://github.com/mcuadros/dockership)
-- [gcm](https://github.com/spacialdb/gcm)
-- [guia-do-desenvolvedor](https://github.com/IonicBrazil/guia-do-desenvolvedor)
-- [PaymentKit](https://github.com/stripe/PaymentKit)
-- [lemonade](https://github.com/dope/lemonade)
-- [grape-entity](https://github.com/ruby-grape/grape-entity)
-- [searchInList](https://github.com/Mr-Nizzle/searchInList)
-- [Coders](https://github.com/FerSantamaria/Coders)
-- [gobsv](https://github.com/gobierno-abierto/gobsv)
-- [TestDB](https://github.com/fhereduardo90/TestDB)
-- [L-Mensajitos.php](https://github.com/colaboradores-sv/L-Mensajitos.php)
-- [ues-backup](https://github.com/uarias/ues-backup)
-- [quadro](https://github.com/hugogilmar/quadro)
+- [dipusaurios](https://github.com/ricardoerl/dipusaurios): Dipusaurios es un listado del pleno legislativo...
+- [fooberto](https://github.com/rmayorga/fooberto): perl-ugly-home-made-bot
+- [poke-nostalgia](https://github.com/rodrigo-puente/poke-nostalgia): Learning react + redux using pokeapi.com
+- [reactide](https://github.com/reactide/reactide): 
+- [Pilgrim](https://github.com/pablomarti/Pilgrim): Choose countries, states and cities via Ajax
+- [Crimagify](https://github.com/trejo08/Crimagify): 
+- [calculadora-salarial](https://github.com/iwannabaa/calculadora-salarial): 
+- [config-ip-phone](https://github.com/kradssen/config-ip-phone): This script is designed to enter an IP phone, i...
+- [JRTForm](https://github.com/ifobos/JRTForm): 
+- [JRTViperPattern](https://github.com/ifobos/JRTViperPattern): 
+- [JustifiedTextView](https://github.com/amilcar-sr/JustifiedTextView): JustifiedTextView is an android view that justi...
+- [mail_safe](https://github.com/myronmarston/mail_safe): Keep your ActionMailer emails from escaping int...
+- [dockership](https://github.com/mcuadros/dockership): dead simple docker deploy tool
+- [gcm](https://github.com/spacialdb/gcm): A gem that helps developers send data from ruby...
+- [guia-do-desenvolvedor](https://github.com/IonicBrazil/guia-do-desenvolvedor): Guia do Desenvolvedor Ionic
+- [PaymentKit](https://github.com/stripe/PaymentKit): Easily accept payments on iOS
+- [lemonade](https://github.com/dope/lemonade): simple flexible grid
+- [grape-entity](https://github.com/ruby-grape/grape-entity): An API focused facade that sits on top of an ob...
+- [searchInList](https://github.com/Mr-Nizzle/searchInList): jQuery Plugin to seach a string in a list of items
+- [Coders](https://github.com/FerSantamaria/Coders): 
+- [gobsv](https://github.com/gobierno-abierto/gobsv): Sistema Gobierno Abierto de la República de El ...
+- [TestDB](https://github.com/fhereduardo90/TestDB): A little CRUD with SQLite in Android
+- [L-Mensajitos.php](https://github.com/colaboradores-sv/L-Mensajitos.php): L-Mensajitos facilita el envío de mensajes de t...
+- [ues-backup](https://github.com/uarias/ues-backup): Script de backup en perl para los servidores de...
+- [quadro](https://github.com/hugogilmar/quadro): Quadro CMS

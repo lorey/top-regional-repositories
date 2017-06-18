@@ -1,29 +1,29 @@
 # Popular Repositories in Helsinki
 
-These are the most-starred repositories from programmers based in Helsinki:
+These are the repositories with the highest ratio of stars from programmers based in Helsinki:
 
-- [digitransit-ui](https://github.com/HSLdevcom/digitransit-ui)
-- [reaktordevday](https://github.com/reaktor/reaktordevday)
-- [avoinministerio](https://github.com/avoinministerio/avoinministerio)
-- [tktltiki2](https://github.com/UniversityHelsinkiTKTL/tktltiki2)
-- [potilastietojarjestelma](https://github.com/suomi/potilastietojarjestelma)
-- [jquery-continuous-calendar](https://github.com/continuouscalendar/jquery-continuous-calendar)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [yle-dl](https://github.com/aajanki/yle-dl)
-- [reittiopas](https://github.com/reitti/reittiopas)
-- [maksunappi](https://github.com/reaktor/maksunappi)
-- [node-tupas](https://github.com/reaktor/node-tupas)
-- [backend-best-practices](https://github.com/futurice/backend-best-practices)
-- [partial.lenses](https://github.com/calmm-js/partial.lenses)
-- [routahe](https://github.com/anttikon/routahe)
-- [seriesseedfi_documents](https://github.com/seriesseedfi/seriesseedfi_documents)
-- [reactive-bacon](https://github.com/raimohanska/reactive-bacon)
-- [kontena](https://github.com/kontena/kontena)
-- [bacon.js](https://github.com/baconjs/bacon.js)
-- [most](https://github.com/cujojs/most)
-- [SecondReality](https://github.com/mtuomi/SecondReality)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [zhain](https://github.com/mtkopone/zhain)
-- [kunquat](https://github.com/kunquat/kunquat)
-- [frontend-interview-finland](https://github.com/zvona/frontend-interview-finland)
-- [ASTE-Prototype](https://github.com/aste-hsc/ASTE-Prototype)
+- [digitransit-ui](https://github.com/HSLdevcom/digitransit-ui): Digitransit UI
+- [reaktordevday](https://github.com/reaktor/reaktordevday): Reaktor Dev Day Registration
+- [avoinministerio](https://github.com/avoinministerio/avoinministerio): Avoin Ministeriö
+- [tktltiki2](https://github.com/UniversityHelsinkiTKTL/tktltiki2): Template for theses and seminar papers at Unive...
+- [potilastietojarjestelma](https://github.com/suomi/potilastietojarjestelma): 
+- [jquery-continuous-calendar](https://github.com/continuouscalendar/jquery-continuous-calendar): Date picker and range selector with scrollable ...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [yle-dl](https://github.com/aajanki/yle-dl): Download videos from Yle servers
+- [reittiopas](https://github.com/reitti/reittiopas): Ihan hyvä reittiopas
+- [maksunappi](https://github.com/reaktor/maksunappi): A Node.js library for online payments in Finland.
+- [node-tupas](https://github.com/reaktor/node-tupas): A configurable Node.js module for TUPAS identif...
+- [backend-best-practices](https://github.com/futurice/backend-best-practices): An evolving description of general best practic...
+- [partial.lenses](https://github.com/calmm-js/partial.lenses): Partial lenses is a comprehensive, high-perform...
+- [routahe](https://github.com/anttikon/routahe): 
+- [seriesseedfi_documents](https://github.com/seriesseedfi/seriesseedfi_documents): Seriesseed.fi is a collection of standardized d...
+- [reactive-bacon](https://github.com/raimohanska/reactive-bacon): FRP (functional reactive programming) framework...
+- [kontena](https://github.com/kontena/kontena): The developer friendly container and micro serv...
+- [bacon.js](https://github.com/baconjs/bacon.js): FRP (functional reactive programming) library f...
+- [most](https://github.com/cujojs/most): Ultra-high performance reactive programming
+- [SecondReality](https://github.com/mtuomi/SecondReality): Source code and data of Second Reality by Futur...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [zhain](https://github.com/mtkopone/zhain): For - you know - zhaining things...
+- [kunquat](https://github.com/kunquat/kunquat): Kunquat is a music sequencer similar to tracker...
+- [frontend-interview-finland](https://github.com/zvona/frontend-interview-finland): Front-end Developer Interview Questions - creat...
+- [ASTE-Prototype](https://github.com/aste-hsc/ASTE-Prototype): Prototype for ASTE -platform

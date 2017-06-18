@@ -1,29 +1,29 @@
 # Popular Repositories in Hungary
 
-These are the most-starred repositories from programmers based in Hungary:
+These are the repositories with the highest ratio of stars from programmers based in Hungary:
 
-- [alaptorveny](https://github.com/petergerner/alaptorveny)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa)
-- [syslog-ng](https://github.com/balabit/syslog-ng)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [nodebp](https://github.com/nodebp/nodebp)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [python-fire](https://github.com/google/python-fire)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [zorp](https://github.com/Balasys/zorp)
-- [meetup](https://github.com/budapestjs/meetup)
-- [localstack](https://github.com/atlassian/localstack)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [jenkins-dashboard](https://github.com/prezi/jenkins-dashboard)
-- [thesis-template-latex](https://github.com/FTSRG/thesis-template-latex)
-- [ELTE-javagyak](https://github.com/rlegendi/ELTE-javagyak)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [guetzli](https://github.com/google/guetzli)
-- [codechecker](https://github.com/Ericsson/codechecker)
-- [rack-app](https://github.com/rack-app/rack-app)
-- [uvalidator](https://github.com/ustream/uvalidator)
-- [liferay-plugins](https://github.com/liferay/liferay-plugins)
-- [httplab](https://github.com/gchaincl/httplab)
+- [alaptorveny](https://github.com/petergerner/alaptorveny): Magyarország Alaptörvénye
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa): A sample project containing usefull verbose ali...
+- [syslog-ng](https://github.com/balabit/syslog-ng): syslog-ng is an enhanced log daemon, supporting...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [nodebp](https://github.com/nodebp/nodebp): General repo for proposals, problems etc, for r...
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [zorp](https://github.com/Balasys/zorp): Zorp GPL
+- [meetup](https://github.com/budapestjs/meetup): 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [jenkins-dashboard](https://github.com/prezi/jenkins-dashboard): A better jenkins dashboard
+- [thesis-template-latex](https://github.com/FTSRG/thesis-template-latex): Thesis template for LaTeX documents
+- [ELTE-javagyak](https://github.com/rlegendi/ELTE-javagyak): ELTE Java gyakorlatok anyagai
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [guetzli](https://github.com/google/guetzli): 
+- [codechecker](https://github.com/Ericsson/codechecker): CodeChecker is a defect database and viewer ext...
+- [rack-app](https://github.com/rack-app/rack-app): Bare bone minimalistic (masochistic) framework ...
+- [uvalidator](https://github.com/ustream/uvalidator): Javascript validator plugin for jQuery
+- [liferay-plugins](https://github.com/liferay/liferay-plugins): 
+- [httplab](https://github.com/gchaincl/httplab): An interactive web server

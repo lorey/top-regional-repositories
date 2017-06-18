@@ -1,29 +1,29 @@
 # Popular Repositories in Malaysia
 
-These are the most-starred repositories from programmers based in Malaysia:
+These are the repositories with the highest ratio of stars from programmers based in Malaysia:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [bankMY-payment-webfont](https://github.com/nurfaizfoat/bankMY-payment-webfont)
-- [bookmarks](https://github.com/theforwardslash/bookmarks)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [StateMY](https://github.com/siong1987/StateMY)
-- [reactide](https://github.com/reactide/reactide)
-- [billplz](https://github.com/jomweb/billplz)
-- [mysgdev](https://github.com/anonoz/mysgdev)
-- [php](https://github.com/stupidlysimple/php)
-- [offiria](https://github.com/offiria/offiria)
-- [localstack](https://github.com/atlassian/localstack)
-- [ramadhan](https://github.com/izuddinhelmi/ramadhan)
-- [buku-git](https://github.com/kidino/buku-git)
-- [teecket](https://github.com/amree/teecket)
-- [UIColor-Swift-Extension](https://github.com/jianyaoang/UIColor-Swift-Extension)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [e-solat-xml-jsonp-api](https://github.com/ijat/e-solat-xml-jsonp-api)
-- [placequran](https://github.com/faizshukri/placequran)
-- [jajahan](https://github.com/lomotech/jajahan)
-- [android](https://github.com/MalaysiaPrayerTimes/android)
-- [awesome-select](https://github.com/prevwong/awesome-select)
-- [laravel-base](https://github.com/zulfajuniadi/laravel-base)
-- [generator-duxedo](https://github.com/127labs/generator-duxedo)
-- [Vaprobash](https://github.com/fideloper/Vaprobash)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [bankMY-payment-webfont](https://github.com/nurfaizfoat/bankMY-payment-webfont): A collection of SVG webfont that contains of al...
+- [bookmarks](https://github.com/theforwardslash/bookmarks): Forwardslash Bookmarks Collection
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [StateMY](https://github.com/siong1987/StateMY): The Malaysia map font.
+- [reactide](https://github.com/reactide/reactide): 
+- [billplz](https://github.com/jomweb/billplz): PHP framework agnostic library for working with...
+- [mysgdev](https://github.com/anonoz/mysgdev): A list of developer interest groups in Malaysia...
+- [php](https://github.com/stupidlysimple/php): StupidlySimple Framework for PHP - MVC Framewor...
+- [offiria](https://github.com/offiria/offiria): Enterprise social network software based on Joo...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ramadhan](https://github.com/izuddinhelmi/ramadhan): 
+- [buku-git](https://github.com/kidino/buku-git): Usaha kolektif untuk membangunkan bahan rujukan...
+- [teecket](https://github.com/amree/teecket): A gem that will search fares from AirAsia, Fire...
+- [UIColor-Swift-Extension](https://github.com/jianyaoang/UIColor-Swift-Extension): UIColor - Swift Extension. A delightful UIColor...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [e-solat-xml-jsonp-api](https://github.com/ijat/e-solat-xml-jsonp-api): E-Solat Malaysia XML/JSONP API
+- [placequran](https://github.com/faizshukri/placequran): Quran API that return image based on url
+- [jajahan](https://github.com/lomotech/jajahan): Jajahan adalah senarai alternatif untuk negeri,...
+- [android](https://github.com/MalaysiaPrayerTimes/android): An Android app to remind when the next prayer i...
+- [awesome-select](https://github.com/prevwong/awesome-select): ⚡️ Jquery Dropdown Plugin inspired by the actua...
+- [laravel-base](https://github.com/zulfajuniadi/laravel-base): Takes out the boredom of boiler plating code an...
+- [generator-duxedo](https://github.com/127labs/generator-duxedo): 
+- [Vaprobash](https://github.com/fideloper/Vaprobash): Vagrant Provisioning Bash Scripts

@@ -1,29 +1,29 @@
 # Popular Repositories in Antarctica
 
-These are the most-starred repositories from programmers based in Antarctica:
+These are the repositories with the highest ratio of stars from programmers based in Antarctica:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [python-fire](https://github.com/google/python-fire)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering)
-- [naivechain](https://github.com/lhartikk/naivechain)
-- [GeeksForGeeksScrapper](https://github.com/CuriousLearner/GeeksForGeeksScrapper)
-- [jsfeatures.in](https://github.com/hemanth/jsfeatures.in)
-- [ucengine](https://github.com/af83/ucengine)
-- [first-pr](https://github.com/andrew/first-pr)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [facewall](https://github.com/HubSpot/facewall)
-- [fkill-cli](https://github.com/sindresorhus/fkill-cli)
-- [fontfamous.github.io](https://github.com/fontfamous/fontfamous.github.io)
-- [owasp-pysec](https://github.com/ebranca/owasp-pysec)
-- [lbry](https://github.com/lbryio/lbry)
-- [symengine](https://github.com/symengine/symengine)
-- [orbit](https://github.com/orbitdb/orbit)
-- [nesh](https://github.com/danielgtaylor/nesh)
-- [vim-pasta](https://github.com/sickill/vim-pasta)
-- [Awesome](https://github.com/Awesome-Windows/Awesome)
-- [Silon](https://github.com/SLaks/Silon)
-- [node-exif](https://github.com/gomfunkel/node-exif)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering): A look at inner workings of Nintendo Switch
+- [naivechain](https://github.com/lhartikk/naivechain): A blockchain implementation in 200 lines of code
+- [GeeksForGeeksScrapper](https://github.com/CuriousLearner/GeeksForGeeksScrapper): Scrapes g4g and creates PDF
+- [jsfeatures.in](https://github.com/hemanth/jsfeatures.in): All javascript features under one hood!
+- [ucengine](https://github.com/af83/ucengine): U.C.Engine is a pubsub server with persistence....
+- [first-pr](https://github.com/andrew/first-pr): :octocat: What was the first pull request you s...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [facewall](https://github.com/HubSpot/facewall): Grid visualization of Gravatars for an organiza...
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli): Fabulously kill processes. Cross-platform.
+- [fontfamous.github.io](https://github.com/fontfamous/fontfamous.github.io): Font Famous is the free vector media logo font.
+- [owasp-pysec](https://github.com/ebranca/owasp-pysec): OWASP Python Security Project
+- [lbry](https://github.com/lbryio/lbry): A fully decentralized network for distributing ...
+- [symengine](https://github.com/symengine/symengine): SymEngine is a fast symbolic manipulation libra...
+- [orbit](https://github.com/orbitdb/orbit): Distributed, serverless, peer-to-peer chat appl...
+- [nesh](https://github.com/danielgtaylor/nesh): An enhanced, extensible interactive shell for N...
+- [vim-pasta](https://github.com/sickill/vim-pasta): Pasting in Vim with indentation adjusted to des...
+- [Awesome](https://github.com/Awesome-Windows/Awesome): :computer:  An awesome & curated list of best a...
+- [Silon](https://github.com/SLaks/Silon): Logic Gates and Adders in pure CSS
+- [node-exif](https://github.com/gomfunkel/node-exif): A node.js library to extract Exif metadata from...

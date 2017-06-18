@@ -1,29 +1,29 @@
 # Popular Repositories in Ecuador
 
-These are the most-starred repositories from programmers based in Ecuador:
+These are the repositories with the highest ratio of stars from programmers based in Ecuador:
 
-- [general](https://github.com/IncaDevs/general)
-- [Ushahidi_Web](https://github.com/AyudaEcuador/Ushahidi_Web)
-- [odoo-ecuador](https://github.com/odoo-ecuador/odoo-ecuador)
-- [hapistrano](https://github.com/stackbuilders/hapistrano)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [countries-and-provinces-states-regions](https://github.com/astockwell/countries-and-provinces-states-regions)
-- [coyim](https://github.com/twstrike/coyim)
-- [localstack](https://github.com/atlassian/localstack)
-- [distributed](https://github.com/funretro/distributed)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [sisfa](https://github.com/meruba/sisfa)
-- [renderedcom](https://github.com/IvonneBurgos/renderedcom)
-- [sri-clj](https://github.com/datil/sri-clj)
-- [id_ecuador](https://github.com/macool/id_ecuador)
-- [general_enviroment](https://github.com/j0n4s/general_enviroment)
-- [R-Basic](https://github.com/CursoRUCE/R-Basic)
-- [shrinkwrap](https://github.com/iapazmino/shrinkwrap)
-- [Timeline](https://github.com/estebanlagord/Timeline)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [battery_staple](https://github.com/olabini/battery_staple)
-- [mailchimp-haskell](https://github.com/jpvillaisaza/mailchimp-haskell)
-- [rubrica](https://github.com/rubrica/rubrica)
-- [R-Nivel-Basico](https://github.com/sourcestatlab/R-Nivel-Basico)
-- [cesri](https://github.com/joselo/cesri)
+- [general](https://github.com/IncaDevs/general): 
+- [Ushahidi_Web](https://github.com/AyudaEcuador/Ushahidi_Web): Fork de Ushahidi v2 para el mapeo de los inform...
+- [odoo-ecuador](https://github.com/odoo-ecuador/odoo-ecuador): Localización Ecuatoriana para Odoo (OpenERP)
+- [hapistrano](https://github.com/stackbuilders/hapistrano): Deploy tool for Haskell applications, like Capi...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [countries-and-provinces-states-regions](https://github.com/astockwell/countries-and-provinces-states-regions): Aims to be a complete data store for lists of C...
+- [coyim](https://github.com/twstrike/coyim): coyim - a safe and secure chat client
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [distributed](https://github.com/funretro/distributed): Easy to use and beautiful restrospective tool
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [sisfa](https://github.com/meruba/sisfa): Application RoR about invoices, reports, client...
+- [renderedcom](https://github.com/IvonneBurgos/renderedcom): 
+- [sri-clj](https://github.com/datil/sri-clj): Librería Clojure para emisión de comprobantes e...
+- [id_ecuador](https://github.com/macool/id_ecuador): gema para validar cédula o RUC de Ecuador
+- [general_enviroment](https://github.com/j0n4s/general_enviroment): angular + laravel (Jasmine + Codeception)
+- [R-Basic](https://github.com/CursoRUCE/R-Basic): Curso de R Nivel Básico
+- [shrinkwrap](https://github.com/iapazmino/shrinkwrap): Java API for Archive Manipulation
+- [Timeline](https://github.com/estebanlagord/Timeline): Simple Android app to show a user's Facebook ti...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [battery_staple](https://github.com/olabini/battery_staple): 
+- [mailchimp-haskell](https://github.com/jpvillaisaza/mailchimp-haskell): Haskell bindings for the MailChimp API
+- [rubrica](https://github.com/rubrica/rubrica): Libreria para Firma Digital
+- [R-Nivel-Basico](https://github.com/sourcestatlab/R-Nivel-Basico): Archivos del curso de R Nivel Básico
+- [cesri](https://github.com/joselo/cesri): Cesri es una Gema Ruby que permite consumir los...

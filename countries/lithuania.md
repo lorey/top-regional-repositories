@@ -1,29 +1,29 @@
 # Popular Repositories in Lithuania
 
-These are the most-starred repositories from programmers based in Lithuania:
+These are the repositories with the highest ratio of stars from programmers based in Lithuania:
 
-- [shaibos](https://github.com/pypt/shaibos)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [vilniusphp-meetups](https://github.com/vilniusphp/vilniusphp-meetups)
-- [mazosvertespirkimai](https://github.com/vilnius/mazosvertespirkimai)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [tvarkau-vilniu](https://github.com/vilnius/tvarkau-vilniu)
-- [ElasticsearchBundle](https://github.com/ongr-io/ElasticsearchBundle)
-- [ImpressPages](https://github.com/impresspages/ImpressPages)
-- [zapata](https://github.com/Nedomas/zapata)
-- [ruby-rails-workshops](https://github.com/vidmantas/ruby-rails-workshops)
-- [PolicyFeed](https://github.com/emilis/PolicyFeed)
-- [demo.ongr.io](https://github.com/ongr-io/demo.ongr.io)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ongr-strict-standard](https://github.com/ongr-archive/ongr-strict-standard)
-- [pronto](https://github.com/mmozuras/pronto)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [tvarkau-vilniu-ms](https://github.com/vilnius/tvarkau-vilniu-ms)
-- [ltlangpack](https://github.com/tokenmill/ltlangpack)
-- [gdbgui](https://github.com/cs01/gdbgui)
-- [assetpress](https://github.com/lekevicius/assetpress)
-- [AspectMock](https://github.com/Codeception/AspectMock)
-- [humbug](https://github.com/padraic/humbug)
-- [moveTo](https://github.com/hsnaydd/moveTo)
-- [ion-datetime](https://github.com/dvisockas/ion-datetime)
+- [shaibos](https://github.com/pypt/shaibos): Individualios veiklos mokesčių skaičiuoklė komp...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [vilniusphp-meetups](https://github.com/vilniusphp/vilniusphp-meetups): Presentations from VilniusPHP community meetups
+- [mazosvertespirkimai](https://github.com/vilnius/mazosvertespirkimai): Mažos vertės pirkimų duomenys
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [tvarkau-vilniu](https://github.com/vilnius/tvarkau-vilniu): Tvarkau Vilniu Android app
+- [ElasticsearchBundle](https://github.com/ongr-io/ElasticsearchBundle): Symfony bundle for elasticsearch with steroids
+- [ImpressPages](https://github.com/impresspages/ImpressPages): ImpressPages is php framework with admin panel....
+- [zapata](https://github.com/Nedomas/zapata): An Automatic Automated Test Writer
+- [ruby-rails-workshops](https://github.com/vidmantas/ruby-rails-workshops): Code and/or presentations from Ruby/Rails works...
+- [PolicyFeed](https://github.com/emilis/PolicyFeed): Government news aggregator
+- [demo.ongr.io](https://github.com/ongr-io/demo.ongr.io): Demo application of ONGR.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ongr-strict-standard](https://github.com/ongr-archive/ongr-strict-standard): [NOT MAINTAINED] Strict PHPCS standard for PSR-...
+- [pronto](https://github.com/mmozuras/pronto): Quick automated code review of your changes
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [tvarkau-vilniu-ms](https://github.com/vilnius/tvarkau-vilniu-ms): Tvarkau Vilnių new microservice
+- [ltlangpack](https://github.com/tokenmill/ltlangpack): Tools for Lithuanian language processing
+- [gdbgui](https://github.com/cs01/gdbgui): A modern, browser-based frontend to gdb (gnu de...
+- [assetpress](https://github.com/lekevicius/assetpress): High quality asset resizer for iOS and Android....
+- [AspectMock](https://github.com/Codeception/AspectMock): The most powerful and flexible mocking framewor...
+- [humbug](https://github.com/padraic/humbug): Humbug is a Mutation Testing framework for PHP ...
+- [moveTo](https://github.com/hsnaydd/moveTo): A lightweight, smooth scrolling javascript libr...
+- [ion-datetime](https://github.com/dvisockas/ion-datetime): 

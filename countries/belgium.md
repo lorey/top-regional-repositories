@@ -1,29 +1,29 @@
 # Popular Repositories in Belgium
 
-These are the most-starred repositories from programmers based in Belgium:
+These are the repositories with the highest ratio of stars from programmers based in Belgium:
 
-- [forkcms](https://github.com/forkcms/forkcms)
-- [iRail](https://github.com/iRail/iRail)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [hyperRail](https://github.com/iRail/hyperRail)
-- [ctop](https://github.com/bcicen/ctop)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [localstack](https://github.com/atlassian/localstack)
-- [dotfiles](https://github.com/lewagon/dotfiles)
-- [eid-mw](https://github.com/Fedict/eid-mw)
-- [cnp3](https://github.com/obonaventure/cnp3)
-- [Syntheses](https://github.com/Gp2mv3/Syntheses)
-- [chopstick-boilerplate](https://github.com/getchopstick/chopstick-boilerplate)
-- [guetzli](https://github.com/google/guetzli)
-- [grumphp](https://github.com/phpro/grumphp)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [sneakers](https://github.com/openminds/sneakers)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS)
-- [angular-super-seed](https://github.com/Kunstmaan/angular-super-seed)
-- [blender](https://github.com/spatie/blender)
-- [marlon-ogone](https://github.com/marlon-be/marlon-ogone)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [reactide](https://github.com/reactide/reactide)
+- [forkcms](https://github.com/forkcms/forkcms): Fork is an easy to use open source CMS using Sy...
+- [iRail](https://github.com/iRail/iRail): iRail API / scraper
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [hyperRail](https://github.com/iRail/hyperRail): The repo for the iRail.be webapp
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
+- [eid-mw](https://github.com/Fedict/eid-mw): eID Middleware repository
+- [cnp3](https://github.com/obonaventure/cnp3): Computer Networking : Principles, Protocols and...
+- [Syntheses](https://github.com/Gp2mv3/Syntheses): Synthèses et travaux pour l'EPL
+- [chopstick-boilerplate](https://github.com/getchopstick/chopstick-boilerplate): Chopstick boilerplate
+- [guetzli](https://github.com/google/guetzli): 
+- [grumphp](https://github.com/phpro/grumphp): A PHP code-quality tool
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [sneakers](https://github.com/openminds/sneakers): Sneakers is a simple, fast way to mimick Openmi...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS): An advanced yet user-friendly content managemen...
+- [angular-super-seed](https://github.com/Kunstmaan/angular-super-seed): This project is an application skeleton for an ...
+- [blender](https://github.com/spatie/blender): The Laravel template used for (nearly) all our ...
+- [marlon-ogone](https://github.com/marlon-be/marlon-ogone): Ogone PHP library
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [reactide](https://github.com/reactide/reactide): 

@@ -1,29 +1,29 @@
 # Popular Repositories in Austria
 
-These are the most-starred repositories from programmers based in Austria:
+These are the repositories with the highest ratio of stars from programmers based in Austria:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [guetzli](https://github.com/google/guetzli)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [at-registrierkassen-mustercode](https://github.com/a-sit-plus/at-registrierkassen-mustercode)
-- [awesome-austria](https://github.com/mxstbr/awesome-austria)
-- [technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io)
-- [reactide](https://github.com/reactide/reactide)
-- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [belle](https://github.com/nikgraf/belle)
-- [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [polished](https://github.com/styled-components/polished)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [carte-blanche](https://github.com/carteb/carte-blanche)
-- [ScreenInvader_old](https://github.com/screeninvader/ScreenInvader_old)
-- [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks)
-- [sulu-standard](https://github.com/sulu/sulu-standard)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [substance-legacy](https://github.com/substance/substance-legacy)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [guetzli](https://github.com/google/guetzli): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [at-registrierkassen-mustercode](https://github.com/a-sit-plus/at-registrierkassen-mustercode): 
+- [awesome-austria](https://github.com/mxstbr/awesome-austria): 🇦🇹 A curated list of things that show the aweso...
+- [technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io): Technologieplauscherl Website
+- [reactide](https://github.com/reactide/reactide): 
+- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins): React Plugin Architecture for DraftJS including...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [belle](https://github.com/nikgraf/belle): Configurable React Components with great UX
+- [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening): Best Current Practices regarding secure online ...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [carte-blanche](https://github.com/carteb/carte-blanche): An isolated development space with integrated f...
+- [ScreenInvader_old](https://github.com/screeninvader/ScreenInvader_old): This repository is only preserved for reference...
+- [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks): Creative and unusual things that can be done wi...
+- [sulu-standard](https://github.com/sulu/sulu-standard): Sulu CMS Standard Edition
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [substance-legacy](https://github.com/substance/substance-legacy): Towards open digital publishing

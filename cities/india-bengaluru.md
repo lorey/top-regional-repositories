@@ -1,29 +1,29 @@
 # Popular Repositories in Bengaluru
 
-These are the most-starred repositories from programmers based in Bengaluru:
+These are the repositories with the highest ratio of stars from programmers based in Bengaluru:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [localstack](https://github.com/atlassian/localstack)
-- [python-fire](https://github.com/google/python-fire)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [algorithms](https://github.com/keon/algorithms)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [reactide](https://github.com/reactide/reactide)
-- [ctop](https://github.com/bcicen/ctop)
-- [savetheinternet.in](https://github.com/netneutrality/savetheinternet.in)
-- [AlgoDS](https://github.com/sherxon/AlgoDS)
-- [interview](https://github.com/mission-peace/interview)
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [gravity](https://github.com/marcobambini/gravity)
-- [lastuser](https://github.com/hasgeek/lastuser)
-- [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [reactide](https://github.com/reactide/reactide): 
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [savetheinternet.in](https://github.com/netneutrality/savetheinternet.in): Response generator for the TRAI consultation paper
+- [AlgoDS](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structure...
+- [interview](https://github.com/mission-peace/interview): Interview questions
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugin...
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): Continually updated, interactive, test-driven P...
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [lastuser](https://github.com/hasgeek/lastuser): User management in each new app is a pain. This...
+- [system-design-interview](https://github.com/checkcheckzz/system-design-interview): System design interview for IT company
+- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university): 

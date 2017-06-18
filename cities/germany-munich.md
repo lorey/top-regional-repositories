@@ -1,29 +1,29 @@
 # Popular Repositories in Munich
 
-These are the most-starred repositories from programmers based in Munich:
+These are the repositories with the highest ratio of stars from programmers based in Munich:
 
-- [tum-thesis-latex](https://github.com/fwalch/tum-thesis-latex)
-- [mvg-live](https://github.com/rmoriz/mvg-live)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [python-fire](https://github.com/google/python-fire)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [localstack](https://github.com/atlassian/localstack)
-- [ctop](https://github.com/bcicen/ctop)
-- [TumCampusApp](https://github.com/TCA-Team/TumCampusApp)
-- [gesetze](https://github.com/bundestag/gesetze)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [guetzli](https://github.com/google/guetzli)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [JGiven](https://github.com/TNG/JGiven)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [wasted](https://github.com/mayflower/wasted)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [ja-micro](https://github.com/Sixt/ja-micro)
-- [panelkit](https://github.com/louisdh/panelkit)
-- [muenchen-transparent](https://github.com/codeformunich/muenchen-transparent)
-- [stagemonitor](https://github.com/stagemonitor/stagemonitor)
-- [sakuli](https://github.com/ConSol/sakuli)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [bloaty](https://github.com/google/bloaty)
-- [citrus](https://github.com/christophd/citrus)
-- [mvg-cli](https://github.com/entwicklerstube/mvg-cli)
+- [tum-thesis-latex](https://github.com/fwalch/tum-thesis-latex): :notebook_with_decorative_cover: A LaTeX templa...
+- [mvg-live](https://github.com/rmoriz/mvg-live): Live-Abfahrtszeiten des ÖPNV in München / CLI a...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [TumCampusApp](https://github.com/TCA-Team/TumCampusApp): Development of the TUM Campus App for Android d...
+- [gesetze](https://github.com/bundestag/gesetze): Bundesgesetze und -verordnungen
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [guetzli](https://github.com/google/guetzli): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [JGiven](https://github.com/TNG/JGiven): Behavior-Driven Development in plain Java
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [wasted](https://github.com/mayflower/wasted): Web Application STack for Extreme Development
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [ja-micro](https://github.com/Sixt/ja-micro): Lightweight framework for building java microse...
+- [panelkit](https://github.com/louisdh/panelkit): A UI framework that enables panels on iOS.
+- [muenchen-transparent](https://github.com/codeformunich/muenchen-transparent): Ein alternatives Ratsinformationssystem mit E-M...
+- [stagemonitor](https://github.com/stagemonitor/stagemonitor): an open source solution to application performa...
+- [sakuli](https://github.com/ConSol/sakuli): Sakuli is an end-2-end testing and monitoring t...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [bloaty](https://github.com/google/bloaty): Bloaty McBloatface: a size profiler for binaries
+- [citrus](https://github.com/christophd/citrus): Test framework for automated integration tests
+- [mvg-cli](https://github.com/entwicklerstube/mvg-cli): Münchner Verkehrsgesellschaft - Command Line In...

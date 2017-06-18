@@ -1,29 +1,29 @@
 # Popular Repositories in Serbia
 
-These are the most-starred repositories from programmers based in Serbia:
+These are the repositories with the highest ratio of stars from programmers based in Serbia:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder)
-- [reactide](https://github.com/reactide/reactide)
-- [jfreesteel](https://github.com/grakic/jfreesteel)
-- [pushkin](https://github.com/Nordeus/pushkin)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [b92statistike](https://github.com/stalker314314/b92statistike)
-- [fronty](https://github.com/goschevski/fronty)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [awesome-serbia](https://github.com/petarjs/awesome-serbia)
-- [Collections-C](https://github.com/srdja/Collections-C)
-- [BusPlus](https://github.com/dvuckovic/BusPlus)
-- [nodejs.rs](https://github.com/ManInTheBox/nodejs.rs)
-- [flib](https://github.com/v0d1ch/flib)
-- [polumenta](https://github.com/vl4dimir/polumenta)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [guetzli](https://github.com/google/guetzli)
-- [react-native-calendar-strip](https://github.com/BugiDev/react-native-calendar-strip)
-- [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [KROKI-mockup-tool](https://github.com/KROKIteam/KROKI-mockup-tool)
-- [tankwars-example-tanks](https://github.com/serverlesscamp/tankwars-example-tanks)
-- [localstack](https://github.com/atlassian/localstack)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [iaito](https://github.com/hteso/iaito)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder): Create chat bots for Facebook Messenger, Slack,...
+- [reactide](https://github.com/reactide/reactide): 
+- [jfreesteel](https://github.com/grakic/jfreesteel): A native Java library, a Swing GUI application ...
+- [pushkin](https://github.com/Nordeus/pushkin): Pushkin is a free open source tool for sending ...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [b92statistike](https://github.com/stalker314314/b92statistike): Scrapper za statistike vesti i komentara sa saj...
+- [fronty](https://github.com/goschevski/fronty): Fronty is a boilerplate for starting new front-...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [awesome-serbia](https://github.com/petarjs/awesome-serbia): A curated list of things that show the awesome ...
+- [Collections-C](https://github.com/srdja/Collections-C): A library of generic data structures.
+- [BusPlus](https://github.com/dvuckovic/BusPlus): Original BusPlus Android app
+- [nodejs.rs](https://github.com/ManInTheBox/nodejs.rs): Sajt srpske Node.js zajednice - Serbian Node.js...
+- [flib](https://github.com/v0d1ch/flib): fLib - vanilla JS functional helper https://vod...
+- [polumenta](https://github.com/vl4dimir/polumenta): Изворни код Полумента Генератора
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [guetzli](https://github.com/google/guetzli): 
+- [react-native-calendar-strip](https://github.com/BugiDev/react-native-calendar-strip): Easy to use and visually stunning calendar comp...
+- [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay): jQuery plugin for responsive and accessible mod...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [KROKI-mockup-tool](https://github.com/KROKIteam/KROKI-mockup-tool): KROKI is an open-source mockup driven developme...
+- [tankwars-example-tanks](https://github.com/serverlesscamp/tankwars-example-tanks): Example implementations for serverless code cam...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [iaito](https://github.com/hteso/iaito): A Qt and C++ GUI for radare2 reverse engineerin...

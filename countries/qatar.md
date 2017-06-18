@@ -1,29 +1,29 @@
 # Popular Repositories in Qatar
 
-These are the most-starred repositories from programmers based in Qatar:
+These are the repositories with the highest ratio of stars from programmers based in Qatar:
 
-- [Expense-Tracker](https://github.com/yusuf-musleh/Expense-Tracker)
-- [dolcify](https://github.com/mahmoudalismail/dolcify)
-- [Islamic-Streamer-Android](https://github.com/hammady/Islamic-Streamer-Android)
-- [comingle](https://github.com/sllam/comingle)
-- [OATools](https://github.com/osamaalassiry/OATools)
-- [state-of-mind](https://github.com/yusuf-musleh/state-of-mind)
-- [ByteToEat](https://github.com/yelsayed/ByteToEat)
-- [Wasabi](https://github.com/Hasan-Jawaheri/Wasabi)
-- [SiriProxy-Asiri](https://github.com/alotaiba/SiriProxy-Asiri)
-- [quran.com-images](https://github.com/quran/quran.com-images)
-- [opensprinkler](https://github.com/rayshobby/opensprinkler)
-- [libdnn](https://github.com/botonchou/libdnn)
-- [code2flow](https://github.com/scottrogowski/code2flow)
-- [emile](https://github.com/madrobby/emile)
-- [graphchi-cpp](https://github.com/GraphChi/graphchi-cpp)
-- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl)
-- [PS4-SDK](https://github.com/CTurt/PS4-SDK)
-- [thingspeak](https://github.com/iobridge/thingspeak)
-- [cs193p-calculator](https://github.com/hammady/cs193p-calculator)
-- [steps-sign-apk](https://github.com/bitrise-steplib/steps-sign-apk)
-- [datasciencecoursera](https://github.com/mohd1012/datasciencecoursera)
-- [travel](https://github.com/travelmosafer/travel)
-- [News-Aggregator](https://github.com/yusuf-musleh/News-Aggregator)
-- [parseltongue](https://github.com/shahriarhaque/parseltongue)
-- [impress.js](https://github.com/AlaaHamoudah/impress.js)
+- [Expense-Tracker](https://github.com/yusuf-musleh/Expense-Tracker): An expense tracking system which can generate r...
+- [dolcify](https://github.com/mahmoudalismail/dolcify): Protocol Code 39 - Making the perfect Dolce Gus...
+- [Islamic-Streamer-Android](https://github.com/hammady/Islamic-Streamer-Android): Stream Islamic audio content (Quran, lessons, v...
+- [comingle](https://github.com/sllam/comingle): CoMingle: Distributed Logic Programming for Dec...
+- [OATools](https://github.com/osamaalassiry/OATools): A set of scripts that I use in Linux.
+- [state-of-mind](https://github.com/yusuf-musleh/state-of-mind): Collaborative Brain-Storming Application
+- [ByteToEat](https://github.com/yelsayed/ByteToEat): 
+- [Wasabi](https://github.com/Hasan-Jawaheri/Wasabi): Wasabi Vulkan Game Engine
+- [SiriProxy-Asiri](https://github.com/alotaiba/SiriProxy-Asiri): Let Siri speak your language with Asiri plugin ...
+- [quran.com-images](https://github.com/quran/quran.com-images): images using fonts from King Fahed Complex / qu...
+- [opensprinkler](https://github.com/rayshobby/opensprinkler): Open-source Arduino-based Sprinkler Valve Contr...
+- [libdnn](https://github.com/botonchou/libdnn): A lightweight and user friendly C++ library for...
+- [code2flow](https://github.com/scottrogowski/code2flow): Turn your Python and Javascript code into DOT f...
+- [emile](https://github.com/madrobby/emile): emile.js is a no-frills stand-alone CSS animati...
+- [graphchi-cpp](https://github.com/GraphChi/graphchi-cpp): GraphChi's C++ version.  Big Data - small machine.
+- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl): RTL Theme for Bootstrap v3.x
+- [PS4-SDK](https://github.com/CTurt/PS4-SDK): Open source PS4 SDK
+- [thingspeak](https://github.com/iobridge/thingspeak): ThingSpeak is an open source “Internet of Thing...
+- [cs193p-calculator](https://github.com/hammady/cs193p-calculator): This is the project demonstrated during weeks 1...
+- [steps-sign-apk](https://github.com/bitrise-steplib/steps-sign-apk): 
+- [datasciencecoursera](https://github.com/mohd1012/datasciencecoursera): For Coursera specialization
+- [travel](https://github.com/travelmosafer/travel): 携程酒店接口sdk
+- [News-Aggregator](https://github.com/yusuf-musleh/News-Aggregator): Chrome extension that aggregates news articles ...
+- [parseltongue](https://github.com/shahriarhaque/parseltongue): A javascript library to concisely describe HTML...
+- [impress.js](https://github.com/AlaaHamoudah/impress.js): It's a presentation framework based on the powe...

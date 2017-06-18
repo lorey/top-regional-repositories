@@ -1,29 +1,29 @@
 # Popular Repositories in United States
 
-These are the most-starred repositories from programmers based in United States:
+These are the repositories with the highest ratio of stars from programmers based in United States:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [python-fire](https://github.com/google/python-fire)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ctop](https://github.com/bcicen/ctop)
-- [reactide](https://github.com/reactide/reactide)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [guetzli](https://github.com/google/guetzli)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [httplab](https://github.com/gchaincl/httplab)
-- [algorithms](https://github.com/keon/algorithms)
-- [gravity](https://github.com/marcobambini/gravity)
-- [upspin](https://github.com/upspin/upspin)
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [reactide](https://github.com/reactide/reactide): 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [guetzli](https://github.com/google/guetzli): 
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): Continually updated, interactive, test-driven P...
+- [httplab](https://github.com/gchaincl/httplab): An interactive web server
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugin...

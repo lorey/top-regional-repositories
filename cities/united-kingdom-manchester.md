@@ -1,29 +1,29 @@
 # Popular Repositories in Manchester
 
-These are the most-starred repositories from programmers based in Manchester:
+These are the repositories with the highest ratio of stars from programmers based in Manchester:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [tal](https://github.com/bbc/tal)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
-- [ctop](https://github.com/bcicen/ctop)
-- [streetsupport-web](https://github.com/StreetSupport/streetsupport-web)
-- [future-process](https://github.com/joshdifabio/future-process)
-- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [CycleGAN](https://github.com/junyanz/CycleGAN)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [vedeu](https://github.com/gavinlaking/vedeu)
-- [python-fire](https://github.com/google/python-fire)
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-- [gravity](https://github.com/marcobambini/gravity)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [Rugbot](https://github.com/wjessop/Rugbot)
-- [codeblog](https://github.com/martinrue/codeblog)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [polished](https://github.com/styled-components/polished)
-- [joindin-legacy](https://github.com/joindin/joindin-legacy)
-- [viewporter](https://github.com/bbc/viewporter)
-- [scala-kafka-client](https://github.com/cakesolutions/scala-kafka-client)
-- [sass-mq](https://github.com/sass-mq/sass-mq)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [tal](https://github.com/bbc/tal): TV Application Layer
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io): UK Postcode API serving up Open Data
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [streetsupport-web](https://github.com/StreetSupport/streetsupport-web): The codebase for the streetsupport.net website
+- [future-process](https://github.com/joshdifabio/future-process): Process execution for PHP using futures and pro...
+- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk): A step by step guide of how to start contractin...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [CycleGAN](https://github.com/junyanz/CycleGAN): Unpaired image-to-image translation for paintin...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [vedeu](https://github.com/gavinlaking/vedeu): A framework written in Ruby for building GUI/TU...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Gutenberg](https://github.com/BafS/Gutenberg): Modern framework to print correctly. 
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [Rugbot](https://github.com/wjessop/Rugbot): NWRUG IRC helper bot
+- [codeblog](https://github.com/martinrue/codeblog): A quick and easy way to host your own simple co...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [joindin-legacy](https://github.com/joindin/joindin-legacy): Source code behind the old version of the joind...
+- [viewporter](https://github.com/bbc/viewporter): In-browser responsive testing tool.
+- [scala-kafka-client](https://github.com/cakesolutions/scala-kafka-client): Scala helper modules for operating the Apache K...
+- [sass-mq](https://github.com/sass-mq/sass-mq): A Sass mixin that helps you compose media queri...

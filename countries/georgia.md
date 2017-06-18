@@ -1,29 +1,29 @@
 # Popular Repositories in Georgia
 
-These are the most-starred repositories from programmers based in Georgia:
+These are the repositories with the highest ratio of stars from programmers based in Georgia:
 
-- [tbcpay-php](https://github.com/wearede/tbcpay-php)
-- [awesome-georgia](https://github.com/Stichoza/awesome-georgia)
-- [GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase)
-- [php-geopayment](https://github.com/akalongman/php-geopayment)
-- [font-larisome](https://github.com/Stichoza/font-larisome)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [bootstrap-no-extras](https://github.com/safareli/bootstrap-no-extras)
-- [RNCryptorNative](https://github.com/TGIO/RNCryptorNative)
-- [awesome-resources](https://github.com/dreamtocode/awesome-resources)
-- [Tinymce-facebook-embed-post](https://github.com/otari/Tinymce-facebook-embed-post)
-- [tbilisi-bus](https://github.com/shvelo/tbilisi-bus)
-- [flasb](https://github.com/btomashvili/flasb)
-- [geokbd](https://github.com/ioseb/geokbd)
-- [georgian-webfonts](https://github.com/thecotne/georgian-webfonts)
-- [psd-extractor](https://github.com/safareli/psd-extractor)
-- [fp-stuff](https://github.com/safareli/fp-stuff)
-- [ubuntu-configuration](https://github.com/akalongman/ubuntu-configuration)
-- [MaterialResume](https://github.com/StanKocken/MaterialResume)
-- [google-translate-php](https://github.com/Stichoza/google-translate-php)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets)
-- [jquery-geokbd](https://github.com/jayarjo/jquery-geokbd)
-- [ParseLiveQuery](https://github.com/TGIO/ParseLiveQuery)
-- [react-redux-firebase-boilerplate](https://github.com/btomashvili/react-redux-firebase-boilerplate)
-- [create-api-nodejs](https://github.com/Chkhikvadze/create-api-nodejs)
+- [tbcpay-php](https://github.com/wearede/tbcpay-php): Tbcpay - online payments php SDK
+- [awesome-georgia](https://github.com/Stichoza/awesome-georgia): A curated list of awesome libraries and package...
+- [GeoWordsDatabase](https://github.com/bumbeishvili/GeoWordsDatabase): around 310 000 unique Georgian words
+- [php-geopayment](https://github.com/akalongman/php-geopayment): PHP library for working with Georgian payment p...
+- [font-larisome](https://github.com/Stichoza/font-larisome): :euro: Font Larisome - Iconic font for Georgian...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [bootstrap-no-extras](https://github.com/safareli/bootstrap-no-extras): It's just bootstrap without any extras. Lightwe...
+- [RNCryptorNative](https://github.com/TGIO/RNCryptorNative): Android JNI model implementation of Rob Napier'...
+- [awesome-resources](https://github.com/dreamtocode/awesome-resources): :zap: Awesome coding resources for all stages a...
+- [Tinymce-facebook-embed-post](https://github.com/otari/Tinymce-facebook-embed-post): Adds Facebook post embed functionality to tinym...
+- [tbilisi-bus](https://github.com/shvelo/tbilisi-bus): Bus schedule app for Tbilisi, Georgia
+- [flasb](https://github.com/btomashvili/flasb): Starter template Python Flask micro framework w...
+- [geokbd](https://github.com/ioseb/geokbd): Georgian Keyboard JavaScript Library
+- [georgian-webfonts](https://github.com/thecotne/georgian-webfonts): georgian webfonts
+- [psd-extractor](https://github.com/safareli/psd-extractor): extract font faces, sizes and colors from PSDs
+- [fp-stuff](https://github.com/safareli/fp-stuff): Functional Programming and Related Stuff
+- [ubuntu-configuration](https://github.com/akalongman/ubuntu-configuration): Configuration of Debian based OS, such as: Ubun...
+- [MaterialResume](https://github.com/StanKocken/MaterialResume): A example of Material Resume
+- [google-translate-php](https://github.com/Stichoza/google-translate-php): Free Google Translate API PHP Package. Translat...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [awesome-georgian-datasets](https://github.com/bumbeishvili/awesome-georgian-datasets): Useful datasets, specific to Georgia
+- [jquery-geokbd](https://github.com/jayarjo/jquery-geokbd): GeoKBD rewritten as jQuery plugin, with some vi...
+- [ParseLiveQuery](https://github.com/TGIO/ParseLiveQuery): Very simple and modern implementation, it lacks...
+- [react-redux-firebase-boilerplate](https://github.com/btomashvili/react-redux-firebase-boilerplate): :fire: :rocket: React, Redux, Firebase Boilerplate
+- [create-api-nodejs](https://github.com/Chkhikvadze/create-api-nodejs): Create Api on Nodejs

@@ -1,29 +1,29 @@
 # Popular Repositories in Cuba
 
-These are the most-starred repositories from programmers based in Cuba:
+These are the repositories with the highest ratio of stars from programmers based in Cuba:
 
-- [diffy](https://github.com/pbu88/diffy)
-- [MoonLightDE](https://github.com/MoonLightDE/MoonLightDE)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [parallux](https://github.com/tomsarduy/parallux)
-- [shakespeare](https://github.com/xr09/shakespeare)
-- [Shield](https://github.com/jadolg/Shield)
-- [cuba-tech-slack-bot](https://github.com/pbu88/cuba-tech-slack-bot)
-- [gamedev-book](https://github.com/apiad/gamedev-book)
-- [systemheaven](https://github.com/ateijelo/systemheaven)
-- [richstring](https://github.com/ateijelo/richstring)
-- [videomorph](https://github.com/codeshard/videomorph)
-- [SSHaudit](https://github.com/jkingsman/SSHaudit)
-- [keep-android-3.5mm-jack](https://github.com/dvddarias/keep-android-3.5mm-jack)
-- [docs](https://github.com/elcodi/docs)
-- [docker-sync](https://github.com/dvddarias/docker-sync)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [purple-facebook](https://github.com/dequis/purple-facebook)
-- [live-log-analyzer](https://github.com/saltycrane/live-log-analyzer)
-- [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle)
-- [leetcode-js](https://github.com/paopao2/leetcode-js)
-- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)
-- [autocomplete-python](https://github.com/autocomplete-python/autocomplete-python)
-- [arastta](https://github.com/arastta/arastta)
-- [bamboo](https://github.com/elcodi/bamboo)
-- [python-ruby](https://github.com/mjhea0/python-ruby)
+- [diffy](https://github.com/pbu88/diffy): Share diff output in the browser with https://d...
+- [MoonLightDE](https://github.com/MoonLightDE/MoonLightDE): Modular and Lightweight Desktop Environment for...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [parallux](https://github.com/tomsarduy/parallux): Parallax effect with esteroids, cross browser a...
+- [shakespeare](https://github.com/xr09/shakespeare): Simple English/Spanish translator
+- [Shield](https://github.com/jadolg/Shield): iptables based firewall for blocking access to ...
+- [cuba-tech-slack-bot](https://github.com/pbu88/cuba-tech-slack-bot): A Slack bot for our private chat CubaTech
+- [gamedev-book](https://github.com/apiad/gamedev-book): A free book and sample code about game developm...
+- [systemheaven](https://github.com/ateijelo/systemheaven): A better way to use Python's subprocess
+- [richstring](https://github.com/ateijelo/richstring): NSAttributedStrings made pleasant
+- [videomorph](https://github.com/codeshard/videomorph): Small GUI wrapper for FFMPEG based on PyQt5 
+- [SSHaudit](https://github.com/jkingsman/SSHaudit): Audit your GitHub Organization users' SSH keys ...
+- [keep-android-3.5mm-jack](https://github.com/dvddarias/keep-android-3.5mm-jack): Pledge to Android phone manufacturers
+- [docs](https://github.com/elcodi/docs): Elcodi documentation
+- [docker-sync](https://github.com/dvddarias/docker-sync): Synchronize docker images between hosts with em...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [purple-facebook](https://github.com/dequis/purple-facebook): Facebook protocol plugin for libpurple (moved f...
+- [live-log-analyzer](https://github.com/saltycrane/live-log-analyzer): Real-time (Nginx, PHP, syslog, "mysqladmin exte...
+- [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle): Translation field to facilitate the use of the ...
+- [leetcode-js](https://github.com/paopao2/leetcode-js): Javascript solutions for Leetcode problems
+- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm): A manual tiling window manager for X11
+- [autocomplete-python](https://github.com/autocomplete-python/autocomplete-python): Jedi based Python autocomplete for Atom
+- [arastta](https://github.com/arastta/arastta): Solid, Free, Open Source, Community Driven eCom...
+- [bamboo](https://github.com/elcodi/bamboo): Meet Bamboo, an e-commerce project built on top...
+- [python-ruby](https://github.com/mjhea0/python-ruby): Should I Learn Python or Ruby?

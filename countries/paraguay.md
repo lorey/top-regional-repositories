@@ -1,29 +1,29 @@
 # Popular Repositories in Paraguay
 
-These are the most-starred repositories from programmers based in Paraguay:
+These are the repositories with the highest ratio of stars from programmers based in Paraguay:
 
-- [listaHu](https://github.com/melizeche/listaHu)
-- [Bancard](https://github.com/imroca/Bancard)
-- [corruptos.net](https://github.com/crodas/corruptos.net)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [infopadronpy](https://github.com/cmelgarejo/infopadronpy)
-- [Bancard-vPos](https://github.com/rodolrojas/Bancard-vPos)
-- [karaku](https://github.com/fpuna-cia/karaku)
-- [Bancard](https://github.com/crodas/Bancard)
-- [node-cotizaciones](https://github.com/cabupy/node-cotizaciones)
-- [gSL](https://github.com/roskoff/gSL)
-- [mec-opendata](https://github.com/mecpy/mec-opendata)
-- [dolarPy](https://github.com/melizeche/dolarPy)
-- [LanguageDetector](https://github.com/crodas/LanguageDetector)
-- [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet)
-- [adblockfast](https://github.com/rocketshipapps/adblockfast)
-- [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel)
-- [Xaddress](https://github.com/roberdam/Xaddress)
-- [ctop](https://github.com/bcicen/ctop)
-- [vpos-android](https://github.com/Bancard/vpos-android)
-- [grtk](https://github.com/tchx84/grtk)
-- [rodi-web](https://github.com/rodibot/rodi-web)
-- [queseparla](https://github.com/roskoff/queseparla)
-- [twitter-gobject](https://github.com/tchx84/twitter-gobject)
-- [phpLightMVC](https://github.com/alvarotala/phpLightMVC)
-- [dolarpy](https://github.com/bauerpy/dolarpy)
+- [listaHu](https://github.com/melizeche/listaHu): A crowdsourced platform to blacklist sms spamme...
+- [Bancard](https://github.com/imroca/Bancard): Abstract simple Bancard API Client for PHP.
+- [corruptos.net](https://github.com/crodas/corruptos.net): Código fuente del sitio web
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [infopadronpy](https://github.com/cmelgarejo/infopadronpy): REST Webservice to encapsulate information of a...
+- [Bancard-vPos](https://github.com/rodolrojas/Bancard-vPos): Librería PHP para conexión al servicio vPos de ...
+- [karaku](https://github.com/fpuna-cia/karaku): Spring based Framework for Web Development
+- [Bancard](https://github.com/crodas/Bancard): Libreria para pagos con Bancard
+- [node-cotizaciones](https://github.com/cabupy/node-cotizaciones): Es una API REST desarrollada en NODE.JS para ob...
+- [gSL](https://github.com/roskoff/gSL): Esta es la versión GNU del intérprete de SL, un...
+- [mec-opendata](https://github.com/mecpy/mec-opendata): Portal de Datos Abiertos del Ministerio de Educ...
+- [dolarPy](https://github.com/melizeche/dolarPy): Checks USD/PYG exchange rate from several sites...
+- [LanguageDetector](https://github.com/crodas/LanguageDetector): PHP Class to detect languages from any free text
+- [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet): Go wrapper for the .NET Core Runtime.
+- [adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a new, faster ad blocker for iO...
+- [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel): Tunneling Internet traffic over Facebook chat.
+- [Xaddress](https://github.com/roberdam/Xaddress): Xaddress - Give 7 billion people an instant phy...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [vpos-android](https://github.com/Bancard/vpos-android): 
+- [grtk](https://github.com/tchx84/grtk): Set of convenience scripts that allows develope...
+- [rodi-web](https://github.com/rodibot/rodi-web): A web-service interface for RoDI (Robot Didácti...
+- [queseparla](https://github.com/roskoff/queseparla): QuéseParla es una herramienta WebMóvil que te s...
+- [twitter-gobject](https://github.com/tchx84/twitter-gobject): twitter-gobject allows you access Twitter's 1.1...
+- [phpLightMVC](https://github.com/alvarotala/phpLightMVC): A simple PHP web framework.
+- [dolarpy](https://github.com/bauerpy/dolarpy): Bot de telegram para obtener la cotización del ...

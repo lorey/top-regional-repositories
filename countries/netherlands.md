@@ -1,29 +1,29 @@
 # Popular Repositories in Netherlands
 
-These are the most-starred repositories from programmers based in Netherlands:
+These are the repositories with the highest ratio of stars from programmers based in Netherlands:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [mollie-api-php](https://github.com/mollie/mollie-api-php)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [localstack](https://github.com/atlassian/localstack)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [reactide](https://github.com/reactide/reactide)
-- [dutch-tax-income-calculator](https://github.com/stevermeister/dutch-tax-income-calculator)
-- [python-fire](https://github.com/google/python-fire)
-- [guetzli](https://github.com/google/guetzli)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [NLExtract](https://github.com/nlextract/NLExtract)
-- [mollie-api-ruby](https://github.com/mollie/mollie-api-ruby)
-- [taiga-boilerplate](https://github.com/AljanScholtens/taiga-boilerplate)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [react-overdrive](https://github.com/berzniz/react-overdrive)
-- [WooCommerce](https://github.com/mollie/WooCommerce)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [vamp](https://github.com/magneticio/vamp)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [mollie-api-php](https://github.com/mollie/mollie-api-php): Mollie API client for PHP
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [reactide](https://github.com/reactide/reactide): 
+- [dutch-tax-income-calculator](https://github.com/stevermeister/dutch-tax-income-calculator): Dutch Tax Income Calculator with AngularJS
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [guetzli](https://github.com/google/guetzli): 
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [NLExtract](https://github.com/nlextract/NLExtract): Convert (ETL) and visualize free Dutch geo-data...
+- [mollie-api-ruby](https://github.com/mollie/mollie-api-ruby): Mollie API client for Ruby
+- [taiga-boilerplate](https://github.com/AljanScholtens/taiga-boilerplate): CSS boilerplate based on PostCSS, ITCSS and BEM.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [react-overdrive](https://github.com/berzniz/react-overdrive): Super easy magic-move transitions for React apps
+- [WooCommerce](https://github.com/mollie/WooCommerce): Official Mollie extension for WooCommerce
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [vamp](https://github.com/magneticio/vamp): Vamp - canary releasing and autoscaling for mic...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups

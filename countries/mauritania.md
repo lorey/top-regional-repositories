@@ -1,29 +1,29 @@
 # Popular Repositories in Mauritania
 
-These are the most-starred repositories from programmers based in Mauritania:
+These are the repositories with the highest ratio of stars from programmers based in Mauritania:
 
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [reactide](https://github.com/reactide/reactide)
-- [rapscallion](https://github.com/FormidableLabs/rapscallion)
-- [guetzli](https://github.com/google/guetzli)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [react-media](https://github.com/ReactTraining/react-media)
-- [python-fire](https://github.com/google/python-fire)
-- [Asterisell](https://github.com/massimo-zaniboni/Asterisell)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [naivechain](https://github.com/lhartikk/naivechain)
-- [polished](https://github.com/styled-components/polished)
-- [research](https://github.com/nikitavoloboev/research)
-- [securitybot](https://github.com/dropbox/securitybot)
-- [exim](https://github.com/hellyeahllc/exim)
-- [slock-js](https://github.com/slockit/slock-js)
-- [postal](https://github.com/atech/postal)
-- [keylogger](https://github.com/caseyscarborough/keylogger)
-- [react-svg-loader](https://github.com/boopathi/react-svg-loader)
-- [styled-components-theme](https://github.com/erikras/styled-components-theme)
-- [bootstrap_package](https://github.com/benjaminkott/bootstrap_package)
-- [react-stylesheet](https://github.com/prometheusresearch/react-stylesheet)
-- [bitshares-core](https://github.com/bitshares/bitshares-core)
-- [Auth-Boss](https://github.com/teesloane/Auth-Boss)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [dapple](https://github.com/dapphub/dapple)
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [reactide](https://github.com/reactide/reactide): 
+- [rapscallion](https://github.com/FormidableLabs/rapscallion): Asynchronous React VirtualDOM renderer for SSR.
+- [guetzli](https://github.com/google/guetzli): 
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [react-media](https://github.com/ReactTraining/react-media): A CSS media query component for React
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Asterisell](https://github.com/massimo-zaniboni/Asterisell): web application for rating, showing to customer...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [naivechain](https://github.com/lhartikk/naivechain): A blockchain implementation in 200 lines of code
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [research](https://github.com/nikitavoloboev/research): 📝 my personal knowledge index of things as mind...
+- [securitybot](https://github.com/dropbox/securitybot): 
+- [exim](https://github.com/hellyeahllc/exim): An ultra-lightweight Flux-like architecture for...
+- [slock-js](https://github.com/slockit/slock-js): the backend of the slock framework
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [keylogger](https://github.com/caseyscarborough/keylogger): A no-frills keylogger for Mac OS X.
+- [react-svg-loader](https://github.com/boopathi/react-svg-loader): A webpack loader that loads svg as a React Comp...
+- [styled-components-theme](https://github.com/erikras/styled-components-theme): Defines themes via flexible color selectors for...
+- [bootstrap_package](https://github.com/benjaminkott/bootstrap_package): Bootstrap Package delivers a full configured fo...
+- [react-stylesheet](https://github.com/prometheusresearch/react-stylesheet): Component based styling for your React applicat...
+- [bitshares-core](https://github.com/bitshares/bitshares-core): Your share in the Decentralized Exchange
+- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different auth...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [dapple](https://github.com/dapphub/dapple): EVM contract system developer multitool

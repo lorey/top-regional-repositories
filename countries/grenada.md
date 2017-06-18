@@ -1,29 +1,29 @@
 # Popular Repositories in Grenada
 
-These are the most-starred repositories from programmers based in Grenada:
+These are the repositories with the highest ratio of stars from programmers based in Grenada:
 
-- [tallerbots](https://github.com/terceranexus6/tallerbots)
-- [hack-miniblip.github.io](https://github.com/hack-miniblip/hack-miniblip.github.io)
-- [cvdocs](https://github.com/robertomagan/cvdocs)
-- [trabajos_universidad](https://github.com/germaaan/trabajos_universidad)
-- [top-github-users-data](https://github.com/JJ/top-github-users-data)
-- [StudentsManagementSystem](https://github.com/ButterFlyDevs/StudentsManagementSystem)
-- [IV16-17](https://github.com/JJ/IV16-17)
-- [Makefile-Automator](https://github.com/jesusjimsa/Makefile-Automator)
-- [IV-2015-16](https://github.com/JJ/IV-2015-16)
-- [IV](https://github.com/JJ/IV)
-- [jkbxkjvbdnzkjv](https://github.com/patros9/jkbxkjvbdnzkjv)
-- [ChoraNaum](https://github.com/rafasanjuan/ChoraNaum)
-- [Reto-OpenData-OpenDataDay2015](https://github.com/renatolrr/Reto-OpenData-OpenDataDay2015)
-- [LDT](https://github.com/freelinuxdistrodeployed/LDT)
-- [neno](https://github.com/Jensen-Technologies/neno)
-- [dafcollage](https://github.com/seiya64/dafcollage)
-- [node-wizardry](https://github.com/angrykoala/node-wizardry)
-- [granada](https://github.com/beerjs/granada)
-- [GII-2014](https://github.com/JJ/GII-2014)
-- [LaTeX2IMGbot](https://github.com/analca3/LaTeX2IMGbot)
-- [apuntesDGIIM](https://github.com/libreim/apuntesDGIIM)
-- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
-- [web-platform-tests](https://github.com/w3c/web-platform-tests)
-- [ProyectoDatosAbiertos](https://github.com/germaaan/ProyectoDatosAbiertos)
-- [BrainStudio](https://github.com/ButterFlyDevs/BrainStudio)
+- [tallerbots](https://github.com/terceranexus6/tallerbots): repositorio de la charla de la ETSIIT de bots d...
+- [hack-miniblip.github.io](https://github.com/hack-miniblip/hack-miniblip.github.io): Hackea la MiniBlip, repo para el hackatón Circo...
+- [cvdocs](https://github.com/robertomagan/cvdocs): Building and compile all your CV documents in o...
+- [trabajos_universidad](https://github.com/germaaan/trabajos_universidad): Recopilación de todos los trabajos (recuperable...
+- [top-github-users-data](https://github.com/JJ/top-github-users-data): Data obtained with the top-github-users script
+- [StudentsManagementSystem](https://github.com/ButterFlyDevs/StudentsManagementSystem): SMS es un sistema para centros docentes que agi...
+- [IV16-17](https://github.com/JJ/IV16-17): Repositorio para la asignatura Infraestructura ...
+- [Makefile-Automator](https://github.com/jesusjimsa/Makefile-Automator): This is a program that helps you create makefil...
+- [IV-2015-16](https://github.com/JJ/IV-2015-16): Repositorio para sesiones y ejercicios de la as...
+- [IV](https://github.com/JJ/IV): Asignatura de infraestructuras virtuales para e...
+- [jkbxkjvbdnzkjv](https://github.com/patros9/jkbxkjvbdnzkjv): 
+- [ChoraNaum](https://github.com/rafasanjuan/ChoraNaum): SA:MP AAD Gamemode
+- [Reto-OpenData-OpenDataDay2015](https://github.com/renatolrr/Reto-OpenData-OpenDataDay2015): Reto OpenData OpenDataDay 2015
+- [LDT](https://github.com/freelinuxdistrodeployed/LDT): Linux Deployed Tool 
+- [neno](https://github.com/Jensen-Technologies/neno): The complete translation solution for Joomla
+- [dafcollage](https://github.com/seiya64/dafcollage): Realizar dos módulos para Moodle que ayudan en ...
+- [node-wizardry](https://github.com/angrykoala/node-wizardry): Charla-Taller de Node.js con implementación de ...
+- [granada](https://github.com/beerjs/granada): Granada, España
+- [GII-2014](https://github.com/JJ/GII-2014): Repositorio para el material específico de cada...
+- [LaTeX2IMGbot](https://github.com/analca3/LaTeX2IMGbot): Telegram Bot that receive an LaTeX equation and...
+- [apuntesDGIIM](https://github.com/libreim/apuntesDGIIM): Repositorio de apuntes del Doble Grado en Ingen...
+- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI): Python Telegram bot api.
+- [web-platform-tests](https://github.com/w3c/web-platform-tests): Test Suites for Web Platform specifications—inc...
+- [ProyectoDatosAbiertos](https://github.com/germaaan/ProyectoDatosAbiertos): Proyecto sobre datos abiertos de la UGR
+- [BrainStudio](https://github.com/ButterFlyDevs/BrainStudio): Repositorio de la segunda aplicación móvil para...

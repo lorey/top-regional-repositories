@@ -1,29 +1,29 @@
 # Popular Repositories in Algeria
 
-These are the most-starred repositories from programmers based in Algeria:
+These are the repositories with the highest ratio of stars from programmers based in Algeria:
 
-- [algeria-cities](https://github.com/othmanus/algeria-cities)
-- [alfanous](https://github.com/Alfanous-team/alfanous)
-- [dzlibs](https://github.com/01walid/dzlibs)
-- [iogrowCRM](https://github.com/ioGrow/iogrowCRM)
-- [algeria-meetup](https://github.com/algeriatech/algeria-meetup)
-- [BAC-website-proposition](https://github.com/Pinnovate/BAC-website-proposition)
-- [DZ-repos](https://github.com/GitHubAlgeria/DZ-repos)
-- [AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)
-- [arabicstemmer](https://github.com/assem-ch/arabicstemmer)
-- [mishkal](https://github.com/linuxscout/mishkal)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [reactide](https://github.com/reactide/reactide)
-- [ahaggar](https://github.com/tixxdz/ahaggar)
-- [Algerian-map](https://github.com/Reddine/Algerian-map)
-- [autodeploy-github-bitbucket](https://github.com/kossa/autodeploy-github-bitbucket)
-- [progressive-web-app-starter-kit](https://github.com/houssem-yahiaoui/progressive-web-app-starter-kit)
-- [fosjump](https://github.com/fosjump/fosjump)
-- [emberfyjs](https://github.com/tarikbenmerar/emberfyjs)
-- [form2json](https://github.com/ismnoiet/form2json)
-- [laravel-alpha-widget](https://github.com/breda/laravel-alpha-widget)
-- [Dinakit](https://github.com/bkader/Dinakit)
-- [virtuapi-dz](https://github.com/acigna/virtuapi-dz)
-- [my-arch-stuff](https://github.com/01walid/my-arch-stuff)
-- [algeriajs](https://github.com/rouabhi/algeriajs)
-- [ionic-material-sliding-tabs](https://github.com/bigali/ionic-material-sliding-tabs)
+- [algeria-cities](https://github.com/othmanus/algeria-cities): Une liste de toutes les communes de l'Algérie p...
+- [alfanous](https://github.com/Alfanous-team/alfanous): Alfanous is an Arabic search engine API provide...
+- [dzlibs](https://github.com/01walid/dzlibs): A community-driven Algerian index of reusable a...
+- [iogrowCRM](https://github.com/ioGrow/iogrowCRM): CRM for Social Selling, on Google. Integrated w...
+- [algeria-meetup](https://github.com/algeriatech/algeria-meetup): Generic web site for algerian meetups
+- [BAC-website-proposition](https://github.com/Pinnovate/BAC-website-proposition): A simple Pinnovate experiment for a better Bacc...
+- [DZ-repos](https://github.com/GitHubAlgeria/DZ-repos): A plain list of repos that might be of interest...
+- [AlgerianAdministrativeDivision](https://github.com/mohsenuss91/AlgerianAdministrativeDivision): Administrative division of Algeria (Wilayas - D...
+- [arabicstemmer](https://github.com/assem-ch/arabicstemmer): Assem's Arabic Light Stemmer is a snowball-base...
+- [mishkal](https://github.com/linuxscout/mishkal): Mishkal is an arabic text vocalization software
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [reactide](https://github.com/reactide/reactide): 
+- [ahaggar](https://github.com/tixxdz/ahaggar): The Ahaggar Framework
+- [Algerian-map](https://github.com/Reddine/Algerian-map): Map of Algeria for jVectorMap and JQVMap jQuery...
+- [autodeploy-github-bitbucket](https://github.com/kossa/autodeploy-github-bitbucket): A simple PHP script to auto deploy from github ...
+- [progressive-web-app-starter-kit](https://github.com/houssem-yahiaoui/progressive-web-app-starter-kit): Your Progressive Web Application starter pack
+- [fosjump](https://github.com/fosjump/fosjump): FOS Jump generator. Where you can contribute to...
+- [emberfyjs](https://github.com/tarikbenmerar/emberfyjs): A Javascript Micro Framework for simple view ma...
+- [form2json](https://github.com/ismnoiet/form2json): A Chrome Extension to save forms values into a ...
+- [laravel-alpha-widget](https://github.com/breda/laravel-alpha-widget): Simple Widget Manager For Laravel 5
+- [Dinakit](https://github.com/bkader/Dinakit): DinaKit Framework by @bkader (DZ)
+- [virtuapi-dz](https://github.com/acigna/virtuapi-dz): Acigna VirtUAPI-DZ - API de l'université algéri...
+- [my-arch-stuff](https://github.com/01walid/my-arch-stuff): A personal repository of dotfiles, configs, scr...
+- [algeriajs](https://github.com/rouabhi/algeriajs): algeria.js is a simple Node.js package that pro...
+- [ionic-material-sliding-tabs](https://github.com/bigali/ionic-material-sliding-tabs): material design sliding tabs for ionic

@@ -1,29 +1,29 @@
 # Popular Repositories in Norway
 
-These are the most-starred repositories from programmers based in Norway:
+These are the repositories with the highest ratio of stars from programmers based in Norway:
 
-- [unleash](https://github.com/Unleash/unleash)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [xp](https://github.com/enonic/xp)
-- [purplejs](https://github.com/purplejs/purplejs)
-- [NoCommons](https://github.com/bekkopen/NoCommons)
-- [hdo-site](https://github.com/holderdeord/hdo-site)
-- [imbo](https://github.com/imbo/imbo)
-- [ctop](https://github.com/bcicen/ctop)
-- [roc](https://github.com/rocjs/roc)
-- [vinmonopolet](https://github.com/rexxars/vinmonopolet)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [plan](https://github.com/adamcik/plan)
-- [devilry-django](https://github.com/devilry/devilry-django)
-- [jottalib](https://github.com/havardgulldahl/jottalib)
-- [comics](https://github.com/jodal/comics)
-- [wikipendium.no](https://github.com/stianjensen/wikipendium.no)
-- [old-ntnu-exams](https://github.com/dvikan/old-ntnu-exams)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [constretto-core](https://github.com/constretto/constretto-core)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Adressaway](https://github.com/myth/Adressaway)
-- [xbmc-addon-nrk](https://github.com/tamland/xbmc-addon-nrk)
-- [retire.js](https://github.com/RetireJS/retire.js)
-- [buster](https://github.com/busterjs/buster)
+- [unleash](https://github.com/Unleash/unleash): Unleash is an enterprise ready feature toggles ...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [xp](https://github.com/enonic/xp): Enonic XP
+- [purplejs](https://github.com/purplejs/purplejs): PurpleJS framework :rocket: - A javascript appl...
+- [NoCommons](https://github.com/bekkopen/NoCommons): The NoCommons library is a collection of helper...
+- [hdo-site](https://github.com/holderdeord/hdo-site): Parliamentary monitoring website for Norway
+- [imbo](https://github.com/imbo/imbo): Imbo is an image "server" that can be used to a...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [roc](https://github.com/rocjs/roc): :bird: Modern JavaScript Development Ecosystem
+- [vinmonopolet](https://github.com/rexxars/vinmonopolet): Extracts information on products, categories an...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [plan](https://github.com/adamcik/plan): Timetable generator
+- [devilry-django](https://github.com/devilry/devilry-django): Devilry project main repository
+- [jottalib](https://github.com/havardgulldahl/jottalib): A library to access files stored at jottacloud....
+- [comics](https://github.com/jodal/comics): comics is a web comics aggregator
+- [wikipendium.no](https://github.com/stianjensen/wikipendium.no): Compendiums edited as a wiki.
+- [old-ntnu-exams](https://github.com/dvikan/old-ntnu-exams): Mostly computer science exams.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [constretto-core](https://github.com/constretto/constretto-core): Constretto is a versatile configuration toolkit...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Adressaway](https://github.com/myth/Adressaway): Removes paywall on adressa.no, rbnett.no and sm...
+- [xbmc-addon-nrk](https://github.com/tamland/xbmc-addon-nrk): NRK Nett-TV for XBMC
+- [retire.js](https://github.com/RetireJS/retire.js): scanner detecting the use of JavaScript librari...
+- [buster](https://github.com/busterjs/buster): A powerful suite of automated test tools for Ja...

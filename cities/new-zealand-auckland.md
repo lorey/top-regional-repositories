@@ -1,29 +1,29 @@
 # Popular Repositories in Auckland
 
-These are the most-starred repositories from programmers based in Auckland:
+These are the repositories with the highest ratio of stars from programmers based in Auckland:
 
-- [SncRedisBundle](https://github.com/vend/SncRedisBundle)
-- [new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [silverstripe-framework](https://github.com/silverstripe/silverstripe-framework)
-- [kasper](https://github.com/movio/kasper)
-- [consistent.js](https://github.com/karlvr/consistent.js)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [kt](https://github.com/fgeller/kt)
-- [silverstripe-cms](https://github.com/silverstripe/silverstripe-cms)
-- [reactide](https://github.com/reactide/reactide)
-- [ava](https://github.com/SafeStack/ava)
-- [birdsong](https://github.com/rowanoulton/birdsong)
-- [react-native-interactable](https://github.com/wix/react-native-interactable)
-- [examples](https://github.com/OpenCMISS/examples)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [cm](https://github.com/OpenCMISS/cm)
-- [prepack](https://github.com/facebook/prepack)
-- [vending-machine](https://github.com/snikch/vending-machine)
-- [kubernetes-el](https://github.com/chrisbarrett/kubernetes-el)
-- [linz2osm](https://github.com/opennewzealand/linz2osm)
-- [hackakl](https://github.com/civichacknz/hackakl)
-- [mmbot](https://github.com/mmbot/mmbot)
-- [cellml](https://github.com/OpenCMISS-Dependencies/cellml)
+- [SncRedisBundle](https://github.com/vend/SncRedisBundle): A Redis bundle for Symfony2 supporting Predis a...
+- [new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data): A list of New Zealand Datasets and APIs
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [silverstripe-framework](https://github.com/silverstripe/silverstripe-framework): SilverStripe Framework, the MVC framework that ...
+- [kasper](https://github.com/movio/kasper): Kasper is a Go library for Kafka stream processing
+- [consistent.js](https://github.com/karlvr/consistent.js): Consistent is a small and simple Javascript fra...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [kt](https://github.com/fgeller/kt): Kafka command line tool
+- [silverstripe-cms](https://github.com/silverstripe/silverstripe-cms): SilverStripe CMS - this is a module for SilverS...
+- [reactide](https://github.com/reactide/reactide): 
+- [ava](https://github.com/SafeStack/ava): AVA - Human Vulnerability Scanner (Core)
+- [birdsong](https://github.com/rowanoulton/birdsong): Birdsong creates a natural soundscape out of a ...
+- [react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance...
+- [examples](https://github.com/OpenCMISS/examples): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [cm](https://github.com/OpenCMISS/cm): 
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [vending-machine](https://github.com/snikch/vending-machine): Ruby client for the Vend API. Access your Vend ...
+- [kubernetes-el](https://github.com/chrisbarrett/kubernetes-el): Emacs porcelain for Kubernetes.
+- [linz2osm](https://github.com/opennewzealand/linz2osm): Some tools for helping move LINZ data into Open...
+- [hackakl](https://github.com/civichacknz/hackakl): 
+- [mmbot](https://github.com/mmbot/mmbot): A C# port of Hubot
+- [cellml](https://github.com/OpenCMISS-Dependencies/cellml): 

@@ -1,29 +1,29 @@
 # Popular Repositories in Vancouver
 
-These are the most-starred repositories from programmers based in Vancouver:
+These are the repositories with the highest ratio of stars from programmers based in Vancouver:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [mobifyjs](https://github.com/mobify/mobifyjs)
-- [reactide](https://github.com/reactide/reactide)
-- [vancouver](https://github.com/nodeschool/vancouver)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [310](https://github.com/ubccpsc/310)
-- [localstack](https://github.com/atlassian/localstack)
-- [mobify-code-style](https://github.com/mobify/mobify-code-style)
-- [yolk](https://github.com/garbles/yolk)
-- [dispatch](https://github.com/ubyssey/dispatch)
-- [ctop](https://github.com/bcicen/ctop)
-- [Alike](https://github.com/axiomzen/Alike)
-- [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [guetzli](https://github.com/google/guetzli)
-- [python-fire](https://github.com/google/python-fire)
-- [lambda-comments](https://github.com/jimpick/lambda-comments)
-- [canada](https://github.com/vanruby/canada)
-- [howto-git-bisect](https://github.com/pnavarrc/howto-git-bisect)
-- [openparliament](https://github.com/rhymeswithcycle/openparliament)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [mobifyjs](https://github.com/mobify/mobifyjs): Mobify.js is an open source library for improvi...
+- [reactide](https://github.com/reactide/reactide): 
+- [vancouver](https://github.com/nodeschool/vancouver): nodeschool - Vancouver, British Columbia chapter.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [310](https://github.com/ubccpsc/310): Main course webpage for CPSC 310
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [mobify-code-style](https://github.com/mobify/mobify-code-style): 📚 Mobify's coding style and standards!
+- [yolk](https://github.com/garbles/yolk): :egg: A library for building asynchronous user ...
+- [dispatch](https://github.com/ubyssey/dispatch): A publishing platform for modern newspapers.
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Alike](https://github.com/axiomzen/Alike): A simple-but-useful kNN library for NodeJS, com...
+- [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell): A practical functional programming library for ...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [guetzli](https://github.com/google/guetzli): 
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [lambda-comments](https://github.com/jimpick/lambda-comments): Blog commenting system built with AWS Lambda
+- [canada](https://github.com/vanruby/canada): Adds support for Canadian programming conventio...
+- [howto-git-bisect](https://github.com/pnavarrc/howto-git-bisect): Find bugs quickly with `git bisect`
+- [openparliament](https://github.com/rhymeswithcycle/openparliament): Keeping tabs on Canada's Parliament
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...

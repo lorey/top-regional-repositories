@@ -1,29 +1,29 @@
 # Popular Repositories in Chad
 
-These are the most-starred repositories from programmers based in Chad:
+These are the repositories with the highest ratio of stars from programmers based in Chad:
 
-- [rabbitvcs](https://github.com/rabbitvcs/rabbitvcs)
-- [teach.github.com](https://github.com/github-archive/teach.github.com)
-- [solarized](https://github.com/brantb/solarized)
-- [studio3](https://github.com/aptana/studio3)
-- [collection](https://github.com/bento-io/collection)
-- [fathom](https://github.com/markdalgleish/fathom)
-- [magpie](https://github.com/charlesthomas/magpie)
-- [Windows-Driver-Frameworks](https://github.com/Microsoft/Windows-Driver-Frameworks)
-- [100-gdb-tips](https://github.com/hellogcc/100-gdb-tips)
-- [JustDecompileEngine](https://github.com/telerik/JustDecompileEngine)
-- [vimrc](https://github.com/vgod/vimrc)
-- [quizzes-web](https://github.com/asm-products/quizzes-web)
-- [mui](https://github.com/prodigeni/mui)
-- [litecoin](https://github.com/prodigeni/litecoin)
-- [outside](https://github.com/MatheusAvellar/outside)
-- [cccc](https://github.com/bbannier/cccc)
-- [lockerbox-deleteme](https://github.com/prodigeni/lockerbox-deleteme)
-- [reddit-plugin-f2p](https://github.com/prodigeni/reddit-plugin-f2p)
-- [Reddit-Read](https://github.com/ioangogo/Reddit-Read)
-- [goconftw.github.io](https://github.com/golangtw/goconftw.github.io)
-- [elibrary](https://github.com/drewbdennis/elibrary)
-- [zclassic](https://github.com/MercerWeiss/zclassic)
-- [teeworlds](https://github.com/GreYFoX/teeworlds)
-- [dumpdecrypted](https://github.com/supermancahcah/dumpdecrypted)
-- [CivSpy](https://github.com/DevotedMC/CivSpy)
+- [rabbitvcs](https://github.com/rabbitvcs/rabbitvcs): The new home of rabbitvcs
+- [teach.github.com](https://github.com/github-archive/teach.github.com): The open source teaching materials site for Git...
+- [solarized](https://github.com/brantb/solarized): precision color scheme for multiple application...
+- [studio3](https://github.com/aptana/studio3): This repository contains the code for core comp...
+- [collection](https://github.com/bento-io/collection): A guided tour through the best free coding tuto...
+- [fathom](https://github.com/markdalgleish/fathom): Fathom.js - Present JavaScript in its native en...
+- [magpie](https://github.com/charlesthomas/magpie): Git-backed Evernote replacement
+- [Windows-Driver-Frameworks](https://github.com/Microsoft/Windows-Driver-Frameworks): WDF makes it easy to write high-quality Windows...
+- [100-gdb-tips](https://github.com/hellogcc/100-gdb-tips): A collection of gdb tips. 100 maybe just mean m...
+- [JustDecompileEngine](https://github.com/telerik/JustDecompileEngine): The decompilation engine of JustDecompile
+- [vimrc](https://github.com/vgod/vimrc): vgod's vimrc
+- [quizzes-web](https://github.com/asm-products/quizzes-web): Take quizzes easily
+- [mui](https://github.com/prodigeni/mui): Archlinux Ultimate Install
+- [litecoin](https://github.com/prodigeni/litecoin): Litecoin source tree
+- [outside](https://github.com/MatheusAvellar/outside): Profile page layout test for the best-seller ga...
+- [cccc](https://github.com/bbannier/cccc): 
+- [lockerbox-deleteme](https://github.com/prodigeni/lockerbox-deleteme): Automatic development environment setup for Locker
+- [reddit-plugin-f2p](https://github.com/prodigeni/reddit-plugin-f2p): april fools 2013
+- [Reddit-Read](https://github.com/ioangogo/Reddit-Read): An python scrip that reads a reddit self. post ...
+- [goconftw.github.io](https://github.com/golangtw/goconftw.github.io): Golang Conference in Taiwan Official Website
+- [elibrary](https://github.com/drewbdennis/elibrary): online library system
+- [zclassic](https://github.com/MercerWeiss/zclassic): Zclassic is a Zcash Fork with No 20% Founders Tax
+- [teeworlds](https://github.com/GreYFoX/teeworlds): Teeworlds is A retro multiplayer shooter, DDRac...
+- [dumpdecrypted](https://github.com/supermancahcah/dumpdecrypted): Dumps decrypted mach-o files from encrypted iPh...
+- [CivSpy](https://github.com/DevotedMC/CivSpy): Just tracking things.

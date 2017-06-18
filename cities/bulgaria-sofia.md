@@ -1,29 +1,29 @@
 # Popular Repositories in Sofia
 
-These are the most-starred repositories from programmers based in Sofia:
+These are the repositories with the highest ratio of stars from programmers based in Sofia:
 
-- [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc)
-- [MyTested.WebApi](https://github.com/ivaylokenov/MyTested.WebApi)
-- [OpenJudgeSystem](https://github.com/NikolayIT/OpenJudgeSystem)
-- [AspNet.Mvc.TypedRouting](https://github.com/ivaylokenov/AspNet.Mvc.TypedRouting)
-- [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template)
-- [doctest](https://github.com/onqtam/doctest)
-- [jump](https://github.com/gsamokovarov/jump)
-- [dancewithme](https://github.com/openmediabg/dancewithme)
-- [evans](https://github.com/skanev/evans)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Haskell-1](https://github.com/HackBulgaria/Haskell-1)
-- [ShowcaseSystem](https://github.com/TelerikAcademy/ShowcaseSystem)
-- [ASP.NET-MVC-Lambda-Expression-Helpers](https://github.com/ivaylokenov/ASP.NET-MVC-Lambda-Expression-Helpers)
-- [ruby-retrospective-1](https://github.com/fmi/ruby-retrospective-1)
-- [Algo-1](https://github.com/HackBulgaria/Algo-1)
-- [opendata](https://github.com/governmentbg/opendata)
-- [dynamix](https://github.com/iboB/dynamix)
-- [proactjs](https://github.com/proactjs/proactjs)
-- [Silla.IO](https://github.com/WeAreAthlon/Silla.IO)
-- [skeptic](https://github.com/skanev/skeptic)
-- [dotfiles](https://github.com/skanev/dotfiles)
-- [cookiecutter-django-ansible](https://github.com/HackSoftware/cookiecutter-django-ansible)
-- [egov-requirements](https://github.com/governmentbg/egov-requirements)
-- [AspNetCore.Mvc.HttpActionResults](https://github.com/ivaylokenov/AspNetCore.Mvc.HttpActionResults)
-- [Programming101-3](https://github.com/HackBulgaria/Programming101-3)
+- [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc): Fluent testing framework for ASP.NET Core MVC.
+- [MyTested.WebApi](https://github.com/ivaylokenov/MyTested.WebApi): Fluent testing framework for ASP.NET Web API 2.
+- [OpenJudgeSystem](https://github.com/NikolayIT/OpenJudgeSystem): An open source system for online algorithm comp...
+- [AspNet.Mvc.TypedRouting](https://github.com/ivaylokenov/AspNet.Mvc.TypedRouting): A collection of extension methods providing str...
+- [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template): A ready-to-use template for ASP.NET MVC with re...
+- [doctest](https://github.com/onqtam/doctest): The lightest feature-rich C++98/C++11 single-he...
+- [jump](https://github.com/gsamokovarov/jump): Jump helps you navigate your file system faster...
+- [dancewithme](https://github.com/openmediabg/dancewithme): Приставка за браузър, показваща предупредителен...
+- [evans](https://github.com/skanev/evans): The website of a bunch of courses in FMI
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Haskell-1](https://github.com/HackBulgaria/Haskell-1): Functional Programming with Haskell
+- [ShowcaseSystem](https://github.com/TelerikAcademy/ShowcaseSystem): Showcase system for students projects in Teleri...
+- [ASP.NET-MVC-Lambda-Expression-Helpers](https://github.com/ivaylokenov/ASP.NET-MVC-Lambda-Expression-Helpers): A collection of extension methods providing str...
+- [ruby-retrospective-1](https://github.com/fmi/ruby-retrospective-1): 
+- [Algo-1](https://github.com/HackBulgaria/Algo-1): The first edition of the algo course in Hack Bu...
+- [opendata](https://github.com/governmentbg/opendata): Събирателно хранилище за всички проекти, свърза...
+- [dynamix](https://github.com/iboB/dynamix): :fish_cake: A new take on polymorphism in C++
+- [proactjs](https://github.com/proactjs/proactjs): Reactive JavaScript Object Properties
+- [Silla.IO](https://github.com/WeAreAthlon/Silla.IO): PHP Application Development Framework.
+- [skeptic](https://github.com/skanev/skeptic): Points out annoying things in Ruby code
+- [dotfiles](https://github.com/skanev/dotfiles): My dot files
+- [cookiecutter-django-ansible](https://github.com/HackSoftware/cookiecutter-django-ansible): Powered by Cookiecutter, Cookiecutter Django An...
+- [egov-requirements](https://github.com/governmentbg/egov-requirements): Изисквания към интеграцията на системи в рамкит...
+- [AspNetCore.Mvc.HttpActionResults](https://github.com/ivaylokenov/AspNetCore.Mvc.HttpActionResults): A collection of HTTP status code action results...
+- [Programming101-3](https://github.com/HackBulgaria/Programming101-3): The third issue of the Programming 101 course w...

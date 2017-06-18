@@ -1,29 +1,29 @@
 # Popular Repositories in Berkeley
 
-These are the most-starred repositories from programmers based in Berkeley:
+These are the repositories with the highest ratio of stars from programmers based in Berkeley:
 
-- [quilt](https://github.com/quilt/quilt)
-- [calcentral](https://github.com/ets-berkeley-edu/calcentral)
-- [python-seminar](https://github.com/profjsb/python-seminar)
-- [berkeley](https://github.com/thehackerwithin/berkeley)
-- [choose-hive](https://github.com/nherson/choose-hive)
-- [python-berkeley](https://github.com/dlab-berkeley/python-berkeley)
-- [python-bootcamp](https://github.com/profjsb/python-bootcamp)
-- [ray](https://github.com/ray-project/ray)
-- [peerlibrary](https://github.com/peerlibrary/peerlibrary)
-- [BIDMat](https://github.com/BIDData/BIDMat)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [stat238-fall-2016](https://github.com/berkeley-stat238/stat238-fall-2016)
-- [berkeleyeecs](https://github.com/oskibear2015/berkeleyeecs)
-- [BIDMach](https://github.com/BIDData/BIDMach)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ok](https://github.com/Cal-CS-61A-Staff/ok)
-- [datascience](https://github.com/data-8/datascience)
-- [cgt](https://github.com/joschu/cgt)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [UCBSE](https://github.com/alexgtom/UCBSE)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [jupyterhub-k8s](https://github.com/data-8/jupyterhub-k8s)
-- [SCADS](https://github.com/radlab/SCADS)
+- [quilt](https://github.com/quilt/quilt): Quilt
+- [calcentral](https://github.com/ets-berkeley-edu/calcentral): 
+- [python-seminar](https://github.com/profjsb/python-seminar): Python Seminar Course at UC Berkeley (AY 250)
+- [berkeley](https://github.com/thehackerwithin/berkeley): The Hacker Within at the University of Californ...
+- [choose-hive](https://github.com/nherson/choose-hive): Bash script to find the least congested hive ma...
+- [python-berkeley](https://github.com/dlab-berkeley/python-berkeley): python resources of berkeley curated at a place
+- [python-bootcamp](https://github.com/profjsb/python-bootcamp): Python Bootcamp docs and lectures (UC Berkeley)
+- [ray](https://github.com/ray-project/ray): An experimental distributed execution engine
+- [peerlibrary](https://github.com/peerlibrary/peerlibrary): Facilitating the global conversation on academi...
+- [BIDMat](https://github.com/BIDData/BIDMat): A CPU and GPU-accelerated matrix library for da...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [stat238-fall-2016](https://github.com/berkeley-stat238/stat238-fall-2016): This repository holds all course materials for ...
+- [berkeleyeecs](https://github.com/oskibear2015/berkeleyeecs): eecs eecs eecs eecs eecs eecs eecs eecs eecs ee...
+- [BIDMach](https://github.com/BIDData/BIDMach): CPU and GPU-accelerated Machine Learning Library
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ok](https://github.com/Cal-CS-61A-Staff/ok): ok.py supports programming projects by running ...
+- [datascience](https://github.com/data-8/datascience): A Python library for introductory data science
+- [cgt](https://github.com/joschu/cgt): Computation Graph Toolkit
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [UCBSE](https://github.com/alexgtom/UCBSE): The UC Berkeley Schedule Enhancer (UCBSE) is a ...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [jupyterhub-k8s](https://github.com/data-8/jupyterhub-k8s): Data 8's deployment of JupyterHub on Kubernetes
+- [SCADS](https://github.com/radlab/SCADS): Scalable Consistency Adjustable Data Storage

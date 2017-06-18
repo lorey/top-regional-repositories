@@ -1,29 +1,29 @@
 # Popular Repositories in Taiwan
 
-These are the most-starred repositories from programmers based in Taiwan:
+These are the repositories with the highest ratio of stars from programmers based in Taiwan:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Clairvoyance](https://github.com/abalone0204/Clairvoyance)
-- [Learn-Git-in-30-days](https://github.com/doggy8088/Learn-Git-in-30-days)
-- [jobs](https://github.com/f2etw/jobs)
-- [frontend-tools](https://github.com/doggy8088/frontend-tools)
-- [hackmd](https://github.com/hackmdio/hackmd)
-- [reactjs101](https://github.com/kdchang/reactjs101)
-- [OpenPTT](https://github.com/OpenPTT/OpenPTT)
-- [PIME](https://github.com/EasyIME/PIME)
-- [react-quick-tutorial](https://github.com/shiningjason1989/react-quick-tutorial)
-- [CSS-Guidelines](https://github.com/doggy8088/CSS-Guidelines)
-- [better-exceptions](https://github.com/Qix-/better-exceptions)
-- [PttChrome](https://github.com/iamchucky/PttChrome)
-- [grs](https://github.com/toomore/grs)
-- [pttbbs](https://github.com/ptt/pttbbs)
-- [zipcodetw](https://github.com/moskytw/zipcodetw)
-- [hackfoldr](https://github.com/hackfoldr/hackfoldr)
-- [kktixRobot](https://github.com/mrbigmouth/kktixRobot)
-- [ctop](https://github.com/bcicen/ctop)
-- [facebooc](https://github.com/jserv/facebooc)
-- [KeyKey](https://github.com/yahoo/KeyKey)
-- [twreporter-react](https://github.com/twreporter/twreporter-react)
-- [docker-workshop](https://github.com/William-Yeh/docker-workshop)
-- [python-fire](https://github.com/google/python-fire)
-- [slides](https://github.com/TritonHo/slides)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Clairvoyance](https://github.com/abalone0204/Clairvoyance):  Make Taiwan a Better Place to Work
+- [Learn-Git-in-30-days](https://github.com/doggy8088/Learn-Git-in-30-days): 這是 Will 保哥在 2013 第 6 屆 iT 邦幫忙鐵人賽年度大獎的得獎著作【30 天精...
+- [jobs](https://github.com/f2etw/jobs): Our jobs board.
+- [frontend-tools](https://github.com/doggy8088/frontend-tools): 各式 Web 前端開發工具整理
+- [hackmd](https://github.com/hackmdio/hackmd): Realtime collaborative markdown notes on all pl...
+- [reactjs101](https://github.com/kdchang/reactjs101): 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 ReactJ...
+- [OpenPTT](https://github.com/OpenPTT/OpenPTT): A mobile app for telnet://ptt.cc
+- [PIME](https://github.com/EasyIME/PIME): Develop input methods for Windows easily with P...
+- [react-quick-tutorial](https://github.com/shiningjason1989/react-quick-tutorial): :rocket: 讓你用最短時間，充分體會 React 的脈絡思維
+- [CSS-Guidelines](https://github.com/doggy8088/CSS-Guidelines): 撰寫可管理、可維護的 CSS 高階技巧
+- [better-exceptions](https://github.com/Qix-/better-exceptions): Pretty and useful exceptions in Python, automat...
+- [PttChrome](https://github.com/iamchucky/PttChrome): A GNU/GPL telnet client for connecting to BBS s...
+- [grs](https://github.com/toomore/grs): 📈 台灣上市上櫃股票價格擷取（Fetch Taiwan Stock Exchange data...
+- [pttbbs](https://github.com/ptt/pttbbs): PTT BBS source code
+- [zipcodetw](https://github.com/moskytw/zipcodetw): Find Taiwan ZIP code by address fuzzily.
+- [hackfoldr](https://github.com/hackfoldr/hackfoldr): organize gdoc and hackpad for hackathons
+- [kktixRobot](https://github.com/mrbigmouth/kktixRobot): chrome外掛 kktix搶票程式
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [facebooc](https://github.com/jserv/facebooc): Yet another Facebook clone written in C
+- [KeyKey](https://github.com/yahoo/KeyKey): 
+- [twreporter-react](https://github.com/twreporter/twreporter-react): twreporter site with node.js
+- [docker-workshop](https://github.com/William-Yeh/docker-workshop): Slides and lab materials for my Docker Workshop...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [slides](https://github.com/TritonHo/slides): it is a repository to store all slides used by ...

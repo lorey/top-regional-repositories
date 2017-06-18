@@ -1,29 +1,29 @@
 # Popular Repositories in Iran
 
-These are the most-starred repositories from programmers based in Iran:
+These are the repositories with the highest ratio of stars from programmers based in Iran:
 
-- [vazir-font](https://github.com/rastikerdar/vazir-font)
-- [moment-jalaali](https://github.com/jalaali/moment-jalaali)
-- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl)
-- [hazm](https://github.com/sobhe/hazm)
-- [pwt.datepicker](https://github.com/babakhani/pwt.datepicker)
-- [jDateTime](https://github.com/sallar/jDateTime)
-- [awesome-persian](https://github.com/rastikerdar/awesome-persian)
-- [DroidPersianCalendar](https://github.com/ebraminio/DroidPersianCalendar)
-- [samim-font](https://github.com/rastikerdar/samim-font)
-- [iran](https://github.com/arastu/iran)
-- [made-in-iran](https://github.com/mohebifar/made-in-iran)
-- [angular-persian](https://github.com/mohebifar/angular-persian)
-- [moratab](https://github.com/sobhe/moratab)
-- [buttercup](https://github.com/buttercup/buttercup)
-- [persian.js](https://github.com/usablica/persian.js)
-- [react-persian-datepicker](https://github.com/evandhq/react-persian-datepicker)
-- [bootstrap-jalali-datepicker](https://github.com/mousavian/bootstrap-jalali-datepicker)
-- [vazir-code-font](https://github.com/rastikerdar/vazir-code-font)
-- [bestoon](https://github.com/jadijadi/bestoon)
-- [BehdadFont](https://github.com/font-store/BehdadFont)
-- [rtlcss](https://github.com/MohammadYounes/rtlcss)
-- [PersianDate](https://github.com/babakhani/PersianDate)
-- [PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)
-- [pfont](https://github.com/pfont/pfont)
-- [persianDatepicker](https://github.com/behzadi/persianDatepicker)
+- [vazir-font](https://github.com/rastikerdar/vazir-font): A Persian (Farsi) Font - قلم (فونت) فارسی وزیر
+- [moment-jalaali](https://github.com/jalaali/moment-jalaali): A Jalaali (Jalali, Persian, Khorshidi, Shamsi) ...
+- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl): RTL Theme for Bootstrap v3.x
+- [hazm](https://github.com/sobhe/hazm): Python library for digesting Persian text.
+- [pwt.datepicker](https://github.com/babakhani/pwt.datepicker): Javascript jalali calendar capable datepicker w...
+- [jDateTime](https://github.com/sallar/jDateTime): [UNMAINTAINED] Jalali DateTime Class for PHP
+- [awesome-persian](https://github.com/rastikerdar/awesome-persian): لینک‌های ایرانی توسعه و طراحی
+- [DroidPersianCalendar](https://github.com/ebraminio/DroidPersianCalendar): Android Persian Calendar / تقویم فارسی اندروید 
+- [samim-font](https://github.com/rastikerdar/samim-font): A Persian (Farsi) Font - فونت (قلم) فارسی صمیم
+- [iran](https://github.com/arastu/iran): Administrative divisions of Iran in json and xm...
+- [made-in-iran](https://github.com/mohebifar/made-in-iran): A list of cool projects made in Iran
+- [angular-persian](https://github.com/mohebifar/angular-persian): :earth_asia: Persian tools for angular.js
+- [moratab](https://github.com/sobhe/moratab): Persian markdown editor.
+- [buttercup](https://github.com/buttercup/buttercup): :lock: Javascript Password Vault - Multi-Platfo...
+- [persian.js](https://github.com/usablica/persian.js): A simple library for Persian language localizat...
+- [react-persian-datepicker](https://github.com/evandhq/react-persian-datepicker): A Persian date-picker component for react.js
+- [bootstrap-jalali-datepicker](https://github.com/mousavian/bootstrap-jalali-datepicker): Twitter Bootstrap Jalali Datepicker
+- [vazir-code-font](https://github.com/rastikerdar/vazir-code-font): A Persian (farsi) Monospaced Font for coding - ...
+- [bestoon](https://github.com/jadijadi/bestoon): یک پروژه برای دیدن اینکه چطوری یک ایده می تونه ...
+- [BehdadFont](https://github.com/font-store/BehdadFont): Farbod: Persian/Arabic Open Source Font - بهداد...
+- [rtlcss](https://github.com/MohammadYounes/rtlcss): Framework for transforming  Cascading Style She...
+- [PersianDate](https://github.com/babakhani/PersianDate): javascript date library for parsing, validating...
+- [PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker): An Android library containing a shamsi (persian...
+- [pfont](https://github.com/pfont/pfont): Free persian font
+- [persianDatepicker](https://github.com/behzadi/persianDatepicker): A lightweight jQuery plugin that select persian...

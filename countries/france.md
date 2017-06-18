@@ -1,29 +1,29 @@
 # Popular Repositories in France
 
-These are the most-starred repositories from programmers based in France:
+These are the repositories with the highest ratio of stars from programmers based in France:
 
-- [france.code-civil](https://github.com/steeve/france.code-civil)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [jurismatic](https://github.com/jurismatic/jurismatic)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [reactide](https://github.com/reactide/reactide)
-- [contrats-francais](https://github.com/tibastral/contrats-francais)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [guetzli](https://github.com/google/guetzli)
-- [localstack](https://github.com/atlassian/localstack)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [python-fire](https://github.com/google/python-fire)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [marcel](https://github.com/brouberol/marcel)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [atoum](https://github.com/atoum/atoum)
-- [KNACSS](https://github.com/alsacreations/KNACSS)
-- [Gladys](https://github.com/GladysProject/Gladys)
-- [api-platform](https://github.com/api-platform/api-platform)
-- [RepubliqueNumerique](https://github.com/GouvernementFR/RepubliqueNumerique)
-- [recalbox-os](https://github.com/recalbox/recalbox-os)
-- [httplab](https://github.com/gchaincl/httplab)
+- [france.code-civil](https://github.com/steeve/france.code-civil): Le code civil français sous git
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [jurismatic](https://github.com/jurismatic/jurismatic): http://www.jurismatic.com
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [reactide](https://github.com/reactide/reactide): 
+- [contrats-francais](https://github.com/tibastral/contrats-francais): Contrats français
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [guetzli](https://github.com/google/guetzli): 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [marcel](https://github.com/brouberol/marcel): Le docker français :whale: :fr: 
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [atoum](https://github.com/atoum/atoum): The modern, simple and intuitive PHP unit testi...
+- [KNACSS](https://github.com/alsacreations/KNACSS): feuille de styles CSS sur-vitaminée
+- [Gladys](https://github.com/GladysProject/Gladys): Your home assistant on your Raspberry Pi built ...
+- [api-platform](https://github.com/api-platform/api-platform): The ultimate PHP framework to build modern web ...
+- [RepubliqueNumerique](https://github.com/GouvernementFR/RepubliqueNumerique): Projet de loi pour une République numérique. Pr...
+- [recalbox-os](https://github.com/recalbox/recalbox-os): The super repository for recalbox
+- [httplab](https://github.com/gchaincl/httplab): An interactive web server

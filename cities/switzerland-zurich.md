@@ -1,29 +1,29 @@
 # Popular Repositories in Zurich
 
-These are the most-starred repositories from programmers based in Zurich:
+These are the repositories with the highest ratio of stars from programmers based in Zurich:
 
-- [guetzli](https://github.com/google/guetzli)
-- [Transport](https://github.com/OpendataCH/Transport)
-- [fahrplan](https://github.com/dbrgn/fahrplan)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ctop](https://github.com/bcicen/ctop)
-- [swiss-maps](https://github.com/interactivethings/swiss-maps)
-- [HaskellerZ](https://github.com/meiersi/HaskellerZ)
-- [estatico](https://github.com/unic/estatico)
-- [python-fire](https://github.com/google/python-fire)
-- [web](https://github.com/studentenportal/web)
-- [httplab](https://github.com/gchaincl/httplab)
-- [catalog](https://github.com/interactivethings/catalog)
-- [transit-map](https://github.com/vasile/transit-map)
-- [webtuesday.ch](https://github.com/pneff/webtuesday.ch)
-- [editable.js](https://github.com/upfrontIO/editable.js)
-- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0)
-- [i18n-docs](https://github.com/local-ch/i18n-docs)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ic880a-gateway](https://github.com/ttn-zh/ic880a-gateway)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [upspin](https://github.com/upspin/upspin)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [plata](https://github.com/matthiask/plata)
-- [barefoot](https://github.com/swissmanu/barefoot)
-- [vagrant-php](https://github.com/dominikzogg/vagrant-php)
+- [guetzli](https://github.com/google/guetzli): 
+- [Transport](https://github.com/OpendataCH/Transport): Swiss public transport API
+- [fahrplan](https://github.com/dbrgn/fahrplan): A SBB/CFF/FFS commandline based timetable clien...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [swiss-maps](https://github.com/interactivethings/swiss-maps): Swiss geodata as TopoJSON
+- [HaskellerZ](https://github.com/meiersi/HaskellerZ): Notes and files from HaskellerZ meetups.
+- [estatico](https://github.com/unic/estatico): Estático – Static site generator for frontend u...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [web](https://github.com/studentenportal/web): Das HSR Studentenportal 2.0
+- [httplab](https://github.com/gchaincl/httplab): An interactive web server
+- [catalog](https://github.com/interactivethings/catalog): Create living style guides using Markdown or React
+- [transit-map](https://github.com/vasile/transit-map): The server and client used in transit map simul...
+- [webtuesday.ch](https://github.com/pneff/webtuesday.ch): The official webtuesday.ch website
+- [editable.js](https://github.com/upfrontIO/editable.js): Friendly contenteditable API
+- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0): CHVote 1.0 repository
+- [i18n-docs](https://github.com/local-ch/i18n-docs): Maintain translations in Google Docs and export...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ic880a-gateway](https://github.com/ttn-zh/ic880a-gateway): Reference setup for iC880a gateways running The...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [plata](https://github.com/matthiask/plata): Plata - the lean and mean Django-based Shop
+- [barefoot](https://github.com/swissmanu/barefoot): Barefoot makes code sharing between browser and...
+- [vagrant-php](https://github.com/dominikzogg/vagrant-php): A easy-to-use, flexible vagrant setup for php w...

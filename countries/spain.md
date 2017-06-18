@@ -1,29 +1,29 @@
 # Popular Repositories in Spain
 
-These are the most-starred repositories from programmers based in Spain:
+These are the repositories with the highest ratio of stars from programmers based in Spain:
 
-- [consul](https://github.com/consul/consul)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [top-github-users-data](https://github.com/JJ/top-github-users-data)
-- [localstack](https://github.com/atlassian/localstack)
-- [datos](https://github.com/codeforspain/datos)
-- [ctop](https://github.com/bcicen/ctop)
-- [postcss-andalusian-stylesheets](https://github.com/bameda/postcss-andalusian-stylesheets)
-- [material-projs](https://github.com/redradix/material-projs)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [Rosie](https://github.com/Karumi/Rosie)
-- [Cupon](https://github.com/javiereguiluz/Cupon)
-- [Meneame](https://github.com/gallir/Meneame)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Enero-String-Calculator](https://github.com/12meses12katas/Enero-String-Calculator)
-- [elcodi](https://github.com/elcodi/elcodi)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [guetzli](https://github.com/google/guetzli)
-- [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [sermepa](https://github.com/ssheduardo/sermepa)
-- [cartodb](https://github.com/CartoDB/cartodb)
-- [Lungo.js](https://github.com/tapquo/Lungo.js)
-- [python-fire](https://github.com/google/python-fire)
-- [reactide](https://github.com/reactide/reactide)
+- [consul](https://github.com/consul/consul): Consul - Open Government and E-Participation We...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [top-github-users-data](https://github.com/JJ/top-github-users-data): Data obtained with the top-github-users script
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [datos](https://github.com/codeforspain/datos): 
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [postcss-andalusian-stylesheets](https://github.com/bameda/postcss-andalusian-stylesheets): Postcss plugin for writing Andalusian Stylesheets.
+- [material-projs](https://github.com/redradix/material-projs): Material del curso JavaScript para Profesionales
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [Rosie](https://github.com/Karumi/Rosie): Rosie is an Android framework to create applica...
+- [Cupon](https://github.com/javiereguiluz/Cupon): Aplicación de prueba para aprender a programar ...
+- [Meneame](https://github.com/gallir/Meneame): Source code for the social aggregator Menéame (...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [Enero-String-Calculator](https://github.com/12meses12katas/Enero-String-Calculator): Kata del mes de Enero del 2011: String Calculator
+- [elcodi](https://github.com/elcodi/elcodi): E-commerce components for Symfony
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [guetzli](https://github.com/google/guetzli): 
+- [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle): The new (and simple) admin generator for Symfon...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [sermepa](https://github.com/ssheduardo/sermepa): Clase para utilizar la pasarela de pagos redsys...
+- [cartodb](https://github.com/CartoDB/cartodb): Location Intelligence & Data Visualization tool
+- [Lungo.js](https://github.com/tapquo/Lungo.js): A framework for developers who want to design, ...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [reactide](https://github.com/reactide/reactide): 

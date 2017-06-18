@@ -1,29 +1,29 @@
 # Popular Repositories in Bermuda
 
-These are the most-starred repositories from programmers based in Bermuda:
+These are the repositories with the highest ratio of stars from programmers based in Bermuda:
 
-- [GigCalendar](https://github.com/patrickmcsweeney/GigCalendar)
-- [alphasusu](https://github.com/alphasusu/alphasusu)
-- [code-dojo](https://github.com/denglert/code-dojo)
-- [opengovernment](https://github.com/opengovernment/opengovernment)
-- [alaveteli](https://github.com/mysociety/alaveteli)
-- [wordpos](https://github.com/moos/wordpos)
-- [u2f](https://github.com/ashtuchkin/u2f)
-- [mathnet-numerics](https://github.com/mathnet/mathnet-numerics)
-- [tiny_tds](https://github.com/rails-sqlserver/tiny_tds)
-- [speedread](https://github.com/pasky/speedread)
-- [free-software-testing-books](https://github.com/ligurio/free-software-testing-books)
-- [node-neo4j](https://github.com/thingdom/node-neo4j)
-- [gulp-app](https://github.com/sindresorhus/gulp-app)
-- [DNAmethylation_templates](https://github.com/cwarden45/DNAmethylation_templates)
-- [be-a-professional-programmer](https://github.com/yummy-pinghai/be-a-professional-programmer)
-- [LoginPrototype](https://github.com/trons/LoginPrototype)
-- [CakeCam](https://github.com/patrickmcsweeney/CakeCam)
-- [YoutubeExtractor](https://github.com/carlosf/YoutubeExtractor)
-- [twitteroauth](https://github.com/galvani/twitteroauth)
-- [AAMAS-Abstracts-Latex-Class-File](https://github.com/harryrose/AAMAS-Abstracts-Latex-Class-File)
-- [quenb-server](https://github.com/antineutron/quenb-server)
-- [red5](https://github.com/carlosf/red5)
-- [synote-multimedia-service](https://github.com/yunjiali/synote-multimedia-service)
-- [Test](https://github.com/as8g10/Test)
-- [Steam-Library-Manager](https://github.com/carlosf/Steam-Library-Manager)
+- [GigCalendar](https://github.com/patrickmcsweeney/GigCalendar): 
+- [alphasusu](https://github.com/alphasusu/alphasusu): 
+- [code-dojo](https://github.com/denglert/code-dojo): 
+- [opengovernment](https://github.com/opengovernment/opengovernment): OpenGovernment -- a project of the Participator...
+- [alaveteli](https://github.com/mysociety/alaveteli): Provide a Freedom of Information request system...
+- [wordpos](https://github.com/moos/wordpos): Part-of-speech utilities for node.js based on t...
+- [u2f](https://github.com/ashtuchkin/u2f): U2F Authentication for Node.js
+- [mathnet-numerics](https://github.com/mathnet/mathnet-numerics): Math.NET Numerics
+- [tiny_tds](https://github.com/rails-sqlserver/tiny_tds): TinyTDS - Simple and fast FreeTDS bindings for ...
+- [speedread](https://github.com/pasky/speedread): A simple terminal-based open source Spritz-alik...
+- [free-software-testing-books](https://github.com/ligurio/free-software-testing-books): List of free software testing resources
+- [node-neo4j](https://github.com/thingdom/node-neo4j): Neo4j graph database driver (REST API client) f...
+- [gulp-app](https://github.com/sindresorhus/gulp-app): Gulp as an app
+- [DNAmethylation_templates](https://github.com/cwarden45/DNAmethylation_templates): code for various types of types of DNA methylat...
+- [be-a-professional-programmer](https://github.com/yummy-pinghai/be-a-professional-programmer): 成为专业程序员路上用到的各种优秀资料、神器及框架
+- [LoginPrototype](https://github.com/trons/LoginPrototype): 
+- [CakeCam](https://github.com/patrickmcsweeney/CakeCam): Takes fotos of cake yo
+- [YoutubeExtractor](https://github.com/carlosf/YoutubeExtractor): A .NET library, that allows to download videos ...
+- [twitteroauth](https://github.com/galvani/twitteroauth): The first PHP Library to support OAuth for Twit...
+- [AAMAS-Abstracts-Latex-Class-File](https://github.com/harryrose/AAMAS-Abstracts-Latex-Class-File): A class file that can be used to create an abst...
+- [quenb-server](https://github.com/antineutron/quenb-server): Signage display system (server end) for the Ras...
+- [red5](https://github.com/carlosf/red5): Mirror of Red5
+- [synote-multimedia-service](https://github.com/yunjiali/synote-multimedia-service): Generate thumbnail pictures for video resources...
+- [Test](https://github.com/as8g10/Test): test
+- [Steam-Library-Manager](https://github.com/carlosf/Steam-Library-Manager): 

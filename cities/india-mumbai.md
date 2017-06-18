@@ -1,29 +1,29 @@
 # Popular Repositories in Mumbai
 
-These are the most-starred repositories from programmers based in Mumbai:
+These are the repositories with the highest ratio of stars from programmers based in Mumbai:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [reactide](https://github.com/reactide/reactide)
-- [CFAlertViewController](https://github.com/Codigami/CFAlertViewController)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [localstack](https://github.com/atlassian/localstack)
-- [Shuttle](https://github.com/timusus/Shuttle)
-- [python-fire](https://github.com/google/python-fire)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [gravity](https://github.com/marcobambini/gravity)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [frappe](https://github.com/frappe/frappe)
-- [postal](https://github.com/atech/postal)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [CameraKit-Android](https://github.com/flurgle/CameraKit-Android)
-- [ExpectAnim](https://github.com/florent37/ExpectAnim)
-- [algorithms](https://github.com/keon/algorithms)
-- [neurojs](https://github.com/janhuenermann/neurojs)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [reactide](https://github.com/reactide/reactide): 
+- [CFAlertViewController](https://github.com/Codigami/CFAlertViewController): 
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [Shuttle](https://github.com/timusus/Shuttle): Shuttle Music Player
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [frappe](https://github.com/frappe/frappe): Full Stack Web Framework in Python & JS. Used t...
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [CameraKit-Android](https://github.com/flurgle/CameraKit-Android): One of the hardest Android APIs made into a hig...
+- [ExpectAnim](https://github.com/florent37/ExpectAnim): Describe your animation and run !
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...

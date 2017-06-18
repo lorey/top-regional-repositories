@@ -1,29 +1,29 @@
 # Popular Repositories in Madagascar
 
-These are the most-starred repositories from programmers based in Madagascar:
+These are the repositories with the highest ratio of stars from programmers based in Madagascar:
 
-- [UsbDongle](https://github.com/daloji/UsbDongle)
-- [CMS-en-Ror](https://github.com/mikaoelitiana/CMS-en-Ror)
-- [fanorona](https://github.com/mavenix/fanorona)
-- [devmglisitra](https://github.com/facedevMG/devmglisitra)
-- [shoppingCart](https://github.com/parany/shoppingCart)
-- [fotsy-sass-bem](https://github.com/thonymg/fotsy-sass-bem)
-- [nice-css3-hmenu](https://github.com/FranckyU/nice-css3-hmenu)
-- [Hermes](https://github.com/HermesApp/Hermes)
-- [sugarcrm_dev](https://github.com/sugarcrm/sugarcrm_dev)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [true](https://github.com/oddbird/true)
-- [brackets-beautify](https://github.com/brackets-beautify/brackets-beautify)
-- [cf-release](https://github.com/cloudfoundry/cf-release)
-- [pimcore](https://github.com/pimcore/pimcore)
-- [libretaxi](https://github.com/ro31337/libretaxi)
-- [learnapollo](https://github.com/learnapollo/learnapollo)
-- [variety](https://github.com/variety/variety)
-- [google-type](https://github.com/femmebot/google-type)
-- [hellow-world](https://github.com/JammyDu/hellow-world)
-- [Android-Hello-World](https://github.com/mikaoelitiana/Android-Hello-World)
-- [toetrandro](https://github.com/mavenix/toetrandro)
-- [crt-plugin](https://github.com/clreed87/crt-plugin)
-- [animate.css](https://github.com/rogeruiz/animate.css)
-- [admin-ui-boshrelease](https://github.com/18F/admin-ui-boshrelease)
-- [license-exceptions](https://github.com/cfarm/license-exceptions)
+- [UsbDongle](https://github.com/daloji/UsbDongle): UsBDongle is a JAVA API that allow you to send ...
+- [CMS-en-Ror](https://github.com/mikaoelitiana/CMS-en-Ror): RoR based CMS from multiple projects
+- [fanorona](https://github.com/mavenix/fanorona): Classic board game from Madagascar
+- [devmglisitra](https://github.com/facedevMG/devmglisitra): Community  Dev Mada
+- [shoppingCart](https://github.com/parany/shoppingCart): 
+- [fotsy-sass-bem](https://github.com/thonymg/fotsy-sass-bem): Fotsy Sass Bem — mixins for easily writing BEM ...
+- [nice-css3-hmenu](https://github.com/FranckyU/nice-css3-hmenu): Horizontal menu that exploits 3D transforms pro...
+- [Hermes](https://github.com/HermesApp/Hermes): Compact macOS Pandora client that doesn't use F...
+- [sugarcrm_dev](https://github.com/sugarcrm/sugarcrm_dev): SugarCRM CE Source Code
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [true](https://github.com/oddbird/true): Sass unit tests
+- [brackets-beautify](https://github.com/brackets-beautify/brackets-beautify): Beautify HTML, CSS, and Javascript in Adobe Bra...
+- [cf-release](https://github.com/cloudfoundry/cf-release): Cloud Foundry Release
+- [pimcore](https://github.com/pimcore/pimcore): Content & Product Management Framework (CMS/PIM...
+- [libretaxi](https://github.com/ro31337/libretaxi): LibreTaxi, free and open source Uber/Lyft alter...
+- [learnapollo](https://github.com/learnapollo/learnapollo): Learn Apollo - A hands-on tutorial for Apollo G...
+- [variety](https://github.com/variety/variety): A schema analyzer for MongoDB
+- [google-type](https://github.com/femmebot/google-type): Collaborative typography project using select p...
+- [hellow-world](https://github.com/JammyDu/hellow-world): 
+- [Android-Hello-World](https://github.com/mikaoelitiana/Android-Hello-World): My First Android App
+- [toetrandro](https://github.com/mavenix/toetrandro): 
+- [crt-plugin](https://github.com/clreed87/crt-plugin): Site specific WordPress plugin for Chris Reed T...
+- [animate.css](https://github.com/rogeruiz/animate.css): A big ol' goody bag filled with CSS animations ...
+- [admin-ui-boshrelease](https://github.com/18F/admin-ui-boshrelease): admin-ui-boshrelease
+- [license-exceptions](https://github.com/cfarm/license-exceptions): automated list of licenses for software that is...

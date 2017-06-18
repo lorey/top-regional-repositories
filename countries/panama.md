@@ -1,29 +1,29 @@
 # Popular Repositories in Panama
 
-These are the most-starred repositories from programmers based in Panama:
+These are the repositories with the highest ratio of stars from programmers based in Panama:
 
-- [FlossBot](https://github.com/flosspa/FlossBot)
-- [panamenio](https://github.com/molekilla/panamenio)
-- [rutha](https://github.com/molekilla/rutha)
-- [panama](https://github.com/beerjs/panama)
-- [panatrans-api](https://github.com/merlos/panatrans-api)
-- [La-Vaca-Lechera](https://github.com/RglMrn/La-Vaca-Lechera)
-- [wolfpack](https://github.com/fdvj/wolfpack)
-- [manifiesto](https://github.com/Startup-Panama/manifiesto)
-- [beispanama](https://github.com/pixmat/beispanama)
-- [panama-scraper](https://github.com/danohuiginn/panama-scraper)
-- [LiveSpecs](https://github.com/alexishevia/LiveSpecs)
-- [SoftwareEngineeringHelloWorld](https://github.com/dMaggot/SoftwareEngineeringHelloWorld)
-- [ceduladump](https://github.com/ibarria0/ceduladump)
-- [conava-hapi](https://github.com/cescobar-orbit/conava-hapi)
-- [canned-responses](https://github.com/euge/canned-responses)
-- [panacompra](https://github.com/ibarria0/panacompra)
-- [taboga](https://github.com/IFARHU/taboga)
-- [pbx.pt](https://github.com/itamarjp/pbx.pt)
-- [uip-pc3](https://github.com/ampotty/uip-pc3)
-- [jerga-programacion-funcional](https://github.com/rmariuzzo/jerga-programacion-funcional)
-- [trisfera.com](https://github.com/alexishevia/trisfera.com)
-- [node-fprint](https://github.com/ephraim/node-fprint)
-- [django-freeze](https://github.com/fabiocaccamo/django-freeze)
-- [apistar](https://github.com/tomchristie/apistar)
-- [nandomoreira-jekyll-theme](https://github.com/nandomoreirame/nandomoreira-jekyll-theme)
+- [FlossBot](https://github.com/flosspa/FlossBot): Bot del canal #floss-pa en Freenode
+- [panamenio](https://github.com/molekilla/panamenio): API para servicios publicos de Panama, Republic...
+- [rutha](https://github.com/molekilla/rutha): Rutha - HapiJS AngularJS Stack
+- [panama](https://github.com/beerjs/panama): Panama City
+- [panatrans-api](https://github.com/merlos/panatrans-api): Panama's public transport API 
+- [La-Vaca-Lechera](https://github.com/RglMrn/La-Vaca-Lechera): Todo lo relacionado a La Vaca Lechera! 
+- [wolfpack](https://github.com/fdvj/wolfpack): SailsJS Model Testing Library
+- [manifiesto](https://github.com/Startup-Panama/manifiesto): Donde describimos como emprender en Panama
+- [beispanama](https://github.com/pixmat/beispanama): Beispanama.com source code.
+- [panama-scraper](https://github.com/danohuiginn/panama-scraper): collect company records from panama
+- [LiveSpecs](https://github.com/alexishevia/LiveSpecs): front-end testing using live sample code
+- [SoftwareEngineeringHelloWorld](https://github.com/dMaggot/SoftwareEngineeringHelloWorld): Every language has a Hello World... Software En...
+- [ceduladump](https://github.com/ibarria0/ceduladump): Wrapper de verificate.pa
+- [conava-hapi](https://github.com/cescobar-orbit/conava-hapi): CONAVA Backend
+- [canned-responses](https://github.com/euge/canned-responses): node.js connect middleware that returns pre-con...
+- [panacompra](https://github.com/ibarria0/panacompra): scraper and parser
+- [taboga](https://github.com/IFARHU/taboga): Sistema de front-end para el desarrollo de los ...
+- [pbx.pt](https://github.com/itamarjp/pbx.pt): pbx.pt - free sip accounts
+- [uip-pc3](https://github.com/ampotty/uip-pc3): Material del curso: "Programación de Computador...
+- [jerga-programacion-funcional](https://github.com/rmariuzzo/jerga-programacion-funcional): Jerga de la programación funcional en términos ...
+- [trisfera.com](https://github.com/alexishevia/trisfera.com): Página web de Trisfera
+- [node-fprint](https://github.com/ephraim/node-fprint): This nodejs node is a wrapper around the libfpr...
+- [django-freeze](https://github.com/fabiocaccamo/django-freeze): django-freeze is a static site generator made t...
+- [apistar](https://github.com/tomchristie/apistar): A fast and expressive API framework. For Python...
+- [nandomoreira-jekyll-theme](https://github.com/nandomoreirame/nandomoreira-jekyll-theme): :gem: My old website

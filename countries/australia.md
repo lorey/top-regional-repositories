@@ -1,29 +1,29 @@
 # Popular Repositories in Australia
 
-These are the most-starred repositories from programmers based in Australia:
+These are the repositories with the highest ratio of stars from programmers based in Australia:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [ctop](https://github.com/bcicen/ctop)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [roro](https://github.com/rails-oceania/roro)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [guetzli](https://github.com/google/guetzli)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [python-fire](https://github.com/google/python-fire)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [babushka](https://github.com/benhoskings/babushka)
-- [pact](https://github.com/realestate-com-au/pact)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [fp-course](https://github.com/data61/fp-course)
-- [reactxp](https://github.com/Microsoft/reactxp)
-- [postal](https://github.com/atech/postal)
-- [react-loadable](https://github.com/thejameskyle/react-loadable)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [realworld](https://github.com/gothinkster/realworld)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [roro](https://github.com/rails-oceania/roro): wiki for Ruby on Rails Oceania
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [guetzli](https://github.com/google/guetzli): 
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [babushka](https://github.com/benhoskings/babushka): Test-driven sysadmin.
+- [pact](https://github.com/realestate-com-au/pact): Enables consumer driven contract testing, provi...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [fp-course](https://github.com/data61/fp-course): Functional Programming Course
+- [reactxp](https://github.com/Microsoft/reactxp): Library for cross-platform app development.
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [react-loadable](https://github.com/thejameskyle/react-loadable): A higher order component for loading components...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...

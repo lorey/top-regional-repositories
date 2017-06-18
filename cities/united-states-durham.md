@@ -1,29 +1,29 @@
 # Popular Repositories in Durham
 
-These are the most-starred repositories from programmers based in Durham:
+These are the repositories with the highest ratio of stars from programmers based in Durham:
 
-- [intro-scicomp-workshop](https://github.com/pmagwene/intro-scicomp-workshop)
-- [school-navigator](https://github.com/codefordurham/school-navigator)
-- [2016-SPRING-FEE](https://github.com/TIY-Durham/2016-SPRING-FEE)
-- [eolian](https://github.com/brettbuddin/eolian)
-- [Task](https://github.com/Ticketmaster/Task)
-- [rubeque](https://github.com/SciMed/rubeque)
-- [spruce-ios](https://github.com/willowtreeapps/spruce-ios)
-- [django-project-template](https://github.com/caktus/django-project-template)
-- [tarantula](https://github.com/relevance/tarantula)
-- [wonderland-clojure-katas](https://github.com/gigasquid/wonderland-clojure-katas)
-- [keyboard](https://github.com/jasonrudolph/keyboard)
-- [2.0](https://github.com/NeighborhoodCompass/2.0)
-- [phpshunt](https://github.com/jadell/phpshunt)
-- [ITKTutorialPyDataCarolinas2016](https://github.com/thewtex/ITKTutorialPyDataCarolinas2016)
-- [syllabus](https://github.com/tiyd-fee-2016-02/syllabus)
-- [Duke-BioHaskell-Group](https://github.com/pmagwene/Duke-BioHaskell-Group)
-- [Ramblethru](https://github.com/Ramblethru/Ramblethru)
-- [lessons](https://github.com/tiyd-fee-2016-02/lessons)
-- [daily-assignments](https://github.com/tiyd-fee-2016-02/daily-assignments)
-- [fraqture](https://github.com/smashingboxes/fraqture)
-- [assigments](https://github.com/tiyd-python-2015-08/assigments)
-- [2015-FALL-FEE](https://github.com/TIY-Durham/2015-FALL-FEE)
-- [Traffic-Stops](https://github.com/OpenDataPolicingNC/Traffic-Stops)
-- [java-tdd](https://github.com/relevance/java-tdd)
-- [how_we_work](https://github.com/relevance/how_we_work)
+- [intro-scicomp-workshop](https://github.com/pmagwene/intro-scicomp-workshop): Introduction to Scientific Computing Workshop
+- [school-navigator](https://github.com/codefordurham/school-navigator): Navigate the Durham, NC public school system
+- [2016-SPRING-FEE](https://github.com/TIY-Durham/2016-SPRING-FEE): Class Repository for Front End Engineering in S...
+- [eolian](https://github.com/brettbuddin/eolian): A modular synthesizer.
+- [Task](https://github.com/Ticketmaster/Task): A Cocoa framework for expressing and executing ...
+- [rubeque](https://github.com/SciMed/rubeque): Competitive learning site for ruby.
+- [spruce-ios](https://github.com/willowtreeapps/spruce-ios): Swift library for choreographing animations on ...
+- [django-project-template](https://github.com/caktus/django-project-template): Django project template for startproject (Requi...
+- [tarantula](https://github.com/relevance/tarantula): a big hairy fuzzy spider that crawls your site,...
+- [wonderland-clojure-katas](https://github.com/gigasquid/wonderland-clojure-katas): Clojure Katas inspired by Alice in Wonderland
+- [keyboard](https://github.com/jasonrudolph/keyboard): Toward a more useful keyboard
+- [2.0](https://github.com/NeighborhoodCompass/2.0): Adaptations of the Charlotte-Mecklenburg Qualit...
+- [phpshunt](https://github.com/jadell/phpshunt): Library for dynamically exposing protected clas...
+- [ITKTutorialPyDataCarolinas2016](https://github.com/thewtex/ITKTutorialPyDataCarolinas2016): 
+- [syllabus](https://github.com/tiyd-fee-2016-02/syllabus): Syllabus and guidelines for students
+- [Duke-BioHaskell-Group](https://github.com/pmagwene/Duke-BioHaskell-Group): A repository for the Duke BioHaskell Interest G...
+- [Ramblethru](https://github.com/Ramblethru/Ramblethru): Final Project for The Iron Yard (Durham, NC) --...
+- [lessons](https://github.com/tiyd-fee-2016-02/lessons): Resources from specific lessons
+- [daily-assignments](https://github.com/tiyd-fee-2016-02/daily-assignments): Daily assignments for students of the February ...
+- [fraqture](https://github.com/smashingboxes/fraqture): An interactive digital art project built with C...
+- [assigments](https://github.com/tiyd-python-2015-08/assigments): 
+- [2015-FALL-FEE](https://github.com/TIY-Durham/2015-FALL-FEE): Class repo for the Front-End Engineering class ...
+- [Traffic-Stops](https://github.com/OpenDataPolicingNC/Traffic-Stops): Open Data Policing NC aggregates, visualizes, a...
+- [java-tdd](https://github.com/relevance/java-tdd): TDD Examples, Labs, and References
+- [how_we_work](https://github.com/relevance/how_we_work): Relevance's How We Work site

@@ -1,29 +1,29 @@
 # Popular Repositories in Swaziland
 
-These are the most-starred repositories from programmers based in Swaziland:
+These are the repositories with the highest ratio of stars from programmers based in Swaziland:
 
-- [HSDownloadManager](https://github.com/HHuiHao/HSDownloadManager)
-- [SvUDID](https://github.com/smileEvday/SvUDID)
-- [Fakery](https://github.com/durul/Fakery)
-- [iCnblogs](https://github.com/polobymulberry/iCnblogs)
-- [BeautifyFaceAndDetection](https://github.com/YBYHunter/BeautifyFaceAndDetection)
-- [AddressChoicePickViewDemo](https://github.com/zeqinjie/AddressChoicePickViewDemo)
-- [FaceReconstruction](https://github.com/KeeganRen/FaceReconstruction)
-- [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)
-- [ProjectBabel](https://github.com/NashLegend/ProjectBabel)
-- [zsummer](https://github.com/zsummer/zsummer)
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-- [game-server-development](https://github.com/xiecc/game-server-development)
-- [vkBeautify](https://github.com/vkiryukhin/vkBeautify)
-- [ImmortalPlayer](https://github.com/master255/ImmortalPlayer)
-- [UIView-Borders](https://github.com/aaronn/UIView-Borders)
-- [XcodePluginUpgrade-LFL](https://github.com/DevDragonLi/XcodePluginUpgrade-LFL)
-- [FCUUID](https://github.com/fabiocaccamo/FCUUID)
-- [Blog](https://github.com/berwin/Blog)
-- [RBVolumeButtons](https://github.com/blladnar/RBVolumeButtons)
-- [blog](https://github.com/creeperyang/blog)
-- [JKCountDownButton](https://github.com/shaojiankui/JKCountDownButton)
-- [OverScrollView](https://github.com/EverythingMe/OverScrollView)
-- [underscore-analysis](https://github.com/hanzichi/underscore-analysis)
-- [Awesome](https://github.com/Awesome-Windows/Awesome)
-- [IAPHelper](https://github.com/saturngod/IAPHelper)
+- [HSDownloadManager](https://github.com/HHuiHao/HSDownloadManager): 下载音乐、视频、图片各种资源，支持多任务、断点下载！
+- [SvUDID](https://github.com/smileEvday/SvUDID): UDID for different iOS Version 
+- [Fakery](https://github.com/durul/Fakery): :alien: Swift fake data generator
+- [iCnblogs](https://github.com/polobymulberry/iCnblogs): 博客园第三方客户端 ---- i博客园 iOS App 
+- [BeautifyFaceAndDetection](https://github.com/YBYHunter/BeautifyFaceAndDetection): 使用GPUImage实现人脸美白和人脸识别(磨皮，人脸检测)
+- [AddressChoicePickViewDemo](https://github.com/zeqinjie/AddressChoicePickViewDemo): 地区选择PickView 四层分级结构
+- [FaceReconstruction](https://github.com/KeeganRen/FaceReconstruction): Facial Landmark Detection and head pose compute...
+- [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus): CocoaChina+客户端开源地址--陈奕龙
+- [ProjectBabel](https://github.com/NashLegend/ProjectBabel): 一个翻译项目，不定时更新，内容也不确定
+- [zsummer](https://github.com/zsummer/zsummer): (2013年起已停止维护,有兴趣请关注zsummerX)zsummer is a cross-...
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi): 网易云音乐nodejs api
+- [game-server-development](https://github.com/xiecc/game-server-development): the articles about game server development in n...
+- [vkBeautify](https://github.com/vkiryukhin/vkBeautify): vkBeautify is a small, simple and powerfull jav...
+- [ImmortalPlayer](https://github.com/master255/ImmortalPlayer): Free audio/video player component for Android w...
+- [UIView-Borders](https://github.com/aaronn/UIView-Borders): Easy one-sided and offset borders on all UIViews.
+- [XcodePluginUpgrade-LFL](https://github.com/DevDragonLi/XcodePluginUpgrade-LFL): Xcode upgraded newVersion  solve plugin Still c...
+- [FCUUID](https://github.com/fabiocaccamo/FCUUID): iOS UUID / Universally Unique Identifiers libra...
+- [Blog](https://github.com/berwin/Blog): 记录成长的过程。。。
+- [RBVolumeButtons](https://github.com/blladnar/RBVolumeButtons): This lets you steal the volume up and volume do...
+- [blog](https://github.com/creeperyang/blog): 用issue写博客
+- [JKCountDownButton](https://github.com/shaojiankui/JKCountDownButton): JKCountDownButton,子类化UIButton实现IOS倒计时按钮,常常用于注册等...
+- [OverScrollView](https://github.com/EverythingMe/OverScrollView): A ScrollView with over scroll capabilities, a c...
+- [underscore-analysis](https://github.com/hanzichi/underscore-analysis):  Underscore.js 源码解读 & 系列文章（完 :heavy_exclamation...
+- [Awesome](https://github.com/Awesome-Windows/Awesome): :computer:  An awesome & curated list of best a...
+- [IAPHelper](https://github.com/saturngod/IAPHelper): in app purchases helper for iOS

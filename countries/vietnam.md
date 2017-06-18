@@ -1,29 +1,29 @@
 # Popular Repositories in Vietnam
 
-These are the most-starred repositories from programmers based in Vietnam:
+These are the repositories with the highest ratio of stars from programmers based in Vietnam:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [vietnam](https://github.com/awesome-jobs/vietnam)
-- [elasticsearch-analysis-vietnamese](https://github.com/duydo/elasticsearch-analysis-vietnamese)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [vn.vitk](https://github.com/phuonglh/vn.vitk)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [ibus-bogo](https://github.com/BoGoEngine/ibus-bogo)
-- [guetzli](https://github.com/google/guetzli)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [localstack](https://github.com/atlassian/localstack)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [nukeviet](https://github.com/nukeviet/nukeviet)
-- [open-product-management](https://github.com/tron1991/open-product-management)
-- [reactide](https://github.com/reactide/reactide)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [ctop](https://github.com/bcicen/ctop)
-- [clean-code-javascript](https://github.com/hienvd/clean-code-javascript)
-- [glod-cli](https://github.com/dwarvesf/glod-cli)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [TechLooper](https://github.com/chrisshayan/TechLooper)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [vietnam](https://github.com/awesome-jobs/vietnam): The best place to find devs in Vietnam!
+- [elasticsearch-analysis-vietnamese](https://github.com/duydo/elasticsearch-analysis-vietnamese):  Vietnamese Analysis Plugin for Elasticsearch
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [vn.vitk](https://github.com/phuonglh/vn.vitk): A Vietnamese Text Processing Toolkit
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [ibus-bogo](https://github.com/BoGoEngine/ibus-bogo): IBus frontend for the BoGo engine.
+- [guetzli](https://github.com/google/guetzli): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [nukeviet](https://github.com/nukeviet/nukeviet): NukeViet CMS is multi Content Management System...
+- [open-product-management](https://github.com/tron1991/open-product-management): A curated list of product management advice for...
+- [reactide](https://github.com/reactide/reactide): 
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [clean-code-javascript](https://github.com/hienvd/clean-code-javascript): :bathtub: Clean Code cho Javascript
+- [glod-cli](https://github.com/dwarvesf/glod-cli): A small cli written in Go to help download musi...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [TechLooper](https://github.com/chrisshayan/TechLooper): This is VietnamWorks Open Source project. TechL...

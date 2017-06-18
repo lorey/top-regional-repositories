@@ -1,29 +1,29 @@
 # Popular Repositories in Russia
 
-These are the most-starred repositories from programmers based in Russia:
+These are the repositories with the highest ratio of stars from programmers based in Russia:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [yandex-tank](https://github.com/yandex/yandex-tank)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [dictionary](https://github.com/web-standards-ru/dictionary)
-- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats)
-- [ClickHouse](https://github.com/yandex/ClickHouse)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ctop](https://github.com/bcicen/ctop)
-- [antizapret](https://github.com/AntiZapret/antizapret)
-- [social-likes](https://github.com/sapegin/social-likes)
-- [postgresql_book](https://github.com/le0pard/postgresql_book)
-- [largescaleJS_ru](https://github.com/A/largescaleJS_ru)
-- [russia-it-podcast](https://github.com/AveVlad/russia-it-podcast)
-- [mdash](https://github.com/emuravjev/mdash)
-- [makeup](https://github.com/2gis/makeup)
-- [redux-in-russian](https://github.com/rajdee/redux-in-russian)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [pymorphy2](https://github.com/kmike/pymorphy2)
-- [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
-- [russian](https://github.com/yaroslav/russian)
-- [javascript](https://github.com/uprock/javascript)
-- [tars](https://github.com/tars/tars)
-- [yandex-php-library](https://github.com/nixsolutions/yandex-php-library)
-- [blockcheck](https://github.com/ValdikSS/blockcheck)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [yandex-tank](https://github.com/yandex/yandex-tank): Load and performance benchmark tool
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [dictionary](https://github.com/web-standards-ru/dictionary): Словарь терминов по фронтенду
+- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats): This repo contains a list of various russian-sp...
+- [ClickHouse](https://github.com/yandex/ClickHouse): ClickHouse is a free analytic DBMS for big data.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [antizapret](https://github.com/AntiZapret/antizapret): Список IP-адресов гос-органов для блокировки их...
+- [social-likes](https://github.com/sapegin/social-likes): Beautiful social “like” buttons with counters f...
+- [postgresql_book](https://github.com/le0pard/postgresql_book): Book about PostgreSQL (russian)
+- [largescaleJS_ru](https://github.com/A/largescaleJS_ru): Russian translation of Addy Osmani book.
+- [russia-it-podcast](https://github.com/AveVlad/russia-it-podcast): Список русскоязычных подкастов на тему информац...
+- [mdash](https://github.com/emuravjev/mdash): Muravjev Typograph 
+- [makeup](https://github.com/2gis/makeup): JavaScript tool for comfortable manual testing ...
+- [redux-in-russian](https://github.com/rajdee/redux-in-russian): Original redux documentation with a translation...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [pymorphy2](https://github.com/kmike/pymorphy2): Morphological analyzer / inflection engine for ...
+- [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template): LaTeX-template for russian Phd thesis
+- [russian](https://github.com/yaroslav/russian): Russian language support for Ruby and Rails | П...
+- [javascript](https://github.com/uprock/javascript): 
+- [tars](https://github.com/tars/tars): Markup builder on gulp
+- [yandex-php-library](https://github.com/nixsolutions/yandex-php-library): PHP библиотека к API Яндекса
+- [blockcheck](https://github.com/ValdikSS/blockcheck): Russian ISP blocking type checker

@@ -1,29 +1,29 @@
 # Popular Repositories in Switzerland
 
-These are the most-starred repositories from programmers based in Switzerland:
+These are the repositories with the highest ratio of stars from programmers based in Switzerland:
 
-- [Transport](https://github.com/OpendataCH/Transport)
-- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0)
-- [guetzli](https://github.com/google/guetzli)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [swiss-maps](https://github.com/interactivethings/swiss-maps)
-- [fahrplan](https://github.com/dbrgn/fahrplan)
-- [ctop](https://github.com/bcicen/ctop)
-- [styleguide](https://github.com/swiss/styleguide)
-- [transit-map](https://github.com/vasile/transit-map)
-- [hitobito](https://github.com/hitobito/hitobito)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [python-fire](https://github.com/google/python-fire)
-- [terrificjs](https://github.com/brunschgi/terrificjs)
-- [terrific-micro](https://github.com/namics/terrific-micro)
-- [kanbasu](https://github.com/liip/kanbasu)
-- [upspin](https://github.com/upspin/upspin)
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-- [estatico](https://github.com/unic/estatico)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [web](https://github.com/studentenportal/web)
-- [mf-geoadmin3](https://github.com/geoadmin/mf-geoadmin3)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [drifter](https://github.com/liip/drifter)
-- [postal](https://github.com/atech/postal)
+- [Transport](https://github.com/OpendataCH/Transport): Swiss public transport API
+- [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0): CHVote 1.0 repository
+- [guetzli](https://github.com/google/guetzli): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [swiss-maps](https://github.com/interactivethings/swiss-maps): Swiss geodata as TopoJSON
+- [fahrplan](https://github.com/dbrgn/fahrplan): A SBB/CFF/FFS commandline based timetable clien...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [styleguide](https://github.com/swiss/styleguide): admin.ch styleguide
+- [transit-map](https://github.com/vasile/transit-map): The server and client used in transit map simul...
+- [hitobito](https://github.com/hitobito/hitobito): A web application to manage complex group hiera...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [terrificjs](https://github.com/brunschgi/terrificjs): Terrific JavaScript Framework
+- [terrific-micro](https://github.com/namics/terrific-micro): Powerful PHP application for simple & complex f...
+- [kanbasu](https://github.com/liip/kanbasu): Bare CSS framework written in Sass and using th...
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [Gutenberg](https://github.com/BafS/Gutenberg): Modern framework to print correctly. 
+- [estatico](https://github.com/unic/estatico): Estático – Static site generator for frontend u...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [web](https://github.com/studentenportal/web): Das HSR Studentenportal 2.0
+- [mf-geoadmin3](https://github.com/geoadmin/mf-geoadmin3): map.geo.admin.ch source code
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [drifter](https://github.com/liip/drifter): Drifter is a framework to help provision develo...
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...

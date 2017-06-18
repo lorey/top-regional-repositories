@@ -1,29 +1,29 @@
 # Popular Repositories in Bahamas
 
-These are the most-starred repositories from programmers based in Bahamas:
+These are the repositories with the highest ratio of stars from programmers based in Bahamas:
 
-- [raphael.serialize](https://github.com/ejucovy/raphael.serialize)
-- [xinha](https://github.com/ejucovy/xinha)
-- [ntwitter](https://github.com/nickgs/ntwitter)
-- [blog](https://github.com/ejucovy/blog)
-- [RamSourcesAPI](https://github.com/johntr/RamSourcesAPI)
-- [localpower](https://github.com/ejucovy/localpower)
-- [django-vcexport](https://github.com/ejucovy/django-vcexport)
-- [webpath](https://github.com/ejucovy/webpath)
-- [trac-NewPageMacro](https://github.com/trac-hacks/trac-NewPageMacro)
-- [opencore_wikibreadcrumbs](https://github.com/ejucovy/opencore_wikibreadcrumbs)
-- [rolf](https://github.com/ejucovy/rolf)
-- [drupal](https://github.com/nickgs/drupal)
-- [WGandLP-A.K.A.-Project-3](https://github.com/zach-cs/WGandLP-A.K.A.-Project-3)
-- [markup](https://github.com/Aperture-Laboratories/markup)
-- [ejucovy.github.com](https://github.com/ejucovy/ejucovy.github.com)
-- [pip](https://github.com/SMFOSS/pip)
-- [dnabarcodereader](https://github.com/andersgs/dnabarcodereader)
-- [CBCJVM](https://github.com/Aperture-Laboratories/CBCJVM)
-- [mvsim](https://github.com/ejucovy/mvsim)
-- [zine](https://github.com/ejucovy/zine)
-- [moodle-openid](https://github.com/ejucovy/moodle-openid)
-- [ccnmtldjango](https://github.com/ejucovy/ccnmtldjango)
-- [django-forum_bbskin](https://github.com/ejucovy/django-forum_bbskin)
-- [pip](https://github.com/ejucovy/pip)
-- [virtualenv](https://github.com/ejucovy/virtualenv)
+- [raphael.serialize](https://github.com/ejucovy/raphael.serialize): RaphaelJS Plugin to serialize SVG Objects for e...
+- [xinha](https://github.com/ejucovy/xinha): A bugfix branch of the Xinha HTML-WYSIWYG editor
+- [ntwitter](https://github.com/nickgs/ntwitter): Asynchronous Twitter REST/stream/search client ...
+- [blog](https://github.com/ejucovy/blog): Hello!  A blog!
+- [RamSourcesAPI](https://github.com/johntr/RamSourcesAPI): An API written for a SUNY Farmingdale senior pr...
+- [localpower](https://github.com/ejucovy/localpower): Website template for creating online communitie...
+- [django-vcexport](https://github.com/ejucovy/django-vcexport): a flexible library for exporting serialized dja...
+- [webpath](https://github.com/ejucovy/webpath): 
+- [trac-NewPageMacro](https://github.com/trac-hacks/trac-NewPageMacro): A little macro you can insert into your wiki pa...
+- [opencore_wikibreadcrumbs](https://github.com/ejucovy/opencore_wikibreadcrumbs): stick breadcrumbs on new wiki pages
+- [rolf](https://github.com/ejucovy/rolf): porting rollo to django
+- [drupal](https://github.com/nickgs/drupal): Verbatim mirror of the git.drupal.org repositor...
+- [WGandLP-A.K.A.-Project-3](https://github.com/zach-cs/WGandLP-A.K.A.-Project-3): Project 3
+- [markup](https://github.com/Aperture-Laboratories/markup): The code we use to render README.your_favorite_...
+- [ejucovy.github.com](https://github.com/ejucovy/ejucovy.github.com): 
+- [pip](https://github.com/SMFOSS/pip): pip installs packages. Python packages. An easy...
+- [dnabarcodereader](https://github.com/andersgs/dnabarcodereader): Automate DNA barcode assembly, quality control,...
+- [CBCJVM](https://github.com/Aperture-Laboratories/CBCJVM): CBCJVM allows usage of the jvm on the cbc robot...
+- [mvsim](https://github.com/ejucovy/mvsim): 
+- [zine](https://github.com/ejucovy/zine): A blog
+- [moodle-openid](https://github.com/ejucovy/moodle-openid): moodle openid consumer plugin
+- [ccnmtldjango](https://github.com/ejucovy/ccnmtldjango): CCNMTL's custom Paste Template for django apps
+- [django-forum_bbskin](https://github.com/ejucovy/django-forum_bbskin): A layer on top of Ross Poulton's django-forum t...
+- [pip](https://github.com/ejucovy/pip): pip installs packages. Python packages. An easy...
+- [virtualenv](https://github.com/ejucovy/virtualenv): Virtual Python Environment builder

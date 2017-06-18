@@ -1,29 +1,29 @@
 # Popular Repositories in Guadeloupe
 
-These are the most-starred repositories from programmers based in Guadeloupe:
+These are the repositories with the highest ratio of stars from programmers based in Guadeloupe:
 
-- [graphnetworkx-d3](https://github.com/erikted/graphnetworkx-d3)
-- [yamazumi](https://github.com/ardinor/yamazumi)
-- [FUEL-CMS](https://github.com/khalil-tabbal/FUEL-CMS)
-- [html5base](https://github.com/ljcharles/html5base)
-- [pyrocms-fr-docs-french](https://github.com/khalil-tabbal/pyrocms-fr-docs-french)
-- [Login-Facebook-for-PyroCMS](https://github.com/khalil-tabbal/Login-Facebook-for-PyroCMS)
-- [ShortUrls](https://github.com/bazub/ShortUrls)
-- [TwitterRSS](https://github.com/novastream/TwitterRSS)
-- [mooc-python](https://github.com/laupiFrpar/mooc-python)
-- [bootstrap](https://github.com/khalil-tabbal/bootstrap)
-- [LogicielDeDessinSimplifieEnJava](https://github.com/ljcharles/LogicielDeDessinSimplifieEnJava)
-- [Pascalines](https://github.com/Rakoun/Pascalines)
-- [applestream](https://github.com/sboli/applestream)
-- [decodex-chrome](https://github.com/Insoumis/decodex-chrome)
-- [librometer](https://github.com/Rakoun/librometer)
-- [sample-pyrocms-module](https://github.com/khalil-tabbal/sample-pyrocms-module)
-- [wtalk](https://github.com/danigm/wtalk)
-- [pyrocms-docs](https://github.com/khalil-tabbal/pyrocms-docs)
-- [Slides](https://github.com/khalil-tabbal/Slides)
-- [onebutton_picam](https://github.com/owatte/onebutton_picam)
-- [3dprintingBox](https://github.com/Alert-Box/3dprintingBox)
-- [CometCultCreditsBundle](https://github.com/cometcult/CometCultCreditsBundle)
-- [rest2xmpp](https://github.com/simonvc/rest2xmpp)
-- [zekyll](https://github.com/priyatam/zekyll)
-- [bio](https://github.com/CoderDojoIndonesia/bio)
+- [graphnetworkx-d3](https://github.com/erikted/graphnetworkx-d3): use d3 with networkx python in flask
+- [yamazumi](https://github.com/ardinor/yamazumi): Flask powered Bookmarking service
+- [FUEL-CMS](https://github.com/khalil-tabbal/FUEL-CMS): A CodeIgniter Content Management System
+- [html5base](https://github.com/ljcharles/html5base): structure d'un fichier html5 de base
+- [pyrocms-fr-docs-french](https://github.com/khalil-tabbal/pyrocms-fr-docs-french): 
+- [Login-Facebook-for-PyroCMS](https://github.com/khalil-tabbal/Login-Facebook-for-PyroCMS): allow you to create user and login with faceboo...
+- [ShortUrls](https://github.com/bazub/ShortUrls): Create short urls from regular ones. Project us...
+- [TwitterRSS](https://github.com/novastream/TwitterRSS): Fetch twitter timelines as json or RSS and cach...
+- [mooc-python](https://github.com/laupiFrpar/mooc-python): Exercise from the MOOC - Python
+- [bootstrap](https://github.com/khalil-tabbal/bootstrap): HTML, CSS, and JS toolkit from Twitter
+- [LogicielDeDessinSimplifieEnJava](https://github.com/ljcharles/LogicielDeDessinSimplifieEnJava): LogicielDeDessinSimplifieEnJava
+- [Pascalines](https://github.com/Rakoun/Pascalines): Commercial calculators
+- [applestream](https://github.com/sboli/applestream): A Python streaming client for the apple http st...
+- [decodex-chrome](https://github.com/Insoumis/decodex-chrome): 
+- [librometer](https://github.com/Rakoun/librometer): 
+- [sample-pyrocms-module](https://github.com/khalil-tabbal/sample-pyrocms-module): A PyroCMS module that can be used as a template...
+- [wtalk](https://github.com/danigm/wtalk): http xmpp proxy and xmpp web client in one flas...
+- [pyrocms-docs](https://github.com/khalil-tabbal/pyrocms-docs): Documentation for PyroCMS.
+- [Slides](https://github.com/khalil-tabbal/Slides): Slides is a crazy simple slideshow plugin for j...
+- [onebutton_picam](https://github.com/owatte/onebutton_picam): Python class to interact with a raspberry Pi wi...
+- [3dprintingBox](https://github.com/Alert-Box/3dprintingBox): files for the 3D printable enclosure
+- [CometCultCreditsBundle](https://github.com/cometcult/CometCultCreditsBundle): Symfony 2 Bundle for storing user credits/points
+- [rest2xmpp](https://github.com/simonvc/rest2xmpp): A simple rest to xmpp bot based on SLEEKXMPP an...
+- [zekyll](https://github.com/priyatam/zekyll): Research on static site generators, builders, a...
+- [bio](https://github.com/CoderDojoIndonesia/bio): MOVED to [https://github.com/pythonthusiast/bio]

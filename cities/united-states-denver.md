@@ -1,29 +1,29 @@
 # Popular Repositories in Denver
 
-These are the most-starred repositories from programmers based in Denver:
+These are the repositories with the highest ratio of stars from programmers based in Denver:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [links](https://github.com/turingschool/links)
-- [materialize-themes](https://github.com/w3cj/materialize-themes)
-- [lesson_plans](https://github.com/turingschool/lesson_plans)
-- [welcome-to-denver](https://github.com/Denver-Devs/welcome-to-denver)
-- [commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [curriculum](https://github.com/turingschool/curriculum)
-- [express-knex-postgres-heroku-setup](https://github.com/evan-mcclaugherty/express-knex-postgres-heroku-setup)
-- [creative-coding-class-notes](https://github.com/cacheflowe/creative-coding-class-notes)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [ctop](https://github.com/bcicen/ctop)
-- [creact](https://github.com/applegrain/creact)
-- [advanced-js-fundamentals-ck](https://github.com/mdn/advanced-js-fundamentals-ck)
-- [wad](https://github.com/rserota/wad)
-- [code.mil](https://github.com/deptofdefense/code.mil)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Google-OAuth2.0-Express-Passport-Postgres-Template](https://github.com/bradford-hamilton/Google-OAuth2.0-Express-Passport-Postgres-Template)
-- [denver-devs.github.io](https://github.com/Denver-Devs/denver-devs.github.io)
-- [challenges](https://github.com/turingschool/challenges)
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
-- [teaspoon](https://github.com/jejacks0n/teaspoon)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [dotfiles](https://github.com/kylecoberly/dotfiles)
-- [portfolios](https://github.com/turingschool/portfolios)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [links](https://github.com/turingschool/links): Important links for the Turing community
+- [materialize-themes](https://github.com/w3cj/materialize-themes): Pre-generated materialize css color combination...
+- [lesson_plans](https://github.com/turingschool/lesson_plans): Lesson Plans for the Turing School of Software ...
+- [welcome-to-denver](https://github.com/Denver-Devs/welcome-to-denver): A resource for anyone visiting Denver or people...
+- [commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji): Every commit is important. So let's celebrate e...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [curriculum](https://github.com/turingschool/curriculum): Turing's main repository of tutorials and projects
+- [express-knex-postgres-heroku-setup](https://github.com/evan-mcclaugherty/express-knex-postgres-heroku-setup): Knex CRUD app boilerplate using express and han...
+- [creative-coding-class-notes](https://github.com/cacheflowe/creative-coding-class-notes): Some text and links about the wide world of cre...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [creact](https://github.com/applegrain/creact): crud in Rails and React | Tutorial
+- [advanced-js-fundamentals-ck](https://github.com/mdn/advanced-js-fundamentals-ck): This content kit provides learning material to ...
+- [wad](https://github.com/rserota/wad): Web Audio DAW.  Use the HTML5 Web Audio API for...
+- [code.mil](https://github.com/deptofdefense/code.mil): An experiment in open source
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Google-OAuth2.0-Express-Passport-Postgres-Template](https://github.com/bradford-hamilton/Google-OAuth2.0-Express-Passport-Postgres-Template): 
+- [denver-devs.github.io](https://github.com/Denver-Devs/denver-devs.github.io): Denver developers lil website.
+- [challenges](https://github.com/turingschool/challenges): Assorted coding exercises and challenges from t...
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugin...
+- [teaspoon](https://github.com/jejacks0n/teaspoon): Teaspoon: Javascript test runner for Rails. Run...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [dotfiles](https://github.com/kylecoberly/dotfiles): My dotfiles
+- [portfolios](https://github.com/turingschool/portfolios): Turing School promotion portfolios

@@ -1,29 +1,29 @@
 # Popular Repositories in Puerto Rico
 
-These are the most-starred repositories from programmers based in Puerto Rico:
+These are the repositories with the highest ratio of stars from programmers based in Puerto Rico:
 
-- [libre](https://github.com/commonwealth-of-puerto-rico/libre)
-- [mongodbapp](https://github.com/gcollazo/mongodbapp)
-- [horas](https://github.com/SoPR/horas)
-- [ama.js](https://github.com/Sparragus/ama.js)
-- [codingchallenge2015](https://github.com/codetrotters/codingchallenge2015)
-- [FSN-app](https://github.com/fullstacknights/FSN-app)
-- [FoundingDocuments](https://github.com/SoPR/FoundingDocuments)
-- [sopr-platform](https://github.com/SoPR/sopr-platform)
-- [juicebox](https://github.com/jpadilla/juicebox)
-- [reactide](https://github.com/reactide/reactide)
-- [notaso](https://github.com/jpadilla/notaso)
-- [boards](https://github.com/GetBlimp/boards)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [redisapp](https://github.com/jpadilla/redisapp)
-- [django-project-template](https://github.com/jpadilla/django-project-template)
-- [AEEincidentsRuby](https://github.com/ens-labs/AEEincidentsRuby)
-- [aecc](https://github.com/AECC-UPRB/aecc)
-- [puerto-rico-map-raphaeljs](https://github.com/inaki/puerto-rico-map-raphaeljs)
-- [puertorico](https://github.com/nodeschool/puertorico)
-- [boards-web](https://github.com/GetBlimp/boards-web)
-- [prcrime-heatmap](https://github.com/vramirez122000/prcrime-heatmap)
-- [UPRRP-Grades-Entry-System](https://github.com/crzrcn/UPRRP-Grades-Entry-System)
-- [trenurbanoapp](https://github.com/vramirez122000/trenurbanoapp)
-- [boards-backend](https://github.com/GetBlimp/boards-backend)
-- [CSS_Tardis](https://github.com/carloscheddar/CSS_Tardis)
+- [libre](https://github.com/commonwealth-of-puerto-rico/libre): LIBRE = Libre Information Batch Restructuring E...
+- [mongodbapp](https://github.com/gcollazo/mongodbapp): The easiest way to get started with MongoDB on ...
+- [horas](https://github.com/SoPR/horas): Una plataforma para facilitar la mentoría.
+- [ama.js](https://github.com/Sparragus/ama.js): A Javascript library that helps connect to the ...
+- [codingchallenge2015](https://github.com/codetrotters/codingchallenge2015): Codetrotters Coding Challenge
+- [FSN-app](https://github.com/fullstacknights/FSN-app): Companion app for the FullStack Nights event.
+- [FoundingDocuments](https://github.com/SoPR/FoundingDocuments): Documentos de organización de la comunidad SoPR
+- [sopr-platform](https://github.com/SoPR/sopr-platform): Startups of Puerto Rico Platform
+- [juicebox](https://github.com/jpadilla/juicebox): A virtual machine designed for programming work...
+- [reactide](https://github.com/reactide/reactide): 
+- [notaso](https://github.com/jpadilla/notaso): Conoce a tus profesores antes de llegar al salón.
+- [boards](https://github.com/GetBlimp/boards): Install instructions and configuration files fo...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [redisapp](https://github.com/jpadilla/redisapp): The easiest way to get started with Redis on th...
+- [django-project-template](https://github.com/jpadilla/django-project-template): Project template layout for Django 1.10+
+- [AEEincidentsRuby](https://github.com/ens-labs/AEEincidentsRuby): AEE Incidents made in Ruby with Savon
+- [aecc](https://github.com/AECC-UPRB/aecc): Pagina web de la Asociacion de Ciencias de Comp...
+- [puerto-rico-map-raphaeljs](https://github.com/inaki/puerto-rico-map-raphaeljs): The map of Puerto Rico in SVG converted in Raph...
+- [puertorico](https://github.com/nodeschool/puertorico): Coordination and discussion for the Puerto Rico...
+- [boards-web](https://github.com/GetBlimp/boards-web): Blimp Front-End for the web client.
+- [prcrime-heatmap](https://github.com/vramirez122000/prcrime-heatmap): Puerto Rico Crime Heatmap
+- [UPRRP-Grades-Entry-System](https://github.com/crzrcn/UPRRP-Grades-Entry-System): Hot fix for entering grades into the UPRRP system.
+- [trenurbanoapp](https://github.com/vramirez122000/trenurbanoapp): La aplicación legendaria de transporte público ...
+- [boards-backend](https://github.com/GetBlimp/boards-backend): Backend API for Blimp Boards
+- [CSS_Tardis](https://github.com/carloscheddar/CSS_Tardis): A Tardis made purely out of CSS

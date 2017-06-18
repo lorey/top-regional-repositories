@@ -1,29 +1,29 @@
 # Popular Repositories in Nashville
 
-These are the most-starred repositories from programmers based in Nashville:
+These are the repositories with the highest ratio of stars from programmers based in Nashville:
 
-- [front-end-milestones](https://github.com/nashville-software-school/front-end-milestones)
-- [front-end-curriculum](https://github.com/nashville-software-school/front-end-curriculum)
-- [csharp-dotnet-milestones](https://github.com/nashville-software-school/csharp-dotnet-milestones)
-- [node-milestones](https://github.com/nashville-software-school/node-milestones)
-- [nashdev-resources](https://github.com/maxbeizer/nashdev-resources)
-- [software-development-curriculum](https://github.com/elizabrock/software-development-curriculum)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [python-milestones](https://github.com/nashville-software-school/python-milestones)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [newnashville](https://github.com/briandailey/newnashville)
-- [react-starter](https://github.com/eanplatter/react-starter)
-- [pynashorg.github.com](https://github.com/pynashorg/pynashorg.github.com)
-- [annoy-a-tron](https://github.com/epochblue/annoy-a-tron)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [deepforge](https://github.com/deepforge-dev/deepforge)
-- [reactide](https://github.com/reactide/reactide)
-- [brigade-pulse](https://github.com/code-for-nashville/brigade-pulse)
-- [preseason](https://github.com/centresource/preseason)
-- [jest-exercises](https://github.com/NashReact/jest-exercises)
-- [whiskey_disk](https://github.com/flogic/whiskey_disk)
-- [webgme](https://github.com/webgme/webgme)
-- [generator-playbook](https://github.com/centresource/generator-playbook)
-- [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files)
-- [algorithms](https://github.com/keon/algorithms)
+- [front-end-milestones](https://github.com/nashville-software-school/front-end-milestones): Mastery learning resources for NSS front end co...
+- [front-end-curriculum](https://github.com/nashville-software-school/front-end-curriculum): Code, resources, and instructions for the front...
+- [csharp-dotnet-milestones](https://github.com/nashville-software-school/csharp-dotnet-milestones): Resources and exercises for learning C# and the...
+- [node-milestones](https://github.com/nashville-software-school/node-milestones): Student milestones for the Node.js curriculum
+- [nashdev-resources](https://github.com/maxbeizer/nashdev-resources): Shared resources and materials from the NashDev...
+- [software-development-curriculum](https://github.com/elizabrock/software-development-curriculum): The goal of this repository is to aggregate all...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [python-milestones](https://github.com/nashville-software-school/python-milestones): Nashville Software School Python curriculum
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [newnashville](https://github.com/briandailey/newnashville): The New Nashville Manifesto
+- [react-starter](https://github.com/eanplatter/react-starter): :fallen_leaf: Starter template for React with w...
+- [pynashorg.github.com](https://github.com/pynashorg/pynashorg.github.com): Github Pages
+- [annoy-a-tron](https://github.com/epochblue/annoy-a-tron): None of us is as annoying as all of us.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [deepforge](https://github.com/deepforge-dev/deepforge): A development environment for deep learning
+- [reactide](https://github.com/reactide/reactide): 
+- [brigade-pulse](https://github.com/code-for-nashville/brigade-pulse): Business Intelligence tool for tracking Code fo...
+- [preseason](https://github.com/centresource/preseason): Centresource Rails 4+ application generator
+- [jest-exercises](https://github.com/NashReact/jest-exercises): Collection of exercises to get you start and fa...
+- [whiskey_disk](https://github.com/flogic/whiskey_disk): Whiskey Disk:  embarrassingly fast deployments.
+- [webgme](https://github.com/webgme/webgme): Web-based Generic Modeling Environment
+- [generator-playbook](https://github.com/centresource/generator-playbook): A Yeoman generator for prototyping and building...
+- [React-For-Beginners-Starter-Files](https://github.com/wesbos/React-For-Beginners-Starter-Files): Starter files for learning React.js with React ...
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...

@@ -1,29 +1,29 @@
 # Popular Repositories in Denmark
 
-These are the most-starred repositories from programmers based in Denmark:
+These are the repositories with the highest ratio of stars from programmers based in Denmark:
 
-- [Postboks](https://github.com/olegam/Postboks)
-- [API-Danmark](https://github.com/mauran/API-Danmark)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [cphex](https://github.com/cphex/cphex)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [fusile](https://github.com/Munter/fusile)
-- [eboks-mailer](https://github.com/christianpanton/eboks-mailer)
-- [reactide](https://github.com/reactide/reactide)
-- [Dawa](https://github.com/DanmarksAdresser/Dawa)
-- [unexpected](https://github.com/unexpectedjs/unexpected)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [assetgraph](https://github.com/assetgraph/assetgraph)
-- [mlkit](https://github.com/melsman/mlkit)
-- [guetzli](https://github.com/google/guetzli)
-- [futhark](https://github.com/HIPERFIT/futhark)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [realm-core](https://github.com/realm/realm-core)
-- [react-native-interactable](https://github.com/wix/react-native-interactable)
+- [Postboks](https://github.com/olegam/Postboks): 
+- [API-Danmark](https://github.com/mauran/API-Danmark): 🇩🇰 Liste over danske API'er 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [cphex](https://github.com/cphex/cphex): A repo for discussing and organising meetings a...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [fusile](https://github.com/Munter/fusile): A web asset precompiling file system proxy.
+- [eboks-mailer](https://github.com/christianpanton/eboks-mailer): e-Boks document mailer
+- [reactide](https://github.com/reactide/reactide): 
+- [Dawa](https://github.com/DanmarksAdresser/Dawa): 
+- [unexpected](https://github.com/unexpectedjs/unexpected): The extensible BDD assertion toolkit
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS): The simple, flexible and friendly ASP.NET CMS u...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [assetgraph](https://github.com/assetgraph/assetgraph): Optimization framework for web pages and applic...
+- [mlkit](https://github.com/melsman/mlkit): Standard ML Compiler and Toolkit
+- [guetzli](https://github.com/google/guetzli): 
+- [futhark](https://github.com/HIPERFIT/futhark): :boom::computer::boom: A data-parallel function...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [realm-core](https://github.com/realm/realm-core): Core database component for the Realm Mobile Da...
+- [react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance...

@@ -1,29 +1,29 @@
 # Popular Repositories in Philippines
 
-These are the most-starred repositories from programmers based in Philippines:
+These are the repositories with the highest ratio of stars from programmers based in Philippines:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [awesome](https://github.com/proudcloud/awesome)
-- [localstack](https://github.com/atlassian/localstack)
-- [reactide](https://github.com/reactide/reactide)
-- [rsjs](https://github.com/rstacruz/rsjs)
-- [philippine-provinces-and-cities-sql](https://github.com/ojtibi/philippine-provinces-and-cities-sql)
-- [pnpm](https://github.com/pnpm/pnpm)
-- [sakayph](https://github.com/sakayph/sakayph)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [dtmb](https://github.com/marksteve/dtmb)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [pycon-2015](https://github.com/pythonph/pycon-2015)
-- [philippines](https://github.com/nadarei/philippines)
-- [rscss](https://github.com/rstacruz/rscss)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [overdrive](https://github.com/insynchq/overdrive)
-- [geojsonph](https://github.com/macoymejia/geojsonph)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [phisix](https://github.com/edgedalmacio/phisix)
-- [api](https://github.com/globelabs/api)
-- [typish](https://github.com/rstacruz/typish)
-- [mmenu-rails](https://github.com/akosipc/mmenu-rails)
-- [bookmarks](https://github.com/rstacruz/bookmarks)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [awesome](https://github.com/proudcloud/awesome): What makes Proudcloud awesome.
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [reactide](https://github.com/reactide/reactide): 
+- [rsjs](https://github.com/rstacruz/rsjs): Reasonable System for JavaScript Structure
+- [philippine-provinces-and-cities-sql](https://github.com/ojtibi/philippine-provinces-and-cities-sql): Simple drop-in SQL script containing the comple...
+- [pnpm](https://github.com/pnpm/pnpm): :package::rocket: Fast, disk space efficient np...
+- [sakayph](https://github.com/sakayph/sakayph): Transit directions for Jeepneys, Buses, and Tra...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [dtmb](https://github.com/marksteve/dtmb): Don't touch my birdie
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [pycon-2015](https://github.com/pythonph/pycon-2015): PyCon Philippines 2015
+- [philippines](https://github.com/nadarei/philippines): Philippine cities, provinces and zip codes.
+- [rscss](https://github.com/rstacruz/rscss): Reasonable System for CSS Stylesheet Structure
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [overdrive](https://github.com/insynchq/overdrive): Harness Drive's realtime features to collaborat...
+- [geojsonph](https://github.com/macoymejia/geojsonph): GeoJSON Repository of Philippine Maps
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [phisix](https://github.com/edgedalmacio/phisix): Simple PSEi (formerly known as PHISIX) RESTful ...
+- [api](https://github.com/globelabs/api): Globe Labs APIs (2013)
+- [typish](https://github.com/rstacruz/typish): Typewriter simulator
+- [mmenu-rails](https://github.com/akosipc/mmenu-rails): A jQuery plugin that creates slick app look-ali...
+- [bookmarks](https://github.com/rstacruz/bookmarks): My bookmarks

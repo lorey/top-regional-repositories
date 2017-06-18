@@ -1,29 +1,29 @@
 # Popular Repositories in New Zealand
 
-These are the most-starred repositories from programmers based in New Zealand:
+These are the repositories with the highest ratio of stars from programmers based in New Zealand:
 
-- [silverstripe-framework](https://github.com/silverstripe/silverstripe-framework)
-- [new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data)
-- [silverstripe-cms](https://github.com/silverstripe/silverstripe-cms)
-- [SncRedisBundle](https://github.com/vend/SncRedisBundle)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [silverstripe-installer](https://github.com/silverstripe/silverstripe-installer)
-- [silverstripe-userforms](https://github.com/silverstripe/silverstripe-userforms)
-- [localstack](https://github.com/atlassian/localstack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [deploynaut](https://github.com/silverstripe-archive/deploynaut)
-- [loop-drop-app](https://github.com/mmckegg/loop-drop-app)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [ava](https://github.com/SafeStack/ava)
-- [silverstripe-blog](https://github.com/silverstripe/silverstripe-blog)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [reactide](https://github.com/reactide/reactide)
-- [Society-Documentation](https://github.com/JavaScript-NZ/Society-Documentation)
-- [xero_gateway](https://github.com/xero-gateway/xero_gateway)
-- [silverstripe-focuspoint](https://github.com/jonom/silverstripe-focuspoint)
-- [powershop-api](https://github.com/powershop/powershop-api)
-- [beam](https://github.com/heyday/beam)
-- [xeroizer](https://github.com/waynerobinson/xeroizer)
-- [Ushahidi_Web](https://github.com/ccnz/Ushahidi_Web)
+- [silverstripe-framework](https://github.com/silverstripe/silverstripe-framework): SilverStripe Framework, the MVC framework that ...
+- [new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data): A list of New Zealand Datasets and APIs
+- [silverstripe-cms](https://github.com/silverstripe/silverstripe-cms): SilverStripe CMS - this is a module for SilverS...
+- [SncRedisBundle](https://github.com/vend/SncRedisBundle): A Redis bundle for Symfony2 supporting Predis a...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [silverstripe-installer](https://github.com/silverstripe/silverstripe-installer): The installer for SilverStripe CMS and Framewor...
+- [silverstripe-userforms](https://github.com/silverstripe/silverstripe-userforms): UserForms module provides a visual form builder...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [deploynaut](https://github.com/silverstripe-archive/deploynaut): A web based tool for performing deployments
+- [loop-drop-app](https://github.com/mmckegg/loop-drop-app): MIDI looper, modular synth and sampler app buil...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [ava](https://github.com/SafeStack/ava): AVA - Human Vulnerability Scanner (Core)
+- [silverstripe-blog](https://github.com/silverstripe/silverstripe-blog): Blog module for SilverStripe CMS
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [reactide](https://github.com/reactide/reactide): 
+- [Society-Documentation](https://github.com/JavaScript-NZ/Society-Documentation): Society documentation for JavaScript NZ Incorpo...
+- [xero_gateway](https://github.com/xero-gateway/xero_gateway): Ruby wrapper for the Xero API
+- [silverstripe-focuspoint](https://github.com/jonom/silverstripe-focuspoint): Module for improving automatic image cropping i...
+- [powershop-api](https://github.com/powershop/powershop-api): Powershop API documentation, libraries and samp...
+- [beam](https://github.com/heyday/beam): A command line utility for deploying websites t...
+- [xeroizer](https://github.com/waynerobinson/xeroizer): Xero accounting system API library.
+- [Ushahidi_Web](https://github.com/ccnz/Ushahidi_Web): Ushahidi install (http://eq.org.nz) with custom...

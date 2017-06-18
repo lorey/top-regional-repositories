@@ -1,29 +1,29 @@
 # Popular Repositories in Warsaw
 
-These are the most-starred repositories from programmers based in Warsaw:
+These are the repositories with the highest ratio of stars from programmers based in Warsaw:
 
-- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa)
-- [Kalkulator1](https://github.com/wybory2014/Kalkulator1)
-- [reactide](https://github.com/reactide/reactide)
-- [openpkw](https://github.com/openpkw/openpkw)
-- [hermes](https://github.com/allegro/hermes)
-- [axion-release-plugin](https://github.com/allegro/axion-release-plugin)
-- [sputnik](https://github.com/TouK/sputnik)
-- [ctop](https://github.com/bcicen/ctop)
-- [otwartasiec](https://github.com/ferrante/otwartasiec)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [marathon-consul](https://github.com/allegro/marathon-consul)
-- [micro-infra-spring](https://github.com/4finance/micro-infra-spring)
-- [warto-wiedziec](https://github.com/piecioshka/warto-wiedziec)
-- [ThrowingFunction](https://github.com/TouK/ThrowingFunction)
-- [contracto-server](https://github.com/contracto-lab/contracto-server)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [sprint-poker](https://github.com/elpassion/sprint-poker)
-- [slash](https://github.com/slash-hq/slash)
-- [accurest](https://github.com/Codearte/accurest)
-- [python-fire](https://github.com/google/python-fire)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [contracto-rspec](https://github.com/contracto-lab/contracto-rspec)
-- [localstack](https://github.com/atlassian/localstack)
-- [bootzooka](https://github.com/softwaremill/bootzooka)
+- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa): A sample project containing usefull verbose ali...
+- [Kalkulator1](https://github.com/wybory2014/Kalkulator1): 
+- [reactide](https://github.com/reactide/reactide): 
+- [openpkw](https://github.com/openpkw/openpkw): Ogólny opis systemu, dokumentacja
+- [hermes](https://github.com/allegro/hermes): Fast and reliable message broker built on top o...
+- [axion-release-plugin](https://github.com/allegro/axion-release-plugin): Gradle release & version management plugin.
+- [sputnik](https://github.com/TouK/sputnik): Static code review for your Gerrit patchsets. R...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [otwartasiec](https://github.com/ferrante/otwartasiec): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [marathon-consul](https://github.com/allegro/marathon-consul): Integrates Marathon apps with Consul service di...
+- [micro-infra-spring](https://github.com/4finance/micro-infra-spring): Repository containing default microservice infr...
+- [warto-wiedziec](https://github.com/piecioshka/warto-wiedziec): :book: Cenne linki. Publikowane co tydzień na f...
+- [ThrowingFunction](https://github.com/TouK/ThrowingFunction): Java 8 functional types supporting checked exce...
+- [contracto-server](https://github.com/contracto-lab/contracto-server): Build HTTP server based on contract
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [sprint-poker](https://github.com/elpassion/sprint-poker): Online estimation tool for Agile teams.
+- [slash](https://github.com/slash-hq/slash): Slack terminal client.
+- [accurest](https://github.com/Codearte/accurest): Accurest - Consumer Driven Contracts verifier f...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [contracto-rspec](https://github.com/contracto-lab/contracto-rspec): RSpec helpers for contract-based testing
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bootzooka](https://github.com/softwaremill/bootzooka): Simple project to quickly start developing a we...

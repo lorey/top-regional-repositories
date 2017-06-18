@@ -1,29 +1,29 @@
 # Popular Repositories in Turkey
 
-These are the most-starred repositories from programmers based in Turkey:
+These are the repositories with the highest ratio of stars from programmers based in Turkey:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com)
-- [tyyp](https://github.com/tyyporg/tyyp)
-- [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)
-- [arguman.org](https://github.com/arguman/arguman.org)
-- [svg-turkiye-haritasi](https://github.com/dnomak/svg-turkiye-haritasi)
-- [acikkaynak](https://github.com/acikkaynak/acikkaynak)
-- [ruby101-kitap](https://github.com/vigo/ruby101-kitap)
-- [kemal](https://github.com/kemalcr/kemal)
-- [reactjs-giris](https://github.com/ustun/reactjs-giris)
-- [tartJS](https://github.com/tart/tartJS)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [serdaripsum](https://github.com/halilkaya/serdaripsum)
-- [github-stats-for-turkey](https://github.com/alpcanaydin/github-stats-for-turkey)
-- [bricklayer](https://github.com/ademilter/bricklayer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [anayasa](https://github.com/ahmetkizilay/anayasa)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [ojs](https://github.com/ojs/ojs)
-- [localstack](https://github.com/atlassian/localstack)
-- [koding](https://github.com/koding/koding)
-- [heygidi](https://github.com/alpcanaydin/heygidi)
-- [flexiblegs-scss-plus](https://github.com/flexiblegs/flexiblegs-scss-plus)
-- [paranoia](https://github.com/paranoiaproject/paranoia)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com): Özenle seçilmiş Türkçe kaynaklar listesi
+- [tyyp](https://github.com/tyyporg/tyyp): An application level networking protocol to ena...
+- [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp): Turkish Nlp libraries
+- [arguman.org](https://github.com/arguman/arguman.org): Argument analysis and mapping platform
+- [svg-turkiye-haritasi](https://github.com/dnomak/svg-turkiye-haritasi): SVG Türkiye Haritası
+- [acikkaynak](https://github.com/acikkaynak/acikkaynak): 
+- [ruby101-kitap](https://github.com/vigo/ruby101-kitap): Türkçe Ruby kitabı
+- [kemal](https://github.com/kemalcr/kemal): Fast, Effective, Simple web framework for Crystal
+- [reactjs-giris](https://github.com/ustun/reactjs-giris): ReactJS'e Giriş
+- [tartJS](https://github.com/tart/tartJS): A performance-obsessed JavaScript framework for...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [serdaripsum](https://github.com/halilkaya/serdaripsum): Serdar Ortac sarkisi olusturur.
+- [github-stats-for-turkey](https://github.com/alpcanaydin/github-stats-for-turkey): Github için Türkiye kullanıcı, repo ve dil ista...
+- [bricklayer](https://github.com/ademilter/bricklayer): Lightweight and independent Pinterest-like casc...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [anayasa](https://github.com/ahmetkizilay/anayasa): 1982 anayasası metni
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [ojs](https://github.com/ojs/ojs): :books: Open Journal Software (OJS): A journal ...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [koding](https://github.com/koding/koding): The Simplest Way to Manage Your Entire Dev Infr...
+- [heygidi](https://github.com/alpcanaydin/heygidi): Hurriyet.com.tr'de Gündem kategorisinde yıllar ...
+- [flexiblegs-scss-plus](https://github.com/flexiblegs/flexiblegs-scss-plus): Flexible Grid System Scss Plus
+- [paranoia](https://github.com/paranoiaproject/paranoia): Paranoia is generic payment client for populer ...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...

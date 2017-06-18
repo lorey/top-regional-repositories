@@ -1,29 +1,29 @@
 # Popular Repositories in Madison
 
-These are the most-starred repositories from programmers based in Madison:
+These are the repositories with the highest ratio of stars from programmers based in Madison:
 
-- [NEXT](https://github.com/nextml/NEXT)
-- [madison](https://github.com/nodeschool/madison)
-- [uw-frame](https://github.com/UW-Madison-DoIT/uw-frame)
-- [uw-ui-toolkit](https://github.com/UWMadisonUcomm/uw-ui-toolkit)
-- [Exis](https://github.com/exis-io/Exis)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [guetzli](https://github.com/google/guetzli)
-- [open-lambda](https://github.com/open-lambda/open-lambda)
-- [aws-keychain](https://github.com/pda/aws-keychain)
-- [afterglow](https://github.com/brunchboy/afterglow)
-- [localstack](https://github.com/atlassian/localstack)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [tattletail](https://github.com/randland/tattletail)
-- [madisonapis](https://github.com/HackingMadison/madisonapis)
-- [Koi](https://github.com/ericb/Koi)
-- [Talks](https://github.com/UW-UPL/Talks)
-- [enlight-webfront](https://github.com/UW-Enlight/enlight-webfront)
-- [Chronos](https://github.com/jdetter/Chronos)
-- [concept](https://github.com/jhanstra/concept)
-- [smsmybus-dev](https://github.com/HackingMadison/smsmybus-dev)
-- [Dark-Time](https://github.com/ejknapp/Dark-Time)
-- [ionic-site](https://github.com/driftyco/ionic-site)
-- [incubator-quickstep](https://github.com/apache/incubator-quickstep)
-- [heroku-buildpack-ghc](https://github.com/begriffs/heroku-buildpack-ghc)
+- [NEXT](https://github.com/nextml/NEXT): NEXT is a machine learning system that runs in ...
+- [madison](https://github.com/nodeschool/madison): NodeSchool Madison, WI
+- [uw-frame](https://github.com/UW-Madison-DoIT/uw-frame): An AngularJS application frame for creating uw ...
+- [uw-ui-toolkit](https://github.com/UWMadisonUcomm/uw-ui-toolkit): A web front-end toolkit based on Bootstrap for ...
+- [Exis](https://github.com/exis-io/Exis): Exis client libraries, sample projects, and demos.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [guetzli](https://github.com/google/guetzli): 
+- [open-lambda](https://github.com/open-lambda/open-lambda): 
+- [aws-keychain](https://github.com/pda/aws-keychain): CLI manager for AWS IAM access keys in Mac OS X...
+- [afterglow](https://github.com/brunchboy/afterglow): A live-coding lighting controller, building on ...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [tattletail](https://github.com/randland/tattletail): Provide realtime output of method calls and the...
+- [madisonapis](https://github.com/HackingMadison/madisonapis): Madison APIs 2.0!
+- [Koi](https://github.com/ericb/Koi): Write javascript faster & cleaner with Koi.
+- [Talks](https://github.com/UW-UPL/Talks): All of the talks we give at the UPL, so they ca...
+- [enlight-webfront](https://github.com/UW-Enlight/enlight-webfront): The webfront control panel for the Máquina foun...
+- [Chronos](https://github.com/jdetter/Chronos): The Chronos kernel
+- [concept](https://github.com/jhanstra/concept): A modern, flexible CSS framework for designers ...
+- [smsmybus-dev](https://github.com/HackingMadison/smsmybus-dev): SMSMyBus API Examples
+- [Dark-Time](https://github.com/ejknapp/Dark-Time): Dark Time is a universal iOS clock. It's main p...
+- [ionic-site](https://github.com/driftyco/ionic-site): Repo for the ionicframework.com site
+- [incubator-quickstep](https://github.com/apache/incubator-quickstep): Mirror of Apache Quickstep Incubator
+- [heroku-buildpack-ghc](https://github.com/begriffs/heroku-buildpack-ghc): Deploy Haskell apps to Heroku

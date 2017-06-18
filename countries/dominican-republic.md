@@ -1,29 +1,29 @@
 # Popular Repositories in Dominican Republic
 
-These are the most-starred repositories from programmers based in Dominican Republic:
+These are the repositories with the highest ratio of stars from programmers based in Dominican Republic:
 
-- [empleo-dot-net](https://github.com/developersdo/empleo-dot-net)
-- [learning](https://github.com/developersdo/learning)
-- [provincias_dominicanas](https://github.com/raydelto/provincias_dominicanas)
-- [checkboxes.js](https://github.com/rmariuzzo/checkboxes.js)
-- [data.developers.do](https://github.com/developersdo/data.developers.do)
-- [SDQ](https://github.com/hminaya/SDQ)
-- [curry](https://github.com/MarcosCommunity/curry)
-- [config-webpack-plugin](https://github.com/rmariuzzo/config-webpack-plugin)
-- [streamelopers](https://github.com/eatskolnikov/streamelopers)
-- [SolidSubdivision](https://github.com/amhed/SolidSubdivision)
-- [ServletIO](https://github.com/zerh/ServletIO)
-- [git-cheat-sheet](https://github.com/jakubpawlowicz/git-cheat-sheet)
-- [CabanasRD](https://github.com/Amejia481/CabanasRD)
-- [whatif](https://github.com/reneolivo/whatif)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [DevelopersDo.DataAnnotations](https://github.com/developersdo/DevelopersDo.DataAnnotations)
-- [Associate-Android-Developer-Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification)
-- [Laravel-JS-Localization](https://github.com/rmariuzzo/Laravel-JS-Localization)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [config](https://github.com/jsep/config)
-- [reactide](https://github.com/reactide/reactide)
-- [werewolf-brain](https://github.com/wistcc/werewolf-brain)
-- [Azul-Pay-Button](https://github.com/iCueto/Azul-Pay-Button)
-- [book-club](https://github.com/developersdo/book-club)
-- [MineSweeperGame](https://github.com/eefret/MineSweeperGame)
+- [empleo-dot-net](https://github.com/developersdo/empleo-dot-net): ASP.NET MVC5 - Iniciativa de aprendizaje median...
+- [learning](https://github.com/developersdo/learning): Lista de recursos de aprendizaje recomendados p...
+- [provincias_dominicanas](https://github.com/raydelto/provincias_dominicanas): Provincias de la República Dominicana
+- [checkboxes.js](https://github.com/rmariuzzo/checkboxes.js): ☑️ A jQuery plugin that gives you nice powers o...
+- [data.developers.do](https://github.com/developersdo/data.developers.do): ¿Qué estamos haciendo? Estamos creando un repos...
+- [SDQ](https://github.com/hminaya/SDQ): Es un plugin de jQuery Open Source para validar...
+- [curry](https://github.com/MarcosCommunity/curry): Currency scraper for the Dominican Republic htt...
+- [config-webpack-plugin](https://github.com/rmariuzzo/config-webpack-plugin): 💫 Merge one or more configuration files togethe...
+- [streamelopers](https://github.com/eatskolnikov/streamelopers): Streamelopers is a project made to support the ...
+- [SolidSubdivision](https://github.com/amhed/SolidSubdivision): Compilation of crowdsourced software developmen...
+- [ServletIO](https://github.com/zerh/ServletIO): ServletIO - convert your servlets to MVC contro...
+- [git-cheat-sheet](https://github.com/jakubpawlowicz/git-cheat-sheet): My git cheat sheet
+- [CabanasRD](https://github.com/Amejia481/CabanasRD): 
+- [whatif](https://github.com/reneolivo/whatif): A promise based programming pattern
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [DevelopersDo.DataAnnotations](https://github.com/developersdo/DevelopersDo.DataAnnotations): Provides common validation attributes for Domin...
+- [Associate-Android-Developer-Certification](https://github.com/Amejia481/Associate-Android-Developer-Certification): All the info and materials about the certificat...
+- [Laravel-JS-Localization](https://github.com/rmariuzzo/Laravel-JS-Localization): 🌐 Laravel Localization in JS: Convert your mess...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [config](https://github.com/jsep/config): A collecttion of usefull aliases of git 
+- [reactide](https://github.com/reactide/reactide): 
+- [werewolf-brain](https://github.com/wistcc/werewolf-brain): Werewolf game brain
+- [Azul-Pay-Button](https://github.com/iCueto/Azul-Pay-Button): A simple gem to integrate with Azul.com.do Paym...
+- [book-club](https://github.com/developersdo/book-club): Book Club
+- [MineSweeperGame](https://github.com/eefret/MineSweeperGame): This is a MineSweeperGame created for Android, ...

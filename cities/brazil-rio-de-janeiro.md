@@ -1,29 +1,29 @@
 # Popular Repositories in Rio de Janeiro
 
-These are the most-starred repositories from programmers based in Rio de Janeiro:
+These are the repositories with the highest ratio of stars from programmers based in Rio de Janeiro:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
-- [serenata-de-amor](https://github.com/datasciencebr/serenata-de-amor)
-- [forum](https://github.com/frontendbr/forum)
-- [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
-- [trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
-- [trabalhando-remoto](https://github.com/DyegoCosta/trabalhando-remoto)
-- [tsuru](https://github.com/tsuru/tsuru)
-- [dojo-centro](https://github.com/dojorio/dojo-centro)
-- [InternetSemLimites](https://github.com/InternetSemLimites/InternetSemLimites)
-- [eloquente-javascript](https://github.com/braziljs/eloquente-javascript)
-- [sawpf](https://github.com/globocom/sawpf)
-- [guia-do-trabalho-remoto](https://github.com/nomadsonrails/guia-do-trabalho-remoto)
-- [megadraft](https://github.com/globocom/megadraft)
-- [brazilian-rails](https://github.com/tapajos/brazilian-rails)
-- [vagas](https://github.com/frontendbr/vagas)
-- [model_mommy](https://github.com/vandersonmota/model_mommy)
-- [origami.js](https://github.com/raphamorim/origami.js)
-- [birl-language.github.io](https://github.com/birl-language/birl-language.github.io)
-- [traduz-ai](https://github.com/ericdouglas/traduz-ai)
-- [rows](https://github.com/turicas/rows)
-- [be-mean](https://github.com/Webschool-io/be-mean)
-- [localstack](https://github.com/atlassian/localstack)
-- [frontend-challenges](https://github.com/LFeh/frontend-challenges)
-- [diveintohtml5](https://github.com/zenorocha/diveintohtml5)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil): Lista de empresas com trabalho remoto no Brasil
+- [serenata-de-amor](https://github.com/datasciencebr/serenata-de-amor): 🕵 Fighting corruption with data and SCIENCE!
+- [forum](https://github.com/frontendbr/forum): Portando discussões feitas em grupos (Facebook,...
+- [You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS): :green_book::ledger: (PT-BR translation) JS Boo...
+- [trabalhando_fora](https://github.com/tapajos/trabalhando_fora): Descomplicando o trabalhar para fora
+- [trabalhando-remoto](https://github.com/DyegoCosta/trabalhando-remoto): Informações para quem trabalha ou quer trabalha...
+- [tsuru](https://github.com/tsuru/tsuru): Open source, extensible and Docker-based Platfo...
+- [dojo-centro](https://github.com/dojorio/dojo-centro): Coding Dojo Rio - Centro
+- [InternetSemLimites](https://github.com/InternetSemLimites/InternetSemLimites): Repositório que busca catalogar e organizar os ...
+- [eloquente-javascript](https://github.com/braziljs/eloquente-javascript): A portuguese translation of Eloquent JavaScript...
+- [sawpf](https://github.com/globocom/sawpf): Salve a web, por favor
+- [guia-do-trabalho-remoto](https://github.com/nomadsonrails/guia-do-trabalho-remoto): :airplane: Conjunto de informações, experiência...
+- [megadraft](https://github.com/globocom/megadraft):  Megadraft is a Rich Text editor built on top o...
+- [brazilian-rails](https://github.com/tapajos/brazilian-rails): Brazilian Rails é um conjunto de gems para sere...
+- [vagas](https://github.com/frontendbr/vagas): Espaço para divulgação de vagas para front-enders.
+- [model_mommy](https://github.com/vandersonmota/model_mommy): Object factory for django
+- [origami.js](https://github.com/raphamorim/origami.js): Powerful and Lightweight Library to create usin...
+- [birl-language.github.io](https://github.com/birl-language/birl-language.github.io): BIRL (Bambam's "It's show time" Recursive Langu...
+- [traduz-ai](https://github.com/ericdouglas/traduz-ai): :pencil: Coleção de artigos traduzidos para pt-br
+- [rows](https://github.com/turicas/rows): A common, beautiful interface to tabular data, ...
+- [be-mean](https://github.com/Webschool-io/be-mean): :beer: Curso voltado a ensinar o STACK conhecid...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [frontend-challenges](https://github.com/LFeh/frontend-challenges): :boom: Listing some playful open-source's chall...
+- [diveintohtml5](https://github.com/zenorocha/diveintohtml5): A portuguese translation of Dive Into HTML5 onl...

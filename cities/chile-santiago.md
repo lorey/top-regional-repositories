@@ -1,29 +1,29 @@
 # Popular Repositories in Santiago
 
-These are the most-starred repositories from programmers based in Santiago:
+These are the repositories with the highest ratio of stars from programmers based in Santiago:
 
-- [guia-webpay](https://github.com/clsource/guia-webpay)
-- [bdcut-cl](https://github.com/knxroot/bdcut-cl)
-- [listado-apis-publicas-en-chile](https://github.com/juanbrujo/listado-apis-publicas-en-chile)
-- [tbk](https://github.com/sagmor/tbk)
-- [santiago](https://github.com/beerjs/santiago)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [sii_chile](https://github.com/sagmor/sii_chile)
-- [libredte-lib](https://github.com/LibreDTE/libredte-lib)
-- [angular-rut](https://github.com/platanus/angular-rut)
-- [preguntas-y-respuestas-entrevistas-frontend](https://github.com/fforres/preguntas-y-respuestas-entrevistas-frontend)
-- [servel](https://github.com/jpalma-espinosa/servel)
-- [pincers](https://github.com/platanus/pincers)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [active_importer](https://github.com/continuum/active_importer)
-- [pudu-bot](https://github.com/hashtagchile/pudu-bot)
-- [tengo-restriccion](https://github.com/SantiagoLab/tengo-restriccion)
-- [crabfarm-gem](https://github.com/platanus/crabfarm-gem)
-- [transbank-oneclick](https://github.com/clouw/transbank-oneclick)
-- [puntopagos-ruby](https://github.com/acidlabs/puntopagos-ruby)
-- [django-chile-payments](https://github.com/Nomadblue/django-chile-payments)
-- [DTE](https://github.com/niclabs/DTE)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [datagramas](https://github.com/carnby/datagramas)
-- [chilean-local-kit](https://github.com/acidlabs/chilean-local-kit)
-- [lucho-jarascript](https://github.com/chulini/lucho-jarascript)
+- [guia-webpay](https://github.com/clsource/guia-webpay): Guía para configurar el sistema de pagos Webpay...
+- [bdcut-cl](https://github.com/knxroot/bdcut-cl): Códigos (Región, Provincia, Comuna) Chile
+- [listado-apis-publicas-en-chile](https://github.com/juanbrujo/listado-apis-publicas-en-chile): Listado de API's Públicas para distintos tipos ...
+- [tbk](https://github.com/sagmor/tbk): Ruby implementation of Transbank's Webpay protocol
+- [santiago](https://github.com/beerjs/santiago): Santiago, Chile
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [sii_chile](https://github.com/sagmor/sii_chile): 
+- [libredte-lib](https://github.com/LibreDTE/libredte-lib): Biblioteca PHP para facturación electrónica en ...
+- [angular-rut](https://github.com/platanus/angular-rut): 
+- [preguntas-y-respuestas-entrevistas-frontend](https://github.com/fforres/preguntas-y-respuestas-entrevistas-frontend): Un listado de preguntas y respuestas que hemos ...
+- [servel](https://github.com/jpalma-espinosa/servel): Servel y su privacidad de datos
+- [pincers](https://github.com/platanus/pincers): Web automation DSL on top of webdriver (and nok...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [active_importer](https://github.com/continuum/active_importer): Define importers that load tabular data from sp...
+- [pudu-bot](https://github.com/hashtagchile/pudu-bot): :fist: Bot para http://hashtagchile.co
+- [tengo-restriccion](https://github.com/SantiagoLab/tengo-restriccion): App para notificacion de restriccion vehicular ...
+- [crabfarm-gem](https://github.com/platanus/crabfarm-gem): Crabfarm crawler creation framework
+- [transbank-oneclick](https://github.com/clouw/transbank-oneclick): Ruby Implementation of Transbank Oneclick API SOAP
+- [puntopagos-ruby](https://github.com/acidlabs/puntopagos-ruby): Wrapper for PuntoPagos API 
+- [django-chile-payments](https://github.com/Nomadblue/django-chile-payments): Online payments, "the chilean way"
+- [DTE](https://github.com/niclabs/DTE): [ATENCIÓN: A partir del 1º Enero 2017 ya no rea...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [datagramas](https://github.com/carnby/datagramas): datagramas - view and scaffold d3.js visualizat...
+- [chilean-local-kit](https://github.com/acidlabs/chilean-local-kit): A set of tools which makes easy for developers ...
+- [lucho-jarascript](https://github.com/chulini/lucho-jarascript): Plugin jQuery que reemplaza todas las imágenes ...

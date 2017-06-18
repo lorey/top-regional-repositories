@@ -1,29 +1,29 @@
 # Popular Repositories in Copenhagen
 
-These are the most-starred repositories from programmers based in Copenhagen:
+These are the repositories with the highest ratio of stars from programmers based in Copenhagen:
 
-- [Postboks](https://github.com/olegam/Postboks)
-- [fusile](https://github.com/Munter/fusile)
-- [API-Danmark](https://github.com/mauran/API-Danmark)
-- [cphex](https://github.com/cphex/cphex)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [unexpected](https://github.com/unexpectedjs/unexpected)
-- [mlkit](https://github.com/melsman/mlkit)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [Dawa](https://github.com/DanmarksAdresser/Dawa)
-- [assetgraph](https://github.com/assetgraph/assetgraph)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [prepack](https://github.com/facebook/prepack)
-- [futhark](https://github.com/HIPERFIT/futhark)
-- [realm-core](https://github.com/realm/realm-core)
-- [ctop](https://github.com/bcicen/ctop)
-- [reactide](https://github.com/reactide/reactide)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [livestyle](https://github.com/One-com/livestyle)
-- [assetgraph-builder](https://github.com/assetgraph/assetgraph-builder)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [torrent-mount](https://github.com/mafintosh/torrent-mount)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [opbeat-node](https://github.com/opbeat/opbeat-node)
-- [trustpilot-node-sdk](https://github.com/trustpilot/trustpilot-node-sdk)
+- [Postboks](https://github.com/olegam/Postboks): 
+- [fusile](https://github.com/Munter/fusile): A web asset precompiling file system proxy.
+- [API-Danmark](https://github.com/mauran/API-Danmark): 🇩🇰 Liste over danske API'er 
+- [cphex](https://github.com/cphex/cphex): A repo for discussing and organising meetings a...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [unexpected](https://github.com/unexpectedjs/unexpected): The extensible BDD assertion toolkit
+- [mlkit](https://github.com/melsman/mlkit): Standard ML Compiler and Toolkit
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [Dawa](https://github.com/DanmarksAdresser/Dawa): 
+- [assetgraph](https://github.com/assetgraph/assetgraph): Optimization framework for web pages and applic...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [futhark](https://github.com/HIPERFIT/futhark): :boom::computer::boom: A data-parallel function...
+- [realm-core](https://github.com/realm/realm-core): Core database component for the Realm Mobile Da...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [reactide](https://github.com/reactide/reactide): 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [livestyle](https://github.com/One-com/livestyle): NodeJS middleware and binary for setting up a w...
+- [assetgraph-builder](https://github.com/assetgraph/assetgraph-builder): AssetGraph-based build system for web apps and ...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [torrent-mount](https://github.com/mafintosh/torrent-mount): Mount a torrent (or magnet link) as a filesyste...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [opbeat-node](https://github.com/opbeat/opbeat-node): The official Opbeat agent for Node.js apps
+- [trustpilot-node-sdk](https://github.com/trustpilot/trustpilot-node-sdk): 

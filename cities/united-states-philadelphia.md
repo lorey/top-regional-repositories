@@ -1,29 +1,29 @@
 # Popular Repositories in Philadelphia
 
-These are the most-starred repositories from programmers based in Philadelphia:
+These are the repositories with the highest ratio of stars from programmers based in Philadelphia:
 
-- [opportunities](https://github.com/mcelaney/opportunities)
-- [localstack](https://github.com/atlassian/localstack)
-- [IsSeptaFcked](https://github.com/dmuth/IsSeptaFcked)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [python-fire](https://github.com/google/python-fire)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [cognoma](https://github.com/cognoma/cognoma)
-- [guetzli](https://github.com/google/guetzli)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [apostrophe](https://github.com/punkave/apostrophe)
-- [sirius](https://github.com/Comcast/sirius)
-- [geotrellis](https://github.com/locationtech/geotrellis)
-- [reactide](https://github.com/reactide/reactide)
-- [leverage](https://github.com/Lever-age/leverage)
-- [phl-open-geodata](https://github.com/CityOfPhiladelphia/phl-open-geodata)
-- [algorithms](https://github.com/keon/algorithms)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [reading-terminal-market](https://github.com/hack4impact/reading-terminal-market)
-- [citizenry](https://github.com/reidab/citizenry)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [Emergence](https://github.com/JarvusInnovations/Emergence)
-- [templatestarter2016](https://github.com/happycog/templatestarter2016)
-- [jkan](https://github.com/timwis/jkan)
+- [opportunities](https://github.com/mcelaney/opportunities): 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [IsSeptaFcked](https://github.com/dmuth/IsSeptaFcked): Code repository for www.IsSeptaFcked.com
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [cognoma](https://github.com/cognoma/cognoma): Putting machine learning in the hands of cancer...
+- [guetzli](https://github.com/google/guetzli): 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [apostrophe](https://github.com/punkave/apostrophe): Apostrophe is a CMS framework for Node.js that ...
+- [sirius](https://github.com/Comcast/sirius): A distributed system library for managing appli...
+- [geotrellis](https://github.com/locationtech/geotrellis): GeoTrellis is a geographic data processing engi...
+- [reactide](https://github.com/reactide/reactide): 
+- [leverage](https://github.com/Lever-age/leverage): Empower citizens of Philadelphia to use campaig...
+- [phl-open-geodata](https://github.com/CityOfPhiladelphia/phl-open-geodata): Providing geospatial data in alternate formats
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [reading-terminal-market](https://github.com/hack4impact/reading-terminal-market): Bringing the Popular Reading Terminal Market co...
+- [citizenry](https://github.com/reidab/citizenry): Community awesome directory hub mumble mumble
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [Emergence](https://github.com/JarvusInnovations/Emergence): Emergence is a NodeJS-powered server that provi...
+- [templatestarter2016](https://github.com/happycog/templatestarter2016): Happy Cog frontend starter files
+- [jkan](https://github.com/timwis/jkan): A lightweight, backend-free open data portal, p...

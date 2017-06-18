@@ -1,29 +1,29 @@
 # Popular Repositories in Stockholm
 
-These are the most-starred repositories from programmers based in Stockholm:
+These are the repositories with the highest ratio of stars from programmers based in Stockholm:
 
-- [git-pa-svenska](https://github.com/bjorne/git-pa-svenska)
-- [svtplay-dl](https://github.com/spaam/svtplay-dl)
-- [sthlmtraveling](https://github.com/johannilsson/sthlmtraveling)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [tide](https://github.com/tictail/tide)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [edts](https://github.com/tjarvstrand/edts)
-- [quickstart](https://github.com/spotify/quickstart)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [astrix](https://github.com/AvanzaBank/astrix)
-- [android-bankdroid](https://github.com/liato/android-bankdroid)
-- [fikascript](https://github.com/pushmatrix/fikascript)
-- [apollo](https://github.com/spotify/apollo)
-- [ctop](https://github.com/bcicen/ctop)
-- [helios](https://github.com/spotify/helios)
-- [mariokart-bare](https://github.com/mikedeboer/mariokart-bare)
-- [proper](https://github.com/manopapad/proper)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [planck.js](https://github.com/shakiba/planck.js)
-- [ui](https://github.com/klarna/ui)
-- [scio](https://github.com/spotify/scio)
-- [prepack](https://github.com/facebook/prepack)
+- [git-pa-svenska](https://github.com/bjorne/git-pa-svenska): Git på svenska
+- [svtplay-dl](https://github.com/spaam/svtplay-dl): Small command-line program to download videos f...
+- [sthlmtraveling](https://github.com/johannilsson/sthlmtraveling): STHLM Traveling helps you plan your journeys us...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [tide](https://github.com/tictail/tide): A Flux-like State Management Library for React ...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [edts](https://github.com/tjarvstrand/edts): Erlang Development Tool Suite
+- [quickstart](https://github.com/spotify/quickstart): A CommonJS module resolver, loader and compiler...
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [astrix](https://github.com/AvanzaBank/astrix): Astrix is a Java framework designed to simplify...
+- [android-bankdroid](https://github.com/liato/android-bankdroid): A swedish banking application for your Android ...
+- [fikascript](https://github.com/pushmatrix/fikascript): Swedish JavaScript
+- [apollo](https://github.com/spotify/apollo): Java libraries for writing composable microserv...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [helios](https://github.com/spotify/helios): Docker container orchestration platform
+- [mariokart-bare](https://github.com/mikedeboer/mariokart-bare): Multiplayer MarioKart to fork and extend
+- [proper](https://github.com/manopapad/proper): PropEr: a QuickCheck-inspired property-based te...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [planck.js](https://github.com/shakiba/planck.js): 2D physics engine for cross-platform JavaScript...
+- [ui](https://github.com/klarna/ui): 🔩 Klarna's UI components library
+- [scio](https://github.com/spotify/scio): A Scala API for Google Cloud Dataflow and Apach...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...

@@ -1,29 +1,29 @@
 # Popular Repositories in Belarus
 
-These are the most-starred repositories from programmers based in Belarus:
+These are the repositories with the highest ratio of stars from programmers based in Belarus:
 
-- [bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats)
-- [YoptaScript](https://github.com/samgozman/YoptaScript)
-- [reportportal](https://github.com/reportportal/reportportal)
-- [tauCharts](https://github.com/TargetProcess/tauCharts)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [dictionary](https://github.com/web-standards-ru/dictionary)
-- [awesome-bots](https://github.com/BotCube/awesome-bots)
-- [redux-in-russian](https://github.com/rajdee/redux-in-russian)
-- [postgresql_book](https://github.com/le0pard/postgresql_book)
-- [omim](https://github.com/mapsme/omim)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [js-assignments](https://github.com/rolling-scopes-school/js-assignments)
-- [yandex-tank](https://github.com/yandex/yandex-tank)
-- [ctop](https://github.com/bcicen/ctop)
-- [yandex-music-fisher](https://github.com/egoroof/yandex-music-fisher)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ionic2-reddit-reader](https://github.com/smartapant/ionic2-reddit-reader)
-- [react-loadable](https://github.com/thejameskyle/react-loadable)
-- [the-little-redis-book](https://github.com/kondratovich/the-little-redis-book)
-- [largescaleJS_ru](https://github.com/A/largescaleJS_ru)
-- [javascript](https://github.com/uprock/javascript)
-- [front-end-course](https://github.com/rolling-scopes/front-end-course)
+- [bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex): LaTeX шаблон для оформления пояснительной запис...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats): This repo contains a list of various russian-sp...
+- [YoptaScript](https://github.com/samgozman/YoptaScript): Скриптовый язык программирования для гопников и...
+- [reportportal](https://github.com/reportportal/reportportal): Main Repository. Report Portal starts here - se...
+- [tauCharts](https://github.com/TargetProcess/tauCharts): D3 based data-focused charting library. Designe...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [dictionary](https://github.com/web-standards-ru/dictionary): Словарь терминов по фронтенду
+- [awesome-bots](https://github.com/BotCube/awesome-bots): :robot: A curated awesome list of resources fro...
+- [redux-in-russian](https://github.com/rajdee/redux-in-russian): Original redux documentation with a translation...
+- [postgresql_book](https://github.com/le0pard/postgresql_book): Book about PostgreSQL (russian)
+- [omim](https://github.com/mapsme/omim): 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [js-assignments](https://github.com/rolling-scopes-school/js-assignments): Javascript assignments, tasks and katas
+- [yandex-tank](https://github.com/yandex/yandex-tank): Load and performance benchmark tool
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [yandex-music-fisher](https://github.com/egoroof/yandex-music-fisher): [RU] Music downloader for Яндекс.Музыка and Янд...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ionic2-reddit-reader](https://github.com/smartapant/ionic2-reddit-reader): Ionic 2 Sample App
+- [react-loadable](https://github.com/thejameskyle/react-loadable): A higher order component for loading components...
+- [the-little-redis-book](https://github.com/kondratovich/the-little-redis-book): 
+- [largescaleJS_ru](https://github.com/A/largescaleJS_ru): Russian translation of Addy Osmani book.
+- [javascript](https://github.com/uprock/javascript): 
+- [front-end-course](https://github.com/rolling-scopes/front-end-course): 

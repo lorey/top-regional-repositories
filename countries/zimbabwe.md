@@ -1,29 +1,29 @@
 # Popular Repositories in Zimbabwe
 
-These are the most-starred repositories from programmers based in Zimbabwe:
+These are the repositories with the highest ratio of stars from programmers based in Zimbabwe:
 
-- [Rover](https://github.com/tapsey/Rover)
-- [yubikeylockd](https://github.com/shtirlic/yubikeylockd)
-- [zabbix](https://github.com/zbal/zabbix)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)
-- [openinfoman-tz](https://github.com/openhie/openinfoman-tz)
-- [ventePOS](https://github.com/stevemaina/ventePOS)
-- [Passphrase](https://github.com/TheGodOfAwesome/Passphrase)
-- [frankenhud](https://github.com/forivall-old-repos/frankenhud)
-- [js3tream](https://github.com/anthonysomerset/js3tream)
-- [app-launch-guide](https://github.com/banQomania/app-launch-guide)
-- [WhatsAPI](https://github.com/tkembo/WhatsAPI)
-- [Jobs](https://github.com/phanstasmal/Jobs)
-- [SS-base-folders](https://github.com/patjnr/SS-base-folders)
-- [Multi-label-classification-with-spark](https://github.com/AlexFridman/Multi-label-classification-with-spark)
-- [rapidsms](https://github.com/nyasha/rapidsms)
-- [dpkg-zimbabwe-hospitals](https://github.com/mihi-tr/dpkg-zimbabwe-hospitals)
-- [Django-Simple-Blog](https://github.com/nak1b/Django-Simple-Blog)
-- [pxb2mysqldump](https://github.com/gergnz/pxb2mysqldump)
-- [des](https://github.com/deschigs/des)
-- [ionic](https://github.com/ezyyinc/ionic)
-- [os-extensions](https://github.com/krishagni/os-extensions)
-- [zinyando.github.io](https://github.com/maffsojah/zinyando.github.io)
-- [Airport](https://github.com/1Winner1/Airport)
-- [kombi](https://github.com/asm-products/kombi)
+- [Rover](https://github.com/tapsey/Rover): A Simple Android-IOIO based application that co...
+- [yubikeylockd](https://github.com/shtirlic/yubikeylockd): Simple Daemon for lock and unlock OS X with Yub...
+- [zabbix](https://github.com/zbal/zabbix): Zabbix custom scripts and auto-install 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources): Open Source Data Science Resources.
+- [openinfoman-tz](https://github.com/openhie/openinfoman-tz): OpenInfoMan suport for Tanzania
+- [ventePOS](https://github.com/stevemaina/ventePOS): A java based POS, ERP, CRM, SMS (modem and http...
+- [Passphrase](https://github.com/TheGodOfAwesome/Passphrase): Passphrase is a suite of apps built for two fac...
+- [frankenhud](https://github.com/forivall-old-repos/frankenhud): http://steamcommunity.com/groups/frankenhud - t...
+- [js3tream](https://github.com/anthonysomerset/js3tream): Java wrapper to stream resources to S3 and back...
+- [app-launch-guide](https://github.com/banQomania/app-launch-guide): This aims to be an indie dev's definitive guide...
+- [WhatsAPI](https://github.com/tkembo/WhatsAPI): Interface to WhatsApp Messenger
+- [Jobs](https://github.com/phanstasmal/Jobs): Get jobs with api github
+- [SS-base-folders](https://github.com/patjnr/SS-base-folders): 
+- [Multi-label-classification-with-spark](https://github.com/AlexFridman/Multi-label-classification-with-spark): 
+- [rapidsms](https://github.com/nyasha/rapidsms): Build SMS applications with Python
+- [dpkg-zimbabwe-hospitals](https://github.com/mihi-tr/dpkg-zimbabwe-hospitals): 
+- [Django-Simple-Blog](https://github.com/nak1b/Django-Simple-Blog): Responsive blog using python Django and bootstrap
+- [pxb2mysqldump](https://github.com/gergnz/pxb2mysqldump): 
+- [des](https://github.com/deschigs/des): des
+- [ionic](https://github.com/ezyyinc/ionic): Advanced HTML5 mobile development framework and...
+- [os-extensions](https://github.com/krishagni/os-extensions): 
+- [zinyando.github.io](https://github.com/maffsojah/zinyando.github.io): My personal website
+- [Airport](https://github.com/1Winner1/Airport): 
+- [kombi](https://github.com/asm-products/kombi): A game which mirrors a share taxi operator's ex...

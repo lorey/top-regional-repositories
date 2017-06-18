@@ -1,29 +1,29 @@
 # Popular Repositories in Pittsburgh
 
-These are the most-starred repositories from programmers based in Pittsburgh:
+These are the repositories with the highest ratio of stars from programmers based in Pittsburgh:
 
-- [Autolab](https://github.com/autolab/Autolab)
-- [peloton](https://github.com/cmu-db/peloton)
-- [xomb](https://github.com/xomboverlord/xomb)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [PittAPI](https://github.com/Pitt-CSC/PittAPI)
-- [rstat.us](https://github.com/hotsh/rstat.us)
-- [dynet](https://github.com/clab/dynet)
-- [python-fire](https://github.com/google/python-fire)
-- [pghpy-talks](https://github.com/pghpy/pghpy-talks)
-- [caffe2](https://github.com/caffe2/caffe2)
-- [bosen](https://github.com/sailing-pmls/bosen)
-- [Realtime-Port-Authority](https://github.com/rectangle-dbmi/Realtime-Port-Authority)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [nmn2](https://github.com/jacobandreas/nmn2)
-- [visdom](https://github.com/facebookresearch/visdom)
-- [CycleGAN](https://github.com/junyanz/CycleGAN)
-- [containership](https://github.com/containership/containership)
-- [carolshubot](https://github.com/carols10cents/carolshubot)
-- [pgh-bustime](https://github.com/nhfruchter/pgh-bustime)
-- [scrc-website](https://github.com/pghrb/scrc-website)
-- [restricted-boltzmann-machines](https://github.com/echen/restricted-boltzmann-machines)
-- [tensorpack](https://github.com/ppwwyyxx/tensorpack)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [hacketyhack](https://github.com/hacketyhack/hacketyhack)
-- [gratipay.com](https://github.com/gratipay/gratipay.com)
+- [Autolab](https://github.com/autolab/Autolab): Course management service that enables auto-gra...
+- [peloton](https://github.com/cmu-db/peloton): The Self-Driving Database Management System
+- [xomb](https://github.com/xomboverlord/xomb): An exokernel operating system written in D
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [PittAPI](https://github.com/Pitt-CSC/PittAPI): An API to easily get data from the University o...
+- [rstat.us](https://github.com/hotsh/rstat.us): Simple microblogging network based on the ostat...
+- [dynet](https://github.com/clab/dynet): DyNet: The Dynamic Neural Network Toolkit
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [pghpy-talks](https://github.com/pghpy/pghpy-talks): 
+- [caffe2](https://github.com/caffe2/caffe2): Caffe2 is a cross-platform framework made with ...
+- [bosen](https://github.com/sailing-pmls/bosen): Parallel ML System - Bosen project
+- [Realtime-Port-Authority](https://github.com/rectangle-dbmi/Realtime-Port-Authority): Realtime transit tracker of Pittsburgh's Port A...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [nmn2](https://github.com/jacobandreas/nmn2): Dynamically predicted neural network structures...
+- [visdom](https://github.com/facebookresearch/visdom): A flexible tool for creating, organizing, and s...
+- [CycleGAN](https://github.com/junyanz/CycleGAN): Unpaired image-to-image translation for paintin...
+- [containership](https://github.com/containership/containership): A simple container management platform
+- [carolshubot](https://github.com/carols10cents/carolshubot): My hubot setup
+- [pgh-bustime](https://github.com/nhfruchter/pgh-bustime): Real time bus location data for the Port Author...
+- [scrc-website](https://github.com/pghrb/scrc-website): The website for SCRC12.
+- [restricted-boltzmann-machines](https://github.com/echen/restricted-boltzmann-machines): Restricted Boltzmann Machines in Python.
+- [tensorpack](https://github.com/ppwwyyxx/tensorpack): Neural Network Toolbox on TensorFlow
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [hacketyhack](https://github.com/hacketyhack/hacketyhack): the coder’s starter kit: sound, animation, vide...
+- [gratipay.com](https://github.com/gratipay/gratipay.com): Gratitude? Gratipay! We help companies and othe...

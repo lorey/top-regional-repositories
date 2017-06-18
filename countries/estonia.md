@@ -1,29 +1,29 @@
 # Popular Repositories in Estonia
 
-These are the most-starred repositories from programmers based in Estonia:
+These are the repositories with the highest ratio of stars from programmers based in Estonia:
 
-- [evalimine](https://github.com/vvk-ehk/evalimine)
-- [epl-unscramble](https://github.com/sim642/epl-unscramble)
-- [estnltk](https://github.com/estnltk/estnltk)
-- [ID-AJAX](https://github.com/andris9/ID-AJAX)
-- [xroad-public](https://github.com/vrk-kpa/xroad-public)
-- [ipizza](https://github.com/Voog/ipizza)
-- [localstack](https://github.com/atlassian/localstack)
-- [hwcrypto.js](https://github.com/hwcrypto/hwcrypto.js)
-- [rubyee](https://github.com/priit/rubyee)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [Isikukood-js](https://github.com/dknight/Isikukood-js)
-- [Banklink](https://github.com/Inoryy/Banklink)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [ctop](https://github.com/bcicen/ctop)
-- [digidoc_client](https://github.com/tarmotalu/digidoc_client)
-- [js-must](https://github.com/moll/js-must)
-- [eid-webauth-samples](https://github.com/konstantint/eid-webauth-samples)
-- [ipizza](https://github.com/tonistiigi/ipizza)
-- [sql-formatter](https://github.com/zeroturnaround/sql-formatter)
-- [Saurus-CMS-Community-Edition](https://github.com/sauruscms/Saurus-CMS-Community-Edition)
-- [postal](https://github.com/atech/postal)
-- [guetzli](https://github.com/google/guetzli)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [evalimine](https://github.com/vvk-ehk/evalimine): e-hääletamise tarkvara
+- [epl-unscramble](https://github.com/sim642/epl-unscramble): EPL tasuliste artiklite tõenäosuslik dešifreerija
+- [estnltk](https://github.com/estnltk/estnltk): Open source tools for Estonian natural language...
+- [ID-AJAX](https://github.com/andris9/ID-AJAX): ID kaardi ja Mobiil-ID autentimine/allkirjastam...
+- [xroad-public](https://github.com/vrk-kpa/xroad-public): Source code of the X-Road software
+- [ipizza](https://github.com/Voog/ipizza): Implements iPizza protocol to communicate with ...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [hwcrypto.js](https://github.com/hwcrypto/hwcrypto.js): Browser JavaScript library for working with har...
+- [rubyee](https://github.com/priit/rubyee): Ruby in Estonia
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [Isikukood-js](https://github.com/dknight/Isikukood-js): Validates and generates Estonian personal ID.
+- [Banklink](https://github.com/Inoryy/Banklink): PHP library for integrating various Baltic bank...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [digidoc_client](https://github.com/tarmotalu/digidoc_client): 
+- [js-must](https://github.com/moll/js-must): An assertion library for JavaScript and Node.js...
+- [eid-webauth-samples](https://github.com/konstantint/eid-webauth-samples): eID Smart Card Web Authentication Samples
+- [ipizza](https://github.com/tonistiigi/ipizza): Node.js implementation for Estonian(and some ot...
+- [sql-formatter](https://github.com/zeroturnaround/sql-formatter): A whitespace formatter for different query lang...
+- [Saurus-CMS-Community-Edition](https://github.com/sauruscms/Saurus-CMS-Community-Edition): Saurus CMS Community Edition
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [guetzli](https://github.com/google/guetzli): 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...

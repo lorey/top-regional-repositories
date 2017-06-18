@@ -1,29 +1,29 @@
 # Popular Repositories in Seattle
 
-These are the most-starred repositories from programmers based in Seattle:
+These are the repositories with the highest ratio of stars from programmers based in Seattle:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [seattlejs](https://github.com/seattlejs/seattlejs)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [localstack](https://github.com/atlassian/localstack)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [onebusaway-iphone](https://github.com/OneBusAway/onebusaway-iphone)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [python-fire](https://github.com/google/python-fire)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [reactide](https://github.com/reactide/reactide)
-- [guetzli](https://github.com/google/guetzli)
-- [onebusaway](https://github.com/OneBusAway/onebusaway)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [daily-curriculum](https://github.com/Ada-Developers-Academy/daily-curriculum)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [RecordStream](https://github.com/benbernard/RecordStream)
-- [azure-sdk-for-node](https://github.com/Azure/azure-sdk-for-node)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [onebusaway-android](https://github.com/OneBusAway/onebusaway-android)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [seattlejs](https://github.com/seattlejs/seattlejs): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [onebusaway-iphone](https://github.com/OneBusAway/onebusaway-iphone): The OneBusAway iPhone app.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [reactide](https://github.com/reactide/reactide): 
+- [guetzli](https://github.com/google/guetzli): 
+- [onebusaway](https://github.com/OneBusAway/onebusaway): Parent module for all OneBusAway projects with ...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [daily-curriculum](https://github.com/Ada-Developers-Academy/daily-curriculum): Daily curriculum for Ada class
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [alexa-skills-kit-js](https://github.com/amzn/alexa-skills-kit-js):  SDK and example code for building voice-enable...
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [RecordStream](https://github.com/benbernard/RecordStream): commandline tools for slicing and dicing JSON r...
+- [azure-sdk-for-node](https://github.com/Azure/azure-sdk-for-node): Azure SDK for Node.js
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [onebusaway-android](https://github.com/OneBusAway/onebusaway-android): The official Android/Fire Phone app for OneBusAway

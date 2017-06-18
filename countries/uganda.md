@@ -1,29 +1,29 @@
 # Popular Repositories in Uganda
 
-These are the most-starred repositories from programmers based in Uganda:
+These are the repositories with the highest ratio of stars from programmers based in Uganda:
 
-- [YoPayments](https://github.com/swiftugandan/YoPayments)
-- [lavacharts](https://github.com/kevinkhill/lavacharts)
-- [gradle-appengine-templates](https://github.com/GoogleCloudPlatform/gradle-appengine-templates)
-- [osgeo-drupal](https://github.com/benjaminug/osgeo-drupal)
-- [Pocket-Trainer](https://github.com/codephillip/Pocket-Trainer)
-- [beyonic-python](https://github.com/beyonic/beyonic-python)
-- [aggregio](https://github.com/atimothee/aggregio)
-- [Push-Android](https://github.com/PushOCCRP/Push-Android)
-- [makvibes](https://github.com/MAKJAMS/makvibes)
-- [ToolbarTitleAnimation](https://github.com/pjambo/ToolbarTitleAnimation)
-- [messengerbot](https://github.com/geeknam/messengerbot)
-- [manager](https://github.com/linode/manager)
-- [CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior)
-- [ImageLetterIcon](https://github.com/akashandroid90/ImageLetterIcon)
-- [pesaPi](https://github.com/pluspeople/pesaPi)
-- [Ushahidi_Android](https://github.com/ushahidi/Ushahidi_Android)
-- [wifi.sh](https://github.com/dominictarr/wifi.sh)
-- [firebase-login-demo-android](https://github.com/firebase/firebase-login-demo-android)
-- [PicassoPalette](https://github.com/florent37/PicassoPalette)
-- [TimelineView](https://github.com/qapqap/TimelineView)
-- [twitter-kit-android](https://github.com/twitter/twitter-kit-android)
-- [pocketknife](https://github.com/hansenji/pocketknife)
-- [openmrs-core](https://github.com/openmrs/openmrs-core)
-- [AppRater](https://github.com/codechimp-org/AppRater)
-- [android-ago](https://github.com/curioustechizen/android-ago)
+- [YoPayments](https://github.com/swiftugandan/YoPayments): This library creates a java wrapper for Yo! Uga...
+- [lavacharts](https://github.com/kevinkhill/lavacharts): Lavacharts is a graphing / charting library for...
+- [gradle-appengine-templates](https://github.com/GoogleCloudPlatform/gradle-appengine-templates): Freemarker based templates that build with the ...
+- [osgeo-drupal](https://github.com/benjaminug/osgeo-drupal): Upgrading the Osgeo website from drupal 6 to Dr...
+- [Pocket-Trainer](https://github.com/codephillip/Pocket-Trainer): 
+- [beyonic-python](https://github.com/beyonic/beyonic-python): Python library for the Beyonic.com API
+- [aggregio](https://github.com/atimothee/aggregio): News aggregator
+- [Push-Android](https://github.com/PushOCCRP/Push-Android): The Push Android app.
+- [makvibes](https://github.com/MAKJAMS/makvibes): Internal website for Makerere university
+- [ToolbarTitleAnimation](https://github.com/pjambo/ToolbarTitleAnimation): Toolbar Title Animation Demo
+- [messengerbot](https://github.com/geeknam/messengerbot): Python client for Facebook Messenger Platform Bot
+- [manager](https://github.com/linode/manager): The Linode manager
+- [CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior): Custom BottomSheetBehavior for Android that mim...
+- [ImageLetterIcon](https://github.com/akashandroid90/ImageLetterIcon): Material letter icon with circle background. Al...
+- [pesaPi](https://github.com/pluspeople/pesaPi): PesaPI is an API for mobile money systems acros...
+- [Ushahidi_Android](https://github.com/ushahidi/Ushahidi_Android): [Deprecated] Ushahidi Android app For Ushahidi ...
+- [wifi.sh](https://github.com/dominictarr/wifi.sh): 
+- [firebase-login-demo-android](https://github.com/firebase/firebase-login-demo-android): 
+- [PicassoPalette](https://github.com/florent37/PicassoPalette): Android Lollipop Palette is now easy to use wit...
+- [TimelineView](https://github.com/qapqap/TimelineView): Customzable TimelineView for Android
+- [twitter-kit-android](https://github.com/twitter/twitter-kit-android): Twitter Kit for Android
+- [pocketknife](https://github.com/hansenji/pocketknife): Intent and Bundle utility for Android
+- [openmrs-core](https://github.com/openmrs/openmrs-core): OpenMRS API and web application code
+- [AppRater](https://github.com/codechimp-org/AppRater): AppRater Library for Android
+- [android-ago](https://github.com/curioustechizen/android-ago): An Android TextView that always displays an aut...

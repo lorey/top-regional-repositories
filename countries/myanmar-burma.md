@@ -1,29 +1,29 @@
 # Popular Repositories in Myanmar [Burma]
 
-These are the most-starred repositories from programmers based in Myanmar [Burma]:
+These are the repositories with the highest ratio of stars from programmers based in Myanmar [Burma]:
 
-- [Rabbit](https://github.com/Rabbit-Converter/Rabbit)
-- [beautiful-burmese-type](https://github.com/khzaw/beautiful-burmese-type)
-- [mmtext](https://github.com/htoomyintnaung/mmtext)
-- [awesome-myanmar-unicode](https://github.com/khzaw/awesome-myanmar-unicode)
-- [oneclick-fontchanger](https://github.com/dreamingblackcat/oneclick-fontchanger)
-- [knayi-myscript](https://github.com/greenlikeorange/knayi-myscript)
-- [MagicButton](https://github.com/swanhtet1992/MagicButton)
-- [Mae](https://github.com/MMAUG/Mae)
-- [python-myanmar](https://github.com/trhura/python-myanmar)
-- [reborn](https://github.com/reborncms/reborn)
-- [ornagai-V2](https://github.com/saturngod/ornagai-V2)
-- [Yangon-Township-GeoJSON](https://github.com/saturngod/Yangon-Township-GeoJSON)
-- [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails)
-- [jquery.mymr](https://github.com/andjc/jquery.mymr)
-- [FloodInfo](https://github.com/MMAUG/FloodInfo)
-- [paytan](https://github.com/trhura/paytan)
-- [myanmarweb](https://github.com/enabling-languages/myanmarweb)
-- [mongo-lite](https://github.com/hexcores/mongo-lite)
-- [telegram-ornagai-bot](https://github.com/yelinaung/telegram-ornagai-bot)
-- [floodinfo-myanmar](https://github.com/alt332/floodinfo-myanmar)
-- [jalaybe](https://github.com/trhura/jalaybe)
-- [flood-website](https://github.com/MMAUG/flood-website)
-- [devcon-android](https://github.com/DevConMyanmar/devcon-android)
-- [electroscope](https://github.com/Electroscope/electroscope)
-- [UnicodeInRuby](https://github.com/yelinaung/UnicodeInRuby)
+- [Rabbit](https://github.com/Rabbit-Converter/Rabbit): Another Zawgyi <=> Unicode Converter
+- [beautiful-burmese-type](https://github.com/khzaw/beautiful-burmese-type): Beautiful Burmese Typefaces
+- [mmtext](https://github.com/htoomyintnaung/mmtext): A library to embed Myanmar Unicode on Android a...
+- [awesome-myanmar-unicode](https://github.com/khzaw/awesome-myanmar-unicode): A curated list of resources for Myanmar Unicode.
+- [oneclick-fontchanger](https://github.com/dreamingblackcat/oneclick-fontchanger): A chrome extension for quickly changing font se...
+- [knayi-myscript](https://github.com/greenlikeorange/knayi-myscript): Myanmar Language Script Library
+- [MagicButton](https://github.com/swanhtet1992/MagicButton): Automagically generate Zawgyi/Unicode version o...
+- [Mae](https://github.com/MMAUG/Mae): Source code of the app for 2015 General Electio...
+- [python-myanmar](https://github.com/trhura/python-myanmar): Python Routines for Myanmar Language Processing
+- [reborn](https://github.com/reborncms/reborn): Reborn CMS
+- [ornagai-V2](https://github.com/saturngod/ornagai-V2): Ornagai Version 2 (English <=> Myanmar Dictionary)
+- [Yangon-Township-GeoJSON](https://github.com/saturngod/Yangon-Township-GeoJSON): Yangon Township GeoJSON Data
+- [mmunicode_rails](https://github.com/dreamingblackcat/mmunicode_rails): A gem that provide converting of your rails app...
+- [jquery.mymr](https://github.com/andjc/jquery.mymr): Improved Myanmar script web typography
+- [FloodInfo](https://github.com/MMAUG/FloodInfo): Quick and simple android app for collection of ...
+- [paytan](https://github.com/trhura/paytan): Collections of algorithms for Myanmar language ...
+- [myanmarweb](https://github.com/enabling-languages/myanmarweb): Tools and resources for Myanmar Web development
+- [mongo-lite](https://github.com/hexcores/mongo-lite): MongoDB Lite Package
+- [telegram-ornagai-bot](https://github.com/yelinaung/telegram-ornagai-bot): A Telegram bot which serves you as an English <...
+- [floodinfo-myanmar](https://github.com/alt332/floodinfo-myanmar): API with Admin Panel for FloodInfo-Myanmar
+- [jalaybe](https://github.com/trhura/jalaybe): Facebook Page Mirroring App
+- [flood-website](https://github.com/MMAUG/flood-website): Web version of Myanmar Flood information
+- [devcon-android](https://github.com/DevConMyanmar/devcon-android): DevCon 2014 Android App
+- [electroscope](https://github.com/Electroscope/electroscope): The microscope like electroscope for Myanmar el...
+- [UnicodeInRuby](https://github.com/yelinaung/UnicodeInRuby): Myanmar Unicode Testing for Ruby 1.9.3 & 2.0

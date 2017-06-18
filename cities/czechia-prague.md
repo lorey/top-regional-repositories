@@ -1,29 +1,29 @@
 # Popular Repositories in Prague
 
-These are the most-starred repositories from programmers based in Prague:
+These are the repositories with the highest ratio of stars from programmers based in Prague:
 
-- [nette](https://github.com/nette/nette)
-- [OSTRAJava](https://github.com/tkohout/OSTRAJava)
-- [sandbox](https://github.com/nette/sandbox)
-- [ftp-deployment](https://github.com/dg/ftp-deployment)
-- [tester](https://github.com/nette/tester)
-- [Restful](https://github.com/drahak/Restful)
-- [nette.ajax.js](https://github.com/vojtech-dobes/nette.ajax.js)
-- [tracy](https://github.com/nette/tracy)
-- [latte](https://github.com/nette/latte)
-- [dibi](https://github.com/dg/dibi)
-- [examples](https://github.com/nette/examples)
-- [WebLoader](https://github.com/janmarek/WebLoader)
-- [forms](https://github.com/nette/forms)
-- [Doctrine](https://github.com/Kdyby/Doctrine)
-- [texy](https://github.com/dg/texy)
-- [neon](https://github.com/nette/neon)
-- [datagrid](https://github.com/ublaboo/datagrid)
-- [jakobejitblokaci.cz](https://github.com/spaze/jakobejitblokaci.cz)
-- [web-addons.nette.org](https://github.com/nette/web-addons.nette.org)
-- [Gustav](https://github.com/atp-team/Gustav)
-- [docs](https://github.com/nette/docs)
-- [Translation](https://github.com/Kdyby/Translation)
-- [di](https://github.com/nette/di)
-- [application](https://github.com/nette/application)
-- [phpstan](https://github.com/phpstan/phpstan)
+- [nette](https://github.com/nette/nette): 👪 METAPACKAGE for Nette Framework components
+- [OSTRAJava](https://github.com/tkohout/OSTRAJava): Bo neni cas pyco
+- [sandbox](https://github.com/nette/sandbox): Pre-packaged Nette Framework project.
+- [ftp-deployment](https://github.com/dg/ftp-deployment): A tool for automated deployment of web applicat...
+- [tester](https://github.com/nette/tester): Tester: enjoyable unit testing in PHP with code...
+- [Restful](https://github.com/drahak/Restful): Drahak\Restful - Nette REST API bundle
+- [nette.ajax.js](https://github.com/vojtech-dobes/nette.ajax.js): Flexible utility script for AJAX in Nette Frame...
+- [tracy](https://github.com/nette/tracy): 😎 Tracy: the addictive tool to ease debugging P...
+- [latte](https://github.com/nette/latte): ☕ Latte: the intuitive and fast template engine...
+- [dibi](https://github.com/dg/dibi): dibi - smart database abstraction layer
+- [examples](https://github.com/nette/examples): 🎓 Examples demonstrating the Nette Framework.
+- [WebLoader](https://github.com/janmarek/WebLoader): Nette Framework addon for CSS and JS files loading
+- [forms](https://github.com/nette/forms): 📝 Generating, validating and processing secure ...
+- [Doctrine](https://github.com/Kdyby/Doctrine): Doctrine 2 ORM integration into Nette Framework
+- [texy](https://github.com/dg/texy): Texy! is the best humane Web text generator
+- [neon](https://github.com/nette/neon): 🍸 Encodes and decodes NEON file format.
+- [datagrid](https://github.com/ublaboo/datagrid): DataGrid for Nette Framework: filtering, sortin...
+- [jakobejitblokaci.cz](https://github.com/spaze/jakobejitblokaci.cz): www.jakobejitblokaci.cz
+- [web-addons.nette.org](https://github.com/nette/web-addons.nette.org): [DISCONTINUED] Website https://addons.nette.org...
+- [Gustav](https://github.com/atp-team/Gustav): Open source internet banking built on the top o...
+- [docs](https://github.com/nette/docs): 📖 The Nette documentation
+- [Translation](https://github.com/Kdyby/Translation): Integration of Symfony/Translation into Nette F...
+- [di](https://github.com/nette/di): 💎 Flexible, compiled and full-featured Dependen...
+- [application](https://github.com/nette/application): 🏆 A full-stack component-based MVC kernel for P...
+- [phpstan](https://github.com/phpstan/phpstan): PHP Static Analysis Tool - discover bugs in you...

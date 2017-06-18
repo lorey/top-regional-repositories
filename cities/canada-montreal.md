@@ -1,29 +1,29 @@
 # Popular Repositories in Montreal
 
-These are the most-starred repositories from programmers based in Montreal:
+These are the repositories with the highest ratio of stars from programmers based in Montreal:
 
-- [pytoutv](https://github.com/bvanheu/pytoutv)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [tachyon](https://github.com/delvelabs/tachyon)
-- [ipt](https://github.com/ruyadorno/ipt)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [guetzli](https://github.com/google/guetzli)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [cf-keylayout](https://github.com/ergosteur/cf-keylayout)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [nit](https://github.com/nitlang/nit)
-- [mldb](https://github.com/mldbai/mldb)
-- [openparliament](https://github.com/rhymeswithcycle/openparliament)
-- [planck.js](https://github.com/shakiba/planck.js)
-- [shipit-engine](https://github.com/Shopify/shipit-engine)
-- [sous-chef](https://github.com/savoirfairelinux/sous-chef)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [open-source-montreal](https://github.com/RichardLitt/open-source-montreal)
-- [CycleGAN](https://github.com/junyanz/CycleGAN)
-- [Hackathon](https://github.com/hackreduce/Hackathon)
-- [martlet](https://github.com/alexcoco/martlet)
-- [mgmt](https://github.com/purpleidea/mgmt)
+- [pytoutv](https://github.com/bvanheu/pytoutv): TOU.TV client library and user interfaces writt...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [tachyon](https://github.com/delvelabs/tachyon): Fast Multi-Threaded Web Discovery Tool
+- [ipt](https://github.com/ruyadorno/ipt): Interactive Pipe To: The missing cli interactiv...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [guetzli](https://github.com/google/guetzli): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [cf-keylayout](https://github.com/ergosteur/cf-keylayout): Clavier Canadien-Français pour Mac OS X
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [nit](https://github.com/nitlang/nit): Nit language
+- [mldb](https://github.com/mldbai/mldb): MLDB is the Machine Learning Database
+- [openparliament](https://github.com/rhymeswithcycle/openparliament): Keeping tabs on Canada's Parliament
+- [planck.js](https://github.com/shakiba/planck.js): 2D physics engine for cross-platform JavaScript...
+- [shipit-engine](https://github.com/Shopify/shipit-engine): Deployment coordination
+- [sous-chef](https://github.com/savoirfairelinux/sous-chef): Sous-Chef is a web application to help organiza...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [open-source-montreal](https://github.com/RichardLitt/open-source-montreal): A directory of companies, people, and projects ...
+- [CycleGAN](https://github.com/junyanz/CycleGAN): Unpaired image-to-image translation for paintin...
+- [Hackathon](https://github.com/hackreduce/Hackathon): Library and resources for hack/reduce Hackathon...
+- [martlet](https://github.com/alexcoco/martlet): Ruby client for McGill's Minerva
+- [mgmt](https://github.com/purpleidea/mgmt): A next generation config management prototype!

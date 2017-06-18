@@ -1,29 +1,29 @@
 # Popular Repositories in Los Angeles
 
-These are the most-starred repositories from programmers based in Los Angeles:
+These are the repositories with the highest ratio of stars from programmers based in Los Angeles:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [reactide](https://github.com/reactide/reactide)
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [guetzli](https://github.com/google/guetzli)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [lunch.js](https://github.com/jsla/lunch.js)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [AR.js](https://github.com/jeromeetienne/AR.js)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [seedux](https://github.com/reduxify/seedux)
-- [razorframe](https://github.com/team-emt/razorframe)
-- [omnistream](https://github.com/soup-js/omnistream)
-- [prepack](https://github.com/facebook/prepack)
-- [react-d3-library](https://github.com/react-d3-library/react-d3-library)
-- [planck.js](https://github.com/shakiba/planck.js)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [reactide](https://github.com/reactide/reactide): 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [guetzli](https://github.com/google/guetzli): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [lunch.js](https://github.com/jsla/lunch.js): 🍔🍟🌮🌯🍜🍎🌭🍕
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [AR.js](https://github.com/jeromeetienne/AR.js): Efficient Augmented Reality for the Web using A...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [seedux](https://github.com/reduxify/seedux): Redux developer tool for data flow visualizatio...
+- [razorframe](https://github.com/team-emt/razorframe): Node library for empowering real-time applicati...
+- [omnistream](https://github.com/soup-js/omnistream): Stream based state management for React built o...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [react-d3-library](https://github.com/react-d3-library/react-d3-library): Open source library for using D3 in React
+- [planck.js](https://github.com/shakiba/planck.js): 2D physics engine for cross-platform JavaScript...

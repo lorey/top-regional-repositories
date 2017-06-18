@@ -1,29 +1,29 @@
 # Popular Repositories in Amsterdam
 
-These are the most-starred repositories from programmers based in Amsterdam:
+These are the repositories with the highest ratio of stars from programmers based in Amsterdam:
 
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [dutch-tax-income-calculator](https://github.com/stevermeister/dutch-tax-income-calculator)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [localstack](https://github.com/atlassian/localstack)
-- [git-deploy](https://github.com/git-deploy/git-deploy)
-- [dotfiles](https://github.com/lewagon/dotfiles)
-- [reactide](https://github.com/reactide/reactide)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Sereal](https://github.com/Sereal/Sereal)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [polished](https://github.com/styled-components/polished)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [python-fire](https://github.com/google/python-fire)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [mollie-api-php](https://github.com/mollie/mollie-api-php)
-- [setup](https://github.com/lewagon/setup)
-- [p5-intelligible-unicode](https://github.com/rgs/p5-intelligible-unicode)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [prepack](https://github.com/facebook/prepack)
-- [unfetch](https://github.com/developit/unfetch)
-- [photosrv](https://github.com/photosrv/photosrv)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [dutch-tax-income-calculator](https://github.com/stevermeister/dutch-tax-income-calculator): Dutch Tax Income Calculator with AngularJS
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [git-deploy](https://github.com/git-deploy/git-deploy): Tool to manage using git as a deployment manage...
+- [dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
+- [reactide](https://github.com/reactide/reactide): 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Sereal](https://github.com/Sereal/Sereal): Fast, compact, schema-less, binary serializatio...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [mollie-api-php](https://github.com/mollie/mollie-api-php): Mollie API client for PHP
+- [setup](https://github.com/lewagon/setup): Setup instructions for Le Wagon's students on t...
+- [p5-intelligible-unicode](https://github.com/rgs/p5-intelligible-unicode): An intelligible guide to Unicode in Perl 5
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [unfetch](https://github.com/developit/unfetch): Bare minimum fetch polyfill in 500 bytes.
+- [photosrv](https://github.com/photosrv/photosrv): Consistently hashed HTTP reverse proxy.
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...

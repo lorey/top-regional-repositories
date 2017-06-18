@@ -1,29 +1,29 @@
 # Popular Repositories in Egypt
 
-These are the most-starred repositories from programmers based in Egypt:
+These are the repositories with the highest ratio of stars from programmers based in Egypt:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [quran_android](https://github.com/quran/quran_android)
-- [manshar](https://github.com/manshar/manshar)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [bootstrap-3-arabic](https://github.com/zeroxme/bootstrap-3-arabic)
-- [AlternativesToOnlineServices](https://github.com/AmrEldib/AlternativesToOnlineServices)
-- [fix-common-arabic-mistakes](https://github.com/AAbouZaid/fix-common-arabic-mistakes)
-- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [markdown-arabic](https://github.com/ahmadajmi/markdown-arabic)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [repository](https://github.com/rinvex/repository)
-- [Bootstrap-RTL](https://github.com/AbdullahDiaa/Bootstrap-RTL)
-- [Metro-GTFS](https://github.com/transportforcairo/Metro-GTFS)
-- [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)
-- [gridstatusnow](https://github.com/GridStatusNow/gridstatusnow)
-- [arabicdatetime](https://github.com/maherelgamil/arabicdatetime)
-- [1Sheeld-Android-App](https://github.com/Integreight/1Sheeld-Android-App)
-- [ring](https://github.com/ring-lang/ring)
-- [guetzli](https://github.com/google/guetzli)
-- [rtlcss](https://github.com/MohammadYounes/rtlcss)
-- [Simple-Streamer](https://github.com/EslaMx7/Simple-Streamer)
-- [Cairo](https://github.com/Gue3bara/Cairo)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [quran_android](https://github.com/quran/quran_android): a quran reading application for android
+- [manshar](https://github.com/manshar/manshar): Arabic social publishing platform — منصة نشر مخ...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [bootstrap-3-arabic](https://github.com/zeroxme/bootstrap-3-arabic): bootstrap 3 arabic
+- [AlternativesToOnlineServices](https://github.com/AmrEldib/AlternativesToOnlineServices): A list of alternatives to online services.
+- [fix-common-arabic-mistakes](https://github.com/AAbouZaid/fix-common-arabic-mistakes): Libreoffice macros (Basic and Python) use Regex...
+- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl): RTL Theme for Bootstrap v3.x
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [markdown-arabic](https://github.com/ahmadajmi/markdown-arabic): Write Markdown in Arabic
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [repository](https://github.com/rinvex/repository): Rinvex Repository is a simple, intuitive, and s...
+- [Bootstrap-RTL](https://github.com/AbdullahDiaa/Bootstrap-RTL): Right to Left version of Bootstrap 2.3.2 / 3.x
+- [Metro-GTFS](https://github.com/transportforcairo/Metro-GTFS): Data Release for Open Data Day Cairo 2016. GTFS...
+- [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView): Scrollable list of items, where current item is...
+- [gridstatusnow](https://github.com/GridStatusNow/gridstatusnow): Grid Status Now : Egypt's Power Grid Load Statu...
+- [arabicdatetime](https://github.com/maherelgamil/arabicdatetime): Easy and useful tool to get arabic date with ar...
+- [1Sheeld-Android-App](https://github.com/Integreight/1Sheeld-Android-App): An Android app used along with our hardware shi...
+- [ring](https://github.com/ring-lang/ring): The Ring Programming Language 
+- [guetzli](https://github.com/google/guetzli): 
+- [rtlcss](https://github.com/MohammadYounes/rtlcss): Framework for transforming  Cascading Style She...
+- [Simple-Streamer](https://github.com/EslaMx7/Simple-Streamer): Do you have a movie that you want to stream it ...
+- [Cairo](https://github.com/Gue3bara/Cairo): Arabic Font Family based on Titillium Web

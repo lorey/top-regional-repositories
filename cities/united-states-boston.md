@@ -1,29 +1,29 @@
 # Popular Repositories in Boston
 
-These are the most-starred repositories from programmers based in Boston:
+These are the repositories with the highest ratio of stars from programmers based in Boston:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [bostonrb](https://github.com/bostonrb/bostonrb)
-- [boston.gov](https://github.com/CityOfBoston/boston.gov)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [tungstenjs](https://github.com/wayfair/tungstenjs)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [reactide](https://github.com/reactide/reactide)
-- [mbtaviz.github.io](https://github.com/mbtaviz/mbtaviz.github.io)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [reveal-ck](https://github.com/jedcn/reveal-ck)
-- [general-store](https://github.com/HubSpot/general-store)
-- [presto-admin](https://github.com/prestodb/presto-admin)
-- [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [presto-admin](https://github.com/Teradata/presto-admin)
-- [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit)
-- [algorithms](https://github.com/keon/algorithms)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bostonrb](https://github.com/bostonrb/bostonrb): Website for bostonrb.org
+- [boston.gov](https://github.com/CityOfBoston/boston.gov): The official repository of Boston.gov
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [tungstenjs](https://github.com/wayfair/tungstenjs): Tungsten.js is a modular framework for creating...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [reactide](https://github.com/reactide/reactide): 
+- [mbtaviz.github.io](https://github.com/mbtaviz/mbtaviz.github.io): Visualizing MBTA Data
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [reveal-ck](https://github.com/jedcn/reveal-ck): Create slides with markdown
+- [general-store](https://github.com/HubSpot/general-store): Simple, flexible store implementation for Flux....
+- [presto-admin](https://github.com/prestodb/presto-admin): A tool to install, configure and manage Presto ...
+- [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen): Validated, scalable, community developed varian...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [presto-admin](https://github.com/Teradata/presto-admin): A tool to install, configure and manage Presto ...
+- [sinatra-activerecord-starter-kit](https://github.com/LaunchAcademy/sinatra-activerecord-starter-kit): 
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...

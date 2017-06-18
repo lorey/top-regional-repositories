@@ -1,29 +1,29 @@
 # Popular Repositories in Mauritius
 
-These are the most-starred repositories from programmers based in Mauritius:
+These are the repositories with the highest ratio of stars from programmers based in Mauritius:
 
-- [had-to-share-plugin](https://github.com/CheckoutOpenSource/had-to-share-plugin)
-- [devcon2017](https://github.com/mscraftsman/devcon2017)
-- [ExpectAnim](https://github.com/florent37/ExpectAnim)
-- [icare](https://github.com/diowa/icare)
-- [awesome-aurelia](https://github.com/behzad888/awesome-aurelia)
-- [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps)
-- [scroll-through-time](https://github.com/mathieudutour/scroll-through-time)
-- [flint](https://github.com/ezekg/flint)
-- [playSMS](https://github.com/antonraharja/playSMS)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [restforce](https://github.com/ejholmes/restforce)
-- [android-switch-backport](https://github.com/BoD/android-switch-backport)
-- [joyride](https://github.com/zurb/joyride)
-- [vue-spinner](https://github.com/greyby/vue-spinner)
-- [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
-- [react-laravel](https://github.com/talyssonoc/react-laravel)
-- [react-native-foldview](https://github.com/jmurzy/react-native-foldview)
-- [phpquery](https://github.com/TobiaszCudnik/phpquery)
-- [Charts](https://github.com/ConsoleTVs/Charts)
-- [bootstrap-notify](https://github.com/goodybag/bootstrap-notify)
-- [fancyInput](https://github.com/yairEO/fancyInput)
-- [angular-datatables](https://github.com/l-lin/angular-datatables)
-- [wp-twilio-api](https://github.com/wp-api-libraries/wp-twilio-api)
-- [Networking-Lab](https://github.com/sjashwin/Networking-Lab)
-- [bug-life](https://github.com/domenic/bug-life)
+- [had-to-share-plugin](https://github.com/CheckoutOpenSource/had-to-share-plugin): DEV CON MRU Demo "Building lightweight plugins"
+- [devcon2017](https://github.com/mscraftsman/devcon2017): Website of Developers Conference 2017 in Mauritius
+- [ExpectAnim](https://github.com/florent37/ExpectAnim): Describe your animation and run !
+- [icare](https://github.com/diowa/icare): Open Source Carpooling Platform
+- [awesome-aurelia](https://github.com/behzad888/awesome-aurelia): A curated list of amazingly awesome Aurelia lib...
+- [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps): Curated List of Open Source React Native Apps
+- [scroll-through-time](https://github.com/mathieudutour/scroll-through-time): :hourglass: :tophat: :rabbit2: Two fingers scro...
+- [flint](https://github.com/ezekg/flint): Flint is a powerful Sass grid framework designe...
+- [playSMS](https://github.com/antonraharja/playSMS): playSMS is a flexible Web-based Mobile Portal S...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [restforce](https://github.com/ejholmes/restforce): A ruby client for the Salesforce REST api.
+- [android-switch-backport](https://github.com/BoD/android-switch-backport): A backport of the SwitchPreference component th...
+- [joyride](https://github.com/zurb/joyride): jQuery feature tour plugin.
+- [vue-spinner](https://github.com/greyby/vue-spinner): vue spinners
+- [InterviewThis](https://github.com/ChiperSoft/InterviewThis): An open source list of developer questions to a...
+- [react-laravel](https://github.com/talyssonoc/react-laravel): Package for using ReactJS with Laravel
+- [react-native-foldview](https://github.com/jmurzy/react-native-foldview): FoldView implemented in JavaScript ⛱
+- [phpquery](https://github.com/TobiaszCudnik/phpquery): 
+- [Charts](https://github.com/ConsoleTVs/Charts): Multi-library chart package to create interacti...
+- [bootstrap-notify](https://github.com/goodybag/bootstrap-notify): Bootstrap alert system made better, builds off ...
+- [fancyInput](https://github.com/yairEO/fancyInput): Makes typing in input fields fun with CSS3 effects
+- [angular-datatables](https://github.com/l-lin/angular-datatables): DataTables using angular directives
+- [wp-twilio-api](https://github.com/wp-api-libraries/wp-twilio-api): A WordPress php library for interacting with th...
+- [Networking-Lab](https://github.com/sjashwin/Networking-Lab): Networking laboratory experiments basics.
+- [bug-life](https://github.com/domenic/bug-life): Bug Life - GitHub Data Challenge 2014

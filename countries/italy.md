@@ -1,29 +1,29 @@
 # Popular Repositories in Italy
 
-These are the most-starred repositories from programmers based in Italy:
+These are the repositories with the highest ratio of stars from programmers based in Italy:
 
-- [monicelli](https://github.com/esseks/monicelli)
-- [riforma-costituzionale](https://github.com/fkomauli/riforma-costituzionale)
-- [designer.italia.it](https://github.com/italia/designer.italia.it)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [costituzione](https://github.com/pmontrasio/costituzione)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [localstack](https://github.com/atlassian/localstack)
-- [ctop](https://github.com/bcicen/ctop)
-- [python-fire](https://github.com/google/python-fire)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [guetzli](https://github.com/google/guetzli)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [senato.py](https://github.com/jacquerie/senato.py)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [mannaggia](https://github.com/LegolasTheElf/mannaggia)
-- [gravity](https://github.com/marcobambini/gravity)
-- [stocazzo](https://github.com/dottorblaster/stocazzo)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [cookieconsent](https://github.com/insites/cookieconsent)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [fastify](https://github.com/fastify/fastify)
-- [cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler)
+- [monicelli](https://github.com/esseks/monicelli): An esoteric programming language, come se fosse...
+- [riforma-costituzionale](https://github.com/fkomauli/riforma-costituzionale): Disposizioni per il superamento del bicameralis...
+- [designer.italia.it](https://github.com/italia/designer.italia.it): Linee guida di design per i siti web della PA
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [costituzione](https://github.com/pmontrasio/costituzione): Modifiche 2016 alla costituzione italiana
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [guetzli](https://github.com/google/guetzli): 
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [senato.py](https://github.com/jacquerie/senato.py): A scraper for the data made available by the It...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [mannaggia](https://github.com/LegolasTheElf/mannaggia): automatic saint calling for depressed Veteran u...
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [stocazzo](https://github.com/dottorblaster/stocazzo): Stocazzo As A Service
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [cookieconsent](https://github.com/insites/cookieconsent): A free solution to the EU Cookie Law
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [fastify](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js
+- [cookies-enabler](https://github.com/nicholasruggeri/cookies-enabler): Easy-to-use pure Javascript solution for preven...

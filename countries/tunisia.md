@@ -1,29 +1,29 @@
 # Popular Repositories in Tunisia
 
-These are the most-starred repositories from programmers based in Tunisia:
+These are the repositories with the highest ratio of stars from programmers based in Tunisia:
 
-- [AngularBeans](https://github.com/bessemHmidi/AngularBeans)
-- [pokeballs.css](https://github.com/bedis-elacheche/pokeballs.css)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [Clictopay](https://github.com/NAYZO/Clictopay)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [openpaas-esn](https://github.com/linagora/openpaas-esn)
-- [repmgr-puppet](https://github.com/abessifi/repmgr-puppet)
-- [oh-my-box](https://github.com/abessifi/oh-my-box)
-- [smt4presta](https://github.com/nacef-labidi/smt4presta)
-- [reactide](https://github.com/reactide/reactide)
-- [EspritLibreBot](https://github.com/rednaks/EspritLibreBot)
-- [bscommunity](https://github.com/MazenDesigns/bscommunity)
-- [ionic](https://github.com/saravmajestic/ionic)
-- [CyberCrowl](https://github.com/chamli/CyberCrowl)
-- [Doctors](https://github.com/benaich/Doctors)
-- [quran_android](https://github.com/quran/quran_android)
-- [AliDatatableBundle](https://github.com/AliHichem/AliDatatableBundle)
-- [PlugBot-Plug](https://github.com/redteamsecurity/PlugBot-Plug)
-- [feathers-authentication](https://github.com/feathersjs/feathers-authentication)
-- [angular2-universal-starter](https://github.com/alexpods/angular2-universal-starter)
-- [webL10n](https://github.com/fabi1cazenave/webL10n)
-- [---](https://github.com/nasser/---)
-- [supergiant](https://github.com/supergiant/supergiant)
-- [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [AngularBeans](https://github.com/bessemHmidi/AngularBeans): 
+- [pokeballs.css](https://github.com/bedis-elacheche/pokeballs.css): Pokéballs recreated in pure CSS
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [Clictopay](https://github.com/NAYZO/Clictopay):  Module Prestashop de paiement en ligne pour SP...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [openpaas-esn](https://github.com/linagora/openpaas-esn): Open PaaS Enterprise Social Network
+- [repmgr-puppet](https://github.com/abessifi/repmgr-puppet): A puppet module for repmgr to handle Postgres 9...
+- [oh-my-box](https://github.com/abessifi/oh-my-box):   Oh-My-Box is a set of Packer templates, Ansib...
+- [smt4presta](https://github.com/nacef-labidi/smt4presta): smt4presta est un module Prestashop qui permet ...
+- [reactide](https://github.com/reactide/reactide): 
+- [EspritLibreBot](https://github.com/rednaks/EspritLibreBot): Esprit Libre IRC Bot
+- [bscommunity](https://github.com/MazenDesigns/bscommunity): bloodstone community is an open source php foru...
+- [ionic](https://github.com/saravmajestic/ionic): Custom Ionic components
+- [CyberCrowl](https://github.com/chamli/CyberCrowl): CyberCrowl is a python Web path scanner tool 
+- [Doctors](https://github.com/benaich/Doctors): Medical Doctors web Application (Symfony2)
+- [quran_android](https://github.com/quran/quran_android): a quran reading application for android
+- [AliDatatableBundle](https://github.com/AliHichem/AliDatatableBundle): Symfony2 Ajax Datagrid Bundle for doctrine2 ent...
+- [PlugBot-Plug](https://github.com/redteamsecurity/PlugBot-Plug): The "bot" component of the PlugBot project
+- [feathers-authentication](https://github.com/feathersjs/feathers-authentication): Feathers local, token, and OAuth authentication...
+- [angular2-universal-starter](https://github.com/alexpods/angular2-universal-starter): Enjoy Server Side rendering and Web Workers in ...
+- [webL10n](https://github.com/fabi1cazenave/webL10n): Client-side internationalization / localization...
+- [---](https://github.com/nasser/---): قلب: لغة برمجة
+- [supergiant](https://github.com/supergiant/supergiant): Automatically scale hardware and easily run sta...
+- [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS): A javascript framework for developing pretty br...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...

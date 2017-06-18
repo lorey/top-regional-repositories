@@ -1,29 +1,29 @@
 # Popular Repositories in Rochester
 
-These are the most-starred repositories from programmers based in Rochester:
+These are the repositories with the highest ratio of stars from programmers based in Rochester:
 
-- [schedulemaker](https://github.com/ComputerScienceHouse/schedulemaker)
-- [petitions](https://github.com/ritstudentgovernment/petitions)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [amicus](https://github.com/nathos/amicus)
-- [ratemycoop](https://github.com/craigcabrey/ratemycoop)
-- [conditional](https://github.com/ComputerScienceHouse/conditional)
-- [Harold](https://github.com/ComputerScienceHouse/Harold)
-- [Constitution](https://github.com/ComputerScienceHouse/Constitution)
-- [Dash](https://github.com/Circular-Studios/Dash)
-- [CSHMovies](https://github.com/brandonhudson/CSHMovies)
-- [Soapy](https://github.com/dag10/Soapy)
-- [NGen](https://github.com/MrNex/NGen)
-- [hfoss](https://github.com/ralphbean/hfoss)
-- [repo-contrib-graph](https://github.com/kylemacey/repo-contrib-graph)
-- [CSH-WebNews](https://github.com/grantovich/CSH-WebNews)
-- [MyCoursesDownloader](https://github.com/volfco/MyCoursesDownloader)
-- [DJ](https://github.com/dag10/DJ)
-- [hflossk](https://github.com/decause/hflossk)
-- [Dark-Souls-PvP-AI](https://github.com/metal-crow/Dark-Souls-PvP-AI)
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-- [localstack](https://github.com/atlassian/localstack)
-- [ctop](https://github.com/bcicen/ctop)
-- [chromium-vulnerabilities](https://github.com/andymeneely/chromium-vulnerabilities)
-- [KwikThinker](https://github.com/KwikThinker/KwikThinker)
-- [Bloodhound](https://github.com/daninnewyork/Bloodhound)
+- [schedulemaker](https://github.com/ComputerScienceHouse/schedulemaker): A course database lookup tool and schedule buil...
+- [petitions](https://github.com/ritstudentgovernment/petitions): PawPrints petition application for the RIT comm...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [amicus](https://github.com/nathos/amicus): Amicus is a clean project template for the Midd...
+- [ratemycoop](https://github.com/craigcabrey/ratemycoop): Service for students to view and rate co-ops fo...
+- [conditional](https://github.com/ComputerScienceHouse/conditional): CSH Evals, the modern way.
+- [Harold](https://github.com/ComputerScienceHouse/Harold): CSH Harold
+- [Constitution](https://github.com/ComputerScienceHouse/Constitution): Computer Science House's Constitution
+- [Dash](https://github.com/Circular-Studios/Dash): A free and open 3D game engine written in D.
+- [CSHMovies](https://github.com/brandonhudson/CSHMovies): Movie search web-app for Plex, allowing for cro...
+- [Soapy](https://github.com/dag10/Soapy): Use RFID to listen to Spotify in the shower!
+- [NGen](https://github.com/MrNex/NGen): 3D Game & Simulation Engine written in C
+- [hfoss](https://github.com/ralphbean/hfoss): Syllabus and content for RIT HFOSS Course
+- [repo-contrib-graph](https://github.com/kylemacey/repo-contrib-graph): Repository Contribution Graphs in your terminal!
+- [CSH-WebNews](https://github.com/grantovich/CSH-WebNews): Web-based NNTP client for Computer Science Hous...
+- [MyCoursesDownloader](https://github.com/volfco/MyCoursesDownloader): Written instead of studying.
+- [DJ](https://github.com/dag10/DJ): Website where users take turns playing music ov...
+- [hflossk](https://github.com/decause/hflossk): HFOSS + Flask = hflossk
+- [Dark-Souls-PvP-AI](https://github.com/metal-crow/Dark-Souls-PvP-AI): AI for playing (and winning) in dark souls pvp
+- [Gutenberg](https://github.com/BafS/Gutenberg): Modern framework to print correctly. 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [chromium-vulnerabilities](https://github.com/andymeneely/chromium-vulnerabilities): Data for vulnerabilityhistory.org
+- [KwikThinker](https://github.com/KwikThinker/KwikThinker): Android app for hackRPI. A fast-paced true/fals...
+- [Bloodhound](https://github.com/daninnewyork/Bloodhound): Tracked Promises in JavaScript

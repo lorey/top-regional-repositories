@@ -1,29 +1,29 @@
 # Popular Repositories in U.S. Virgin Islands
 
-These are the most-starred repositories from programmers based in U.S. Virgin Islands:
+These are the repositories with the highest ratio of stars from programmers based in U.S. Virgin Islands:
 
-- [Robinhood](https://github.com/sanko/Robinhood)
-- [Knotify](https://github.com/Toady00/Knotify)
-- [Hello-World](https://github.com/karthikg80/Hello-World)
-- [VimeoLoader](https://github.com/webandflow/VimeoLoader)
-- [RPN_Calc](https://github.com/Pankaks/RPN_Calc)
-- [GasJot-ios](https://github.com/evanspa/GasJot-ios)
-- [MAConfirmButton](https://github.com/Tafkadasoh/MAConfirmButton)
-- [HHNCManager](https://github.com/webandflow/HHNCManager)
-- [macbook_gpe4e_interrupts](https://github.com/pedronveloso/macbook_gpe4e_interrupts)
-- [skinny-rails](https://github.com/bvandgrift/skinny-rails)
-- [builder-coderoad](https://github.com/coderoad/builder-coderoad)
-- [Event-Invite-Manager](https://github.com/smartrack/Event-Invite-Manager)
-- [ScannerApp](https://github.com/sebk/ScannerApp)
-- [orange3](https://github.com/chuqinli/orange3)
-- [TMSDocumentBrowser](https://github.com/theMikeSwan/TMSDocumentBrowser)
-- [ITBspoke](https://github.com/sjpatrick/ITBspoke)
-- [demo_app](https://github.com/spangard/demo_app)
-- [rogue_bergecraft](https://github.com/Valadian/rogue_bergecraft)
-- [Respond](https://github.com/webandflow/Respond)
-- [SpaceSecureBBBS](https://github.com/rahulr56/SpaceSecureBBBS)
-- [spring](https://github.com/jamiller619/spring)
-- [html5-boilerplate](https://github.com/webandflow/html5-boilerplate)
-- [GirlsMeetIT-Node](https://github.com/jyxia/GirlsMeetIT-Node)
-- [first_app](https://github.com/stevemoser/first_app)
-- [sweetalert](https://github.com/maliathornton/sweetalert)
+- [Robinhood](https://github.com/sanko/Robinhood): Unofficial Documentation of Robinhood Trade's P...
+- [Knotify](https://github.com/Toady00/Knotify): Rails CoffeeScript library for Web Notifications
+- [Hello-World](https://github.com/karthikg80/Hello-World): 
+- [VimeoLoader](https://github.com/webandflow/VimeoLoader): A tool used with MODX 2.x to load a users colle...
+- [RPN_Calc](https://github.com/Pankaks/RPN_Calc): iOS 6.0 Reverse Polish Notation App
+- [GasJot-ios](https://github.com/evanspa/GasJot-ios): Gas Jot iOS application.
+- [MAConfirmButton](https://github.com/Tafkadasoh/MAConfirmButton): MAConfirmButton is an animated subclass of UIBu...
+- [HHNCManager](https://github.com/webandflow/HHNCManager): Developed as a way to manage a CSA program in N...
+- [macbook_gpe4e_interrupts](https://github.com/pedronveloso/macbook_gpe4e_interrupts): Systemd service to disable gpe4e interrupts on ...
+- [skinny-rails](https://github.com/bvandgrift/skinny-rails): a rails app challenge: build a URL shortener
+- [builder-coderoad](https://github.com/coderoad/builder-coderoad): Tutorial Builder for Atom CodeRoad (WIP)
+- [Event-Invite-Manager](https://github.com/smartrack/Event-Invite-Manager): Very simple and sleek event invitation manager
+- [ScannerApp](https://github.com/sebk/ScannerApp): Barcode and QR Code Scanner Demo App
+- [orange3](https://github.com/chuqinli/orange3): Orange 3 data mining suite: http://orange.biola...
+- [TMSDocumentBrowser](https://github.com/theMikeSwan/TMSDocumentBrowser): Collection view based document browser for iOS ...
+- [ITBspoke](https://github.com/sjpatrick/ITBspoke): We are learning some advanced Git technology
+- [demo_app](https://github.com/spangard/demo_app): Ruby on Rails Tutorial demo application
+- [rogue_bergecraft](https://github.com/Valadian/rogue_bergecraft): 
+- [Respond](https://github.com/webandflow/Respond): A fast & lightweight polyfill for min/max-width...
+- [SpaceSecureBBBS](https://github.com/rahulr56/SpaceSecureBBBS): Hackathon CLT 2017
+- [spring](https://github.com/jamiller619/spring): Spring - An minimal new tab page for Google Chrome
+- [html5-boilerplate](https://github.com/webandflow/html5-boilerplate): starting html/css template. so much goodness ba...
+- [GirlsMeetIT-Node](https://github.com/jyxia/GirlsMeetIT-Node): 
+- [first_app](https://github.com/stevemoser/first_app): 
+- [sweetalert](https://github.com/maliathornton/sweetalert): A beautiful replacement for JavaScript's "alert"

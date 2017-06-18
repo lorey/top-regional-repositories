@@ -1,29 +1,29 @@
 # Popular Repositories in Houston
 
-These are the most-starred repositories from programmers based in Houston:
+These are the repositories with the highest ratio of stars from programmers based in Houston:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [tendenci](https://github.com/tendenci/tendenci)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [margo-css](https://github.com/t3patterson/margo-css)
-- [polychrome](https://github.com/cdonohue/polychrome)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [short-stack](https://github.com/poetic/short-stack)
-- [project-ideas](https://github.com/sketch-city/project-ideas)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [rapscallion](https://github.com/FormidableLabs/rapscallion)
-- [kidif.js](https://github.com/oakmac/kidif.js)
-- [AR.js](https://github.com/jeromeetienne/AR.js)
-- [Data_Structures_and_Algorithms](https://github.com/eneskemalergin/Data_Structures_and_Algorithms)
-- [addon_securityadvisor](https://github.com/CpanelInc/addon_securityadvisor)
-- [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation)
-- [bioinformatics](https://github.com/open-source-society/bioinformatics)
-- [reactide](https://github.com/reactide/reactide)
-- [dawson-cli](https://github.com/dawson-org/dawson-cli)
-- [eneskemalergin.github.io](https://github.com/eneskemalergin/eneskemalergin.github.io)
-- [nodejshouston.com](https://github.com/NodejsHouston/nodejshouston.com)
-- [Artificial-Intelligence](https://github.com/NAU-ACM/Artificial-Intelligence)
-- [Essential_Algorithms](https://github.com/eneskemalergin/Essential_Algorithms)
-- [Machine-Learning-Books-With-Python](https://github.com/tdpetrou/Machine-Learning-Books-With-Python)
-- [addon_securityadvisor](https://github.com/bdraco/addon_securityadvisor)
-- [Py101-Spring-15](https://github.com/NAU-Python-Class/Py101-Spring-15)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [tendenci](https://github.com/tendenci/tendenci): Tendenci - The Open Source Membership Managemen...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [margo-css](https://github.com/t3patterson/margo-css): 
+- [polychrome](https://github.com/cdonohue/polychrome): 🎨 Easy color manipulation in 1.65kb (gzipped)
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [short-stack](https://github.com/poetic/short-stack): Automate and maintain your Mac development envi...
+- [project-ideas](https://github.com/sketch-city/project-ideas): Running list of all project ideas - pick one an...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [rapscallion](https://github.com/FormidableLabs/rapscallion): Asynchronous React VirtualDOM renderer for SSR.
+- [kidif.js](https://github.com/oakmac/kidif.js): Store raw text as structured data in simple tex...
+- [AR.js](https://github.com/jeromeetienne/AR.js): Efficient Augmented Reality for the Web using A...
+- [Data_Structures_and_Algorithms](https://github.com/eneskemalergin/Data_Structures_and_Algorithms): My review notes and scripts on data structures ...
+- [addon_securityadvisor](https://github.com/CpanelInc/addon_securityadvisor): Security Advisor for cPanel 11.40 and later (ca...
+- [ACM-ICPC-Preparation](https://github.com/NAU-ACM/ACM-ICPC-Preparation): ACM-ICPC Preparation Guide
+- [bioinformatics](https://github.com/open-source-society/bioinformatics): :microscope: Path to a free self-taught educati...
+- [reactide](https://github.com/reactide/reactide): 
+- [dawson-cli](https://github.com/dawson-org/dawson-cli): A serverless web framework for Node.js on AWS (...
+- [eneskemalergin.github.io](https://github.com/eneskemalergin/eneskemalergin.github.io): My Technical Blog
+- [nodejshouston.com](https://github.com/NodejsHouston/nodejshouston.com): This repo is for the public hosted website: nod...
+- [Artificial-Intelligence](https://github.com/NAU-ACM/Artificial-Intelligence): Artificial Intelligence courses, projects, and ...
+- [Essential_Algorithms](https://github.com/eneskemalergin/Essential_Algorithms): Algorithms from book and other sources written ...
+- [Machine-Learning-Books-With-Python](https://github.com/tdpetrou/Machine-Learning-Books-With-Python): Chapter by Chapter notes, exercises and code fo...
+- [addon_securityadvisor](https://github.com/bdraco/addon_securityadvisor): Old Security Advisor for cPanel 11.40 (upstream...
+- [Py101-Spring-15](https://github.com/NAU-Python-Class/Py101-Spring-15): Python 101 Class Spring 2015 in NAU

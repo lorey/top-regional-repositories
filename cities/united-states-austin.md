@@ -1,29 +1,29 @@
 # Popular Repositories in Austin
 
-These are the most-starred repositories from programmers based in Austin:
+These are the repositories with the highest ratio of stars from programmers based in Austin:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [project-ideas](https://github.com/open-austin/project-ideas)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Instabus](https://github.com/luqmaan/Instabus)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [python-fire](https://github.com/google/python-fire)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [node-catapult](https://github.com/Concatapult/node-catapult)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [es-papp](https://github.com/gilbert/es-papp)
-- [ctop](https://github.com/bcicen/ctop)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [reactide](https://github.com/reactide/reactide)
-- [austin](https://github.com/nodeschool/austin)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [pult](https://github.com/Concatapult/pult)
-- [serviced](https://github.com/control-center/serviced)
-- [ursula](https://github.com/blueboxgroup/ursula)
-- [members](https://github.com/austinonrails/members)
-- [lavaca](https://github.com/mutualmobile/lavaca)
-- [js-assessment](https://github.com/rmurphey/js-assessment)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [guetzli](https://github.com/google/guetzli)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [project-ideas](https://github.com/open-austin/project-ideas): :bulb: A place to collect ideas for Open Austin...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Instabus](https://github.com/luqmaan/Instabus): :bus::dash: There is no need to bus upset
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [node-catapult](https://github.com/Concatapult/node-catapult): A rapid project starter that includes Node, Exp...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [es-papp](https://github.com/gilbert/es-papp): A proposal for adding partial application suppo...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [reactide](https://github.com/reactide/reactide): 
+- [austin](https://github.com/nodeschool/austin): Austin NodeSchool Chapter
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [pult](https://github.com/Concatapult/pult): The pult command for concatapult
+- [serviced](https://github.com/control-center/serviced): Serviced is a PaaS runtime. It allows users to ...
+- [ursula](https://github.com/blueboxgroup/ursula): Ansible playbooks for operating OpenStack - Pow...
+- [members](https://github.com/austinonrails/members): Members app for austin on rails
+- [lavaca](https://github.com/mutualmobile/lavaca): A modern framework for client-side MVC web appl...
+- [js-assessment](https://github.com/rmurphey/js-assessment): A test-driven approach to assessing JS skills
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [guetzli](https://github.com/google/guetzli): 

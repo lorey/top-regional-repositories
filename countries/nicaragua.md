@@ -1,29 +1,29 @@
 # Popular Repositories in Nicaragua
 
-These are the most-starred repositories from programmers based in Nicaragua:
+These are the repositories with the highest ratio of stars from programmers based in Nicaragua:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [voxa](https://github.com/mediarain/voxa)
-- [nicaragua.json](https://github.com/armonge/nicaragua.json)
-- [armazon](https://github.com/armazon/armazon)
-- [nicfont](https://github.com/byroncorrales/nicfont)
-- [django-project-template](https://github.com/LRPalacios/django-project-template)
-- [django-simas](https://github.com/fitoria/django-simas)
-- [knockout.mapping](https://github.com/LRPalacios/knockout.mapping)
-- [our-wiki](https://github.com/PinoleroMedia/our-wiki)
-- [coming-soon-website](https://github.com/PinoleroMedia/coming-soon-website)
-- [pb-programming-assignment](https://github.com/LRPalacios/pb-programming-assignment)
-- [bulk-sms-example](https://github.com/ChocoyoLabs/bulk-sms-example)
-- [DaTools](https://github.com/dgaitan/DaTools)
-- [dotvim](https://github.com/fitoria/dotvim)
-- [vs-django-snippets](https://github.com/LRPalacios/vs-django-snippets)
-- [MobileCarrierIdentifier](https://github.com/altmas5/MobileCarrierIdentifier)
-- [scanforest](https://github.com/g3ortega/scanforest)
-- [across-tabs](https://github.com/wingify/across-tabs)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [awesome-django-cms](https://github.com/mishbahr/awesome-django-cms)
-- [plutus](https://github.com/mbulat/plutus)
-- [mejorandocurso](https://github.com/platzi/mejorandocurso)
-- [talentonica](https://github.com/NicaDevelopers/talentonica)
-- [cafod](https://github.com/byroncorrales/cafod)
-- [sece](https://github.com/mamgjigsaw/sece)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [voxa](https://github.com/mediarain/voxa): An Alexa framework that uses state machines to ...
+- [nicaragua.json](https://github.com/armonge/nicaragua.json): 
+- [armazon](https://github.com/armazon/armazon): Marco de Trabajo y Servidor de Aplicación PHP d...
+- [nicfont](https://github.com/byroncorrales/nicfont): Nicfont es un proyecto que aprovecha las virtud...
+- [django-project-template](https://github.com/LRPalacios/django-project-template): A django base project template including bower ...
+- [django-simas](https://github.com/fitoria/django-simas): Página interna para SIMAS 
+- [knockout.mapping](https://github.com/LRPalacios/knockout.mapping): Object mapping plugin for KnockoutJS
+- [our-wiki](https://github.com/PinoleroMedia/our-wiki): Here we will add any public documentation
+- [coming-soon-website](https://github.com/PinoleroMedia/coming-soon-website): Our coming soon website repository
+- [pb-programming-assignment](https://github.com/LRPalacios/pb-programming-assignment): This is Programming assignment to check for pro...
+- [bulk-sms-example](https://github.com/ChocoyoLabs/bulk-sms-example): Send bulk sms with smsgateway.me API
+- [DaTools](https://github.com/dgaitan/DaTools): little libraries of grid css
+- [dotvim](https://github.com/fitoria/dotvim): Vim config files
+- [vs-django-snippets](https://github.com/LRPalacios/vs-django-snippets): A set of django snippets for visual studio
+- [MobileCarrierIdentifier](https://github.com/altmas5/MobileCarrierIdentifier): Aplicación para dispositivos Android que identi...
+- [scanforest](https://github.com/g3ortega/scanforest): NASA Space App Challenge App
+- [across-tabs](https://github.com/wingify/across-tabs): Easily communicate among browser tabs(supports ...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [awesome-django-cms](https://github.com/mishbahr/awesome-django-cms): A curated list of awesome django-cms add-ons. Y...
+- [plutus](https://github.com/mbulat/plutus): A Ruby on Rails Engine which provides a double ...
+- [mejorandocurso](https://github.com/platzi/mejorandocurso): Contenido Original de los Cursos de Mejorando.l...
+- [talentonica](https://github.com/NicaDevelopers/talentonica): 
+- [cafod](https://github.com/byroncorrales/cafod): plataforma de aprendizaje
+- [sece](https://github.com/mamgjigsaw/sece): Sistema de Informacion de Evaluacion de Competi...

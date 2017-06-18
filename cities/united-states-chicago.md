@@ -1,29 +1,29 @@
 # Popular Repositories in Chicago
 
-These are the most-starred repositories from programmers based in Chicago:
+These are the repositories with the highest ratio of stars from programmers based in Chicago:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [chipy.org](https://github.com/chicagopython/chipy.org)
-- [napa](https://github.com/bellycard/napa)
-- [osd-bike-routes](https://github.com/Chicago/osd-bike-routes)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [chicago-atlas](https://github.com/smartchicago/chicago-atlas)
-- [ctop](https://github.com/bcicen/ctop)
-- [tacofancy](https://github.com/sinker/tacofancy)
-- [guetzli](https://github.com/google/guetzli)
-- [upspin](https://github.com/upspin/upspin)
-- [opengrid](https://github.com/Chicago/opengrid)
-- [breakout-groups](https://github.com/chihacknight/breakout-groups)
-- [plenario](https://github.com/UrbanCCD-UChicago/plenario)
-- [python-fire](https://github.com/google/python-fire)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [reactide](https://github.com/reactide/reactide)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [windy](https://github.com/Chicago/windy)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [chipy.org](https://github.com/chicagopython/chipy.org): Chipy Website
+- [napa](https://github.com/bellycard/napa): A simple framework for building APIs with Grape
+- [osd-bike-routes](https://github.com/Chicago/osd-bike-routes): Open source release of bike routes in Chicago.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [chicago-atlas](https://github.com/smartchicago/chicago-atlas): View citywide information about health trends a...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [tacofancy](https://github.com/sinker/tacofancy): community-driven taco repo. stars stars stars.
+- [guetzli](https://github.com/google/guetzli): 
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [opengrid](https://github.com/Chicago/opengrid): A user-friendly, map-based tool to combine and ...
+- [breakout-groups](https://github.com/chihacknight/breakout-groups): Breakout groups that meet at Chi Hack Night eve...
+- [plenario](https://github.com/UrbanCCD-UChicago/plenario): API for geospatial and time aggregation across ...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [reactide](https://github.com/reactide/reactide): 
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [windy](https://github.com/Chicago/windy): 

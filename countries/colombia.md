@@ -1,29 +1,29 @@
 # Popular Repositories in Colombia
 
-These are the most-starred repositories from programmers based in Colombia:
+These are the repositories with the highest ratio of stars from programmers based in Colombia:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [mejorandocurso](https://github.com/platzi/mejorandocurso)
-- [impresionante-javascript](https://github.com/sergiodxa/impresionante-javascript)
-- [contra](https://github.com/dav009/contra)
-- [sfotipy](https://github.com/proyectos-mejorandola/sfotipy)
-- [links](https://github.com/machine-learning-colombia/links)
-- [leonel](https://github.com/colombia-dev/leonel)
-- [state-of-the-union](https://github.com/colombia-dev/state-of-the-union)
-- [reactide](https://github.com/reactide/reactide)
-- [bogota](https://github.com/beerjs/bogota)
-- [aprende.a.programar](https://github.com/rubysur/aprende.a.programar)
-- [has_secure_token](https://github.com/robertomiranda/has_secure_token)
-- [pokedex](https://github.com/proyectos-mejorandola/pokedex)
-- [realworld](https://github.com/gothinkster/realworld)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [hackersurveys](https://github.com/torreco/hackersurveys)
-- [colombia-dev.github.io](https://github.com/colombia-dev/colombia-dev.github.io)
-- [codigo-de-conducta](https://github.com/colombia-dev/codigo-de-conducta)
-- [data](https://github.com/colombia-dev/data)
-- [storm](https://github.com/Cuevana/storm)
-- [nancy](https://github.com/guilleiguaran/nancy)
-- [dibujemos](https://github.com/buritica/dibujemos)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [postal](https://github.com/atech/postal)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [mejorandocurso](https://github.com/platzi/mejorandocurso): Contenido Original de los Cursos de Mejorando.l...
+- [impresionante-javascript](https://github.com/sergiodxa/impresionante-javascript): Recopilación de links en español sobre JavaScript
+- [contra](https://github.com/dav009/contra): OpenData - Extractor de Informacion de  contrat...
+- [sfotipy](https://github.com/proyectos-mejorandola/sfotipy): El proyecto oficial del curso de Frontend Profe...
+- [links](https://github.com/machine-learning-colombia/links): 
+- [leonel](https://github.com/colombia-dev/leonel): Director de inteligencia artificial - colombia.dev
+- [state-of-the-union](https://github.com/colombia-dev/state-of-the-union): A report on the impact of Open Source by Colomb...
+- [reactide](https://github.com/reactide/reactide): 
+- [bogota](https://github.com/beerjs/bogota): Bogotá, Colombia :beer:
+- [aprende.a.programar](https://github.com/rubysur/aprende.a.programar): Guía para aprender a programar con Ruby. Adapta...
+- [has_secure_token](https://github.com/robertomiranda/has_secure_token): Create uniques random tokens for any model in r...
+- [pokedex](https://github.com/proyectos-mejorandola/pokedex): Pokedex con Angular.js
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [hackersurveys](https://github.com/torreco/hackersurveys): Collection of surveys answered by engineers
+- [colombia-dev.github.io](https://github.com/colombia-dev/colombia-dev.github.io): Colombia-Dev Website
+- [codigo-de-conducta](https://github.com/colombia-dev/codigo-de-conducta): Colombia.dev Code of Conduct
+- [data](https://github.com/colombia-dev/data): A host for all open data iniciatives led by Col...
+- [storm](https://github.com/Cuevana/storm): Cuevana Storm App
+- [nancy](https://github.com/guilleiguaran/nancy): Minimal Ruby microframework for web development...
+- [dibujemos](https://github.com/buritica/dibujemos): Una pequeña muestra del poder de node.js para c...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...

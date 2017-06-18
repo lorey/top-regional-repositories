@@ -1,29 +1,29 @@
 # Popular Repositories in San Diego
 
-These are the most-starred repositories from programmers based in San Diego:
+These are the repositories with the highest ratio of stars from programmers based in San Diego:
 
-- [sdruby](https://github.com/sdruby/sdruby)
-- [localstack](https://github.com/atlassian/localstack)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [python-fire](https://github.com/google/python-fire)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [httplab](https://github.com/gchaincl/httplab)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [code-corps-api](https://github.com/code-corps/code-corps-api)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [ZingChart-jQuery](https://github.com/zingchart/ZingChart-jQuery)
-- [prepack](https://github.com/facebook/prepack)
-- [ngraph](https://github.com/NervanaSystems/ngraph)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [reactide](https://github.com/reactide/reactide)
-- [guetzli](https://github.com/google/guetzli)
-- [ucsddissertation](https://github.com/stevecheckoway/ucsddissertation)
-- [ZingChart-Demos](https://github.com/zingchart/ZingChart-Demos)
-- [reactxp](https://github.com/Microsoft/reactxp)
-- [algorithms](https://github.com/keon/algorithms)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [react-overdrive](https://github.com/berzniz/react-overdrive)
+- [sdruby](https://github.com/sdruby/sdruby): The SD Ruby website
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [httplab](https://github.com/gchaincl/httplab): An interactive web server
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [code-corps-api](https://github.com/code-corps/code-corps-api): Elixir/Phoenix API for Code Corps.
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [ZingChart-jQuery](https://github.com/zingchart/ZingChart-jQuery): Easy ZingChart manipulation and interactivity f...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [ngraph](https://github.com/NervanaSystems/ngraph): Technical Preview of Intel® Nervana™ Graph
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [reactide](https://github.com/reactide/reactide): 
+- [guetzli](https://github.com/google/guetzli): 
+- [ucsddissertation](https://github.com/stevecheckoway/ucsddissertation): LaTeX class file for writing dissertations at U...
+- [ZingChart-Demos](https://github.com/zingchart/ZingChart-Demos): A collection of tutorials and demos for using Z...
+- [reactxp](https://github.com/Microsoft/reactxp): Library for cross-platform app development.
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [react-overdrive](https://github.com/berzniz/react-overdrive): Super easy magic-move transitions for React apps

@@ -1,29 +1,29 @@
 # Popular Repositories in Hangzhou
 
-These are the most-starred repositories from programmers based in Hangzhou:
+These are the repositories with the highest ratio of stars from programmers based in Hangzhou:
 
-- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist)
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
-- [node-interview](https://github.com/ElemeFE/node-interview)
-- [vue2-elm](https://github.com/bailicangdu/vue2-elm)
-- [vlayout](https://github.com/alibaba/vlayout)
-- [egg](https://github.com/eggjs/egg)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [incubator-weex](https://github.com/apache/incubator-weex)
-- [GodEye](https://github.com/zixun/GodEye)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [atlas](https://github.com/alibaba/atlas)
-- [anyproxy](https://github.com/alibaba/anyproxy)
-- [reactxp](https://github.com/Microsoft/reactxp)
-- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
-- [guetzli](https://github.com/google/guetzli)
-- [dva](https://github.com/dvajs/dva)
-- [kissy](https://github.com/kissyteam/kissy)
-- [reactide](https://github.com/reactide/reactide)
-- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)
-- [aralejs.github.io](https://github.com/aralejs/aralejs.github.io)
-- [Mock](https://github.com/nuysoft/Mock)
-- [prepack](https://github.com/facebook/prepack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)
-- [totoro](https://github.com/totorojs/totoro)
+- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist): 厂商黑名单
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
+- [node-interview](https://github.com/ElemeFE/node-interview): How to pass the Node.js interview of ElemeFE
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于 vue2 + vue-router2 + vuex + webpack + ES6/7 ...
+- [vlayout](https://github.com/alibaba/vlayout): Project vlayout is a powerfull LayoutManager ex...
+- [egg](https://github.com/eggjs/egg): Born to build better enterprise frameworks and ...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [incubator-weex](https://github.com/apache/incubator-weex): Mirror of Apache Weex
+- [GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [atlas](https://github.com/alibaba/atlas): A powerful Android Dynamic Component Framework.
+- [anyproxy](https://github.com/alibaba/anyproxy): A fully configurable http/https proxy in NodeJS
+- [reactxp](https://github.com/Microsoft/reactxp): Library for cross-platform app development.
+- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile): A configurable Mobile UI
+- [guetzli](https://github.com/google/guetzli): 
+- [dva](https://github.com/dvajs/dva): 🌱 React and redux based, lightweight and elm-st...
+- [kissy](https://github.com/kissyteam/kissy): A Powerful Collection Of Modules
+- [reactide](https://github.com/reactide/reactide): 
+- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN): What-happens-when 的中文翻译，原仓库 https://github.com/...
+- [aralejs.github.io](https://github.com/aralejs/aralejs.github.io): 开放、简单、易用的前端基础类库
+- [Mock](https://github.com/nuysoft/Mock): A simulation data generator
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy): Java诊断工具
+- [totoro](https://github.com/totorojs/totoro): A simple and stable cross-browser testing tool....

@@ -1,29 +1,29 @@
 # Popular Repositories in India
 
-These are the most-starred repositories from programmers based in India:
+These are the repositories with the highest ratio of stars from programmers based in India:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [python-fire](https://github.com/google/python-fire)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [reactide](https://github.com/reactide/reactide)
-- [algorithms](https://github.com/keon/algorithms)
-- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [AlgoWiki](https://github.com/vicky002/AlgoWiki)
-- [AlgoDS](https://github.com/sherxon/AlgoDS)
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [interview](https://github.com/mission-peace/interview)
-- [guetzli](https://github.com/google/guetzli)
-- [savetheinternet.in](https://github.com/netneutrality/savetheinternet.in)
-- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader)
-- [realworld](https://github.com/gothinkster/realworld)
-- [ExpectAnim](https://github.com/florent37/ExpectAnim)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [reactide](https://github.com/reactide/reactide): 
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming): :gem: A curated list of awesome Competitive Pro...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [AlgoWiki](https://github.com/vicky002/AlgoWiki): :globe_with_meridians: Repository which contain...
+- [AlgoDS](https://github.com/sherxon/AlgoDS): Implementation of Algorithms and Data Structure...
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges): Continually updated, interactive, test-driven P...
+- [interview](https://github.com/mission-peace/interview): Interview questions
+- [guetzli](https://github.com/google/guetzli): 
+- [savetheinternet.in](https://github.com/netneutrality/savetheinternet.in): Response generator for the TRAI consultation paper
+- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader): 🎷  Downloads Music From The Web 
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [ExpectAnim](https://github.com/florent37/ExpectAnim): Describe your animation and run !

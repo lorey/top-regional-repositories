@@ -1,29 +1,29 @@
 # Popular Repositories in Nepal
 
-These are the most-starred repositories from programmers based in Nepal:
+These are the repositories with the highest ratio of stars from programmers based in Nepal:
 
-- [tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [Nepdict](https://github.com/nirooj56/Nepdict)
-- [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations)
-- [ScreenEat](https://github.com/NISH1001/ScreenEat)
-- [masters-thesis-latex](https://github.com/ashokpant/masters-thesis-latex)
-- [NepalMapAPI](https://github.com/jwalanta/NepalMapAPI)
-- [Auth-Boss](https://github.com/teesloane/Auth-Boss)
-- [reactide](https://github.com/reactide/reactide)
-- [flag-of-nepal](https://github.com/ashokpant/flag-of-nepal)
-- [NepaliUnicode](https://github.com/ankitpokhrel/NepaliUnicode)
-- [nepalmap_app](https://github.com/Code4Nepal/nepalmap_app)
-- [just-handlebars-helpers](https://github.com/leapfrogtechnology/just-handlebars-helpers)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [algorithms](https://github.com/keon/algorithms)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [dev-circle-np.github.io](https://github.com/dev-circle-np/dev-circle-np.github.io)
-- [awesome-nepal](https://github.com/developers-nepal/awesome-nepal)
-- [woocommerce-esewa](https://github.com/shivapoudel/woocommerce-esewa)
-- [react-redux](https://github.com/shankarregmi/react-redux)
-- [ad-bs-converter](https://github.com/techgaun/ad-bs-converter)
-- [unicode.js](https://github.com/ankitpokhrel/unicode.js)
-- [KSALertController](https://github.com/shrsthakusal/KSALertController)
+- [tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal): A comprehensive list of tech companies based in...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [Nepdict](https://github.com/nirooj56/Nepdict): A English-Nepali Dictionary built using Python ...
+- [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations): Presentations that programmers should watch
+- [ScreenEat](https://github.com/NISH1001/ScreenEat): screenshot made delicious
+- [masters-thesis-latex](https://github.com/ashokpant/masters-thesis-latex): Latex template for writing Master's thesis in c...
+- [NepalMapAPI](https://github.com/jwalanta/NepalMapAPI): PHP API to create district level map of Nepal
+- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different auth...
+- [reactide](https://github.com/reactide/reactide): 
+- [flag-of-nepal](https://github.com/ashokpant/flag-of-nepal): National Flag of Nepal (The most mathematical f...
+- [NepaliUnicode](https://github.com/ankitpokhrel/NepaliUnicode): Type in Nepali Unicode
+- [nepalmap_app](https://github.com/Code4Nepal/nepalmap_app): An application that maps census and other offic...
+- [just-handlebars-helpers](https://github.com/leapfrogtechnology/just-handlebars-helpers): A lightweight package with common Handlebars he...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [dev-circle-np.github.io](https://github.com/dev-circle-np/dev-circle-np.github.io): 
+- [awesome-nepal](https://github.com/developers-nepal/awesome-nepal): Generic list of anything awesome built in Nepal...
+- [woocommerce-esewa](https://github.com/shivapoudel/woocommerce-esewa): WooCommerce eSewa Gateway - WordPress Plugin
+- [react-redux](https://github.com/shankarregmi/react-redux): Project using react+redux+react-router
+- [ad-bs-converter](https://github.com/techgaun/ad-bs-converter): A javascript implementation to convert bikram s...
+- [unicode.js](https://github.com/ankitpokhrel/unicode.js): A small javascript library to enable native inp...
+- [KSALertController](https://github.com/shrsthakusal/KSALertController): Alert controller for TableViewcontroller

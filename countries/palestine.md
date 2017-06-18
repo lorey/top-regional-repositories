@@ -1,29 +1,29 @@
 # Popular Repositories in Palestine
 
-These are the most-starred repositories from programmers based in Palestine:
+These are the repositories with the highest ratio of stars from programmers based in Palestine:
 
-- [bm-email-templatizer](https://github.com/Bamieh/bm-email-templatizer)
-- [Dynamic-Api-php](https://github.com/MohammedAlimoor/Dynamic-Api-php)
-- [react-inline-styler](https://github.com/Bamieh/react-inline-styler)
-- [reactide](https://github.com/reactide/reactide)
-- [ADS](https://github.com/Abdel-Razzak/ADS)
-- [bootcamp](https://github.com/gazaskygeeks/bootcamp)
-- [Quran](https://github.com/rayed/Quran)
-- [una.github.io](https://github.com/una/una.github.io)
-- [inert](https://github.com/WICG/inert)
-- [manshar](https://github.com/manshar/manshar)
-- [marksheet](https://github.com/jgthms/marksheet)
-- [six-speed](https://github.com/natorion/six-speed)
-- [readit](https://github.com/thmohd/readit)
-- [swiftvalidator](https://github.com/kchan9/swiftvalidator)
-- [en_ar_dict](https://github.com/reemalkhammash/en_ar_dict)
-- [embr-character-animation-engine](https://github.com/alexisheloir/embr-character-animation-engine)
-- [mag_project](https://github.com/amjadbanimattar/mag_project)
-- [yousefjb.github.io](https://github.com/Yousefjb/yousefjb.github.io)
-- [WebDesign](https://github.com/omnir95/WebDesign)
-- [Draw-and-color](https://github.com/ashraf-hamdan/Draw-and-color)
-- [project1](https://github.com/super4minions/project1)
-- [angular-file-upload](https://github.com/nimerfarahty/angular-file-upload)
-- [ParseQuery](https://github.com/jmjoshua/ParseQuery)
-- [AndroidFlyOutMenuDemo](https://github.com/OmarTawashi/AndroidFlyOutMenuDemo)
-- [Clean-RTL-AdminBSB](https://github.com/Yousefjb/Clean-RTL-AdminBSB)
+- [bm-email-templatizer](https://github.com/Bamieh/bm-email-templatizer): create email templates from jade and scss and i...
+- [Dynamic-Api-php](https://github.com/MohammedAlimoor/Dynamic-Api-php): 
+- [react-inline-styler](https://github.com/Bamieh/react-inline-styler): A one stop shop to solve all your styles in jav...
+- [reactide](https://github.com/reactide/reactide): 
+- [ADS](https://github.com/Abdel-Razzak/ADS): 
+- [bootcamp](https://github.com/gazaskygeeks/bootcamp): Gaza Sky Geeks first coding bootcamp
+- [Quran](https://github.com/rayed/Quran): Quran application using HTML and JS only
+- [una.github.io](https://github.com/una/una.github.io): Redesign of my blog to match my new portfolio :...
+- [inert](https://github.com/WICG/inert): Exploring the `inert` attribute
+- [manshar](https://github.com/manshar/manshar): Arabic social publishing platform — منصة نشر مخ...
+- [marksheet](https://github.com/jgthms/marksheet): Free tutorial to learn HTML and CSS
+- [six-speed](https://github.com/natorion/six-speed): ES6 polyfill vs. feature performance tests
+- [readit](https://github.com/thmohd/readit): Python app for learning purpose 
+- [swiftvalidator](https://github.com/kchan9/swiftvalidator): swiftvalidator supports parsing, format spec va...
+- [en_ar_dict](https://github.com/reemalkhammash/en_ar_dict): English Arabic dictionary written in python and...
+- [embr-character-animation-engine](https://github.com/alexisheloir/embr-character-animation-engine): Automatically exported from code.google.com/p/e...
+- [mag_project](https://github.com/amjadbanimattar/mag_project): 
+- [yousefjb.github.io](https://github.com/Yousefjb/yousefjb.github.io): 
+- [WebDesign](https://github.com/omnir95/WebDesign): Sequence of versions following the instruction ...
+- [Draw-and-color](https://github.com/ashraf-hamdan/Draw-and-color): Android App to  Drawing and coloring some photo 
+- [project1](https://github.com/super4minions/project1): First week project
+- [angular-file-upload](https://github.com/nimerfarahty/angular-file-upload): Angular File Upload is a module for the Angular...
+- [ParseQuery](https://github.com/jmjoshua/ParseQuery): This is the sample code for a tutorial I create...
+- [AndroidFlyOutMenuDemo](https://github.com/OmarTawashi/AndroidFlyOutMenuDemo): Demonstration of a fly-out menu in Android.
+- [Clean-RTL-AdminBSB](https://github.com/Yousefjb/Clean-RTL-AdminBSB): clean empty version of AdminBSBMaterialDesign w...

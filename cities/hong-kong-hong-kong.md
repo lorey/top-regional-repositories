@@ -1,29 +1,29 @@
 # Popular Repositories in Hong Kong
 
-These are the most-starred repositories from programmers based in Hong Kong:
+These are the repositories with the highest ratio of stars from programmers based in Hong Kong:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [showmethecode](https://github.com/code4hk/showmethecode)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [Unblock-Youku](https://github.com/uku/Unblock-Youku)
-- [lihkg-web](https://github.com/nodegin/lihkg-web)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [diu.js](https://github.com/b123400/diu.js)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [localstack](https://github.com/atlassian/localstack)
-- [census_explorer](https://github.com/gazetteerhk/census_explorer)
-- [ABCDEFGHPPP](https://github.com/mingchuno/ABCDEFGHPPP)
-- [freehkkai](https://github.com/freehkfonts/freehkkai)
-- [skygear-server](https://github.com/SkygearIO/skygear-server)
-- [ihatecontentfarms](https://github.com/benlau/ihatecontentfarms)
-- [openvanilla](https://github.com/openvanilla/openvanilla)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [reactide](https://github.com/reactide/reactide)
-- [KeyKey](https://github.com/yahoo/KeyKey)
-- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist)
-- [guetzli](https://github.com/google/guetzli)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [ibus-cangjie-old-repo-this-moved-to-cangjians](https://github.com/bochecha/ibus-cangjie-old-repo-this-moved-to-cangjians)
-- [CycleGAN](https://github.com/junyanz/CycleGAN)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [showmethecode](https://github.com/code4hk/showmethecode): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [Unblock-Youku](https://github.com/uku/Unblock-Youku): A Chrome extension helping users access their w...
+- [lihkg-web](https://github.com/nodegin/lihkg-web): An online reader for LIHKG Forum
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [diu.js](https://github.com/b123400/diu.js): 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [census_explorer](https://github.com/gazetteerhk/census_explorer): Explore Hong Kong's neighborhoods through visua...
+- [ABCDEFGHPPP](https://github.com/mingchuno/ABCDEFGHPPP): (AB - CD = EF) + GH = PPP problem
+- [freehkkai](https://github.com/freehkfonts/freehkkai): 「自由香港楷書」是由一群香港長者啟動的開源項目。以香港人造香港字為口號，推動跨世代與跨界別的合...
+- [skygear-server](https://github.com/SkygearIO/skygear-server): Skygear Server - Open-source Mobile Backend, ma...
+- [ihatecontentfarms](https://github.com/benlau/ihatecontentfarms): Content Farm Blocker Chrome Extension / 封鎖內容農場C...
+- [openvanilla](https://github.com/openvanilla/openvanilla): Providing common input methods to Mac users
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [reactide](https://github.com/reactide/reactide): 
+- [KeyKey](https://github.com/yahoo/KeyKey): 
+- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist): 厂商黑名单
+- [guetzli](https://github.com/google/guetzli): 
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [ibus-cangjie-old-repo-this-moved-to-cangjians](https://github.com/bochecha/ibus-cangjie-old-repo-this-moved-to-cangjians): IBus engine to input Cangjie and Quick, based o...
+- [CycleGAN](https://github.com/junyanz/CycleGAN): Unpaired image-to-image translation for paintin...

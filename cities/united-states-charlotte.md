@@ -1,29 +1,29 @@
 # Popular Repositories in Charlotte
 
-These are the most-starred repositories from programmers based in Charlotte:
+These are the repositories with the highest ratio of stars from programmers based in Charlotte:
 
-- [techclt](https://github.com/charlotte-ruby/techclt)
-- [localstack](https://github.com/atlassian/localstack)
-- [hubbub](https://github.com/jdpace/hubbub)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [citygram](https://github.com/codeforamerica/citygram)
-- [codeforcharlotte.org](https://github.com/CodeForCharlotte/codeforcharlotte.org)
-- [reactide](https://github.com/reactide/reactide)
-- [barcampclt](https://github.com/bvandgrift/barcampclt)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [giftwrap](https://github.com/GetLevvel/giftwrap)
-- [mecklenburg-gis-opendata](https://github.com/mecklenburg-gis/mecklenburg-gis-opendata)
-- [gotraining](https://github.com/ardanlabs/gotraining)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [prepack](https://github.com/facebook/prepack)
-- [react-overdrive](https://github.com/berzniz/react-overdrive)
-- [konsul](https://github.com/mohebifar/konsul)
-- [base12](https://github.com/snodgrass23/base12)
-- [codeforamerica.org](https://github.com/codeforamerica/codeforamerica.org)
-- [oasis.js](https://github.com/tildeio/oasis.js)
-- [ardent](https://github.com/laravel-ardent/ardent)
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [rails-101-blog](https://github.com/adamhunter/rails-101-blog)
-- [blessed-standup](https://github.com/iamdustan/blessed-standup)
-- [fetchum](https://github.com/jcgertig/fetchum)
+- [techclt](https://github.com/charlotte-ruby/techclt): The Charlotte Tech Community
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [hubbub](https://github.com/jdpace/hubbub): An enthusiasts group website creator based on M...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [citygram](https://github.com/codeforamerica/citygram): Subscribe to your city.
+- [codeforcharlotte.org](https://github.com/CodeForCharlotte/codeforcharlotte.org): Our new website.  We have deployed the laddr pl...
+- [reactide](https://github.com/reactide/reactide): 
+- [barcampclt](https://github.com/bvandgrift/barcampclt): barcamp clt's website.
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [giftwrap](https://github.com/GetLevvel/giftwrap): Convert any website into a single page app with...
+- [mecklenburg-gis-opendata](https://github.com/mecklenburg-gis/mecklenburg-gis-opendata): Mecklenburg County GIS Open Data Repository
+- [gotraining](https://github.com/ardanlabs/gotraining): Go Training Class Material : 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [react-overdrive](https://github.com/berzniz/react-overdrive): Super easy magic-move transitions for React apps
+- [konsul](https://github.com/mohebifar/konsul): The power you never had with console.log + a re...
+- [base12](https://github.com/snodgrass23/base12): 12factor.net web application boilerplate for no...
+- [codeforamerica.org](https://github.com/codeforamerica/codeforamerica.org): The (former) @codeforamerica website
+- [oasis.js](https://github.com/tildeio/oasis.js): A lightweight library for embedding untrusted c...
+- [ardent](https://github.com/laravel-ardent/ardent): Self-validating, secure and smart models for La...
+- [Gutenberg](https://github.com/BafS/Gutenberg): Modern framework to print correctly. 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [rails-101-blog](https://github.com/adamhunter/rails-101-blog): blog for rails 101
+- [blessed-standup](https://github.com/iamdustan/blessed-standup): Blessed UI for team standups, recorded in a goo...
+- [fetchum](https://github.com/jcgertig/fetchum): A better fetch and local storage system

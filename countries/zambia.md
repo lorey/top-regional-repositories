@@ -1,29 +1,29 @@
 # Popular Repositories in Zambia
 
-These are the most-starred repositories from programmers based in Zambia:
+These are the repositories with the highest ratio of stars from programmers based in Zambia:
 
-- [rsims](https://github.com/SubiyaCryolite/rsims)
-- [MTN-API-BongoHive-Session](https://github.com/Chizzoz/MTN-API-BongoHive-Session)
-- [bench](https://github.com/frappe/bench)
-- [frappe](https://github.com/frappe/frappe)
-- [grapevine](https://github.com/babalela/grapevine)
-- [ureport](https://github.com/Ilhasoft/ureport)
-- [yubo.info](https://github.com/boxfish/yubo.info)
-- [pages](https://github.com/clementine-player/pages)
-- [darksky](https://github.com/Cognifly/darksky)
-- [boxfish.github.com](https://github.com/boxfish/boxfish.github.com)
-- [data-systems](https://github.com/mk-jhpiego/data-systems)
-- [cakephp-nicedate](https://github.com/dlancea/cakephp-nicedate)
-- [toto](https://github.com/vejnoe/toto)
-- [rickshaw](https://github.com/postmates/rickshaw)
-- [bottle](https://github.com/sprt/bottle)
-- [SMS-Marketing](https://github.com/cchisha/SMS-Marketing)
-- [is.gd](https://github.com/monsterkitten/is.gd)
-- [Ushahidi_Web](https://github.com/daryllukas/Ushahidi_Web)
-- [ruby-hacking-guide.github.com](https://github.com/alexdowad/ruby-hacking-guide.github.com)
-- [bootstrap](https://github.com/Thewildfire/bootstrap)
-- [prawn](https://github.com/alexdowad/prawn)
-- [Karatsuba](https://github.com/derekblair/Karatsuba)
-- [vejnoe-zipper](https://github.com/vejnoe/vejnoe-zipper)
-- [androidTestBed](https://github.com/mk-jhpiego/androidTestBed)
-- [whatsapp-purple](https://github.com/earthdan/whatsapp-purple)
+- [rsims](https://github.com/SubiyaCryolite/rsims): RS(Really Simple) Inventory Management System i...
+- [MTN-API-BongoHive-Session](https://github.com/Chizzoz/MTN-API-BongoHive-Session): Code and notes for MTN API session at Bongo Hive
+- [bench](https://github.com/frappe/bench): Multi-tenant platform to manage Frappe / ERPNext
+- [frappe](https://github.com/frappe/frappe): Full Stack Web Framework in Python & JS. Used t...
+- [grapevine](https://github.com/babalela/grapevine): 
+- [ureport](https://github.com/Ilhasoft/ureport): Dashboard module for UReport working against Ra...
+- [yubo.info](https://github.com/boxfish/yubo.info): Source code for personal website
+- [pages](https://github.com/clementine-player/pages): Static content that's displayed on the website
+- [darksky](https://github.com/Cognifly/darksky): Forecast.io API wrapper in Go (Golang)
+- [boxfish.github.com](https://github.com/boxfish/boxfish.github.com): Personal website
+- [data-systems](https://github.com/mk-jhpiego/data-systems): general system for data collection on android. ...
+- [cakephp-nicedate](https://github.com/dlancea/cakephp-nicedate): Replaces CakePHP's default 3 dropdown dates wit...
+- [toto](https://github.com/vejnoe/toto): the 10 second blog-engine for hackers
+- [rickshaw](https://github.com/postmates/rickshaw):  JavaScript toolkit for creating interactive re...
+- [bottle](https://github.com/sprt/bottle): bottle.py is a fast and simple micro-framework ...
+- [SMS-Marketing](https://github.com/cchisha/SMS-Marketing): Marketing using text messages
+- [is.gd](https://github.com/monsterkitten/is.gd): Android URL shortener app using is.gd.
+- [Ushahidi_Web](https://github.com/daryllukas/Ushahidi_Web): Ushahidi is a platform that allows information ...
+- [ruby-hacking-guide.github.com](https://github.com/alexdowad/ruby-hacking-guide.github.com): Ruby Hacking Guide Translation
+- [bootstrap](https://github.com/Thewildfire/bootstrap): Sleek, intuitive, and powerful front-end framew...
+- [prawn](https://github.com/alexdowad/prawn): Fast, Nimble PDF Writer for Ruby
+- [Karatsuba](https://github.com/derekblair/Karatsuba): A fast and lightweight arithmetic library writt...
+- [vejnoe-zipper](https://github.com/vejnoe/vejnoe-zipper): Make ZIP-file of a folder. Eg. Zipping a folder...
+- [androidTestBed](https://github.com/mk-jhpiego/androidTestBed): Simple android application
+- [whatsapp-purple](https://github.com/earthdan/whatsapp-purple): WhatsApp protocol implementation for libpurple ...

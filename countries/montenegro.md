@@ -1,29 +1,29 @@
 # Popular Repositories in Montenegro
 
-These are the most-starred repositories from programmers based in Montenegro:
+These are the repositories with the highest ratio of stars from programmers based in Montenegro:
 
-- [savjesno.me](https://github.com/codingo-me/savjesno.me)
-- [laravel-social-email-authentication](https://github.com/codingo-me/laravel-social-email-authentication)
-- [mockolate](https://github.com/drewbourne/mockolate)
-- [vue-apollo](https://github.com/Akryum/vue-apollo)
-- [laravel-packager](https://github.com/Jeroen-G/laravel-packager)
-- [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders)
-- [commands](https://github.com/rails/commands)
-- [backbone.memento](https://github.com/derickbailey/backbone.memento)
-- [galgo](https://github.com/inaka/galgo)
-- [mosaico](https://github.com/voidlabs/mosaico)
-- [enclose](https://github.com/igorklopov/enclose)
-- [webhook](https://github.com/adnanh/webhook)
-- [cropperjs](https://github.com/fengyuanchen/cropperjs)
-- [clean-status-bar](https://github.com/emmaguy/clean-status-bar)
-- [RecordRTC](https://github.com/muaz-khan/RecordRTC)
-- [dotfiles](https://github.com/nicknisi/dotfiles)
-- [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)
-- [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js)
-- [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder)
-- [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework)
-- [C-Snake](https://github.com/SchrodingersGat/C-Snake)
-- [breakthrough-ai](https://github.com/dapetcu21/breakthrough-ai)
-- [KICADMODS](https://github.com/whitecatboard/KICADMODS)
-- [memoires-decrypt](https://github.com/coding-robots/memoires-decrypt)
-- [avid.js](https://github.com/megawubs/avid.js)
+- [savjesno.me](https://github.com/codingo-me/savjesno.me): Source code of traffic violation reporting syst...
+- [laravel-social-email-authentication](https://github.com/codingo-me/laravel-social-email-authentication): Laravel 5.3 bootstrap app with Multi Auth, Soci...
+- [mockolate](https://github.com/drewbourne/mockolate): fake chocolate, mock objects and test spies for...
+- [vue-apollo](https://github.com/Akryum/vue-apollo): Apollo/GraphQL integration for VueJS
+- [laravel-packager](https://github.com/Jeroen-G/laravel-packager): A cli tool for creating Laravel packages
+- [SwiftSuspenders](https://github.com/tschneidereit/SwiftSuspenders):   NOTE: Find the offical repo at http://github....
+- [commands](https://github.com/rails/commands): Run Rake/Rails commands through the console
+- [backbone.memento](https://github.com/derickbailey/backbone.memento): store and restore your model's state
+- [galgo](https://github.com/inaka/galgo): When you want your logs to be displayed on screen
+- [mosaico](https://github.com/voidlabs/mosaico): Mosaico - Responsive Email Template Editor
+- [enclose](https://github.com/igorklopov/enclose): Compile your Node.js project into an executable
+- [webhook](https://github.com/adnanh/webhook): webhook is a lightweight configurable tool writ...
+- [cropperjs](https://github.com/fengyuanchen/cropperjs): JavaScript image cropper.
+- [clean-status-bar](https://github.com/emmaguy/clean-status-bar): Tidy up your Android status bar before taking s...
+- [RecordRTC](https://github.com/muaz-khan/RecordRTC): RecordRTC is a server-less (entire client-side)...
+- [dotfiles](https://github.com/nicknisi/dotfiles): vim, zsh, git, homebrew, nvm, nginx, neovim - m...
+- [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView): Horizontal list view for Android which allows v...
+- [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js): Speech recognition in JavaScript
+- [MediaStreamRecorder](https://github.com/streamproc/MediaStreamRecorder): Cross browser audio/video/screen recording. It ...
+- [robotlegs-framework](https://github.com/robotlegs/robotlegs-framework): An ActionScript 3 application framework for Fla...
+- [C-Snake](https://github.com/SchrodingersGat/C-Snake): Python scripts for generating C/C++ code
+- [breakthrough-ai](https://github.com/dapetcu21/breakthrough-ai): A Breakthrough game implementation with some AI...
+- [KICADMODS](https://github.com/whitecatboard/KICADMODS): KICAD MODULES FROM http://smisioto.no-ip.org/el...
+- [memoires-decrypt](https://github.com/coding-robots/memoires-decrypt): Command-line program to decrypt journals create...
+- [avid.js](https://github.com/megawubs/avid.js): API consumption on fire, inspired by Laravel's ...

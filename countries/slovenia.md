@@ -1,29 +1,29 @@
 # Popular Repositories in Slovenia
 
-These are the most-starred repositories from programmers based in Slovenia:
+These are the repositories with the highest ratio of stars from programmers based in Slovenia:
 
-- [python-furs-fiscal](https://github.com/boris-savic/python-furs-fiscal)
-- [arsoapi](https://github.com/zejn/arsoapi)
-- [prometapi](https://github.com/zejn/prometapi)
-- [Intranet](https://github.com/kiberpipa/Intranet)
-- [qminer](https://github.com/qminer/qminer)
-- [trola.si](https://github.com/opendata-si/trola.si)
-- [supervizor-api](https://github.com/Supervizor/supervizor-api)
-- [ggrc-core](https://github.com/google/ggrc-core)
-- [postcode_si](https://github.com/dlabs/postcode_si)
-- [SlimDockerImages](https://github.com/otobrglez/SlimDockerImages)
-- [guetzli](https://github.com/google/guetzli)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [slner](https://github.com/tadejs/slner)
-- [opendata.si](https://github.com/opendata-si/opendata.si)
-- [botko](https://github.com/Psywerx/botko)
-- [peerlibrary](https://github.com/peerlibrary/peerlibrary)
-- [gaeaplus](https://github.com/gaeaplus/gaeaplus)
-- [orange3](https://github.com/biolab/orange3)
-- [RubySlovenia.github.io](https://github.com/RubySlovenia/RubySlovenia.github.io)
-- [GeoCoordinateConverter](https://github.com/mrihtar/GeoCoordinateConverter)
-- [TOR](https://github.com/HairyFotr/TOR)
-- [bomberpony](https://github.com/hamax/bomberpony)
-- [pysms](https://github.com/offlinehacker/pysms)
-- [TicketTracker](https://github.com/Pancho/TicketTracker)
-- [sidekiq-job-php](https://github.com/spinx/sidekiq-job-php)
+- [python-furs-fiscal](https://github.com/boris-savic/python-furs-fiscal): Python library for simplified communication wit...
+- [arsoapi](https://github.com/zejn/arsoapi): ARSO API
+- [prometapi](https://github.com/zejn/prometapi): 
+- [Intranet](https://github.com/kiberpipa/Intranet): Kiberpipa's little Django based CMS for interna...
+- [qminer](https://github.com/qminer/qminer): Analytic platform for real-time large-scale str...
+- [trola.si](https://github.com/opendata-si/trola.si): www.trola.si + api
+- [supervizor-api](https://github.com/Supervizor/supervizor-api): Python API za supervizor.kpk-rs.si 
+- [ggrc-core](https://github.com/google/ggrc-core): GGRC Core
+- [postcode_si](https://github.com/dlabs/postcode_si): JavaScript library for Slovenian postcodes w/ c...
+- [SlimDockerImages](https://github.com/otobrglez/SlimDockerImages): Tips and tricks for writing nicer and slimmer D...
+- [guetzli](https://github.com/google/guetzli): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [slner](https://github.com/tadejs/slner): Slovene Named Entity Extractor
+- [opendata.si](https://github.com/opendata-si/opendata.si): Website for opendata.si community
+- [botko](https://github.com/Psywerx/botko): A simple IRC bot in python
+- [peerlibrary](https://github.com/peerlibrary/peerlibrary): Facilitating the global conversation on academi...
+- [gaeaplus](https://github.com/gaeaplus/gaeaplus): Gaea+ is an open source Virtual Globe based on ...
+- [orange3](https://github.com/biolab/orange3): Orange 3 data mining suite: http://orange.biola...
+- [RubySlovenia.github.io](https://github.com/RubySlovenia/RubySlovenia.github.io): Ruby Slovenia website
+- [GeoCoordinateConverter](https://github.com/mrihtar/GeoCoordinateConverter): Geographic Coordinate Converter for Slovenia
+- [TOR](https://github.com/HairyFotr/TOR): Theoretical computer science (Slovene)
+- [bomberpony](https://github.com/hamax/bomberpony): Pony themed multiplayer bomberman game (html ca...
+- [pysms](https://github.com/offlinehacker/pysms): Python library for sending sms-es
+- [TicketTracker](https://github.com/Pancho/TicketTracker): A custom Scrum process implementation
+- [sidekiq-job-php](https://github.com/spinx/sidekiq-job-php): Push and schedule jobs to Sidekiq from PHP

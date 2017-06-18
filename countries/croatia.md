@@ -1,29 +1,29 @@
 # Popular Repositories in Croatia
 
-These are the most-starred repositories from programmers based in Croatia:
+These are the repositories with the highest ratio of stars from programmers based in Croatia:
 
-- [uplatnica](https://github.com/hrvach/uplatnica)
-- [uvod-u-git](https://github.com/tkrajina/uvod-u-git)
-- [troskovi-tvrtke](https://github.com/the-shop/troskovi-tvrtke)
-- [awesome-croatia](https://github.com/wedranb/awesome-croatia)
-- [learnQuery](https://github.com/infinum/learnQuery)
-- [cv-template](https://github.com/x-fer/cv-template)
-- [ui](https://github.com/shoutem/ui)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Fiskalizator_PHP](https://github.com/grizwako/Fiskalizator_PHP)
-- [keechma](https://github.com/keechma/keechma)
-- [snippets](https://github.com/stjepang/snippets)
-- [fiskalizacija](https://github.com/nticaric/fiskalizacija)
-- [animation](https://github.com/shoutem/animation)
-- [theme](https://github.com/shoutem/theme)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [shoutem.github.io](https://github.com/shoutem/shoutem.github.io)
-- [croatia-city](https://github.com/zoka123/croatia-city)
-- [extensions](https://github.com/shoutem/extensions)
-- [usql](https://github.com/knq/usql)
-- [packt](https://github.com/igustin/packt)
-- [phrasing](https://github.com/infinum/phrasing)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [dj-skeletor](https://github.com/senko/dj-skeletor)
-- [reactide](https://github.com/reactide/reactide)
+- [uplatnica](https://github.com/hrvach/uplatnica): Generates Croatian payment slips in vector format
+- [uvod-u-git](https://github.com/tkrajina/uvod-u-git): Git introduction: A book about git (in Croatian...
+- [troskovi-tvrtke](https://github.com/the-shop/troskovi-tvrtke): 
+- [awesome-croatia](https://github.com/wedranb/awesome-croatia): A curated list of things that show the awesome ...
+- [learnQuery](https://github.com/infinum/learnQuery): Learn JavaScript fundamentals by building your ...
+- [cv-template](https://github.com/x-fer/cv-template): [hr] Predlozak inzenjerskog zivotopisa
+- [ui](https://github.com/shoutem/ui): Customizable set of components for React Native...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Fiskalizator_PHP](https://github.com/grizwako/Fiskalizator_PHP): Pure PHP implementation of Croatian Fiscalizati...
+- [keechma](https://github.com/keechma/keechma): Micro frontend framework for ClojureScript and ...
+- [snippets](https://github.com/stjepang/snippets): Concise algorithms and data structures
+- [fiskalizacija](https://github.com/nticaric/fiskalizacija): PHP API za fiskalizaciju računa
+- [animation](https://github.com/shoutem/animation): Animate your React Native components
+- [theme](https://github.com/shoutem/theme): Style your React Native components on one place
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [shoutem.github.io](https://github.com/shoutem/shoutem.github.io): Supercharging React Native development
+- [croatia-city](https://github.com/zoka123/croatia-city): SQL format of croatian cities and counties
+- [extensions](https://github.com/shoutem/extensions): Shoutem Extensions are common mobile app functi...
+- [usql](https://github.com/knq/usql): usql is a universal command-line interface for ...
+- [packt](https://github.com/igustin/packt): Packt Publishing daily free e-book claim & down...
+- [phrasing](https://github.com/infinum/phrasing): Edit phrases inline for your Ruby on Rails appl...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [dj-skeletor](https://github.com/senko/dj-skeletor): A skeleton Django project
+- [reactide](https://github.com/reactide/reactide): 

@@ -1,29 +1,29 @@
 # Popular Repositories in Tokyo
 
-These are the most-starred repositories from programmers based in Tokyo:
+These are the repositories with the highest ratio of stars from programmers based in Tokyo:
 
-- [Hatena-Textbook](https://github.com/hatena/Hatena-Textbook)
-- [iOSTraining](https://github.com/mixi-inc/iOSTraining)
-- [styleguide](https://github.com/cookpad/styleguide)
-- [ghq](https://github.com/motemen/ghq)
-- [AndroidTraining](https://github.com/mixi-inc/AndroidTraining)
-- [nodebrew](https://github.com/hokaccha/nodebrew)
-- [awesome-commit-english](https://github.com/azu/awesome-commit-english)
-- [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd)
-- [ridgepole](https://github.com/winebarrel/ridgepole)
-- [itamae](https://github.com/itamae-kitchen/itamae)
-- [budou](https://github.com/google/budou)
-- [chanko](https://github.com/cookpad/chanko)
-- [embulk](https://github.com/embulk/embulk)
-- [garage](https://github.com/cookpad/garage)
-- [md2key](https://github.com/k0kubun/md2key)
-- [anyenv](https://github.com/riywo/anyenv)
-- [peco](https://github.com/peco/peco)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [power-assert](https://github.com/power-assert-js/power-assert)
-- [js-primer](https://github.com/asciidwango/js-primer)
-- [source-han-code-jp](https://github.com/adobe-fonts/source-han-code-jp)
-- [review](https://github.com/kmuto/review)
-- [gaurun](https://github.com/mercari/gaurun)
-- [autodoc](https://github.com/r7kamura/autodoc)
-- [process-book](https://github.com/Shinpeim/process-book)
+- [Hatena-Textbook](https://github.com/hatena/Hatena-Textbook): はてな研修用教科書
+- [iOSTraining](https://github.com/mixi-inc/iOSTraining): Training course repository for iOS app development
+- [styleguide](https://github.com/cookpad/styleguide): Cookpad's coding style guides
+- [ghq](https://github.com/motemen/ghq): Remote repository management made easy
+- [AndroidTraining](https://github.com/mixi-inc/AndroidTraining): Training course repository for android app deve...
+- [nodebrew](https://github.com/hokaccha/nodebrew): Node.js version manager
+- [awesome-commit-english](https://github.com/azu/awesome-commit-english): コミット英語についての記事まとめ
+- [mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd): Neologism dictionary based on the language reso...
+- [ridgepole](https://github.com/winebarrel/ridgepole): Ridgepole is a tool to manage DB schema.  It de...
+- [itamae](https://github.com/itamae-kitchen/itamae): Configuration management tool inspired by Chef,...
+- [budou](https://github.com/google/budou): Automatic Japanese line breaking tool
+- [chanko](https://github.com/cookpad/chanko): Rapidly and safely prototyping your rails appli...
+- [embulk](https://github.com/embulk/embulk): Embulk: Pluggable Bulk Data Loader. http://www....
+- [garage](https://github.com/cookpad/garage): Rails extension for RESTful Hypermedia API
+- [md2key](https://github.com/k0kubun/md2key): Convert markdown to keynote
+- [anyenv](https://github.com/riywo/anyenv): all in one for **env
+- [peco](https://github.com/peco/peco): Simplistic interactive filtering tool
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [power-assert](https://github.com/power-assert-js/power-assert): Power Assert in JavaScript. Provides descriptiv...
+- [js-primer](https://github.com/asciidwango/js-primer): JavaScriptの入門書 :book: 
+- [source-han-code-jp](https://github.com/adobe-fonts/source-han-code-jp): Source Han Code JP
+- [review](https://github.com/kmuto/review): Re:VIEW is flexible document format/conversion ...
+- [gaurun](https://github.com/mercari/gaurun): General push notification server in Go
+- [autodoc](https://github.com/r7kamura/autodoc): Generate documentation from your rack applicati...
+- [process-book](https://github.com/Shinpeim/process-book): Unix系システムのプロセスについて日本語で解説しています

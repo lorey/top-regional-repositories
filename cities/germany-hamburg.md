@@ -1,29 +1,29 @@
 # Popular Repositories in Hamburg
 
-These are the most-starred repositories from programmers based in Hamburg:
+These are the repositories with the highest ratio of stars from programmers based in Hamburg:
 
-- [ctop](https://github.com/bcicen/ctop)
-- [patternplate](https://github.com/sinnerschrader/patternplate)
-- [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms)
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [hops](https://github.com/xing/hops)
-- [juice-shop](https://github.com/bkimminich/juice-shop)
-- [tesla-microservice](https://github.com/otto-de/tesla-microservice)
-- [experimental-platform](https://github.com/experimental-platform/experimental-platform)
-- [gesetze](https://github.com/bundestag/gesetze)
-- [on_ruby](https://github.com/phoet/on_ruby)
-- [digitalfoosball](https://github.com/sinnerschrader/digitalfoosball)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [lambdacd](https://github.com/flosell/lambdacd)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [hardcover](https://github.com/xing/hardcover)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [reactide](https://github.com/reactide/reactide)
-- [planning](https://github.com/rughh/planning)
-- [guetzli](https://github.com/google/guetzli)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [php_unconference](https://github.com/bootev/php_unconference)
-- [shariff](https://github.com/heiseonline/shariff)
-- [happy](https://github.com/hmans/happy)
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [patternplate](https://github.com/sinnerschrader/patternplate): 📘 Create, show and deliver component libraries
+- [alchemy_cms](https://github.com/AlchemyCMS/alchemy_cms): Alchemy is a powerful, flexible and user centri...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [hops](https://github.com/xing/hops): Universal Build Tools
+- [juice-shop](https://github.com/bkimminich/juice-shop): OWASP Juice Shop is an intentionally insecure w...
+- [tesla-microservice](https://github.com/otto-de/tesla-microservice): Common basis for some of otto.de's clojure micr...
+- [experimental-platform](https://github.com/experimental-platform/experimental-platform): Experimental Platform Meta-Repository https://e...
+- [gesetze](https://github.com/bundestag/gesetze): Bundesgesetze und -verordnungen
+- [on_ruby](https://github.com/phoet/on_ruby): :gem: :diamonds: Whitelabel Site for Ruby Commu...
+- [digitalfoosball](https://github.com/sinnerschrader/digitalfoosball): ⚽ Taking an analog foosball table into the digi...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [lambdacd](https://github.com/flosell/lambdacd): a library to define a continuous delivery pipel...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [hardcover](https://github.com/xing/hardcover): Hardcover takes your coverage reports and store...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [reactide](https://github.com/reactide/reactide): 
+- [planning](https://github.com/rughh/planning): :date: :notebook: Ruby Usergroup Hamburg
+- [guetzli](https://github.com/google/guetzli): 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [php_unconference](https://github.com/bootev/php_unconference): Das PHP Unconference WIKI
+- [shariff](https://github.com/heiseonline/shariff): Shariff enables website users to share their fa...
+- [happy](https://github.com/hmans/happy): A happy little toolkit for writing web applicat...

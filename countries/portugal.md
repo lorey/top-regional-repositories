@@ -1,29 +1,29 @@
 # Popular Repositories in Portugal
 
-These are the most-starred repositories from programmers based in Portugal:
+These are the repositories with the highest ratio of stars from programmers based in Portugal:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [talks](https://github.com/PixelsCamp/talks)
-- [Ink](https://github.com/sapo/Ink)
-- [ctop](https://github.com/bcicen/ctop)
-- [awesome-hacking-spots](https://github.com/diasdavid/awesome-hacking-spots)
-- [sapo](https://github.com/celso/sapo)
-- [reactide](https://github.com/reactide/reactide)
-- [Vinyl](https://github.com/Velhotes/Vinyl)
-- [fenixedu-academic](https://github.com/FenixEdu/fenixedu-academic)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [lists](https://github.com/myIPTVChannels/lists)
-- [localstack](https://github.com/atlassian/localstack)
-- [ist-dissertation-latex-template](https://github.com/samfcmc/ist-dissertation-latex-template)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [sapo-broker](https://github.com/sapo/sapo-broker)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [nunuStudio](https://github.com/tentone/nunuStudio)
-- [community](https://github.com/require-lx/community)
-- [python-fire](https://github.com/google/python-fire)
-- [ImageViewer](https://github.com/MailOnline/ImageViewer)
-- [iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [AppSecEzine](https://github.com/Simpsonpt/AppSecEzine)
-- [ahoy-chrome](https://github.com/revolucaodosbytes/ahoy-chrome)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [talks](https://github.com/PixelsCamp/talks): Talks
+- [Ink](https://github.com/sapo/Ink): An HTML5/CSS3 framework used at SAPO for fast a...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [awesome-hacking-spots](https://github.com/diasdavid/awesome-hacking-spots): :computer: :coffee: List of Awesome Hacking pla...
+- [sapo](https://github.com/celso/sapo): Source of Humiliation
+- [reactide](https://github.com/reactide/reactide): 
+- [Vinyl](https://github.com/Velhotes/Vinyl): Network testing à la VCR in Swift 
+- [fenixedu-academic](https://github.com/FenixEdu/fenixedu-academic): FenixEdu Academic is open source Student Inform...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [lists](https://github.com/myIPTVChannels/lists): A portuguese community of IPTV channels.
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ist-dissertation-latex-template](https://github.com/samfcmc/ist-dissertation-latex-template): Master dissertation template for IST
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [sapo-broker](https://github.com/sapo/sapo-broker): SAPO Broker is a distributed messaging framework
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [nunuStudio](https://github.com/tentone/nunuStudio): nunuStudio is a JS based IDE for 3D and VR appl...
+- [community](https://github.com/require-lx/community): The Javascript and Node.js meetup group in Lisbon
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ImageViewer](https://github.com/MailOnline/ImageViewer): An image viewer à la Twitter
+- [iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies): Your favorite iOS Newsletter, now open source.
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [AppSecEzine](https://github.com/Simpsonpt/AppSecEzine): AppSec Ezine Public Repository.
+- [ahoy-chrome](https://github.com/revolucaodosbytes/ahoy-chrome): 

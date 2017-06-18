@@ -1,29 +1,29 @@
 # Popular Repositories in Canada
 
-These are the most-starred repositories from programmers based in Canada:
+These are the repositories with the highest ratio of stars from programmers based in Canada:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [wet-boew](https://github.com/wet-boew/wet-boew)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ctop](https://github.com/bcicen/ctop)
-- [python-fire](https://github.com/google/python-fire)
-- [reactide](https://github.com/reactide/reactide)
-- [guetzli](https://github.com/google/guetzli)
-- [openparliament](https://github.com/rhymeswithcycle/openparliament)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [rmc](https://github.com/UWFlow/rmc)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [shipit-engine](https://github.com/Shopify/shipit-engine)
-- [gravity](https://github.com/marcobambini/gravity)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [wet-boew](https://github.com/wet-boew/wet-boew): Web Experience Toolkit (WET): Open source code ...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [reactide](https://github.com/reactide/reactide): 
+- [guetzli](https://github.com/google/guetzli): 
+- [openparliament](https://github.com/rhymeswithcycle/openparliament): Keeping tabs on Canada's Parliament
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [rmc](https://github.com/UWFlow/rmc): Flow is a website that lets you plan courses wi...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [shipit-engine](https://github.com/Shopify/shipit-engine): Deployment coordination
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language

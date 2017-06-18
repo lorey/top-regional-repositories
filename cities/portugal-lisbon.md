@@ -1,29 +1,29 @@
 # Popular Repositories in Lisbon
 
-These are the most-starred repositories from programmers based in Lisbon:
+These are the repositories with the highest ratio of stars from programmers based in Lisbon:
 
-- [awesome-hacking-spots](https://github.com/diasdavid/awesome-hacking-spots)
-- [fenixedu-academic](https://github.com/FenixEdu/fenixedu-academic)
-- [sapo](https://github.com/celso/sapo)
-- [Ink](https://github.com/sapo/Ink)
-- [ist-dissertation-latex-template](https://github.com/samfcmc/ist-dissertation-latex-template)
-- [community](https://github.com/require-lx/community)
-- [sapo-broker](https://github.com/sapo/sapo-broker)
-- [talks](https://github.com/PixelsCamp/talks)
-- [ctop](https://github.com/bcicen/ctop)
-- [fenix-framework](https://github.com/fenix-framework/fenix-framework)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [fakeApi](https://github.com/rodkranz/fakeApi)
-- [carbon](https://github.com/uniplaces/carbon)
-- [lxmls-toolkit](https://github.com/LxMLS/lxmls-toolkit)
-- [dotfiles](https://github.com/lewagon/dotfiles)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [challenges](https://github.com/talkdesk-challenges/challenges)
-- [setup](https://github.com/lewagon/setup)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [mymoney](https://github.com/jneves/mymoney)
-- [curvatron](https://github.com/bravebunny/curvatron)
-- [node-cachelicious](https://github.com/cblage/node-cachelicious)
-- [localstack](https://github.com/atlassian/localstack)
+- [awesome-hacking-spots](https://github.com/diasdavid/awesome-hacking-spots): :computer: :coffee: List of Awesome Hacking pla...
+- [fenixedu-academic](https://github.com/FenixEdu/fenixedu-academic): FenixEdu Academic is open source Student Inform...
+- [sapo](https://github.com/celso/sapo): Source of Humiliation
+- [Ink](https://github.com/sapo/Ink): An HTML5/CSS3 framework used at SAPO for fast a...
+- [ist-dissertation-latex-template](https://github.com/samfcmc/ist-dissertation-latex-template): Master dissertation template for IST
+- [community](https://github.com/require-lx/community): The Javascript and Node.js meetup group in Lisbon
+- [sapo-broker](https://github.com/sapo/sapo-broker): SAPO Broker is a distributed messaging framework
+- [talks](https://github.com/PixelsCamp/talks): Talks
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [fenix-framework](https://github.com/fenix-framework/fenix-framework): A framework to develop enterprise applications ...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [fakeApi](https://github.com/rodkranz/fakeApi): 
+- [carbon](https://github.com/uniplaces/carbon): Carbon for Golang, an extension for Time
+- [lxmls-toolkit](https://github.com/LxMLS/lxmls-toolkit): Machine Learning applied to Natural Language Pr...
+- [dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [challenges](https://github.com/talkdesk-challenges/challenges): Problems that have plagued Talkdesk
+- [setup](https://github.com/lewagon/setup): Setup instructions for Le Wagon's students on t...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [mymoney](https://github.com/jneves/mymoney): API to access banking account
+- [curvatron](https://github.com/bravebunny/curvatron): :snake: Like tron but curva. PhaserJS.
+- [node-cachelicious](https://github.com/cblage/node-cachelicious): This project has been deprecated, feel free to ...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...

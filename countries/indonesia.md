@@ -1,29 +1,29 @@
 # Popular Repositories in Indonesia
 
-These are the most-starred repositories from programmers based in Indonesia:
+These are the repositories with the highest ratio of stars from programmers based in Indonesia:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [sastrawi](https://github.com/sastrawi/sastrawi)
-- [Wilayah-Administratif-Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia)
-- [awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-- [panada](https://github.com/panada/panada)
-- [rojak](https://github.com/pyk/rojak)
-- [blitz-cli](https://github.com/sonnylazuardi/blitz-cli)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [reactide](https://github.com/reactide/reactide)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [quran.com-frontend](https://github.com/quran/quran.com-frontend)
-- [nlp-bahasa-indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia)
-- [localstack](https://github.com/atlassian/localstack)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [quran_android](https://github.com/quran/quran_android)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [node-line-messaging-api](https://github.com/mathdroid/node-line-messaging-api)
-- [unila.github.io](https://github.com/unila/unila.github.io)
-- [soya](https://github.com/traveloka/soya)
-- [veritrans-php](https://github.com/veritrans/veritrans-php)
-- [realworld](https://github.com/gothinkster/realworld)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [sastrawi](https://github.com/sastrawi/sastrawi): High quality stemmer library for Indonesian Lan...
+- [Wilayah-Administratif-Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia): Data Provinsi, Kota/Kabupaten, Kecamatan, dan K...
+- [awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo): A curated list of amazingly awesome repository ...
+- [panada](https://github.com/panada/panada): Panada is a high performance PHP development fr...
+- [rojak](https://github.com/pyk/rojak): Project Rojak, Yuk gabung diskusi di Slack nya ...
+- [blitz-cli](https://github.com/sonnylazuardi/blitz-cli): A command line app to check cgv blitz movie seats
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [reactide](https://github.com/reactide/reactide): 
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [quran.com-frontend](https://github.com/quran/quran.com-frontend): quran.com frontend
+- [nlp-bahasa-indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia): Kumpulan tulisan NLP Bahasa Indonesia
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [quran_android](https://github.com/quran/quran_android): a quran reading application for android
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [node-line-messaging-api](https://github.com/mathdroid/node-line-messaging-api): Unofficial SDK for LINE Messaging API
+- [unila.github.io](https://github.com/unila/unila.github.io): Open science hub website for Universitas Lampun...
+- [soya](https://github.com/traveloka/soya): Hopefully hassle-free web front-end framework
+- [veritrans-php](https://github.com/veritrans/veritrans-php): PHP client library for Veritrans
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...

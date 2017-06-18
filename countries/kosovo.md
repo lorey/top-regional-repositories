@@ -1,29 +1,29 @@
 # Popular Repositories in Kosovo
 
-These are the most-starred repositories from programmers based in Kosovo:
+These are the repositories with the highest ratio of stars from programmers based in Kosovo:
 
-- [fbg-stats](https://github.com/Kreshnik/fbg-stats)
-- [awesome-images](https://github.com/heyalexej/awesome-images)
-- [imagehover.css](https://github.com/ciar4n/imagehover.css)
-- [rucksack](https://github.com/simplaio/rucksack)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [redux-framework](https://github.com/yllip/redux-framework)
-- [scrollReveal.js](https://github.com/yllip/scrollReveal.js)
-- [alaveteli](https://github.com/denat/alaveteli)
-- [Vide](https://github.com/yllip/Vide)
-- [Programerat](https://github.com/Diarselimi/Programerat)
-- [PageLoadingEffects](https://github.com/astrit/PageLoadingEffects)
-- [election-results-importer](https://github.com/opendatakosovo/election-results-importer)
-- [May10](https://github.com/georgeslabreche/May10)
-- [Fluidbox](https://github.com/yllip/Fluidbox)
-- [May3](https://github.com/georgeslabreche/May3)
-- [wordpress-theme-customizer-custom-controls](https://github.com/astrit/wordpress-theme-customizer-custom-controls)
-- [Apr26](https://github.com/georgeslabreche/Apr26)
-- [Apr19](https://github.com/georgeslabreche/Apr19)
-- [May26](https://github.com/georgeslabreche/May26)
-- [Kosovo-Youth-Resources-Map](https://github.com/innovationslabkosovo/Kosovo-Youth-Resources-Map)
-- [onepage-scroll](https://github.com/astrit/onepage-scroll)
-- [utilizer-ui-elements](https://github.com/mentorgh/utilizer-ui-elements)
-- [Hangman](https://github.com/viktorcitaku/Hangman)
-- [March29](https://github.com/georgeslabreche/March29)
-- [memerick.com](https://github.com/georgeslabreche/memerick.com)
+- [fbg-stats](https://github.com/Kreshnik/fbg-stats): Get statistics about your facebook groups most ...
+- [awesome-images](https://github.com/heyalexej/awesome-images): A curated list of amazingly awesome free (stock...
+- [imagehover.css](https://github.com/ciar4n/imagehover.css): Pure CSS Image Hover Effect Library
+- [rucksack](https://github.com/simplaio/rucksack): A little bag of CSS superpowers, built on PostCSS
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [redux-framework](https://github.com/yllip/redux-framework): Redux is a simple, truly extensible options fra...
+- [scrollReveal.js](https://github.com/yllip/scrollReveal.js): Declarative on-scroll reveal animations.
+- [alaveteli](https://github.com/denat/alaveteli): Provide a Freedom of Information request system...
+- [Vide](https://github.com/yllip/Vide): Easy as hell jQuery plugin for video backgrounds.
+- [Programerat](https://github.com/Diarselimi/Programerat): Programerat shqiptar
+- [PageLoadingEffects](https://github.com/astrit/PageLoadingEffects): Modern ways of revealing new content using SVG ...
+- [election-results-importer](https://github.com/opendatakosovo/election-results-importer): Import election results data provided by D4D
+- [May10](https://github.com/georgeslabreche/May10): iOS dev experiment #8
+- [Fluidbox](https://github.com/yllip/Fluidbox): Replicating and improving the lightbox module s...
+- [May3](https://github.com/georgeslabreche/May3): iOS dev experiment #7
+- [wordpress-theme-customizer-custom-controls](https://github.com/astrit/wordpress-theme-customizer-custom-controls): A collection of custom controls you can use in ...
+- [Apr26](https://github.com/georgeslabreche/Apr26): iOS Dev - Experiment #6
+- [Apr19](https://github.com/georgeslabreche/Apr19): iOS Dev - Experiment #5
+- [May26](https://github.com/georgeslabreche/May26): Core Location and Maps
+- [Kosovo-Youth-Resources-Map](https://github.com/innovationslabkosovo/Kosovo-Youth-Resources-Map): 
+- [onepage-scroll](https://github.com/astrit/onepage-scroll): Create an Apple-like one page scroller website ...
+- [utilizer-ui-elements](https://github.com/mentorgh/utilizer-ui-elements): Library for WordPress admin user interface elem...
+- [Hangman](https://github.com/viktorcitaku/Hangman): A command line game
+- [March29](https://github.com/georgeslabreche/March29): iOS development - Experiment #2
+- [memerick.com](https://github.com/georgeslabreche/memerick.com): Text and image contribution website revolving a...

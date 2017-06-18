@@ -1,29 +1,29 @@
 # Popular Repositories in Peru
 
-These are the most-starred repositories from programmers based in Peru:
+These are the repositories with the highest ratio of stars from programmers based in Peru:
 
-- [flux](https://github.com/frontend-labs/flux)
-- [yosonjs](https://github.com/frontend-labs/yosonjs)
-- [gulp-css-url-versioner](https://github.com/jansanchez/gulp-css-url-versioner)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [jscomplex](https://github.com/jansanchez/jscomplex)
-- [javascript-style-guide](https://github.com/paolocarrasco/javascript-style-guide)
-- [openinvoiceperu](https://github.com/erickorlando/openinvoiceperu)
-- [vim-combinations](https://github.com/frontend-labs/vim-combinations)
-- [skeletor](https://github.com/erikfloresq/skeletor)
-- [post-template](https://github.com/frontend-labs/post-template)
-- [meetups](https://github.com/Frontendpe/meetups)
-- [metropolitano](https://github.com/juaneladio/metropolitano)
-- [react-espanol](https://github.com/jlobos/react-espanol)
-- [ceviche.js](https://github.com/hpneo/ceviche.js)
-- [CSS-Guidelines](https://github.com/Wakkos/CSS-Guidelines)
-- [mejorandocurso](https://github.com/platzi/mejorandocurso)
-- [EDgrid](https://github.com/escueladigital/EDgrid)
-- [generator-hubot-trendy](https://github.com/jansanchez/generator-hubot-trendy)
-- [es2015-nodejs-boilerplate](https://github.com/jansanchez/es2015-nodejs-boilerplate)
-- [Manifesto](https://github.com/AmazonTechFoundation/Manifesto)
-- [reactide](https://github.com/reactide/reactide)
-- [Stepper-Android-Sample](https://github.com/orbismobile/Stepper-Android-Sample)
-- [museaMoz](https://github.com/AngelFQC/museaMoz)
-- [jade-php-twig](https://github.com/juanpablocs/jade-php-twig)
-- [mydependencies](https://github.com/jansanchez/mydependencies)
+- [flux](https://github.com/frontend-labs/flux): Frontend Flux
+- [yosonjs](https://github.com/frontend-labs/yosonjs): A lightweight library for managing modular scripts
+- [gulp-css-url-versioner](https://github.com/jansanchez/gulp-css-url-versioner): A gulp plugin for versioning the CSS property: url
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [jscomplex](https://github.com/jansanchez/jscomplex): A colorful reporter for maintainability index v...
+- [javascript-style-guide](https://github.com/paolocarrasco/javascript-style-guide): Guía de Estilo para programar con JavaScript en...
+- [openinvoiceperu](https://github.com/erickorlando/openinvoiceperu): Repositorio OpenInvoicePeru, API REST para la F...
+- [vim-combinations](https://github.com/frontend-labs/vim-combinations): A repository to store key combinations useful f...
+- [skeletor](https://github.com/erikfloresq/skeletor): Estructura base para un proyecto basado en jade...
+- [post-template](https://github.com/frontend-labs/post-template): post-template for frontendlabs
+- [meetups](https://github.com/Frontendpe/meetups): Las charlas que se dieron en nuestras reuniones...
+- [metropolitano](https://github.com/juaneladio/metropolitano): Una app para Firefox OS / FirefoxOS (y cualquie...
+- [react-espanol](https://github.com/jlobos/react-espanol): Recursos para aprender ReactJS en español
+- [ceviche.js](https://github.com/hpneo/ceviche.js): Desarrollo web Frontend con JavaScript
+- [CSS-Guidelines](https://github.com/Wakkos/CSS-Guidelines): High-level guidelines from writing manageable, ...
+- [mejorandocurso](https://github.com/platzi/mejorandocurso): Contenido Original de los Cursos de Mejorando.l...
+- [EDgrid](https://github.com/escueladigital/EDgrid): CSS library for responsive layouts / Libreria C...
+- [generator-hubot-trendy](https://github.com/jansanchez/generator-hubot-trendy): A Yeoman generator for creating your own chatbo...
+- [es2015-nodejs-boilerplate](https://github.com/jansanchez/es2015-nodejs-boilerplate): es2015 nodejs boilerplate. Includes: babel, xo,...
+- [Manifesto](https://github.com/AmazonTechFoundation/Manifesto): The Amazonian Technological Development Foundat...
+- [reactide](https://github.com/reactide/reactide): 
+- [Stepper-Android-Sample](https://github.com/orbismobile/Stepper-Android-Sample): In this project We'd like to show you a basic p...
+- [museaMoz](https://github.com/AngelFQC/museaMoz): Guía de museos del Perú
+- [jade-php-twig](https://github.com/juanpablocs/jade-php-twig): jade with php inspired in twig
+- [mydependencies](https://github.com/jansanchez/mydependencies): Reader of dependencies from package.json on ter...

@@ -1,29 +1,29 @@
 # Popular Repositories in Cameroon
 
-These are the most-starred repositories from programmers based in Cameroon:
+These are the repositories with the highest ratio of stars from programmers based in Cameroon:
 
-- [programming-books-and-resources](https://github.com/ch3nkula/programming-books-and-resources)
-- [ublab-bot](https://github.com/EliteProgrammersClub/ublab-bot)
-- [ubexchange](https://github.com/Roc4rdho/ubexchange)
-- [url-shortener](https://github.com/ch3nkula/url-shortener)
-- [Khati-Khati](https://github.com/Ch3ck/Khati-Khati)
-- [vrml-stl](https://github.com/djkonro/vrml-stl)
-- [go-serve](https://github.com/Ch3ck/go-serve)
-- [gdgbuea](https://github.com/GDG-Buea/gdgbuea)
-- [eliteprogrammersclub.cf](https://github.com/EliteProgrammersClub/eliteprogrammersclub.cf)
-- [programming-ebooks](https://github.com/EliteProgrammersClub/programming-ebooks)
-- [ocaml-projects](https://github.com/ubcsc/ocaml-projects)
-- [smconf.org](https://github.com/silicon-mountain/smconf.org)
-- [IceBase](https://github.com/larrytech7/IceBase)
-- [Docker-Study-Jams](https://github.com/Docker-Buea/Docker-Study-Jams)
-- [SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor)
-- [coala-bears](https://github.com/coala/coala-bears)
-- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev)
-- [quizer](https://github.com/silicon-mountain/quizer)
-- [django_tut](https://github.com/ubcsc/django_tut)
-- [user-group-website](https://github.com/WikimediaCameroon/user-group-website)
-- [WhatsApp-Web](https://github.com/collinsnji/WhatsApp-Web)
-- [libxml2json](https://github.com/ch3nkula/libxml2json)
-- [ubcscwiki](https://github.com/ubcsc/ubcscwiki)
-- [cameroonpc](https://github.com/GDG-Buea/cameroonpc)
-- [Wiki-Twit-Bot](https://github.com/ch3nkula/Wiki-Twit-Bot)
+- [programming-books-and-resources](https://github.com/ch3nkula/programming-books-and-resources): This repo has a collection of programming books...
+- [ublab-bot](https://github.com/EliteProgrammersClub/ublab-bot): IRC bot for #ublab on freenode
+- [ubexchange](https://github.com/Roc4rdho/ubexchange): A question and answer platform for enthusiasts ...
+- [url-shortener](https://github.com/ch3nkula/url-shortener): This is a URL shortener application built using...
+- [Khati-Khati](https://github.com/Ch3ck/Khati-Khati): :bird: Data Mining Algorithms
+- [vrml-stl](https://github.com/djkonro/vrml-stl): vrml-stl geometry converter
+- [go-serve](https://github.com/Ch3ck/go-serve): Basic Go Microservice
+- [gdgbuea](https://github.com/GDG-Buea/gdgbuea): The GDG Buea website developed during the Hackw...
+- [eliteprogrammersclub.cf](https://github.com/EliteProgrammersClub/eliteprogrammersclub.cf): Source code for the Elite Programming club website
+- [programming-ebooks](https://github.com/EliteProgrammersClub/programming-ebooks): These are all the programming ebooks that I hav...
+- [ocaml-projects](https://github.com/ubcsc/ocaml-projects): 
+- [smconf.org](https://github.com/silicon-mountain/smconf.org): :elephant: Silicon Mountain website
+- [IceBase](https://github.com/larrytech7/IceBase): A NoSQL ORM for android. A strongly object orie...
+- [Docker-Study-Jams](https://github.com/Docker-Buea/Docker-Study-Jams): Docker Study Jams 2016 Course materials :dolphin:
+- [SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor): A powerful image compression library for Android
+- [coala-bears](https://github.com/coala/coala-bears): Bears for coala
+- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): This is list of discounts on software (SaaS, Pa...
+- [quizer](https://github.com/silicon-mountain/quizer): Question and answer app for Silicon Mountain Qu...
+- [django_tut](https://github.com/ubcsc/django_tut): Django tutorials. This code is an implementatio...
+- [user-group-website](https://github.com/WikimediaCameroon/user-group-website): This is the official website for Wikimedia Comm...
+- [WhatsApp-Web](https://github.com/collinsnji/WhatsApp-Web): Chrome App that brings WhatsApp to your desktop.
+- [libxml2json](https://github.com/ch3nkula/libxml2json): A small GoLang Library to convert XML files to ...
+- [ubcscwiki](https://github.com/ubcsc/ubcscwiki): ubcscwiki
+- [cameroonpc](https://github.com/GDG-Buea/cameroonpc): The website for the Cameroon Programming Contest
+- [Wiki-Twit-Bot](https://github.com/ch3nkula/Wiki-Twit-Bot): A bot that sends a search query to Twitter API,...

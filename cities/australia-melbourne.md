@@ -1,29 +1,29 @@
 # Popular Repositories in Melbourne
 
-These are the most-starred repositories from programmers based in Melbourne:
+These are the repositories with the highest ratio of stars from programmers based in Melbourne:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [reactide](https://github.com/reactide/reactide)
-- [melbourne-hackathons](https://github.com/sdesalas/melbourne-hackathons)
-- [babushka](https://github.com/benhoskings/babushka)
-- [pact](https://github.com/realestate-com-au/pact)
-- [ctop](https://github.com/bcicen/ctop)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [guetzli](https://github.com/google/guetzli)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [samson](https://github.com/zendesk/samson)
-- [melbourne-ruby](https://github.com/rails-oceania/melbourne-ruby)
-- [roro](https://github.com/rails-oceania/roro)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [postal](https://github.com/atech/postal)
-- [metaquery](https://github.com/benschwarz/metaquery)
-- [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws)
-- [redial](https://github.com/markdalgleish/redial)
-- [react-loadable](https://github.com/thejameskyle/react-loadable)
-- [cfndsl](https://github.com/stevenjack/cfndsl)
-- [lifxjs](https://github.com/magicmonkey/lifxjs)
-- [prophet](https://github.com/facebookincubator/prophet)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [reactide](https://github.com/reactide/reactide): 
+- [melbourne-hackathons](https://github.com/sdesalas/melbourne-hackathons): Frequently updated list of Hackathons in Melbou...
+- [babushka](https://github.com/benhoskings/babushka): Test-driven sysadmin.
+- [pact](https://github.com/realestate-com-au/pact): Enables consumer driven contract testing, provi...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [guetzli](https://github.com/google/guetzli): 
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [samson](https://github.com/zendesk/samson): Web interface for deployments
+- [melbourne-ruby](https://github.com/rails-oceania/melbourne-ruby): Organisers notes and processes
+- [roro](https://github.com/rails-oceania/roro): wiki for Ruby on Rails Oceania
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [metaquery](https://github.com/benschwarz/metaquery): A declarative responsive web design syntax. Bre...
+- [elastic-ci-stack-for-aws](https://github.com/buildkite/elastic-ci-stack-for-aws): A simple, flexible, auto-scaling cluster of bui...
+- [redial](https://github.com/markdalgleish/redial): Universal data fetching and route lifecycle man...
+- [react-loadable](https://github.com/thejameskyle/react-loadable): A higher order component for loading components...
+- [cfndsl](https://github.com/stevenjack/cfndsl): A DSL for generating Amazon Web Services CloudF...
+- [lifxjs](https://github.com/magicmonkey/lifxjs): JS library for LIFX bulbs
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...

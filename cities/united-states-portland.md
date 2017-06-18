@@ -1,29 +1,29 @@
 # Popular Repositories in Portland
 
-These are the most-starred repositories from programmers based in Portland:
+These are the repositories with the highest ratio of stars from programmers based in Portland:
 
-- [calagator](https://github.com/calagator/calagator)
-- [localstack](https://github.com/atlassian/localstack)
-- [nodepdx.github.com](https://github.com/nodepdx/nodepdx.github.com)
-- [openconferenceware](https://github.com/osbridge/openconferenceware)
-- [pdxnode](https://github.com/PDXNode/pdxnode)
-- [Smallest-Federated-Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki)
-- [citizenry](https://github.com/reidab/citizenry)
-- [codersociety.github.com](https://github.com/codersociety/codersociety.github.com)
-- [PDXAPI](https://github.com/maxogden/PDXAPI)
-- [python-fire](https://github.com/google/python-fire)
-- [puppet-docs](https://github.com/puppetlabs/puppet-docs)
-- [ctop](https://github.com/bcicen/ctop)
-- [puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [donut-js.github.io](https://github.com/donut-js/donut-js.github.io)
-- [Tranquil](https://github.com/pvande/Tranquil)
-- [pie-cookbook](https://github.com/piepdx/pie-cookbook)
-- [pdxlivebus](https://github.com/browniefed/pdxlivebus)
-- [active_mocker](https://github.com/zeisler/active_mocker)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [awesome-portland-oregon-tech](https://github.com/tedder/awesome-portland-oregon-tech)
-- [PDX-Bus](https://github.com/teleportaloo/PDX-Bus)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [upcoming-www](https://github.com/upcoming/upcoming-www)
-- [riposte](https://github.com/Nike-Inc/riposte)
+- [calagator](https://github.com/calagator/calagator): An event aggregator based in Portland, OR
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [nodepdx.github.com](https://github.com/nodepdx/nodepdx.github.com): Community site for the NodePDX Conference power...
+- [openconferenceware](https://github.com/osbridge/openconferenceware): OpenConferenceWare is an open source web applic...
+- [pdxnode](https://github.com/PDXNode/pdxnode): Node.js usergroup in Portland, OR
+- [Smallest-Federated-Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki): This wiki innovates by: 1. federated sharing, 2...
+- [citizenry](https://github.com/reidab/citizenry): Community awesome directory hub mumble mumble
+- [codersociety.github.com](https://github.com/codersociety/codersociety.github.com): Community Site for Coder Society
+- [PDXAPI](https://github.com/maxogden/PDXAPI): JSON API for CivicApps.org datasets for Portlan...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [puppet-docs](https://github.com/puppetlabs/puppet-docs): Curated Puppet Documentation
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [puppetlabs-apache](https://github.com/puppetlabs/puppetlabs-apache): Puppet module for the Apache httpd server, main...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [donut-js.github.io](https://github.com/donut-js/donut-js.github.io): dogs drool donuts rule. also cats rule
+- [Tranquil](https://github.com/pvande/Tranquil): 
+- [pie-cookbook](https://github.com/piepdx/pie-cookbook): PIE is an experiment.  We've been everything fr...
+- [pdxlivebus](https://github.com/browniefed/pdxlivebus): Realtime Trimet map. Live update of all active ...
+- [active_mocker](https://github.com/zeisler/active_mocker): Generate mocks from ActiveRecord models for uni...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [awesome-portland-oregon-tech](https://github.com/tedder/awesome-portland-oregon-tech): Cool tech/geek things in Portland Oregon.
+- [PDX-Bus](https://github.com/teleportaloo/PDX-Bus): iPhone application for Portland, Oregon Bus and...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [upcoming-www](https://github.com/upcoming/upcoming-www): Upcoming.org Site
+- [riposte](https://github.com/Nike-Inc/riposte): Riposte is a Netty-based microservice framework...

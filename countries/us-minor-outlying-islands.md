@@ -1,29 +1,29 @@
 # Popular Repositories in U.S. Minor Outlying Islands
 
-These are the most-starred repositories from programmers based in U.S. Minor Outlying Islands:
+These are the repositories with the highest ratio of stars from programmers based in U.S. Minor Outlying Islands:
 
-- [sites-using-cloudflare](https://github.com/pirate/sites-using-cloudflare)
-- [carnival](https://github.com/thoughtbot/carnival)
-- [gd1](https://github.com/andymangold/gd1)
-- [backtastic](https://github.com/gaslight/backtastic)
-- [ruby](https://github.com/TwoFactorAuth/ruby)
-- [ember-bootstrap](https://github.com/emberjs-addons/ember-bootstrap)
-- [react-calendar-heatmap](https://github.com/patientslikeme/react-calendar-heatmap)
-- [activeadmin-mongoid](https://github.com/elia/activeadmin-mongoid)
-- [wit-ruby](https://github.com/wit-ai/wit-ruby)
-- [10-seconds-math](https://github.com/michaeljakob/10-seconds-math)
-- [gibbon](https://github.com/amro/gibbon)
-- [stories](https://github.com/kenny-hibino/stories)
-- [react_webpack_rails](https://github.com/netguru/react_webpack_rails)
-- [react-native-keychain](https://github.com/oblador/react-native-keychain)
-- [testrpc](https://github.com/ethereumjs/testrpc)
-- [topaz](https://github.com/topazproject/topaz)
-- [jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers)
-- [minitest-spec-rails](https://github.com/metaskills/minitest-spec-rails)
-- [pirateflix](https://github.com/orinocoz/pirateflix)
-- [braintree_ruby](https://github.com/braintree/braintree_ruby)
-- [capistrano-db-tasks](https://github.com/sgruhier/capistrano-db-tasks)
-- [gravatar_image_tag](https://github.com/mdeering/gravatar_image_tag)
-- [mailmason](https://github.com/wildbit/mailmason)
-- [jenkins](https://github.com/chef-cookbooks/jenkins)
-- [vim-signify](https://github.com/mhinz/vim-signify)
+- [sites-using-cloudflare](https://github.com/pirate/sites-using-cloudflare): :broken_heart: List of domains using Cloudflare...
+- [carnival](https://github.com/thoughtbot/carnival): An unobtrusive, developer-friendly way to add c...
+- [gd1](https://github.com/andymangold/gd1): Course materials for Graphic Design 1
+- [backtastic](https://github.com/gaslight/backtastic): Kinda like formtastic meets backbone with some ...
+- [ruby](https://github.com/TwoFactorAuth/ruby): Ruby + Rails support for the FIDO U2F security ...
+- [ember-bootstrap](https://github.com/emberjs-addons/ember-bootstrap): A set of UI elements styled using the Boostrap ...
+- [react-calendar-heatmap](https://github.com/patientslikeme/react-calendar-heatmap): an svg calendar heatmap component, inspired by ...
+- [activeadmin-mongoid](https://github.com/elia/activeadmin-mongoid): ActiveAdmin hacks to support Mongoid
+- [wit-ruby](https://github.com/wit-ai/wit-ruby): Ruby library for Wit.ai
+- [10-seconds-math](https://github.com/michaeljakob/10-seconds-math): Try to beat the time! You've got 10 seconds: tr...
+- [gibbon](https://github.com/amro/gibbon): Gibbon is an API wrapper for MailChimp's API
+- [stories](https://github.com/kenny-hibino/stories): Medium clone built with Ruby on Rails
+- [react_webpack_rails](https://github.com/netguru/react_webpack_rails): Simple and lightweight react-webpack-rails inte...
+- [react-native-keychain](https://github.com/oblador/react-native-keychain): Keychain Access for React Native
+- [testrpc](https://github.com/ethereumjs/testrpc): Fast Ethereum RPC client for testing and develo...
+- [topaz](https://github.com/topazproject/topaz): A high performance ruby, written in RPython
+- [jsonapi-serializers](https://github.com/fotinakis/jsonapi-serializers): Pure Ruby readonly serializers for the JSON:API...
+- [minitest-spec-rails](https://github.com/metaskills/minitest-spec-rails): :bento: Make Rails Use MiniTest::Spec!
+- [pirateflix](https://github.com/orinocoz/pirateflix): :movie_camera: Stream piratebay movies directly...
+- [braintree_ruby](https://github.com/braintree/braintree_ruby): braintree ruby client library
+- [capistrano-db-tasks](https://github.com/sgruhier/capistrano-db-tasks): Add capistrano tasks for syncing remote and loc...
+- [gravatar_image_tag](https://github.com/mdeering/gravatar_image_tag): A configurable and documented Rail view helper ...
+- [mailmason](https://github.com/wildbit/mailmason): A complete toolset to streamline building and u...
+- [jenkins](https://github.com/chef-cookbooks/jenkins): Development repository for Jenkins Chef cookbook
+- [vim-signify](https://github.com/mhinz/vim-signify): :heavy_plus_sign: Show a diff using Vim its sig...

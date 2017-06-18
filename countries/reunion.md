@@ -1,29 +1,29 @@
 # Popular Repositories in Réunion
 
-These are the most-starred repositories from programmers based in Réunion:
+These are the repositories with the highest ratio of stars from programmers based in Réunion:
 
-- [laravel-friendships](https://github.com/hootlex/laravel-friendships)
-- [pyrocms](https://github.com/zourite/pyrocms)
-- [macbot](https://github.com/christianbundy/macbot)
-- [food_finder](https://github.com/wesley974/food_finder)
-- [iBox-2](https://github.com/HiKay/iBox-2)
-- [fol-prover](https://github.com/raitraidma/fol-prover)
-- [Raspberry-Pi-Tor-Onion-Router-Project](https://github.com/teeknofil/Raspberry-Pi-Tor-Onion-Router-Project)
-- [is-awesome](https://github.com/ettorej/is-awesome)
-- [HopperApp](https://github.com/frego/HopperApp)
-- [MykeCraft974](https://github.com/Myke974/MykeCraft974)
-- [youtube-dailymotion-upload](https://github.com/nsdown/youtube-dailymotion-upload)
-- [YoutubeDL-iOS](https://github.com/pieter/YoutubeDL-iOS)
-- [raspi](https://github.com/futoshita/raspi)
-- [Laravel-Inviteable](https://github.com/faustbrian/Laravel-Inviteable)
-- [python-fire](https://github.com/google/python-fire)
-- [graphviz](https://github.com/ioquatix/graphviz)
-- [Encryption](https://github.com/karthikkeyan/Encryption)
-- [kaspersky-threats](https://github.com/mactexan/kaspersky-threats)
-- [WiFi-Tx-Speed](https://github.com/mactexan/WiFi-Tx-Speed)
-- [LicensedSwiftTemplates](https://github.com/leonardosul/LicensedSwiftTemplates)
-- [ubersichtGitInfo](https://github.com/synle/ubersichtGitInfo)
-- [scriptaculous](https://github.com/superbibik/scriptaculous)
-- [wp_dyb](https://github.com/zourite/wp_dyb)
-- [SARAH-Plugin-dictaphone](https://github.com/Spikharpax/SARAH-Plugin-dictaphone)
-- [netspeeds-widget](https://github.com/cschoenfeld/netspeeds-widget)
+- [laravel-friendships](https://github.com/hootlex/laravel-friendships): This package gives Eloquent models the ability ...
+- [pyrocms](https://github.com/zourite/pyrocms): PyroCMS is a CMS built using the CodeIgniter PH...
+- [macbot](https://github.com/christianbundy/macbot): 
+- [food_finder](https://github.com/wesley974/food_finder): The project tutorial from 'https://www.lynda.co...
+- [iBox-2](https://github.com/HiKay/iBox-2): Bochs 2.6.8 for iOS
+- [fol-prover](https://github.com/raitraidma/fol-prover): 
+- [Raspberry-Pi-Tor-Onion-Router-Project](https://github.com/teeknofil/Raspberry-Pi-Tor-Onion-Router-Project): Raspberry Pi 3 Onion Project is a server operat...
+- [is-awesome](https://github.com/ettorej/is-awesome): bulma template 
+- [HopperApp](https://github.com/frego/HopperApp): Hopper Disassembler stuff
+- [MykeCraft974](https://github.com/Myke974/MykeCraft974): Myke974 Minecraft craftbukkit modded server
+- [youtube-dailymotion-upload](https://github.com/nsdown/youtube-dailymotion-upload): A youtube and dailymotion 2015 upload script
+- [YoutubeDL-iOS](https://github.com/pieter/YoutubeDL-iOS): an iOS wrapper for youtube-dl
+- [raspi](https://github.com/futoshita/raspi): 
+- [Laravel-Inviteable](https://github.com/faustbrian/Laravel-Inviteable): 
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [graphviz](https://github.com/ioquatix/graphviz): A ruby interface for GraphViz graph visualisati...
+- [Encryption](https://github.com/karthikkeyan/Encryption): String encryption using swift and CommonCrypto ...
+- [kaspersky-threats](https://github.com/mactexan/kaspersky-threats): Übersicht widget displaying Kaspersky's real-ti...
+- [WiFi-Tx-Speed](https://github.com/mactexan/WiFi-Tx-Speed): Übersicht widget for collecting and displaying ...
+- [LicensedSwiftTemplates](https://github.com/leonardosul/LicensedSwiftTemplates): Templates that add common licenses to Swift files.
+- [ubersichtGitInfo](https://github.com/synle/ubersichtGitInfo): 
+- [scriptaculous](https://github.com/superbibik/scriptaculous): script.aculo.us is an open-source JavaScript fr...
+- [wp_dyb](https://github.com/zourite/wp_dyb): DoYouBuzz plugin for WordPress
+- [SARAH-Plugin-dictaphone](https://github.com/Spikharpax/SARAH-Plugin-dictaphone): Gestion de calendrier d'événements et prise de ...
+- [netspeeds-widget](https://github.com/cschoenfeld/netspeeds-widget): Übersicht widget. Displays your in/out speeds &...

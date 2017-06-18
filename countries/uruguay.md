@@ -1,29 +1,29 @@
 # Popular Repositories in Uruguay
 
-These are the most-starred repositories from programmers based in Uruguay:
+These are the repositories with the highest ratio of stars from programmers based in Uruguay:
 
-- [Ecno](https://github.com/xmartlabs/Ecno)
-- [rest-facade](https://github.com/ngonzalvez/rest-facade)
-- [Ahoy](https://github.com/xmartlabs/Ahoy)
-- [fakeit](https://github.com/moove-it/fakeit)
-- [Opera](https://github.com/xmartlabs/Opera)
-- [react-log](https://github.com/diegomura/react-log)
-- [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow)
-- [Xniffer](https://github.com/xmartlabs/Xniffer)
-- [Swift-Framework-Template](https://github.com/xmartlabs/Swift-Framework-Template)
-- [XLSwiftKit](https://github.com/xmartlabs/XLSwiftKit)
-- [XLMediaZoom](https://github.com/xmartlabs/XLMediaZoom)
-- [dreamsnap](https://github.com/xmartlabs/dreamsnap)
-- [servicios-abiertos](https://github.com/dti-montevideo/servicios-abiertos)
-- [react-native-scrollable-list](https://github.com/nachoaIvarez/react-native-scrollable-list)
-- [Swift-Project-Template](https://github.com/xmartlabs/Swift-Project-Template)
-- [monkeylearn-python](https://github.com/monkeylearn/monkeylearn-python)
-- [react-pdf](https://github.com/diegomura/react-pdf)
-- [flexbox-react](https://github.com/nachoaIvarez/flexbox-react)
-- [webpack-up](https://github.com/lucas-aragno/webpack-up)
-- [Swift-Style-Guide](https://github.com/xmartlabs/Swift-Style-Guide)
-- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object)
-- [es6-webapp-starterkit](https://github.com/nachoaIvarez/es6-webapp-starterkit)
-- [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer)
-- [ember-qunit-nice-errors](https://github.com/wyeworks/ember-qunit-nice-errors)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Ecno](https://github.com/xmartlabs/Ecno): Ecno is a task state manager built on top of Us...
+- [rest-facade](https://github.com/ngonzalvez/rest-facade): Node.js module that abstracts the process of co...
+- [Ahoy](https://github.com/xmartlabs/Ahoy): A lightweight swift library to build onboarding...
+- [fakeit](https://github.com/moove-it/fakeit): The Kotlin fake data generator library!
+- [Opera](https://github.com/xmartlabs/Opera): Protocol-Oriented Network abstraction layer wri...
+- [react-log](https://github.com/diegomura/react-log): React for the Console
+- [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow): A row for Eureka to implement password validati...
+- [Xniffer](https://github.com/xmartlabs/Xniffer): A swift network profiler built on top of URLSes...
+- [Swift-Framework-Template](https://github.com/xmartlabs/Swift-Framework-Template): Swift script to easily create Swift frameworks!
+- [XLSwiftKit](https://github.com/xmartlabs/XLSwiftKit): Helpers and extensions for Swift
+- [XLMediaZoom](https://github.com/xmartlabs/XLMediaZoom): UI controls to view an image or reproduce a vid...
+- [dreamsnap](https://github.com/xmartlabs/dreamsnap): Real life through the eyes of an artist
+- [servicios-abiertos](https://github.com/dti-montevideo/servicios-abiertos): Servicios Abiertos de la Intendencia de Montevideo
+- [react-native-scrollable-list](https://github.com/nachoaIvarez/react-native-scrollable-list): A ListView without the boilerplate.
+- [Swift-Project-Template](https://github.com/xmartlabs/Swift-Project-Template): Swift script to easily create a iOS project bas...
+- [monkeylearn-python](https://github.com/monkeylearn/monkeylearn-python): Official Python client for the MonkeyLearn API....
+- [react-pdf](https://github.com/diegomura/react-pdf): Create PDF files using React
+- [flexbox-react](https://github.com/nachoaIvarez/flexbox-react): Unopinionated, standard compliant flexbox compo...
+- [webpack-up](https://github.com/lucas-aragno/webpack-up): CLI tool to setup webpack and react/preact on a...
+- [Swift-Style-Guide](https://github.com/xmartlabs/Swift-Style-Guide): Swift language style guide & coding conventions...
+- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object): This ember-cli addon eases the construction of ...
+- [es6-webapp-starterkit](https://github.com/nachoaIvarez/es6-webapp-starterkit): Future-proof starterkit for writing ES6 web app...
+- [XLSlidingContainer](https://github.com/xmartlabs/XLSlidingContainer): XLSlidingContainer is a custom container contro...
+- [ember-qunit-nice-errors](https://github.com/wyeworks/ember-qunit-nice-errors): Because expected true, result false is not enough!
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017

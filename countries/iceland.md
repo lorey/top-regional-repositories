@@ -1,29 +1,29 @@
 # Popular Repositories in Iceland
 
-These are the most-starred repositories from programmers based in Iceland:
+These are the repositories with the highest ratio of stars from programmers based in Iceland:
 
-- [apis](https://github.com/apis-is/apis)
-- [git](https://github.com/gaui/git)
-- [isjs](https://github.com/rthor/isjs)
-- [hvad-er-i-bio](https://github.com/hugihlynsson/hvad-er-i-bio)
-- [auroracoin-project](https://github.com/baldurodinsson/auroracoin-project)
-- [gasvaktin](https://github.com/gasvaktin/gasvaktin)
-- [iceland-geodata](https://github.com/baldurh/iceland-geodata)
-- [rynir](https://github.com/BjarniRunar/rynir)
-- [parallax](https://github.com/Form5/parallax)
-- [CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming)
-- [Straeto-iphone-app](https://github.com/addi/Straeto-iphone-app)
-- [kvikmyndr-app](https://github.com/birkir/kvikmyndr-app)
-- [monthly-meetup](https://github.com/jsis/monthly-meetup)
-- [sublime-scroll](https://github.com/demux/sublime-scroll)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [tala-api](https://github.com/davidblurton/tala-api)
-- [meniga-client](https://github.com/krummi/meniga-client)
-- [straeto-data](https://github.com/gudmundur/straeto-data)
-- [2014-T-514-VEFT](https://github.com/reykjavik-university/2014-T-514-VEFT)
-- [open-active-democracy](https://github.com/rbjarnason/open-active-democracy)
-- [gulp-base](https://github.com/aranja/gulp-base)
-- [tux](https://github.com/aranja/tux)
-- [Netskrafl](https://github.com/vthorsteinsson/Netskrafl)
-- [starter-kit](https://github.com/ueno-llc/starter-kit)
-- [Reynir](https://github.com/vthorsteinsson/Reynir)
+- [apis](https://github.com/apis-is/apis): Making data readily available to anyone interested
+- [git](https://github.com/gaui/git): Git guide in Icelandic
+- [isjs](https://github.com/rthor/isjs): Check your data against regular expressions or ...
+- [hvad-er-i-bio](https://github.com/hugihlynsson/hvad-er-i-bio): A web app that displays movie screenings in Ice...
+- [auroracoin-project](https://github.com/baldurodinsson/auroracoin-project): 
+- [gasvaktin](https://github.com/gasvaktin/gasvaktin): Automated price comparer for petrol stations in...
+- [iceland-geodata](https://github.com/baldurh/iceland-geodata): A collection of geographical data for Iceland i...
+- [rynir](https://github.com/BjarniRunar/rynir): Rýnir er tól til að fylgjast þingmönnum á Alþin...
+- [parallax](https://github.com/Form5/parallax): Demos and an article on parallax scrolling
+- [CompetitiveProgramming](https://github.com/SuprDewd/CompetitiveProgramming): A collection of algorithms, data structures and...
+- [Straeto-iphone-app](https://github.com/addi/Straeto-iphone-app): A strætó iPhone app
+- [kvikmyndr-app](https://github.com/birkir/kvikmyndr-app): What should I watch in the movies tonight?
+- [monthly-meetup](https://github.com/jsis/monthly-meetup): A monthly meetup for the Javascript community i...
+- [sublime-scroll](https://github.com/demux/sublime-scroll): 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [tala-api](https://github.com/davidblurton/tala-api): An API for icelandic declensions.
+- [meniga-client](https://github.com/krummi/meniga-client):  An unofficial Node API client for Meniga
+- [straeto-data](https://github.com/gudmundur/straeto-data): Data for (hopefully) all publicly available and...
+- [2014-T-514-VEFT](https://github.com/reykjavik-university/2014-T-514-VEFT): A repository for the Web Services course, taugh...
+- [open-active-democracy](https://github.com/rbjarnason/open-active-democracy): Open Active Democracy is now called Your Priori...
+- [gulp-base](https://github.com/aranja/gulp-base): A base for projects using gulp
+- [tux](https://github.com/aranja/tux): React app with CMS integration and SSR
+- [Netskrafl](https://github.com/vthorsteinsson/Netskrafl): Icelandic crossword game website
+- [starter-kit](https://github.com/ueno-llc/starter-kit): ueno. Starter kit
+- [Reynir](https://github.com/vthorsteinsson/Reynir): Natural language processing for Icelandic

@@ -1,29 +1,29 @@
 # Popular Repositories in London
 
-These are the most-starred repositories from programmers based in London:
+These are the repositories with the highest ratio of stars from programmers based in London:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [polished](https://github.com/styled-components/polished)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [python-fire](https://github.com/google/python-fire)
-- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [spammy-recruiters](https://github.com/drcongo/spammy-recruiters)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [awesome-monzo](https://github.com/rdingwall/awesome-monzo)
-- [react-loadable](https://github.com/thejameskyle/react-loadable)
-- [prepack](https://github.com/facebook/prepack)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [frontend](https://github.com/guardian/frontend)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [prophet](https://github.com/facebookincubator/prophet)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk): A step by step guide of how to start contractin...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io): UK Postcode API serving up Open Data
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [spammy-recruiters](https://github.com/drcongo/spammy-recruiters): A list of UK recruitment companies who have a t...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [awesome-monzo](https://github.com/rdingwall/awesome-monzo): A curated list of awesome Monzo related things
+- [react-loadable](https://github.com/thejameskyle/react-loadable): A higher order component for loading components...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [frontend](https://github.com/guardian/frontend): Source for theguardian.com
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...

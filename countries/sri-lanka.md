@@ -1,29 +1,29 @@
 # Popular Repositories in Sri Lanka
 
-These are the most-starred repositories from programmers based in Sri Lanka:
+These are the repositories with the highest ratio of stars from programmers based in Sri Lanka:
 
-- [ballerina](https://github.com/ballerinalang/ballerina)
-- [product-private-paas](https://github.com/wso2/product-private-paas)
-- [codeLanka-Proposals](https://github.com/CodeLanka/codeLanka-Proposals)
-- [msf4j](https://github.com/wso2/msf4j)
-- [AndroidDBvieweR](https://github.com/thedathoudarya/AndroidDBvieweR)
-- [jaggery](https://github.com/wso2/jaggery)
-- [Meetups](https://github.com/CMBJS/Meetups)
-- [abhaya-libre-font](https://github.com/mooniak/abhaya-libre-font)
-- [nodegrid](https://github.com/NodeGrid/nodegrid)
-- [siddhi](https://github.com/wso2/siddhi)
-- [Bus-Route-Finder-2.0](https://github.com/janithl/Bus-Route-Finder-2.0)
-- [dialog-router-api](https://github.com/ishan-marikar/dialog-router-api)
-- [tyde-plate](https://github.com/99xt/tyde-plate)
-- [aws-userpool-boilerplate](https://github.com/99xt/aws-userpool-boilerplate)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [azure-jwt-verify](https://github.com/99xt/azure-jwt-verify)
-- [carbon-apimgt](https://github.com/wso2/carbon-apimgt)
-- [carbon-kernel](https://github.com/wso2/carbon-kernel)
-- [stratos](https://github.com/apache/stratos)
-- [ionic-selfystic-starter](https://github.com/kosalanuwan/ionic-selfystic-starter)
-- [Sinhala-Dictionary](https://github.com/laknath/Sinhala-Dictionary)
-- [git-plan](https://github.com/dilumn/git-plan)
-- [font-wso2](https://github.com/wso2-dev-ux/font-wso2)
-- [sayura.js](https://github.com/chanux/sayura.js)
-- [sinhetic](https://github.com/janithl/sinhetic)
+- [ballerina](https://github.com/ballerinalang/ballerina): Ballerina is a new programming language for int...
+- [product-private-paas](https://github.com/wso2/product-private-paas): Welcome to the WSO2 Private PaaS source code! F...
+- [codeLanka-Proposals](https://github.com/CodeLanka/codeLanka-Proposals): 
+- [msf4j](https://github.com/wso2/msf4j): WSO2 Microservices Framework for Java (MSF4J)
+- [AndroidDBvieweR](https://github.com/thedathoudarya/AndroidDBvieweR): Desktop application for monitoring and managing...
+- [jaggery](https://github.com/wso2/jaggery): The delicious Javascript framework
+- [Meetups](https://github.com/CMBJS/Meetups): :two_men_holding_hands: Colombo Javascript Meet...
+- [abhaya-libre-font](https://github.com/mooniak/abhaya-libre-font): අභය ලිබ්රේ අකුරු මුහුණත / Abhaya Libre - the un...
+- [nodegrid](https://github.com/NodeGrid/nodegrid): Nodegrid is the node.js port for Apache Usergrid
+- [siddhi](https://github.com/wso2/siddhi): 
+- [Bus-Route-Finder-2.0](https://github.com/janithl/Bus-Route-Finder-2.0): API and Client for Bus Route Finder
+- [dialog-router-api](https://github.com/ishan-marikar/dialog-router-api): A wrapper to connect with and query the API on ...
+- [tyde-plate](https://github.com/99xt/tyde-plate): Nodejs + TypeScript end to end boilerplate
+- [aws-userpool-boilerplate](https://github.com/99xt/aws-userpool-boilerplate): Getting started with AWS Cognito User Pool
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [azure-jwt-verify](https://github.com/99xt/azure-jwt-verify): Verify jwt token issued from azure active direc...
+- [carbon-apimgt](https://github.com/wso2/carbon-apimgt): 
+- [carbon-kernel](https://github.com/wso2/carbon-kernel): 
+- [stratos](https://github.com/apache/stratos): Mirror of Apache Stratos
+- [ionic-selfystic-starter](https://github.com/kosalanuwan/ionic-selfystic-starter): Selfystic hybrid mobile app tutorial using Cord...
+- [Sinhala-Dictionary](https://github.com/laknath/Sinhala-Dictionary): A dictionary and a corpus for Sinhala
+- [git-plan](https://github.com/dilumn/git-plan): Execute batch of git commands by a single bash ...
+- [font-wso2](https://github.com/wso2-dev-ux/font-wso2): WSO2 Products User Interface Icons
+- [sayura.js](https://github.com/chanux/sayura.js): Javascript implementation of Sayura translitera...
+- [sinhetic](https://github.com/janithl/sinhetic): Transliterator app to convert Latin script phon...

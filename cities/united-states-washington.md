@@ -1,29 +1,29 @@
 # Popular Repositories in Washington
 
-These are the most-starred repositories from programmers based in Washington:
+These are the repositories with the highest ratio of stars from programmers based in Washington:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [playbook](https://github.com/usds/playbook)
-- [python-fire](https://github.com/google/python-fire)
-- [project-open-data.github.io](https://github.com/project-open-data/project-open-data.github.io)
-- [python-lessons](https://github.com/shannonturner/python-lessons)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [data.gov](https://github.com/GSA/data.gov)
-- [code.mil](https://github.com/deptofdefense/code.mil)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [web-design-standards](https://github.com/18F/web-design-standards)
-- [congress-legislators](https://github.com/unitedstates/congress-legislators)
-- [reactide](https://github.com/reactide/reactide)
-- [DCMetroMetrics](https://github.com/LeeMendelowitz/DCMetroMetrics)
-- [technical-interview](https://github.com/gmac/technical-interview)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [source-code-policy](https://github.com/WhiteHouse/source-code-policy)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [budgetdata](https://github.com/WhiteHouse/budgetdata)
-- [analytics.usa.gov](https://github.com/18F/analytics.usa.gov)
-- [districthousing](https://github.com/codefordc/districthousing)
-- [guides](https://github.com/propublica/guides)
-- [openopps-platform](https://github.com/openopps/openopps-platform)
-- [openstates](https://github.com/openstates/openstates)
-- [dedupe](https://github.com/datamade/dedupe)
-- [autotune](https://github.com/voxmedia/autotune)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [playbook](https://github.com/usds/playbook): The Digital Services Playbook
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [project-open-data.github.io](https://github.com/project-open-data/project-open-data.github.io): Open Data Policy — Managing Information as an A...
+- [python-lessons](https://github.com/shannonturner/python-lessons): Lessons and code snippets to share with my stud...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [data.gov](https://github.com/GSA/data.gov): Data.gov source code and issue tracker
+- [code.mil](https://github.com/deptofdefense/code.mil): An experiment in open source
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [web-design-standards](https://github.com/18F/web-design-standards): Open source UI components and visual style guid...
+- [congress-legislators](https://github.com/unitedstates/congress-legislators): Members of the United States Congress, 1789-Pre...
+- [reactide](https://github.com/reactide/reactide): 
+- [DCMetroMetrics](https://github.com/LeeMendelowitz/DCMetroMetrics): DC Metro Metrics is a project dedicated to coll...
+- [technical-interview](https://github.com/gmac/technical-interview): Resources for Technical Interview prep session
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [source-code-policy](https://github.com/WhiteHouse/source-code-policy): Federal Source Code Policy
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [budgetdata](https://github.com/WhiteHouse/budgetdata): The data behind the President's 2016 Budget
+- [analytics.usa.gov](https://github.com/18F/analytics.usa.gov): The US federal government's web traffic.
+- [districthousing](https://github.com/codefordc/districthousing): District Housing lets caseworkers help clients ...
+- [guides](https://github.com/propublica/guides): ProPublica's News App and Data Style Guides
+- [openopps-platform](https://github.com/openopps/openopps-platform): Open Opportunities open source platform
+- [openstates](https://github.com/openstates/openstates): source for Open States' scrapers
+- [dedupe](https://github.com/datamade/dedupe): :id: A python library for accurate and scaleabl...
+- [autotune](https://github.com/voxmedia/autotune): Platform for reusable news tools

@@ -1,29 +1,29 @@
 # Popular Repositories in Mountain View
 
-These are the most-starred repositories from programmers based in Mountain View:
+These are the repositories with the highest ratio of stars from programmers based in Mountain View:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [python-fire](https://github.com/google/python-fire)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [catapult](https://github.com/catapult-project/catapult)
-- [faiss](https://github.com/facebookresearch/faiss)
-- [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [uber-cli](https://github.com/jaebradley/uber-cli)
-- [prepack](https://github.com/facebook/prepack)
-- [courier](https://github.com/coursera/courier)
-- [dataduct](https://github.com/coursera/dataduct)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [book](https://github.com/HoTT/book)
-- [inbox2_desktop](https://github.com/waseems/inbox2_desktop)
-- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation)
-- [kythe](https://github.com/google/kythe)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [hangups](https://github.com/tdryer/hangups)
-- [charts](https://github.com/kubernetes/charts)
-- [stream-lib](https://github.com/addthis/stream-lib)
-- [mosql](https://github.com/stripe/mosql)
-- [rsolr](https://github.com/rsolr/rsolr)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [catapult](https://github.com/catapult-project/catapult): Catapult
+- [faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and c...
+- [system-design-interview](https://github.com/checkcheckzz/system-design-interview): System design interview for IT company
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [uber-cli](https://github.com/jaebradley/uber-cli): Uber, at your fingertips
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [courier](https://github.com/coursera/courier): Data interchange for the modern web + mobile st...
+- [dataduct](https://github.com/coursera/dataduct): DataPipeline for humans.
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [book](https://github.com/HoTT/book): A textbook on informal homotopy type theory
+- [inbox2_desktop](https://github.com/waseems/inbox2_desktop): Inbox2 deskop client
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation): Stock options, RSUs, taxes — a guide for humans
+- [kythe](https://github.com/google/kythe): Kythe is a pluggable, (mostly) language-agnosti...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [hangups](https://github.com/tdryer/hangups): the first third-party instant messaging client ...
+- [charts](https://github.com/kubernetes/charts): Curated applications for Kubernetes
+- [stream-lib](https://github.com/addthis/stream-lib): Stream summarizer and cardinality estimator.
+- [mosql](https://github.com/stripe/mosql): MongoDB → PostgreSQL streaming replication
+- [rsolr](https://github.com/rsolr/rsolr): A Ruby client for Apache Solr

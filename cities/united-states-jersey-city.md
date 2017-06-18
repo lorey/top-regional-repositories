@@ -1,29 +1,29 @@
 # Popular Repositories in Jersey City
 
-These are the most-starred repositories from programmers based in Jersey City:
+These are the repositories with the highest ratio of stars from programmers based in Jersey City:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [sniper](https://github.com/v/sniper)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [CycleGAN](https://github.com/junyanz/CycleGAN)
-- [AR.js](https://github.com/jeromeetienne/AR.js)
-- [git-bump](https://github.com/tpope/git-bump)
-- [es6.io](https://github.com/wesbos/es6.io)
-- [express-winston](https://github.com/bithavoc/express-winston)
-- [reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million)
-- [python-fire](https://github.com/google/python-fire)
-- [Leapper](https://github.com/SaurabhPalaspagar/Leapper)
-- [FlaskRU](https://github.com/HackRU/FlaskRU)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [react-datasheet](https://github.com/nadbm/react-datasheet)
-- [kyt](https://github.com/NYTimes/kyt)
-- [techportfolio-template](https://github.com/RyanFitzgerald/techportfolio-template)
-- [reactxp](https://github.com/Microsoft/reactxp)
-- [Rutgers-University-Notes](https://github.com/PLJNS/Rutgers-University-Notes)
-- [Prebid.js](https://github.com/prebid/Prebid.js)
-- [mintapi](https://github.com/mrooney/mintapi)
-- [MetalAPI](https://github.com/T-G-P/MetalAPI)
-- [betrfs](https://github.com/oscarlab/betrfs)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [sniper](https://github.com/v/sniper): A web application that watches a class at Rutge...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [CycleGAN](https://github.com/junyanz/CycleGAN): Unpaired image-to-image translation for paintin...
+- [AR.js](https://github.com/jeromeetienne/AR.js): Efficient Augmented Reality for the Web using A...
+- [git-bump](https://github.com/tpope/git-bump): Create Git release commits and tags with change...
+- [es6.io](https://github.com/wesbos/es6.io): 🔥 Starter Files to Learn with ES6 for Everyone
+- [express-winston](https://github.com/bithavoc/express-winston): express.js middleware for winstonjs
+- [reddit-top-2.5-million](https://github.com/umbrae/reddit-top-2.5-million): This is a dataset of the all-time top 1,000 pos...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Leapper](https://github.com/SaurabhPalaspagar/Leapper): Simple browser extension using Leap Motion
+- [FlaskRU](https://github.com/HackRU/FlaskRU): HackRU Web App in Flask
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [react-datasheet](https://github.com/nadbm/react-datasheet): Excel-like data grid component for react
+- [kyt](https://github.com/NYTimes/kyt): Drowning in Webpack configs? Try this build, te...
+- [techportfolio-template](https://github.com/RyanFitzgerald/techportfolio-template): An easy-to-customize, single-page personal tech...
+- [reactxp](https://github.com/Microsoft/reactxp): Library for cross-platform app development.
+- [Rutgers-University-Notes](https://github.com/PLJNS/Rutgers-University-Notes): My undergraduate notes.
+- [Prebid.js](https://github.com/prebid/Prebid.js): Setup and manage header bidding advertising par...
+- [mintapi](https://github.com/mrooney/mintapi): a screen-scraping API for Mint.com
+- [MetalAPI](https://github.com/T-G-P/MetalAPI): Currently down, will be rebuldling from scratch...
+- [betrfs](https://github.com/oscarlab/betrfs): 

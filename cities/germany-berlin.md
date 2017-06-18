@@ -1,29 +1,29 @@
 # Popular Repositories in Berlin
 
-These are the most-starred repositories from programmers based in Berlin:
+These are the repositories with the highest ratio of stars from programmers based in Berlin:
 
-- [de_faq](https://github.com/ewgRa/de_faq)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [localstack](https://github.com/atlassian/localstack)
-- [ctop](https://github.com/bcicen/ctop)
-- [gesetze](https://github.com/bundestag/gesetze)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [zappr](https://github.com/zalando/zappr)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [guetzli](https://github.com/google/guetzli)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [tailor](https://github.com/zalando/tailor)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [berlinjs.org](https://github.com/berlinjs/berlinjs.org)
-- [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [skipper](https://github.com/zalando/skipper)
-- [postal](https://github.com/atech/postal)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source)
+- [de_faq](https://github.com/ewgRa/de_faq): Полезная информация о жизни в Германии
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [gesetze](https://github.com/bundestag/gesetze): Bundesgesetze und -verordnungen
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [zappr](https://github.com/zalando/zappr): An agent that enforces guidelines for your GitH...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [awesome-berlin](https://github.com/marlonbernardes/awesome-berlin): 🇩🇪 A guide aiming to help newcomers to have a s...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [guetzli](https://github.com/google/guetzli): 
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [tailor](https://github.com/zalando/tailor): A streaming layout service for front-end micros...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [berlinjs.org](https://github.com/berlinjs/berlinjs.org): The official BerlinJS website
+- [restful-api-guidelines](https://github.com/zalando/restful-api-guidelines): A model set of guidelines for RESTful APIs, cre...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [skipper](https://github.com/zalando/skipper): An HTTP router, built with Go, that acts as a r...
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [zalando-howto-open-source](https://github.com/zalando/zalando-howto-open-source): Open Source guidance from Zalando, Europe's lar...

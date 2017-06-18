@@ -1,29 +1,29 @@
 # Popular Repositories in South Africa
 
-These are the most-starred repositories from programmers based in South Africa:
+These are the repositories with the highest ratio of stars from programmers based in South Africa:
 
-- [nodecpt.github.com](https://github.com/NodeCPT/nodecpt.github.com)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [vumi](https://github.com/praekelt/vumi)
-- [guetzli](https://github.com/google/guetzli)
-- [HollingBerries](https://github.com/apauley/HollingBerries)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [2016-Bomberman](https://github.com/EntelectChallenge/2016-Bomberman)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [localstack](https://github.com/atlassian/localstack)
-- [reactide](https://github.com/reactide/reactide)
-- [gov-software-audit](https://github.com/adieyal/gov-software-audit)
-- [usql](https://github.com/knq/usql)
-- [cilib](https://github.com/cirg-up/cilib)
-- [lint-review](https://github.com/markstory/lint-review)
-- [ctop](https://github.com/bcicen/ctop)
-- [Meetups](https://github.com/CapeTownJUG/Meetups)
-- [SA-Maps](https://github.com/j-norwood-young/SA-Maps)
-- [ktdocumentindexer](https://github.com/ktgit/ktdocumentindexer)
-- [challenge_substring_search](https://github.com/hola/challenge_substring_search)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [v2](https://github.com/Staffjoy/v2)
-- [panya](https://github.com/praekelt/panya)
+- [nodecpt.github.com](https://github.com/NodeCPT/nodecpt.github.com): Meetup websites powered by GitHub Pages.
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [vumi](https://github.com/praekelt/vumi): Messaging engine for the delivery of SMS, Star ...
+- [guetzli](https://github.com/google/guetzli): 
+- [HollingBerries](https://github.com/apauley/HollingBerries): A fictional scenario implemented in multiple la...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [2016-Bomberman](https://github.com/EntelectChallenge/2016-Bomberman): This single repository includes the game engine...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [reactide](https://github.com/reactide/reactide): 
+- [gov-software-audit](https://github.com/adieyal/gov-software-audit): South African Government Software Audit
+- [usql](https://github.com/knq/usql): usql is a universal command-line interface for ...
+- [cilib](https://github.com/cirg-up/cilib): Typesafe, purely functional Computational Intel...
+- [lint-review](https://github.com/markstory/lint-review): An automated code linting bot that integrates v...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Meetups](https://github.com/CapeTownJUG/Meetups): Sharing slides and source from talks
+- [SA-Maps](https://github.com/j-norwood-young/SA-Maps): South African Shapefiles, GIS data and other us...
+- [ktdocumentindexer](https://github.com/ktgit/ktdocumentindexer): KnowledgeTree Document Indexer
+- [challenge_substring_search](https://github.com/hola/challenge_substring_search): The challenge: fastest possible substring searc...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [v2](https://github.com/Staffjoy/v2): Staffjoy V2 - all microservices in a monorepo
+- [panya](https://github.com/praekelt/panya): Panya base app.

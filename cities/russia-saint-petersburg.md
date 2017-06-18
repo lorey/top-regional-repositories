@@ -1,29 +1,29 @@
 # Popular Repositories in Saint Petersburg
 
-These are the most-starred repositories from programmers based in Saint Petersburg:
+These are the repositories with the highest ratio of stars from programmers based in Saint Petersburg:
 
-- [dictionary](https://github.com/web-standards-ru/dictionary)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [spb](https://github.com/nodeschool/spb)
-- [roskomnadzor](https://github.com/github/roskomnadzor)
-- [kphp-kdb](https://github.com/vk-com/kphp-kdb)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats)
-- [vvedenie-mashinnoe-obuchenie](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)
-- [kilogram](https://github.com/dudeonthehorse/kilogram)
-- [banks-db](https://github.com/ramoona/banks-db)
-- [yandex-tank](https://github.com/yandex/yandex-tank)
-- [mdash](https://github.com/emuravjev/mdash)
-- [antizapret](https://github.com/AntiZapret/antizapret)
-- [blockcheck](https://github.com/ValdikSS/blockcheck)
-- [russia-it-podcast](https://github.com/AveVlad/russia-it-podcast)
-- [makeup](https://github.com/2gis/makeup)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [yaspeller](https://github.com/hcodes/yaspeller)
-- [ClickHouse](https://github.com/yandex/ClickHouse)
-- [frontdesk](https://github.com/miripiruni/frontdesk)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
-- [pymorphy2](https://github.com/kmike/pymorphy2)
+- [dictionary](https://github.com/web-standards-ru/dictionary): Словарь терминов по фронтенду
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [spb](https://github.com/nodeschool/spb): :anchor: Saint Petersburg, Russia
+- [roskomnadzor](https://github.com/github/roskomnadzor): deprecated archive — moved to https://github.co...
+- [kphp-kdb](https://github.com/vk-com/kphp-kdb): VK-KittenPHP/DB/Engine suite
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats): This repo contains a list of various russian-sp...
+- [vvedenie-mashinnoe-obuchenie](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie): :memo: Подборка ресурсов по машинному обучению
+- [kilogram](https://github.com/dudeonthehorse/kilogram): Email Development Framework
+- [banks-db](https://github.com/ramoona/banks-db): Community driven database to get bank info (nam...
+- [yandex-tank](https://github.com/yandex/yandex-tank): Load and performance benchmark tool
+- [mdash](https://github.com/emuravjev/mdash): Muravjev Typograph 
+- [antizapret](https://github.com/AntiZapret/antizapret): Список IP-адресов гос-органов для блокировки их...
+- [blockcheck](https://github.com/ValdikSS/blockcheck): Russian ISP blocking type checker
+- [russia-it-podcast](https://github.com/AveVlad/russia-it-podcast): Список русскоязычных подкастов на тему информац...
+- [makeup](https://github.com/2gis/makeup): JavaScript tool for comfortable manual testing ...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [yaspeller](https://github.com/hcodes/yaspeller): Search tool typos in the text, files and websites
+- [ClickHouse](https://github.com/yandex/ClickHouse): ClickHouse is a free analytic DBMS for big data.
+- [frontdesk](https://github.com/miripiruni/frontdesk): Community driven list of useful things for Fron...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template): LaTeX-template for russian Phd thesis
+- [pymorphy2](https://github.com/kmike/pymorphy2): Morphological analyzer / inflection engine for ...

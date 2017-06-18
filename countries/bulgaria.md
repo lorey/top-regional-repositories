@@ -1,29 +1,29 @@
 # Popular Repositories in Bulgaria
 
-These are the most-starred repositories from programmers based in Bulgaria:
+These are the repositories with the highest ratio of stars from programmers based in Bulgaria:
 
-- [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc)
-- [MyTested.WebApi](https://github.com/ivaylokenov/MyTested.WebApi)
-- [OpenJudgeSystem](https://github.com/NikolayIT/OpenJudgeSystem)
-- [AspNet.Mvc.TypedRouting](https://github.com/ivaylokenov/AspNet.Mvc.TypedRouting)
-- [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template)
-- [doctest](https://github.com/onqtam/doctest)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [dancewithme](https://github.com/openmediabg/dancewithme)
-- [jump](https://github.com/gsamokovarov/jump)
-- [evans](https://github.com/skanev/evans)
-- [ASP.NET-MVC-Lambda-Expression-Helpers](https://github.com/ivaylokenov/ASP.NET-MVC-Lambda-Expression-Helpers)
-- [AspNetCore.Mvc.HttpActionResults](https://github.com/ivaylokenov/AspNetCore.Mvc.HttpActionResults)
-- [dynamix](https://github.com/iboB/dynamix)
-- [egov-requirements](https://github.com/governmentbg/egov-requirements)
-- [ShowcaseSystem](https://github.com/TelerikAcademy/ShowcaseSystem)
-- [Haskell-1](https://github.com/HackBulgaria/Haskell-1)
-- [opendata](https://github.com/governmentbg/opendata)
-- [ruby-retrospective-1](https://github.com/fmi/ruby-retrospective-1)
-- [Algo-1](https://github.com/HackBulgaria/Algo-1)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [proactjs](https://github.com/proactjs/proactjs)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [reactide](https://github.com/reactide/reactide)
-- [BgItJobsMarketShare](https://github.com/NikolayIT/BgItJobsMarketShare)
+- [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc): Fluent testing framework for ASP.NET Core MVC.
+- [MyTested.WebApi](https://github.com/ivaylokenov/MyTested.WebApi): Fluent testing framework for ASP.NET Web API 2.
+- [OpenJudgeSystem](https://github.com/NikolayIT/OpenJudgeSystem): An open source system for online algorithm comp...
+- [AspNet.Mvc.TypedRouting](https://github.com/ivaylokenov/AspNet.Mvc.TypedRouting): A collection of extension methods providing str...
+- [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template): A ready-to-use template for ASP.NET MVC with re...
+- [doctest](https://github.com/onqtam/doctest): The lightest feature-rich C++98/C++11 single-he...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [dancewithme](https://github.com/openmediabg/dancewithme): Приставка за браузър, показваща предупредителен...
+- [jump](https://github.com/gsamokovarov/jump): Jump helps you navigate your file system faster...
+- [evans](https://github.com/skanev/evans): The website of a bunch of courses in FMI
+- [ASP.NET-MVC-Lambda-Expression-Helpers](https://github.com/ivaylokenov/ASP.NET-MVC-Lambda-Expression-Helpers): A collection of extension methods providing str...
+- [AspNetCore.Mvc.HttpActionResults](https://github.com/ivaylokenov/AspNetCore.Mvc.HttpActionResults): A collection of HTTP status code action results...
+- [dynamix](https://github.com/iboB/dynamix): :fish_cake: A new take on polymorphism in C++
+- [egov-requirements](https://github.com/governmentbg/egov-requirements): Изисквания към интеграцията на системи в рамкит...
+- [ShowcaseSystem](https://github.com/TelerikAcademy/ShowcaseSystem): Showcase system for students projects in Teleri...
+- [Haskell-1](https://github.com/HackBulgaria/Haskell-1): Functional Programming with Haskell
+- [opendata](https://github.com/governmentbg/opendata): Събирателно хранилище за всички проекти, свърза...
+- [ruby-retrospective-1](https://github.com/fmi/ruby-retrospective-1): 
+- [Algo-1](https://github.com/HackBulgaria/Algo-1): The first edition of the algo course in Hack Bu...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [proactjs](https://github.com/proactjs/proactjs): Reactive JavaScript Object Properties
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [reactide](https://github.com/reactide/reactide): 
+- [BgItJobsMarketShare](https://github.com/NikolayIT/BgItJobsMarketShare): Bulgarian IT Jobs Technologies Market Share

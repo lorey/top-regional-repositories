@@ -1,29 +1,29 @@
 # Popular Repositories in Ireland
 
-These are the most-starred repositories from programmers based in Ireland:
+These are the repositories with the highest ratio of stars from programmers based in Ireland:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [dublinbus-api](https://github.com/jneill/dublinbus-api)
-- [localstack](https://github.com/atlassian/localstack)
-- [ked](https://github.com/adam-lynch/ked)
-- [reactide](https://github.com/reactide/reactide)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [ctop](https://github.com/bcicen/ctop)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [App-Anatomy](https://github.com/feedhenry-training/App-Anatomy)
-- [dublin_bikes](https://github.com/kjf/dublin_bikes)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [rubyjobs](https://github.com/GavinJoyce/rubyjobs)
-- [algorithms](https://github.com/keon/algorithms)
-- [nscale](https://github.com/nearform/nscale)
-- [upspin](https://github.com/upspin/upspin)
-- [faas](https://github.com/alexellis/faas)
-- [dublinjs.github.com](https://github.com/dublinjs/dublinjs.github.com)
-- [cp-zen-platform](https://github.com/CoderDojo/cp-zen-platform)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [community-platform](https://github.com/CoderDojo/community-platform)
-- [postal](https://github.com/atech/postal)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [dublinbus-api](https://github.com/jneill/dublinbus-api): Dublin Bus Real Time API
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ked](https://github.com/adam-lynch/ked): The first Corkonian scripting language
+- [reactide](https://github.com/reactide/reactide): 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [App-Anatomy](https://github.com/feedhenry-training/App-Anatomy): Tutorial - App Anatomy
+- [dublin_bikes](https://github.com/kjf/dublin_bikes): 
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [rubyjobs](https://github.com/GavinJoyce/rubyjobs): NOTICE: This project has moved to https://githu...
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [nscale](https://github.com/nearform/nscale): Deployment just got easy
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [faas](https://github.com/alexellis/faas): Functions as a Service (on Docker Swarm)
+- [dublinjs.github.com](https://github.com/dublinjs/dublinjs.github.com): Dublin Javascript
+- [cp-zen-platform](https://github.com/CoderDojo/cp-zen-platform): This is the frontend repository of the CoderDoj...
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [community-platform](https://github.com/CoderDojo/community-platform): Zen, the CoderDojo Community Platform!
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...

@@ -1,29 +1,29 @@
 # Popular Repositories in San Francisco
 
-These are the most-starred repositories from programmers based in San Francisco:
+These are the repositories with the highest ratio of stars from programmers based in San Francisco:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [localstack](https://github.com/atlassian/localstack)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [ctop](https://github.com/bcicen/ctop)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [python-fire](https://github.com/google/python-fire)
-- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation)
-- [reactide](https://github.com/reactide/reactide)
-- [prepack](https://github.com/facebook/prepack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [upspin](https://github.com/upspin/upspin)
-- [guetzli](https://github.com/google/guetzli)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [react-sketchapp](https://github.com/airbnb/react-sketchapp)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [NakedTensor](https://github.com/jostmey/NakedTensor)
-- [handbook](https://github.com/clef/handbook)
-- [rendr](https://github.com/rendrjs/rendr)
-- [jquery.serializeJSON](https://github.com/marioizquierdo/jquery.serializeJSON)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation): Stock options, RSUs, taxes — a guide for humans
+- [reactide](https://github.com/reactide/reactide): 
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [guetzli](https://github.com/google/guetzli): 
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [react-sketchapp](https://github.com/airbnb/react-sketchapp): render React components to Sketch ⚛️💎
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [NakedTensor](https://github.com/jostmey/NakedTensor): Bare bottom simplest example of machine learnin...
+- [handbook](https://github.com/clef/handbook): An employee handbook built for inclusion
+- [rendr](https://github.com/rendrjs/rendr): Render your Backbone.js apps on the client and ...
+- [jquery.serializeJSON](https://github.com/marioizquierdo/jquery.serializeJSON): Serialize an HTML Form to a JavaScript Object, ...

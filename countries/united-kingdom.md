@@ -1,29 +1,29 @@
 # Popular Repositories in United Kingdom
 
-These are the most-starred repositories from programmers based in United Kingdom:
+These are the repositories with the highest ratio of stars from programmers based in United Kingdom:
 
-- [localstack](https://github.com/atlassian/localstack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [reactide](https://github.com/reactide/reactide)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [python-fire](https://github.com/google/python-fire)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer)
-- [guetzli](https://github.com/google/guetzli)
-- [polished](https://github.com/styled-components/polished)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [awesome-monzo](https://github.com/rdingwall/awesome-monzo)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [frontend](https://github.com/guardian/frontend)
-- [spammy-recruiters](https://github.com/drcongo/spammy-recruiters)
-- [react-loadable](https://github.com/thejameskyle/react-loadable)
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk): A step by step guide of how to start contractin...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [reactide](https://github.com/reactide/reactide): 
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io): UK Postcode API serving up Open Data
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer): A utility for downloading TV and radio from BBC...
+- [guetzli](https://github.com/google/guetzli): 
+- [polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in Jav...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [awesome-monzo](https://github.com/rdingwall/awesome-monzo): A curated list of awesome Monzo related things
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [frontend](https://github.com/guardian/frontend): Source for theguardian.com
+- [spammy-recruiters](https://github.com/drcongo/spammy-recruiters): A list of UK recruitment companies who have a t...
+- [react-loadable](https://github.com/thejameskyle/react-loadable): A higher order component for loading components...

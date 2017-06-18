@@ -1,29 +1,29 @@
 # Popular Repositories in Guernsey
 
-These are the most-starred repositories from programmers based in Guernsey:
+These are the repositories with the highest ratio of stars from programmers based in Guernsey:
 
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer)
-- [localstack](https://github.com/atlassian/localstack)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io)
-- [guetzli](https://github.com/google/guetzli)
-- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ctop](https://github.com/bcicen/ctop)
-- [better-exceptions](https://github.com/Qix-/better-exceptions)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [CorsixTH](https://github.com/CorsixTH/CorsixTH)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [rpi-update](https://github.com/Hexxeh/rpi-update)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [python-fire](https://github.com/google/python-fire)
-- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [firmware](https://github.com/raspberrypi/firmware)
-- [wraith](https://github.com/BBC-News/wraith)
-- [Imager.js](https://github.com/BBC-News/Imager.js)
-- [realworld](https://github.com/gothinkster/realworld)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [mythtv](https://github.com/MythTV/mythtv)
-- [get_iplayer](https://github.com/jjl/get_iplayer)
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer): A utility for downloading TV and radio from BBC...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [postcodes.io](https://github.com/ideal-postcodes/postcodes.io): UK Postcode API serving up Open Data
+- [guetzli](https://github.com/google/guetzli): 
+- [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk): A step by step guide of how to start contractin...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [better-exceptions](https://github.com/Qix-/better-exceptions): Pretty and useful exceptions in Python, automat...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [CorsixTH](https://github.com/CorsixTH/CorsixTH): Open source clone of Theme Hospital
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [rpi-update](https://github.com/Hexxeh/rpi-update): An easier way to update the firmware of your Ra...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup): Compiled list of links from "Ask HN: Where can ...
+- [firmware](https://github.com/raspberrypi/firmware): This repository contains pre-compiled binaries ...
+- [wraith](https://github.com/BBC-News/wraith): Wraith — A responsive screenshot comparison tool
+- [Imager.js](https://github.com/BBC-News/Imager.js): Responsive images while we wait for srcset to f...
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [mythtv](https://github.com/MythTV/mythtv): The official MythTV repository
+- [get_iplayer](https://github.com/jjl/get_iplayer): A utility for grabbing tv and radio from BBC iP...

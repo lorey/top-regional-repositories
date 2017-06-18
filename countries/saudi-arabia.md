@@ -1,29 +1,29 @@
 # Popular Repositories in Saudi Arabia
 
-These are the most-starred repositories from programmers based in Saudi Arabia:
+These are the repositories with the highest ratio of stars from programmers based in Saudi Arabia:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl)
-- [ar-espeak](https://github.com/arabic-tools/ar-espeak)
-- [muharir](https://github.com/01walid/muharir)
-- [Saudi_GIS_Data](https://github.com/usefksa/Saudi_GIS_Data)
-- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)
-- [ummalqura-calendar](https://github.com/msarhan/ummalqura-calendar)
-- [arramooz](https://github.com/linuxscout/arramooz)
-- [MediaPicker](https://github.com/alhazmy13/MediaPicker)
-- [bidiweb](https://github.com/hasenj/bidiweb)
-- [python-arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper)
-- [manshar](https://github.com/manshar/manshar)
-- [quran_android](https://github.com/quran/quran_android)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [gravity](https://github.com/marcobambini/gravity)
-- [bootstrap-rtl](https://github.com/hossamzee/bootstrap-rtl)
-- [laravel-onesignal](https://github.com/moathdev/laravel-onesignal)
-- [MediaGallery](https://github.com/alhazmy13/MediaGallery)
-- [python-hijiri-ummalqura](https://github.com/tytkal/python-hijiri-ummalqura)
-- [gdbgui](https://github.com/cs01/gdbgui)
-- [ArabicNLP](https://github.com/SemanticFrontiers/ArabicNLP)
-- [yaraspell](https://github.com/linuxscout/yaraspell)
-- [arabicString](https://github.com/ahmads/arabicString)
-- [kawkab-mono](https://github.com/aiaf/kawkab-mono)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl): RTL Theme for Bootstrap v3.x
+- [ar-espeak](https://github.com/arabic-tools/ar-espeak): Opensource/free  Arabic text to speach solution
+- [muharir](https://github.com/01walid/muharir): A simple Markdown editor for RTL languages. 
+- [Saudi_GIS_Data](https://github.com/usefksa/Saudi_GIS_Data): Database for Saudi cities and districts with lo...
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker): UmAlQura Date Picker
+- [ummalqura-calendar](https://github.com/msarhan/ummalqura-calendar): Implementation of java.util.Calendar for the Um...
+- [arramooz](https://github.com/linuxscout/arramooz): Arabic Dictionary for Morphological analysis
+- [MediaPicker](https://github.com/alhazmy13/MediaPicker): Media Picker is an Android Libary that lets you...
+- [bidiweb](https://github.com/hasenj/bidiweb): Determine the base direction of paragraphs and ...
+- [python-arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper): Reconstruct Arabic sentences to be used in appl...
+- [manshar](https://github.com/manshar/manshar): Arabic social publishing platform — منصة نشر مخ...
+- [quran_android](https://github.com/quran/quran_android): a quran reading application for android
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [bootstrap-rtl](https://github.com/hossamzee/bootstrap-rtl): Additional files for converting any theme of Bo...
+- [laravel-onesignal](https://github.com/moathdev/laravel-onesignal): A Onesignal package for Laravel 5.2 or higher
+- [MediaGallery](https://github.com/alhazmy13/MediaGallery): Android image slideshow with circular scrolling...
+- [python-hijiri-ummalqura](https://github.com/tytkal/python-hijiri-ummalqura): 
+- [gdbgui](https://github.com/cs01/gdbgui): A modern, browser-based frontend to gdb (gnu de...
+- [ArabicNLP](https://github.com/SemanticFrontiers/ArabicNLP): Collection of various Arabic NLP and Text Proce...
+- [yaraspell](https://github.com/linuxscout/yaraspell): YaraSpell is an simplified arabic spell checker 
+- [arabicString](https://github.com/ahmads/arabicString): A Javascript library that extends the native St...
+- [kawkab-mono](https://github.com/aiaf/kawkab-mono): Kawkab Mono (كوكب مونو) is a monospaced Arabic ...

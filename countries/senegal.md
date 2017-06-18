@@ -1,29 +1,29 @@
 # Popular Repositories in Senegal
 
-These are the most-starred repositories from programmers based in Senegal:
+These are the repositories with the highest ratio of stars from programmers based in Senegal:
 
-- [MKiCloudSync](https://github.com/MugunthKumar/MKiCloudSync)
-- [seyren](https://github.com/scobal/seyren)
-- [Battle-Analyzer](https://github.com/Zykenhouzen/Battle-Analyzer)
-- [pyflakes](https://github.com/mcallaway/pyflakes)
-- [MadnessBlog](https://github.com/MadnessLabs/MadnessBlog)
-- [amatch](https://github.com/patmcnally/amatch)
-- [LeagueCoordinator](https://github.com/DrewWeth/LeagueCoordinator)
-- [HTMLPurifierBundle](https://github.com/Nemesisprime/HTMLPurifierBundle)
-- [letsPlay](https://github.com/theTechnoWeenie/letsPlay)
-- [activerecord-activesalesforce-adapter](https://github.com/patmcnally/activerecord-activesalesforce-adapter)
-- [Threadi](https://github.com/elcash/Threadi)
-- [jquery-datatables-rails](https://github.com/mcallaway/jquery-datatables-rails)
-- [CardFlasher](https://github.com/pluspluslb/CardFlasher)
-- [MizzouMail](https://github.com/DrewWeth/MizzouMail)
-- [node.dbslayer.js](https://github.com/patmcnally/node.dbslayer.js)
-- [EnglishDictionary](https://github.com/Eric-Gaudiello/EnglishDictionary)
-- [snipmate.vim](https://github.com/markshiz/snipmate.vim)
-- [vagrant](https://github.com/mcallaway/vagrant)
-- [How-EE-Works](https://github.com/rsanchez/How-EE-Works)
-- [JS-Speed-Reader](https://github.com/DrewWeth/JS-Speed-Reader)
-- [Game](https://github.com/DrewWeth/Game)
-- [Leaflet.zoomslider](https://github.com/Nemesisprime/Leaflet.zoomslider)
-- [ChamberOfCommerceScraper](https://github.com/DrewWeth/ChamberOfCommerceScraper)
-- [Stratagem](https://github.com/DominanceFrontier/Stratagem)
-- [keytool-iui](https://github.com/ebourg/keytool-iui)
+- [MKiCloudSync](https://github.com/MugunthKumar/MKiCloudSync): Sync your NSUserDefaults to iCloud automatically
+- [seyren](https://github.com/scobal/seyren): An alerting dashboard for Graphite
+- [Battle-Analyzer](https://github.com/Zykenhouzen/Battle-Analyzer): This is the beginning of a library for use in a...
+- [pyflakes](https://github.com/mcallaway/pyflakes): a faster smurfier pyflakes fork using _ast inst...
+- [MadnessBlog](https://github.com/MadnessLabs/MadnessBlog): A boilerplate angular application based on our ...
+- [amatch](https://github.com/patmcnally/amatch): Approximate String Matching library
+- [LeagueCoordinator](https://github.com/DrewWeth/LeagueCoordinator): LeagueCoordinator
+- [HTMLPurifierBundle](https://github.com/Nemesisprime/HTMLPurifierBundle): HTML Purifier is a standards-compliant    HTML ...
+- [letsPlay](https://github.com/theTechnoWeenie/letsPlay): 
+- [activerecord-activesalesforce-adapter](https://github.com/patmcnally/activerecord-activesalesforce-adapter): An ActiveRecord adapter for the Salesforce.com API
+- [Threadi](https://github.com/elcash/Threadi): 
+- [jquery-datatables-rails](https://github.com/mcallaway/jquery-datatables-rails): jquery-datatables gem for rails
+- [CardFlasher](https://github.com/pluspluslb/CardFlasher): Flashcard App for Android
+- [MizzouMail](https://github.com/DrewWeth/MizzouMail): MizzouMail bulk form submitter
+- [node.dbslayer.js](https://github.com/patmcnally/node.dbslayer.js): DBSlayer (MySQL) support for Node.JS
+- [EnglishDictionary](https://github.com/Eric-Gaudiello/EnglishDictionary): Trie that is auto-loaded to hold all the words ...
+- [snipmate.vim](https://github.com/markshiz/snipmate.vim): snipMate.vim aims to be a concise vim script th...
+- [vagrant](https://github.com/mcallaway/vagrant): Vagrant is a tool for building and distributing...
+- [How-EE-Works](https://github.com/rsanchez/How-EE-Works): A brief explanation of How Expression Engine Wo...
+- [JS-Speed-Reader](https://github.com/DrewWeth/JS-Speed-Reader): Speed Reading Program (Javascript)
+- [Game](https://github.com/DrewWeth/Game): 
+- [Leaflet.zoomslider](https://github.com/Nemesisprime/Leaflet.zoomslider): A zoom slider widget for leaflet
+- [ChamberOfCommerceScraper](https://github.com/DrewWeth/ChamberOfCommerceScraper): 
+- [Stratagem](https://github.com/DominanceFrontier/Stratagem): Web-based Strategy Game Portal featuring Skynet
+- [keytool-iui](https://github.com/ebourg/keytool-iui): Automatically exported from code.google.com/p/k...

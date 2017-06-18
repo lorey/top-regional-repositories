@@ -1,29 +1,29 @@
 # Popular Repositories in United Arab Emirates
 
-These are the most-starred repositories from programmers based in United Arab Emirates:
+These are the repositories with the highest ratio of stars from programmers based in United Arab Emirates:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [localstack](https://github.com/atlassian/localstack)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [interviews](https://github.com/odino/interviews)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [python-fire](https://github.com/google/python-fire)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Auth-Boss](https://github.com/teesloane/Auth-Boss)
-- [touchy](https://github.com/odino/touchy)
-- [usql](https://github.com/knq/usql)
-- [algorithms](https://github.com/keon/algorithms)
-- [httplab](https://github.com/gchaincl/httplab)
-- [mockserver](https://github.com/namshi/mockserver)
-- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [quran.com-frontend](https://github.com/quran/quran.com-frontend)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [inspircd](https://github.com/inspircd/inspircd)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [interviews](https://github.com/odino/interviews): Random questions to ask during interviews.
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different auth...
+- [touchy](https://github.com/odino/touchy): Remote controlling your keyboard since 2016.
+- [usql](https://github.com/knq/usql): usql is a universal command-line interface for ...
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [httplab](https://github.com/gchaincl/httplab): An interactive web server
+- [mockserver](https://github.com/namshi/mockserver): Mock your backends in a matter of seconds. HTTP...
+- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university): 
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugin...
+- [Gutenberg](https://github.com/BafS/Gutenberg): Modern framework to print correctly. 
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [quran.com-frontend](https://github.com/quran/quran.com-frontend): quran.com frontend
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [inspircd](https://github.com/inspircd/inspircd): A modular C++ IRC daemon (ircd).

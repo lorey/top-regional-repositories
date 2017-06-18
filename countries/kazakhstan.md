@@ -1,29 +1,29 @@
 # Popular Repositories in Kazakhstan
 
-These are the most-starred repositories from programmers based in Kazakhstan:
+These are the repositories with the highest ratio of stars from programmers based in Kazakhstan:
 
-- [anvilabs.co](https://github.com/anvilabs/anvilabs.co)
-- [svg-logos](https://github.com/frontendkz/svg-logos)
-- [filmstrip-web](https://github.com/yenbekbay/filmstrip-web)
-- [HabraPack](https://github.com/Incwadra/HabraPack)
-- [filmstrip-api](https://github.com/yenbekbay/filmstrip-api)
-- [mudl](https://github.com/yenbekbay/mudl)
-- [relocating-to-berlin](https://github.com/azproduction/relocating-to-berlin)
-- [kazsid](https://github.com/crayxt/kazsid)
-- [metio](https://github.com/anvilabs/metio)
-- [generator-app-website](https://github.com/anvilabs/generator-app-website)
-- [sozdik-bot](https://github.com/anvilabs/sozdik-bot)
-- [movie-api](https://github.com/anvilabs/movie-api)
-- [telegram-list](https://github.com/goq/telegram-list)
-- [social-likes](https://github.com/sapegin/social-likes)
-- [hexlet-slack-archive](https://github.com/Hexlet/hexlet-slack-archive)
-- [PickMeUp](https://github.com/nazar-pc/PickMeUp)
-- [angular-yandex-map](https://github.com/tulov/angular-yandex-map)
-- [frontenders](https://github.com/talgautb/frontenders)
-- [guide](https://github.com/odeskconf/guide)
-- [russia-it-podcast](https://github.com/AveVlad/russia-it-podcast)
-- [yii2-cookbook](https://github.com/samdark/yii2-cookbook)
-- [yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets)
-- [parallax](https://github.com/htdt/parallax)
-- [ctop](https://github.com/bcicen/ctop)
-- [go-multiproxy](https://github.com/iborodikhin/go-multiproxy)
+- [anvilabs.co](https://github.com/anvilabs/anvilabs.co): 🔥 Website for @anvilabs
+- [svg-logos](https://github.com/frontendkz/svg-logos): SVG logos of Kazakhstani companies
+- [filmstrip-web](https://github.com/yenbekbay/filmstrip-web): The client-side app for Filmstrip
+- [HabraPack](https://github.com/Incwadra/HabraPack): social icons from habrahabr community
+- [filmstrip-api](https://github.com/yenbekbay/filmstrip-api): The backend for Filmstrip
+- [mudl](https://github.com/yenbekbay/mudl): :musical_note: A cli tool for downloading music...
+- [relocating-to-berlin](https://github.com/azproduction/relocating-to-berlin): Q&A about relocating to Berlin, Germany
+- [kazsid](https://github.com/crayxt/kazsid): Debian sid-based LiveCD, with Kazakh language.
+- [metio](https://github.com/anvilabs/metio): iOS app that displays your local weather in a s...
+- [generator-app-website](https://github.com/anvilabs/generator-app-website): Generator for an iOS or Android app website
+- [sozdik-bot](https://github.com/anvilabs/sozdik-bot): 🇰🇿🇷🇺 Telegram and Messenger bot for Sozdik, a R...
+- [movie-api](https://github.com/anvilabs/movie-api): 🎬 Get info for movies and TV shows
+- [telegram-list](https://github.com/goq/telegram-list): List of telegram groups, channels & bots // Спи...
+- [social-likes](https://github.com/sapegin/social-likes): Beautiful social “like” buttons with counters f...
+- [hexlet-slack-archive](https://github.com/Hexlet/hexlet-slack-archive): Архивы хороших бесед из Слака Хекслета
+- [PickMeUp](https://github.com/nazar-pc/PickMeUp): Really simple, powerful, customizable and light...
+- [angular-yandex-map](https://github.com/tulov/angular-yandex-map): AngularJS directive to work with Yandex maps
+- [frontenders](https://github.com/talgautb/frontenders): List of awesome frontenders
+- [guide](https://github.com/odeskconf/guide): Гайд сообщества OdeskConf о тонкостях работы на...
+- [russia-it-podcast](https://github.com/AveVlad/russia-it-podcast): Список русскоязычных подкастов на тему информац...
+- [yii2-cookbook](https://github.com/samdark/yii2-cookbook): Yii 2.0 Community Cookbook
+- [yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets): The nested sets behavior for the Yii framework.
+- [parallax](https://github.com/htdt/parallax): Hot Dot JavaScript Parallax Engine
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [go-multiproxy](https://github.com/iborodikhin/go-multiproxy): Proxy for duplicating requests to multiple back...

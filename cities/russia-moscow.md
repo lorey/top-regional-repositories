@@ -1,29 +1,29 @@
 # Popular Repositories in Moscow
 
-These are the most-starred repositories from programmers based in Moscow:
+These are the repositories with the highest ratio of stars from programmers based in Moscow:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [yandex-tank](https://github.com/yandex/yandex-tank)
-- [ClickHouse](https://github.com/yandex/ClickHouse)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [tarantool](https://github.com/tarantool/tarantool)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [pymorphy2](https://github.com/kmike/pymorphy2)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [ctop](https://github.com/bcicen/ctop)
-- [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template)
-- [russian](https://github.com/yaroslav/russian)
-- [postgresql_book](https://github.com/le0pard/postgresql_book)
-- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats)
-- [ml-course-msu](https://github.com/esokolov/ml-course-msu)
-- [yate](https://github.com/pasaran/yate)
-- [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
-- [largescaleJS_ru](https://github.com/A/largescaleJS_ru)
-- [social-likes](https://github.com/sapegin/social-likes)
-- [python-fire](https://github.com/google/python-fire)
-- [antizapret](https://github.com/AntiZapret/antizapret)
-- [reactide](https://github.com/reactide/reactide)
-- [TroikaDumper](https://github.com/gshevtsov/TroikaDumper)
-- [mdash](https://github.com/emuravjev/mdash)
-- [yaspeller](https://github.com/hcodes/yaspeller)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [yandex-tank](https://github.com/yandex/yandex-tank): Load and performance benchmark tool
+- [ClickHouse](https://github.com/yandex/ClickHouse): ClickHouse is a free analytic DBMS for big data.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [tarantool](https://github.com/tarantool/tarantool): Get your data in RAM. Get compute close to data...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [pymorphy2](https://github.com/kmike/pymorphy2): Morphological analyzer / inflection engine for ...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template): LaTeX-template for russian Phd thesis
+- [russian](https://github.com/yaroslav/russian): Russian language support for Ruby and Rails | П...
+- [postgresql_book](https://github.com/le0pard/postgresql_book): Book about PostgreSQL (russian)
+- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats): This repo contains a list of various russian-sp...
+- [ml-course-msu](https://github.com/esokolov/ml-course-msu): Lecture notes and code for Machine Learning pra...
+- [yate](https://github.com/pasaran/yate): Yet Another Template Engine
+- [Practical_RL](https://github.com/yandexdataschool/Practical_RL): A course in reinforcement learning in the wild
+- [largescaleJS_ru](https://github.com/A/largescaleJS_ru): Russian translation of Addy Osmani book.
+- [social-likes](https://github.com/sapegin/social-likes): Beautiful social “like” buttons with counters f...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [antizapret](https://github.com/AntiZapret/antizapret): Список IP-адресов гос-органов для блокировки их...
+- [reactide](https://github.com/reactide/reactide): 
+- [TroikaDumper](https://github.com/gshevtsov/TroikaDumper): Дампер и парсер памяти карты Тройка
+- [mdash](https://github.com/emuravjev/mdash): Muravjev Typograph 
+- [yaspeller](https://github.com/hcodes/yaspeller): Search tool typos in the text, files and websites

@@ -1,29 +1,29 @@
 # Popular Repositories in Chile
 
-These are the most-starred repositories from programmers based in Chile:
+These are the repositories with the highest ratio of stars from programmers based in Chile:
 
-- [guia-webpay](https://github.com/clsource/guia-webpay)
-- [listado-apis-publicas-en-chile](https://github.com/juanbrujo/listado-apis-publicas-en-chile)
-- [bdcut-cl](https://github.com/knxroot/bdcut-cl)
-- [tbk](https://github.com/sagmor/tbk)
-- [sii_chile](https://github.com/sagmor/sii_chile)
-- [libredte-lib](https://github.com/LibreDTE/libredte-lib)
-- [santiago](https://github.com/beerjs/santiago)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [angular-rut](https://github.com/platanus/angular-rut)
-- [preguntas-y-respuestas-entrevistas-frontend](https://github.com/fforres/preguntas-y-respuestas-entrevistas-frontend)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [servel](https://github.com/jpalma-espinosa/servel)
-- [DTE](https://github.com/niclabs/DTE)
-- [pudu-bot](https://github.com/hashtagchile/pudu-bot)
-- [npm-chile](https://github.com/YerkoPalma/npm-chile)
-- [django-chile-payments](https://github.com/Nomadblue/django-chile-payments)
-- [pincers](https://github.com/platanus/pincers)
-- [huemul](https://github.com/devschile/huemul)
-- [angular-restmod](https://github.com/platanus/angular-restmod)
-- [puntopagos-ruby](https://github.com/acidlabs/puntopagos-ruby)
-- [datagramas](https://github.com/carnby/datagramas)
-- [tbk](https://github.com/pedroburon/tbk)
-- [jquery.rut](https://github.com/pablomarambio/jquery.rut)
-- [LogosFCFM](https://github.com/mmattamala/LogosFCFM)
-- [activeadmin_addons](https://github.com/platanus/activeadmin_addons)
+- [guia-webpay](https://github.com/clsource/guia-webpay): Guía para configurar el sistema de pagos Webpay...
+- [listado-apis-publicas-en-chile](https://github.com/juanbrujo/listado-apis-publicas-en-chile): Listado de API's Públicas para distintos tipos ...
+- [bdcut-cl](https://github.com/knxroot/bdcut-cl): Códigos (Región, Provincia, Comuna) Chile
+- [tbk](https://github.com/sagmor/tbk): Ruby implementation of Transbank's Webpay protocol
+- [sii_chile](https://github.com/sagmor/sii_chile): 
+- [libredte-lib](https://github.com/LibreDTE/libredte-lib): Biblioteca PHP para facturación electrónica en ...
+- [santiago](https://github.com/beerjs/santiago): Santiago, Chile
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [angular-rut](https://github.com/platanus/angular-rut): 
+- [preguntas-y-respuestas-entrevistas-frontend](https://github.com/fforres/preguntas-y-respuestas-entrevistas-frontend): Un listado de preguntas y respuestas que hemos ...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [servel](https://github.com/jpalma-espinosa/servel): Servel y su privacidad de datos
+- [DTE](https://github.com/niclabs/DTE): [ATENCIÓN: A partir del 1º Enero 2017 ya no rea...
+- [pudu-bot](https://github.com/hashtagchile/pudu-bot): :fist: Bot para http://hashtagchile.co
+- [npm-chile](https://github.com/YerkoPalma/npm-chile): :moyai: Librerias de utilidad para servicios ex...
+- [django-chile-payments](https://github.com/Nomadblue/django-chile-payments): Online payments, "the chilean way"
+- [pincers](https://github.com/platanus/pincers): Web automation DSL on top of webdriver (and nok...
+- [huemul](https://github.com/devschile/huemul): :sparkles: Hubot para devsChile
+- [angular-restmod](https://github.com/platanus/angular-restmod): Rails inspired REST-API ORM for Angular
+- [puntopagos-ruby](https://github.com/acidlabs/puntopagos-ruby): Wrapper for PuntoPagos API 
+- [datagramas](https://github.com/carnby/datagramas): datagramas - view and scaffold d3.js visualizat...
+- [tbk](https://github.com/pedroburon/tbk): Python implementation of Transbank's Webpay pro...
+- [jquery.rut](https://github.com/pablomarambio/jquery.rut): Formato y validación de RUT Chileno  /  jQuery ...
+- [LogosFCFM](https://github.com/mmattamala/LogosFCFM): Logos de la Facultad de Ciencias Físicas y Mate...
+- [activeadmin_addons](https://github.com/platanus/activeadmin_addons): Extends ActiveAdmin to enable a set of great op...

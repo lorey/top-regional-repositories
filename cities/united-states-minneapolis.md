@@ -1,29 +1,29 @@
 # Popular Repositories in Minneapolis
 
-These are the most-starred repositories from programmers based in Minneapolis:
+These are the repositories with the highest ratio of stars from programmers based in Minneapolis:
 
-- [html-css-standards](https://github.com/thenerdery/html-css-standards)
-- [localstack](https://github.com/atlassian/localstack)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [mockyeah](https://github.com/ryanricard/mockyeah)
-- [sessionizer](https://github.com/minnestar/sessionizer)
-- [python-devicecloud](https://github.com/digidotcom/python-devicecloud)
-- [ratpack](https://github.com/ratpack/ratpack)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [omgtransit](https://github.com/omgtransit/omgtransit)
-- [sign_server](https://github.com/dmiddlecamp/sign_server)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [grails-core](https://github.com/grails/grails-core)
-- [siesta](https://github.com/bustoutsolutions/siesta)
-- [AngularAgility](https://github.com/AngularAgility/AngularAgility)
-- [ruby.mn-website](https://github.com/rubymn/ruby.mn-website)
-- [RealTimeWeb-HOL](https://github.com/dwcares/RealTimeWeb-HOL)
-- [dug](https://github.com/chrisarcand/dug)
-- [javascript-standards](https://github.com/thenerdery/javascript-standards)
-- [api-playground](https://github.com/BestBuy/api-playground)
-- [groundcontrol](https://github.com/jondot/groundcontrol)
-- [grails-redis](https://github.com/grails-plugins/grails-redis)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [reactide](https://github.com/reactide/reactide)
-- [hubot](https://github.com/jcardinal/hubot)
+- [html-css-standards](https://github.com/thenerdery/html-css-standards): The Nerdery's front-end coding standards and me...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [mockyeah](https://github.com/ryanricard/mockyeah): A powerful service mocking, recording, and play...
+- [sessionizer](https://github.com/minnestar/sessionizer): Conference session management application
+- [python-devicecloud](https://github.com/digidotcom/python-devicecloud): Python client library for the Digi Device Cloud...
+- [ratpack](https://github.com/ratpack/ratpack): Lean & powerful HTTP apps
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [omgtransit](https://github.com/omgtransit/omgtransit): A realtime transit application that gets you fr...
+- [sign_server](https://github.com/dmiddlecamp/sign_server): 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [grails-core](https://github.com/grails/grails-core): The Grails Web Application Framework
+- [siesta](https://github.com/bustoutsolutions/siesta): The civilized way to write REST API clients for...
+- [AngularAgility](https://github.com/AngularAgility/AngularAgility): A set of useful Angular.js extensions implement...
+- [ruby.mn-website](https://github.com/rubymn/ruby.mn-website): Source for http://ruby.mn
+- [RealTimeWeb-HOL](https://github.com/dwcares/RealTimeWeb-HOL): Build your own multiplayer chess game using Soc...
+- [dug](https://github.com/chrisarcand/dug): [D]amn yo[u], [G]mail! Easily organize your Git...
+- [javascript-standards](https://github.com/thenerdery/javascript-standards): JavaScript Style Guide
+- [api-playground](https://github.com/BestBuy/api-playground): The Best Buy API Playground is an API training ...
+- [groundcontrol](https://github.com/jondot/groundcontrol): Manage and monitor your Raspberry Pi with ease
+- [grails-redis](https://github.com/grails-plugins/grails-redis): Base redis plugin for Grails
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [reactide](https://github.com/reactide/reactide): 
+- [hubot](https://github.com/jcardinal/hubot): Hubot for For the Horde Slack instance

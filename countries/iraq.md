@@ -1,29 +1,29 @@
 # Popular Repositories in Iraq
 
-These are the most-starred repositories from programmers based in Iraq:
+These are the repositories with the highest ratio of stars from programmers based in Iraq:
 
-- [PiTrol](https://github.com/Lamassau/PiTrol)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Transition](https://github.com/Touchwonders/Transition)
-- [dom-to-image](https://github.com/tsayen/dom-to-image)
-- [laravel-langman](https://github.com/themsaid/laravel-langman)
-- [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
-- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade)
-- [Consool](https://github.com/AlhasanIQ/Consool)
-- [hugo-phlat-theme-rtl](https://github.com/emzi/hugo-phlat-theme-rtl)
-- [Swift-YouTube-Player](https://github.com/NBoymanns/Swift-YouTube-Player)
-- [bpopup](https://github.com/mustafa96m/bpopup)
-- [learn-nodejs](https://github.com/tinydew4/learn-nodejs)
-- [Client](https://github.com/saiber/Client)
-- [Square](https://github.com/MathiasSeguy-Android2EE/Square)
-- [FXBlurView](https://github.com/mustafa96m/FXBlurView)
-- [Snail-Kotlin](https://github.com/UrbanCompass/Snail-Kotlin)
-- [DragMeDown](https://github.com/vikdenic/DragMeDown)
-- [Cappuchino](https://github.com/ishikota/Cappuchino)
-- [user-story-best-practice](https://github.com/prnewswire-ux/user-story-best-practice)
-- [learning-nodeJs](https://github.com/bhaumikpanchal/learning-nodeJs)
-- [SMGenerator](https://github.com/DevZaid/SMGenerator)
-- [GestureImageView](https://github.com/kavmors/GestureImageView)
-- [node-RESTful-api](https://github.com/stvnrlnd/node-RESTful-api)
-- [file2var](https://github.com/aminbros/file2var)
-- [wallPaper](https://github.com/Mark-SS/wallPaper)
+- [PiTrol](https://github.com/Lamassau/PiTrol): Raspberry Pi Web Controller
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Transition](https://github.com/Touchwonders/Transition): Easy interactive interruptible custom ViewContr...
+- [dom-to-image](https://github.com/tsayen/dom-to-image): Generates an image from a DOM node using HTML5 ...
+- [laravel-langman](https://github.com/themsaid/laravel-langman): Language files manager in your artisan console.
+- [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo): :iphone: [Android Library] Get device informati...
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade): :rocket: Upgrade npm on Windows
+- [Consool](https://github.com/AlhasanIQ/Consool): A CLI based personal website based on React & N...
+- [hugo-phlat-theme-rtl](https://github.com/emzi/hugo-phlat-theme-rtl): A flat theme for the Hugo static template engine
+- [Swift-YouTube-Player](https://github.com/NBoymanns/Swift-YouTube-Player): Swift library for embedding and controlling You...
+- [bpopup](https://github.com/mustafa96m/bpopup): bPopup is a lightweight jQuery modal popup plug...
+- [learn-nodejs](https://github.com/tinydew4/learn-nodejs): 
+- [Client](https://github.com/saiber/Client): 
+- [Square](https://github.com/MathiasSeguy-Android2EE/Square): This project explains how to use Square librari...
+- [FXBlurView](https://github.com/mustafa96m/FXBlurView): UIView subclass that replicates the iOS 7 realt...
+- [Snail-Kotlin](https://github.com/UrbanCompass/Snail-Kotlin): An observables framework for Kotlin
+- [DragMeDown](https://github.com/vikdenic/DragMeDown): Quick example of a drag-to-dismiss view-control...
+- [Cappuchino](https://github.com/ishikota/Cappuchino): Espresso wrapper library for writing sweeter te...
+- [user-story-best-practice](https://github.com/prnewswire-ux/user-story-best-practice): How to write effective user stories. 
+- [learning-nodeJs](https://github.com/bhaumikpanchal/learning-nodeJs): Use REST basics to build an easy, fast, single-...
+- [SMGenerator](https://github.com/DevZaid/SMGenerator): 
+- [GestureImageView](https://github.com/kavmors/GestureImageView): An ImageView that supports translate and zoom b...
+- [node-RESTful-api](https://github.com/stvnrlnd/node-RESTful-api): A simple, RESTful api built with nodejs and exp...
+- [file2var](https://github.com/aminbros/file2var): Put files data into variables
+- [wallPaper](https://github.com/Mark-SS/wallPaper): 

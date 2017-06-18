@@ -1,29 +1,29 @@
 # Popular Repositories in Madrid
 
-These are the most-starred repositories from programmers based in Madrid:
+These are the repositories with the highest ratio of stars from programmers based in Madrid:
 
-- [consul](https://github.com/consul/consul)
-- [datos](https://github.com/codeforspain/datos)
-- [material-projs](https://github.com/redradix/material-projs)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [postcss-andalusian-stylesheets](https://github.com/bameda/postcss-andalusian-stylesheets)
-- [top-github-users-data](https://github.com/JJ/top-github-users-data)
-- [Rosie](https://github.com/Karumi/Rosie)
-- [localstack](https://github.com/atlassian/localstack)
-- [madrid](https://github.com/nodeschool/madrid)
-- [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts)
-- [crossdata](https://github.com/Stratio/crossdata)
-- [bankscrap](https://github.com/bankscrap/bankscrap)
-- [HeaderRecyclerView](https://github.com/Karumi/HeaderRecyclerView)
-- [cartodb](https://github.com/CartoDB/cartodb)
-- [ButtonMenu](https://github.com/tuenti/ButtonMenu)
-- [ExpandableSelector](https://github.com/Karumi/ExpandableSelector)
-- [AndroidAudit](https://github.com/Karumi/AndroidAudit)
-- [Renderers](https://github.com/pedrovgs/Renderers)
-- [sparta](https://github.com/Stratio/sparta)
-- [contest](https://github.com/ilopmar/contest)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [KataSuperHeroesAndroid](https://github.com/Karumi/KataSuperHeroesAndroid)
-- [BothamUI](https://github.com/Karumi/BothamUI)
-- [stratio-cassandra](https://github.com/Stratio/stratio-cassandra)
-- [Dividers](https://github.com/Karumi/Dividers)
+- [consul](https://github.com/consul/consul): Consul - Open Government and E-Participation We...
+- [datos](https://github.com/codeforspain/datos): 
+- [material-projs](https://github.com/redradix/material-projs): Material del curso JavaScript para Profesionales
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [postcss-andalusian-stylesheets](https://github.com/bameda/postcss-andalusian-stylesheets): Postcss plugin for writing Andalusian Stylesheets.
+- [top-github-users-data](https://github.com/JJ/top-github-users-data): Data obtained with the top-github-users script
+- [Rosie](https://github.com/Karumi/Rosie): Rosie is an Android framework to create applica...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [madrid](https://github.com/nodeschool/madrid): :school::deciduous_tree::bear: Nodeschool in Ma...
+- [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts): Clean Architecture implementation on Android
+- [crossdata](https://github.com/Stratio/crossdata): Easy access to big things. Library for Apache S...
+- [bankscrap](https://github.com/bankscrap/bankscrap): Ruby gem to extract balance and transactions fr...
+- [HeaderRecyclerView](https://github.com/Karumi/HeaderRecyclerView): HeaderRecyclerView is an Android library create...
+- [cartodb](https://github.com/CartoDB/cartodb): Location Intelligence & Data Visualization tool
+- [ButtonMenu](https://github.com/tuenti/ButtonMenu): ButtonMenu is an Android library created to bui...
+- [ExpandableSelector](https://github.com/Karumi/ExpandableSelector): ExpandableSelector is an Android library create...
+- [AndroidAudit](https://github.com/Karumi/AndroidAudit): Your Android app as a crime scene!!!
+- [Renderers](https://github.com/pedrovgs/Renderers): Renderers is an Android library created to avoi...
+- [sparta](https://github.com/Stratio/sparta): Real Time Analytics based on Spark Streaming
+- [contest](https://github.com/ilopmar/contest): Polaromatic
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [KataSuperHeroesAndroid](https://github.com/Karumi/KataSuperHeroesAndroid): Super Heroes Kata for Android Developers. The m...
+- [BothamUI](https://github.com/Karumi/BothamUI): Model View Presenter Framework written in Swift.
+- [stratio-cassandra](https://github.com/Stratio/stratio-cassandra): Discontinued in favour of Cassandra Lucene Index
+- [Dividers](https://github.com/Karumi/Dividers): Dividers is a simple Android library to create ...

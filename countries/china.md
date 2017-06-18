@@ -1,29 +1,29 @@
 # Popular Repositories in China
 
-These are the most-starred repositories from programmers based in China:
+These are the repositories with the highest ratio of stars from programmers based in China:
 
-- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist)
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
-- [vue2-elm](https://github.com/bailicangdu/vue2-elm)
-- [node-interview](https://github.com/ElemeFE/node-interview)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [vlayout](https://github.com/alibaba/vlayout)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [guetzli](https://github.com/google/guetzli)
-- [GodEye](https://github.com/zixun/GodEye)
-- [incubator-weex](https://github.com/apache/incubator-weex)
-- [python-fire](https://github.com/google/python-fire)
-- [wxpy](https://github.com/youfou/wxpy)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)
-- [atlas](https://github.com/alibaba/atlas)
-- [egg](https://github.com/eggjs/egg)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [reactxp](https://github.com/Microsoft/reactxp)
-- [ItChat](https://github.com/littlecodersh/ItChat)
-- [prepack](https://github.com/facebook/prepack)
-- [reactide](https://github.com/reactide/reactide)
-- [Best-App](https://github.com/hzlzh/Best-App)
-- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
-- [nodePPT](https://github.com/ksky521/nodePPT)
+- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist): 厂商黑名单
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于 vue2 + vue-router2 + vuex + webpack + ES6/7 ...
+- [node-interview](https://github.com/ElemeFE/node-interview): How to pass the Node.js interview of ElemeFE
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [vlayout](https://github.com/alibaba/vlayout): Project vlayout is a powerfull LayoutManager ex...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [guetzli](https://github.com/google/guetzli): 
+- [GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,...
+- [incubator-weex](https://github.com/apache/incubator-weex): Mirror of Apache Weex
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [wxpy](https://github.com/youfou/wxpy): 微信个人号 API，基于 itchat，告别满屏 dict，更有 Python 范儿
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN): What-happens-when 的中文翻译，原仓库 https://github.com/...
+- [atlas](https://github.com/alibaba/atlas): A powerful Android Dynamic Component Framework.
+- [egg](https://github.com/eggjs/egg): Born to build better enterprise frameworks and ...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [reactxp](https://github.com/Microsoft/reactxp): Library for cross-platform app development.
+- [ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口...
+- [prepack](https://github.com/facebook/prepack): Prepack is a partial evaluator for JavaScript. ...
+- [reactide](https://github.com/reactide/reactide): 
+- [Best-App](https://github.com/hzlzh/Best-App): 收集&推荐优秀的 Apps/硬件/技巧/周边等
+- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next): Elegant theme for Hexo. 
+- [nodePPT](https://github.com/ksky521/nodePPT): This is probably the best web presentation tool...

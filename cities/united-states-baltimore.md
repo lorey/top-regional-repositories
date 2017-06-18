@@ -1,29 +1,29 @@
 # Popular Repositories in Baltimore
 
-These are the most-starred repositories from programmers based in Baltimore:
+These are the repositories with the highest ratio of stars from programmers based in Baltimore:
 
-- [baltimorevacants](https://github.com/VinylFox/baltimorevacants)
-- [pitboss](https://github.com/jjulian/pitboss)
-- [ignitespeak](https://github.com/ignitebaltimore/ignitespeak)
-- [honeycomb](https://github.com/davetroy/honeycomb)
-- [talks](https://github.com/charmCityJs/talks)
-- [mtaMarylandBusTracking](https://github.com/chriswhong/mtaMarylandBusTracking)
-- [joshua](https://github.com/joshua-decoder/joshua)
-- [civil-rights-heritage](https://github.com/baltimoreheritage/civil-rights-heritage)
-- [hydra](https://github.com/ngauthier/hydra)
-- [brown-cluster](https://github.com/percyliang/brown-cluster)
-- [BigTree-CMS](https://github.com/bigtreecms/BigTree-CMS)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [glue](https://github.com/glue-viz/glue)
-- [Harbor](https://github.com/jjulian/Harbor)
-- [clearwater](https://github.com/clearwater-rb/clearwater)
-- [further-review](https://github.com/paultyng/further-review)
-- [bmorejs.info](https://github.com/VinylFox/bmorejs.info)
-- [baltimore_public_art_commons](https://github.com/BaltimorePublicArtCommons/baltimore_public_art_commons)
-- [bmoreonrails](https://github.com/jjulian/bmoreonrails)
-- [stay_with_a_local](https://github.com/jtrupiano/stay_with_a_local)
-- [jwst](https://github.com/STScI-JWST/jwst)
-- [JavaScriptOlympics](https://github.com/VinylFox/JavaScriptOlympics)
-- [pyastrolib](https://github.com/mubdi/pyastrolib)
-- [pacaya](https://github.com/mgormley/pacaya)
+- [baltimorevacants](https://github.com/VinylFox/baltimorevacants): Web Site for Baltimore Vacant Housing Listings
+- [pitboss](https://github.com/jjulian/pitboss): Texas Hold'em poker tournament server for bmore...
+- [ignitespeak](https://github.com/ignitebaltimore/ignitespeak): Collects and organizes Ignite speaking proposals
+- [honeycomb](https://github.com/davetroy/honeycomb): Tracks DHCP leases and allows users to claim de...
+- [talks](https://github.com/charmCityJs/talks): Come present something at a future meet-up!
+- [mtaMarylandBusTracking](https://github.com/chriswhong/mtaMarylandBusTracking): Gets real-time bus locations in Baltimore and t...
+- [joshua](https://github.com/joshua-decoder/joshua): Joshua Statistical Machine Translation Toolkit
+- [civil-rights-heritage](https://github.com/baltimoreheritage/civil-rights-heritage): :fist: Writing, research and resources on Civil...
+- [hydra](https://github.com/ngauthier/hydra): Distributed testing framework
+- [brown-cluster](https://github.com/percyliang/brown-cluster): C++ implementation of the Brown word clustering...
+- [BigTree-CMS](https://github.com/bigtreecms/BigTree-CMS): 
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [glue](https://github.com/glue-viz/glue): Linked Data Visualizations Across Multiple Files
+- [Harbor](https://github.com/jjulian/Harbor): Getting students on the same page.
+- [clearwater](https://github.com/clearwater-rb/clearwater): Component-based Ruby front-end framework
+- [further-review](https://github.com/paultyng/further-review): Pull request process enforcer.
+- [bmorejs.info](https://github.com/VinylFox/bmorejs.info): Baltimore JavaScript Web Site
+- [baltimore_public_art_commons](https://github.com/BaltimorePublicArtCommons/baltimore_public_art_commons): 
+- [bmoreonrails](https://github.com/jjulian/bmoreonrails): Local user group site bmoreonrails.org
+- [stay_with_a_local](https://github.com/jtrupiano/stay_with_a_local): Bmore on Rails members will be hosting RailsCon...
+- [jwst](https://github.com/STScI-JWST/jwst): 
+- [JavaScriptOlympics](https://github.com/VinylFox/JavaScriptOlympics): Code used for and created by the JavaScript Oly...
+- [pyastrolib](https://github.com/mubdi/pyastrolib): pyastrolib is a python library providing profes...
+- [pacaya](https://github.com/mgormley/pacaya): Pacaya - A Library for Hybrid Graphical Models ...

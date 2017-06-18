@@ -1,29 +1,29 @@
 # Popular Repositories in Venezuela
 
-These are the most-starred repositories from programmers based in Venezuela:
+These are the repositories with the highest ratio of stars from programmers based in Venezuela:
 
-- [comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)
-- [venezuela-sql](https://github.com/marydn/venezuela-sql)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Turpial](https://github.com/satanas/Turpial)
-- [fermat-framework](https://github.com/Fermat-ORG/fermat-framework)
-- [venezuela-json](https://github.com/zokeber/venezuela-json)
-- [venezuela](https://github.com/joserafael/venezuela)
-- [the-little-mongodb-book](https://github.com/uokesita/the-little-mongodb-book)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [python-fire](https://github.com/google/python-fire)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [Venezuela](https://github.com/DesarrollosCuado/Venezuela)
-- [php-the-right-way](https://github.com/phpdevenezuela/php-the-right-way)
-- [sfotipy](https://github.com/proyectos-mejorandola/sfotipy)
-- [react-espanol](https://github.com/jlobos/react-espanol)
-- [primeros-pasos](https://github.com/ngVenezuela/primeros-pasos)
-- [ez3.js](https://github.com/andresz1/ez3.js)
-- [mapa-venezuela](https://github.com/joserafael/mapa-venezuela)
-- [Ruby-Documentation-Translation-Project](https://github.com/cwgem/Ruby-Documentation-Translation-Project)
-- [odoo-venezuela](https://github.com/odoo-venezuela/odoo-venezuela)
-- [api](https://github.com/btcven/api)
-- [fermat-org](https://github.com/Fermat-ORG/fermat-org)
-- [ejemplos-clases-compiladores-e-interpretes](https://github.com/xiul/ejemplos-clases-compiladores-e-interpretes)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [Cupon](https://github.com/javiereguiluz/Cupon)
+- [comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram): Listado de Chats de Comunidades en Telegram
+- [venezuela-sql](https://github.com/marydn/venezuela-sql): Estados, ciudades, municipios y parroquias de V...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Turpial](https://github.com/satanas/Turpial): Twitter client written in Python. Light, fast, ...
+- [fermat-framework](https://github.com/Fermat-ORG/fermat-framework): Main code repository: Java Framework, Android F...
+- [venezuela-json](https://github.com/zokeber/venezuela-json): Venezuela states, cities and parishes in JSON
+- [venezuela](https://github.com/joserafael/venezuela): Estados, municipios, ciudades y parroquias de V...
+- [the-little-mongodb-book](https://github.com/uokesita/the-little-mongodb-book): The Little MongoDB Book
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [Venezuela](https://github.com/DesarrollosCuado/Venezuela): Herramientas para Venezuela
+- [php-the-right-way](https://github.com/phpdevenezuela/php-the-right-way): Una referencia práctica y fácil de entender de ...
+- [sfotipy](https://github.com/proyectos-mejorandola/sfotipy): El proyecto oficial del curso de Frontend Profe...
+- [react-espanol](https://github.com/jlobos/react-espanol): Recursos para aprender ReactJS en español
+- [primeros-pasos](https://github.com/ngVenezuela/primeros-pasos): ¿Eres nuevo en la Comunidad? ¿Quieres aprender ...
+- [ez3.js](https://github.com/andresz1/ez3.js): A JavaScript framework for building 3D games wi...
+- [mapa-venezuela](https://github.com/joserafael/mapa-venezuela): Mapa de Venezuela vectorizado con Raphael.js
+- [Ruby-Documentation-Translation-Project](https://github.com/cwgem/Ruby-Documentation-Translation-Project): Translation project for making the Ruby documen...
+- [odoo-venezuela](https://github.com/odoo-venezuela/odoo-venezuela): Localización Venezolana de Odoo.
+- [api](https://github.com/btcven/api): Bitcoin Venezuela API and web services
+- [fermat-org](https://github.com/Fermat-ORG/fermat-org): Fermat Site for Developers.
+- [ejemplos-clases-compiladores-e-interpretes](https://github.com/xiul/ejemplos-clases-compiladores-e-interpretes): Ejemplos clases compiladores e interpretes de l...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [Cupon](https://github.com/javiereguiluz/Cupon): Aplicación de prueba para aprender a programar ...

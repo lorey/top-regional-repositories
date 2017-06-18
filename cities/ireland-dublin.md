@@ -1,29 +1,29 @@
 # Popular Repositories in Dublin
 
-These are the most-starred repositories from programmers based in Dublin:
+These are the repositories with the highest ratio of stars from programmers based in Dublin:
 
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [dublinbus-api](https://github.com/jneill/dublinbus-api)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [dublin_bikes](https://github.com/kjf/dublin_bikes)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [rubyjobs](https://github.com/GavinJoyce/rubyjobs)
-- [ctop](https://github.com/bcicen/ctop)
-- [reactide](https://github.com/reactide/reactide)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [dublinjs.github.com](https://github.com/dublinjs/dublinjs.github.com)
-- [algorithms](https://github.com/keon/algorithms)
-- [localstack](https://github.com/atlassian/localstack)
-- [SeaEye](https://github.com/nolaneo/SeaEye)
-- [apidoc](https://github.com/mbryzek/apidoc)
-- [ionroller](https://github.com/gilt/ionroller)
-- [techevents_ie](https://github.com/bkenny/techevents_ie)
-- [intercom-ruby](https://github.com/intercom/intercom-ruby)
-- [ked](https://github.com/adam-lynch/ked)
-- [neurojs](https://github.com/janhuenermann/neurojs)
-- [realworld](https://github.com/gothinkster/realworld)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [guetzli](https://github.com/google/guetzli)
-- [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [dublinbus-api](https://github.com/jneill/dublinbus-api): Dublin Bus Real Time API
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [dublin_bikes](https://github.com/kjf/dublin_bikes): 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [rubyjobs](https://github.com/GavinJoyce/rubyjobs): NOTICE: This project has moved to https://githu...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [reactide](https://github.com/reactide/reactide): 
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [dublinjs.github.com](https://github.com/dublinjs/dublinjs.github.com): Dublin Javascript
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [SeaEye](https://github.com/nolaneo/SeaEye): OSX notifications for Circle CI builds
+- [apidoc](https://github.com/mbryzek/apidoc): Beautiful documentation for REST services. Simp...
+- [ionroller](https://github.com/gilt/ionroller): AWS Immutable Deployment framework for web serv...
+- [techevents_ie](https://github.com/bkenny/techevents_ie): A listing of technical events happening in Ireland
+- [intercom-ruby](https://github.com/intercom/intercom-ruby): Ruby bindings for the Intercom API
+- [ked](https://github.com/adam-lynch/ked): The first Corkonian scripting language
+- [neurojs](https://github.com/janhuenermann/neurojs): A javascript deep learning and reinforcement le...
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [guetzli](https://github.com/google/guetzli): 
+- [SecurityShepherd](https://github.com/OWASP/SecurityShepherd): Web and mobile application security training pl...

@@ -1,29 +1,29 @@
 # Popular Repositories in Paris
 
-These are the most-starred repositories from programmers based in Paris:
+These are the repositories with the highest ratio of stars from programmers based in Paris:
 
-- [france.code-civil](https://github.com/steeve/france.code-civil)
-- [jurismatic](https://github.com/jurismatic/jurismatic)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [ctop](https://github.com/bcicen/ctop)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [contrats-francais](https://github.com/tibastral/contrats-francais)
-- [reactide](https://github.com/reactide/reactide)
-- [localstack](https://github.com/atlassian/localstack)
-- [guetzli](https://github.com/google/guetzli)
-- [dotfiles](https://github.com/lewagon/dotfiles)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [MetroGit](https://github.com/vbarbaresi/MetroGit)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [navitia](https://github.com/CanalTP/navitia)
-- [Caporal.js](https://github.com/mattallty/Caporal.js)
-- [rx-player](https://github.com/canalplus/rx-player)
-- [tatami](https://github.com/ippontech/tatami)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [python-fire](https://github.com/google/python-fire)
-- [stations](https://github.com/trainline-eu/stations)
-- [postal](https://github.com/atech/postal)
-- [YellowLabTools](https://github.com/gmetais/YellowLabTools)
+- [france.code-civil](https://github.com/steeve/france.code-civil): Le code civil français sous git
+- [jurismatic](https://github.com/jurismatic/jurismatic): http://www.jurismatic.com
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [contrats-francais](https://github.com/tibastral/contrats-francais): Contrats français
+- [reactide](https://github.com/reactide/reactide): 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [guetzli](https://github.com/google/guetzli): 
+- [dotfiles](https://github.com/lewagon/dotfiles): Default configuration for Le Wagon's students
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [MetroGit](https://github.com/vbarbaresi/MetroGit): Paris Metro lines on a Git graph
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [navitia](https://github.com/CanalTP/navitia): The open source software to build cool stuff wi...
+- [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command ...
+- [rx-player](https://github.com/canalplus/rx-player): HTML5 video player with some reactive programmi...
+- [tatami](https://github.com/ippontech/tatami): An Open Source enterprise social network
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [stations](https://github.com/trainline-eu/stations): List of stations and associated metadata
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [YellowLabTools](https://github.com/gmetais/YellowLabTools): WebPerf and front-end quality testing tool

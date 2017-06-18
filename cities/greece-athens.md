@@ -1,29 +1,29 @@
 # Popular Repositories in Athens
 
-These are the most-starred repositories from programmers based in Athens:
+These are the repositories with the highest ratio of stars from programmers based in Athens:
 
-- [elasticsearch-skroutz-greekstemmer](https://github.com/skroutz/elasticsearch-skroutz-greekstemmer)
-- [rb](https://github.com/Athens/rb)
-- [synnefo](https://github.com/grnet/synnefo)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [rupture](https://github.com/dionyziz/rupture)
-- [greek_stemmer](https://github.com/skroutz/greek_stemmer)
-- [API](https://github.com/VivaPayments/API)
-- [redux-test-belt](https://github.com/Workable/redux-test-belt)
-- [backbone.react-bridge](https://github.com/Workable/backbone.react-bridge)
-- [developer.skroutz.gr](https://github.com/skroutz/developer.skroutz.gr)
-- [elasticsearch-analysis-greeklish](https://github.com/skroutz/elasticsearch-analysis-greeklish)
-- [selectorablium](https://github.com/skroutz/selectorablium)
-- [cogy](https://github.com/skroutz/cogy)
-- [kitto](https://github.com/kittoframework/kitto)
-- [clojure](https://github.com/Athens/clojure)
-- [general](https://github.com/euruko2013/general)
-- [java-error-handler](https://github.com/Workable/java-error-handler)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [skroutz.rb](https://github.com/skroutz/skroutz.rb)
-- [site](https://github.com/euruko2013/site)
-- [zeus](https://github.com/grnet/zeus)
-- [react-pencil](https://github.com/SokratisVidros/react-pencil)
-- [jquery-remove-upcase-accents](https://github.com/ebababi/jquery-remove-upcase-accents)
-- [efoodgr](https://github.com/kpapadatos/efoodgr)
-- [feed2email](https://github.com/agorf/feed2email)
+- [elasticsearch-skroutz-greekstemmer](https://github.com/skroutz/elasticsearch-skroutz-greekstemmer): Greek Stemmer for elasticsearch
+- [rb](https://github.com/Athens/rb): Athens Ruby Meetups
+- [synnefo](https://github.com/grnet/synnefo): Synnefo is open source cloud software, used to ...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [rupture](https://github.com/dionyziz/rupture): A framework for BREACH and other compression-ba...
+- [greek_stemmer](https://github.com/skroutz/greek_stemmer): A simple Greek stemming library
+- [API](https://github.com/VivaPayments/API): 
+- [redux-test-belt](https://github.com/Workable/redux-test-belt): Flexible Redux testing utilities
+- [backbone.react-bridge](https://github.com/Workable/backbone.react-bridge): Transform Backbone views to React components an...
+- [developer.skroutz.gr](https://github.com/skroutz/developer.skroutz.gr): The Skroutz developer platform
+- [elasticsearch-analysis-greeklish](https://github.com/skroutz/elasticsearch-analysis-greeklish): A greeklish token filter for elasticsearch
+- [selectorablium](https://github.com/skroutz/selectorablium): Enhance <select> elements with localstorage and...
+- [cogy](https://github.com/skroutz/cogy): Cog + Rails = :heart:
+- [kitto](https://github.com/kittoframework/kitto): Kitto is a framework for interactive dashboards...
+- [clojure](https://github.com/Athens/clojure): Athens Clojure Meetups
+- [general](https://github.com/euruko2013/general): A place for publicly tracking ideas, volunteeri...
+- [java-error-handler](https://github.com/Workable/java-error-handler): Error handling library for Android and Java
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [skroutz.rb](https://github.com/skroutz/skroutz.rb): Official Ruby Client for Skroutz API v3  https:...
+- [site](https://github.com/euruko2013/site): EuRuKo 2013 event website
+- [zeus](https://github.com/grnet/zeus): Zeus server
+- [react-pencil](https://github.com/SokratisVidros/react-pencil): A delicate React component that enables single-...
+- [jquery-remove-upcase-accents](https://github.com/ebababi/jquery-remove-upcase-accents): Automatically removes accented characters (curr...
+- [efoodgr](https://github.com/kpapadatos/efoodgr): An unofficial tool to manage your efood.gr acco...
+- [feed2email](https://github.com/agorf/feed2email): Headless RSS/Atom aggregator that sends feed up...

@@ -1,29 +1,29 @@
 # Popular Repositories in Barcelona
 
-These are the most-starred repositories from programmers based in Barcelona:
+These are the repositories with the highest ratio of stars from programmers based in Barcelona:
 
-- [elcodi](https://github.com/elcodi/elcodi)
-- [localstack](https://github.com/atlassian/localstack)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [last-wishes](https://github.com/dddinphp/last-wishes)
-- [ctop](https://github.com/bcicen/ctop)
-- [deploy](https://github.com/ansistrano/deploy)
-- [bamboo](https://github.com/elcodi/bamboo)
-- [SIFO](https://github.com/sifophp/SIFO)
-- [reactide](https://github.com/reactide/reactide)
-- [krakend](https://github.com/devopsfaith/krakend)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [decidim.barcelona](https://github.com/AjuntamentdeBarcelona/decidim.barcelona)
-- [consul](https://github.com/consul/consul)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [realworld](https://github.com/gothinkster/realworld)
-- [humbug](https://github.com/padraic/humbug)
-- [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle)
-- [Cupon](https://github.com/javiereguiluz/Cupon)
-- [Scrum-poker-cards](https://github.com/redbooth/Scrum-poker-cards)
-- [dog](https://github.com/dogtools/dog)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ddd](https://github.com/dddinphp/ddd)
-- [guetzli](https://github.com/google/guetzli)
-- [docker-workshop](https://github.com/harbur/docker-workshop)
+- [elcodi](https://github.com/elcodi/elcodi): E-commerce components for Symfony
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [last-wishes](https://github.com/dddinphp/last-wishes): Last Wishes is a PHP application written follow...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [deploy](https://github.com/ansistrano/deploy): Ansible role to deploy scripting applications l...
+- [bamboo](https://github.com/elcodi/bamboo): Meet Bamboo, an e-commerce project built on top...
+- [SIFO](https://github.com/sifophp/SIFO): PHP Framework with "project inheritance", multi...
+- [reactide](https://github.com/reactide/reactide): 
+- [krakend](https://github.com/devopsfaith/krakend): Ultra performant API Gateway with middlewares
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [decidim.barcelona](https://github.com/AjuntamentdeBarcelona/decidim.barcelona): Decidim Barcelona - Direct and participatory de...
+- [consul](https://github.com/consul/consul): Consul - Open Government and E-Participation We...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [humbug](https://github.com/padraic/humbug): Humbug is a Mutation Testing framework for PHP ...
+- [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle): The new (and simple) admin generator for Symfon...
+- [Cupon](https://github.com/javiereguiluz/Cupon): Aplicación de prueba para aprender a programar ...
+- [Scrum-poker-cards](https://github.com/redbooth/Scrum-poker-cards): 
+- [dog](https://github.com/dogtools/dog): Command-line task runner and Golang library tha...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ddd](https://github.com/dddinphp/ddd): Domain Driven Design PHP helper classes
+- [guetzli](https://github.com/google/guetzli): 
+- [docker-workshop](https://github.com/harbur/docker-workshop): Docker Workshop

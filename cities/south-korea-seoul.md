@@ -1,29 +1,29 @@
 # Popular Repositories in Seoul
 
-These are the most-starred repositories from programmers based in Seoul:
+These are the repositories with the highest ratio of stars from programmers based in Seoul:
 
-- [twitter-korean-text](https://github.com/twitter/twitter-korean-text)
-- [opengov](https://github.com/seoul-opengov/opengov)
-- [awesome-devblog](https://github.com/sarojaba/awesome-devblog)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [yobi](https://github.com/naver/yobi)
-- [fe.javascript](https://github.com/nhnent/fe.javascript)
-- [konlpy](https://github.com/konlpy/konlpy)
-- [nolboo.github.io](https://github.com/nolboo/nolboo.github.io)
-- [scouter](https://github.com/scouter-project/scouter)
-- [TensorFlow-Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
-- [TadpoleForDBTools](https://github.com/hangum/TadpoleForDBTools)
-- [javascript-style-guide](https://github.com/tipjs/javascript-style-guide)
-- [gureum](https://github.com/gureum/gureum)
-- [documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr)
-- [spoqa-han-sans](https://github.com/spoqa/spoqa-han-sans)
-- [jui](https://github.com/juijs/jui)
-- [dev-matrix](https://github.com/EBvi/dev-matrix)
-- [nodejs-ko](https://github.com/nodejs/nodejs-ko)
-- [southkorea-maps](https://github.com/southkorea/southkorea-maps)
-- [xeit](https://github.com/tomyun/xeit)
-- [egjs](https://github.com/naver/egjs)
-- [armeria](https://github.com/line/armeria)
-- [dandy](https://github.com/fallroot/dandy)
-- [WebDevTutorial](https://github.com/xguru/WebDevTutorial)
-- [git-commander](https://github.com/golbin/git-commander)
+- [twitter-korean-text](https://github.com/twitter/twitter-korean-text): Korean tokenizer
+- [opengov](https://github.com/seoul-opengov/opengov): 서울시 행정정보 공개 깃허브입니다.(서울 정보소통광장) Github for the S...
+- [awesome-devblog](https://github.com/sarojaba/awesome-devblog): 개발 블로그 모음. 개발자 위키로 편집중. RSS 리더
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [yobi](https://github.com/naver/yobi): Project hosting software - Deprecated
+- [fe.javascript](https://github.com/nhnent/fe.javascript): 
+- [konlpy](https://github.com/konlpy/konlpy): Python package for Korean natural language proc...
+- [nolboo.github.io](https://github.com/nolboo/nolboo.github.io): Learn to do. Learn by doing.
+- [scouter](https://github.com/scouter-project/scouter): Scouter is an open source APM and an open sourc...
+- [TensorFlow-Tutorials](https://github.com/golbin/TensorFlow-Tutorials): 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다
+- [TadpoleForDBTools](https://github.com/hangum/TadpoleForDBTools): Tadpole DB Hub is unified infrastructure tool, ...
+- [javascript-style-guide](https://github.com/tipjs/javascript-style-guide): Airbnb JavaScript 스타일 가이드 한국어
+- [gureum](https://github.com/gureum/gureum): OS X를 위한 새로운 한글 입력기
+- [documents.docker.co.kr](https://github.com/remotty/documents.docker.co.kr):  :books: Docker 한국어 문서 / 영상 모음집
+- [spoqa-han-sans](https://github.com/spoqa/spoqa-han-sans): Spoqa Han Sans
+- [jui](https://github.com/juijs/jui): JUI provide all kinds of UI components that are...
+- [dev-matrix](https://github.com/EBvi/dev-matrix): 개발자 역량 평가표 (개량버전)
+- [nodejs-ko](https://github.com/nodejs/nodejs-ko): node.js 한국 커뮤니티
+- [southkorea-maps](https://github.com/southkorea/southkorea-maps): South Korea administrative divisions in ESRI Sh...
+- [xeit](https://github.com/tomyun/xeit): ActiveX 없이 보안메일을 열어보자!
+- [egjs](https://github.com/naver/egjs): Set of UI interactions, effects and utility com...
+- [armeria](https://github.com/line/armeria): Asynchronous RPC/API client/server library buil...
+- [dandy](https://github.com/fallroot/dandy): “단디”는 부산대학교 인공지능연구실과 (주)나라인포테크가 공동으로 만들어 http:/...
+- [WebDevTutorial](https://github.com/xguru/WebDevTutorial): 대학생을 위한 웹 개발 공부용 체크리스트
+- [git-commander](https://github.com/golbin/git-commander): A git tool with an easy terminal interface.

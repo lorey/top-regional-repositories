@@ -1,29 +1,29 @@
 # Popular Repositories in Angola
 
-These are the most-starred repositories from programmers based in Angola:
+These are the repositories with the highest ratio of stars from programmers based in Angola:
 
-- [nzilajs](https://github.com/lemol/nzilajs)
-- [proxypay-api](https://github.com/flowck/proxypay-api)
-- [condesa](https://github.com/AngoDev/condesa)
-- [OpenDuka](https://github.com/OpenInstitute/OpenDuka)
-- [lpic-1](https://github.com/angolaphp/lpic-1)
-- [angolajs.github.io](https://github.com/angolajs/angolajs.github.io)
-- [config](https://github.com/osvaldoabel/config)
-- [gomailinabox](https://github.com/osiloke/gomailinabox)
-- [python-crawler](https://github.com/osvaldoabel/python-crawler)
-- [Gangula3](https://github.com/lezi/Gangula3)
-- [Node.js_School](https://github.com/donvoo/Node.js_School)
-- [HaskellNet](https://github.com/lemol/HaskellNet)
-- [Photon](https://github.com/MarioAzulay/Photon)
-- [modoboa-stats](https://github.com/modoboa/modoboa-stats)
-- [FJ31](https://github.com/lezi/FJ31)
-- [1001](https://github.com/lezi/1001)
-- [HaskellNet-SSL](https://github.com/lemol/HaskellNet-SSL)
-- [tictac-app](https://github.com/vitorbritto/tictac-app)
-- [exemploseguranca](https://github.com/lezi/exemploseguranca)
-- [modoboa-pdfcredentials](https://github.com/modoboa/modoboa-pdfcredentials)
-- [koalatest](https://github.com/lezi/koalatest)
-- [openblog.github.com](https://github.com/openblog/openblog.github.com)
-- [FJ31_Caelum](https://github.com/lezi/FJ31_Caelum)
-- [ddoslib](https://github.com/bollars/ddoslib)
-- [website](https://github.com/8897/website)
+- [nzilajs](https://github.com/lemol/nzilajs): A lightweight and very simple (but powerful) cl...
+- [proxypay-api](https://github.com/flowck/proxypay-api): An API wrapper of ProxyPay API written in Nodej...
+- [condesa](https://github.com/AngoDev/condesa): Site do Evento CONDESA
+- [OpenDuka](https://github.com/OpenInstitute/OpenDuka): Open Duka is a project designed by the Open Ins...
+- [lpic-1](https://github.com/angolaphp/lpic-1): Preparação para a Certificção Linux nível  1
+- [angolajs.github.io](https://github.com/angolajs/angolajs.github.io): 
+- [config](https://github.com/osvaldoabel/config): A simple and easy PHP Helper to handler you bas...
+- [gomailinabox](https://github.com/osiloke/gomailinabox): Mailinabox api for go
+- [python-crawler](https://github.com/osvaldoabel/python-crawler): A simple Web Crawler using Python
+- [Gangula3](https://github.com/lezi/Gangula3): Projeto Gangula em rails 3
+- [Node.js_School](https://github.com/donvoo/Node.js_School): files for bash script
+- [HaskellNet](https://github.com/lemol/HaskellNet): Haskell library which provides client support f...
+- [Photon](https://github.com/MarioAzulay/Photon): 
+- [modoboa-stats](https://github.com/modoboa/modoboa-stats): Graphical statistics for Modoboa
+- [FJ31](https://github.com/lezi/FJ31): Projetos do curso FJ-31-Java EE Avançado e WebS...
+- [1001](https://github.com/lezi/1001): 1001 algorithms you must implement before you die
+- [HaskellNet-SSL](https://github.com/lemol/HaskellNet-SSL): Helpers to connect to SSL/TLS mail servers with...
+- [tictac-app](https://github.com/vitorbritto/tictac-app): [WIP!] Tic Tac - Electron Version
+- [exemploseguranca](https://github.com/lezi/exemploseguranca): Spring 3 + Spring Security 3 + Hibernate 3 + JS...
+- [modoboa-pdfcredentials](https://github.com/modoboa/modoboa-pdfcredentials): Generate PDF documents containing account crede...
+- [koalatest](https://github.com/lezi/koalatest): Testing koala gem
+- [openblog.github.com](https://github.com/openblog/openblog.github.com): 
+- [FJ31_Caelum](https://github.com/lezi/FJ31_Caelum): Código do curso FJ31 da Caelum RJ
+- [ddoslib](https://github.com/bollars/ddoslib): I took the LOIC flooder classes, ported them to...
+- [website](https://github.com/8897/website): Our WebSite

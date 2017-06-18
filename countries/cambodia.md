@@ -1,29 +1,29 @@
 # Popular Repositories in Cambodia
 
-These are the most-starred repositories from programmers based in Cambodia:
+These are the repositories with the highest ratio of stars from programmers based in Cambodia:
 
-- [wiki](https://github.com/rotati/wiki)
-- [history_tracker](https://github.com/yoolk/history_tracker)
-- [image_upload_previewer](https://github.com/rotati/image_upload_previewer)
-- [toy_robot](https://github.com/chamnap/toy_robot)
-- [liquid-rails](https://github.com/chamnap/liquid-rails)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [compass-rails](https://github.com/Compass/compass-rails)
-- [CTOSecurityChecklist](https://github.com/sqreen/CTOSecurityChecklist)
-- [google-transliterate](https://github.com/dwilkie/google-transliterate)
-- [newrelic_report](https://github.com/chamnap/newrelic_report)
-- [kast](https://github.com/varmansvn/kast)
-- [bongloy-ruby](https://github.com/dwilkie/bongloy-ruby)
-- [yoolk_api](https://github.com/yoolk/yoolk_api)
-- [draper-extensions](https://github.com/chamnap/draper-extensions)
-- [khmertyping](https://github.com/sovichet/khmertyping)
-- [pumi](https://github.com/dwilkie/pumi)
-- [assets-rails](https://github.com/yoolk/assets-rails)
-- [todo-rails4-angularjs](https://github.com/mkwiatkowski/todo-rails4-angularjs)
-- [mongoid-observers](https://github.com/mongoid/mongoid-observers)
-- [tenancy](https://github.com/chamnap/tenancy)
-- [rvm-gem](https://github.com/rvm/rvm-gem)
-- [fasterer](https://github.com/DamirSvrtan/fasterer)
-- [pluginGeek](https://github.com/thomasklemm/pluginGeek)
-- [ruby-geometry](https://github.com/DanielVartanov/ruby-geometry)
-- [orats](https://github.com/nickjj/orats)
+- [wiki](https://github.com/rotati/wiki): The public Rotati wiki
+- [history_tracker](https://github.com/yoolk/history_tracker): Track changes ActiveRecord models and stores in...
+- [image_upload_previewer](https://github.com/rotati/image_upload_previewer): Preview Image on Browser File Upload Button
+- [toy_robot](https://github.com/chamnap/toy_robot): ToyRobot is a simulator of a robot that moves o...
+- [liquid-rails](https://github.com/chamnap/liquid-rails): Renders liquid templates with layout and partia...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [compass-rails](https://github.com/Compass/compass-rails): compass rails integration
+- [CTOSecurityChecklist](https://github.com/sqreen/CTOSecurityChecklist): The SaaS CTO Security Checklist
+- [google-transliterate](https://github.com/dwilkie/google-transliterate): Transliterates from a script to English phonetic
+- [newrelic_report](https://github.com/chamnap/newrelic_report): 
+- [kast](https://github.com/varmansvn/kast): Khmer Auto Suggest Tool
+- [bongloy-ruby](https://github.com/dwilkie/bongloy-ruby): A ruby gem to consume the Bongloy API
+- [yoolk_api](https://github.com/yoolk/yoolk_api): A Ruby wrapper for the Yoolk REST API
+- [draper-extensions](https://github.com/chamnap/draper-extensions): Extends Draper by adding pagination and scoping...
+- [khmertyping](https://github.com/sovichet/khmertyping): Web-based Khmer Unicode Typing
+- [pumi](https://github.com/dwilkie/pumi): A library containing Geodata for administrative...
+- [assets-rails](https://github.com/yoolk/assets-rails): Require the pre-vendored js/css libraries in yo...
+- [todo-rails4-angularjs](https://github.com/mkwiatkowski/todo-rails4-angularjs): Showcase of Rails 4 and AngularJS integration
+- [mongoid-observers](https://github.com/mongoid/mongoid-observers): Mongoid observer (removed in Mongoid 4.0)
+- [tenancy](https://github.com/chamnap/tenancy): A simple multitenancy with activerecord/mongoid...
+- [rvm-gem](https://github.com/rvm/rvm-gem): RVM Ruby Gem Library
+- [fasterer](https://github.com/DamirSvrtan/fasterer): Don't make your Rubies go fast. Make them go fa...
+- [pluginGeek](https://github.com/thomasklemm/pluginGeek): Discover great Ruby gems and Javascript plugins...
+- [ruby-geometry](https://github.com/DanielVartanov/ruby-geometry): Simple geometry classes and algorithms in Ruby
+- [orats](https://github.com/nickjj/orats): Opinionated rails application templates.

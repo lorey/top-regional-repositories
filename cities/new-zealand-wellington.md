@@ -1,29 +1,29 @@
 # Popular Repositories in Wellington
 
-These are the most-starred repositories from programmers based in Wellington:
+These are the repositories with the highest ratio of stars from programmers based in Wellington:
 
-- [silverstripe-framework](https://github.com/silverstripe/silverstripe-framework)
-- [silverstripe-cms](https://github.com/silverstripe/silverstripe-cms)
-- [new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data)
-- [silverstripe-installer](https://github.com/silverstripe/silverstripe-installer)
-- [silverstripe-userforms](https://github.com/silverstripe/silverstripe-userforms)
-- [loop-drop-app](https://github.com/mmckegg/loop-drop-app)
-- [xero_gateway](https://github.com/xero-gateway/xero_gateway)
-- [niet](https://github.com/willbryant/niet)
-- [kitchen_sync](https://github.com/willbryant/kitchen_sync)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [patchwork](https://github.com/ssbc/patchwork)
-- [national-crash-statistics](https://github.com/alpha-beta-soup/national-crash-statistics)
-- [deploynaut](https://github.com/silverstripe-archive/deploynaut)
-- [xeroizer](https://github.com/waynerobinson/xeroizer)
-- [silverstripe-postgresql](https://github.com/silverstripe/silverstripe-postgresql)
-- [banking-framework](https://github.com/fractalcactus/banking-framework)
-- [powershop-api](https://github.com/powershop/powershop-api)
-- [silverstripe-simple](https://github.com/silverstripe-themes/silverstripe-simple)
-- [mad-science-handbook](https://github.com/ahdinosaur/mad-science-handbook)
-- [loomio](https://github.com/loomio/loomio)
-- [silverstripe-blog](https://github.com/silverstripe/silverstripe-blog)
-- [inu](https://github.com/ahdinosaur/inu)
-- [slush-pages](https://github.com/ahdinosaur/slush-pages)
-- [wellington](https://github.com/nodeschool/wellington)
-- [mintype](https://github.com/ahdinosaur/mintype)
+- [silverstripe-framework](https://github.com/silverstripe/silverstripe-framework): SilverStripe Framework, the MVC framework that ...
+- [silverstripe-cms](https://github.com/silverstripe/silverstripe-cms): SilverStripe CMS - this is a module for SilverS...
+- [new-zealand-data](https://github.com/WikiNewZealand/new-zealand-data): A list of New Zealand Datasets and APIs
+- [silverstripe-installer](https://github.com/silverstripe/silverstripe-installer): The installer for SilverStripe CMS and Framewor...
+- [silverstripe-userforms](https://github.com/silverstripe/silverstripe-userforms): UserForms module provides a visual form builder...
+- [loop-drop-app](https://github.com/mmckegg/loop-drop-app): MIDI looper, modular synth and sampler app buil...
+- [xero_gateway](https://github.com/xero-gateway/xero_gateway): Ruby wrapper for the Xero API
+- [niet](https://github.com/willbryant/niet): A process respawner for people who want syslogg...
+- [kitchen_sync](https://github.com/willbryant/kitchen_sync): Fast unidirectional synchronization - make or e...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [patchwork](https://github.com/ssbc/patchwork): A classic social networking client for Secure S...
+- [national-crash-statistics](https://github.com/alpha-beta-soup/national-crash-statistics): An interactive web map of the New Zealand Trans...
+- [deploynaut](https://github.com/silverstripe-archive/deploynaut): A web based tool for performing deployments
+- [xeroizer](https://github.com/waynerobinson/xeroizer): Xero accounting system API library.
+- [silverstripe-postgresql](https://github.com/silverstripe/silverstripe-postgresql): PostgreSQL module for SilverStripe CMS. Allows ...
+- [banking-framework](https://github.com/fractalcactus/banking-framework): 
+- [powershop-api](https://github.com/powershop/powershop-api): Powershop API documentation, libraries and samp...
+- [silverstripe-simple](https://github.com/silverstripe-themes/silverstripe-simple): The "Simple" theme for SilverStripe by Sara (In...
+- [mad-science-handbook](https://github.com/ahdinosaur/mad-science-handbook): :zap: advanced programming with javascript
+- [loomio](https://github.com/loomio/loomio): Loomio is an open-source web application that h...
+- [silverstripe-blog](https://github.com/silverstripe/silverstripe-blog): Blog module for SilverStripe CMS
+- [inu](https://github.com/ahdinosaur/inu): :dog2:  composable unidirectional user interfac...
+- [slush-pages](https://github.com/ahdinosaur/slush-pages): a slush generator for static pages using browse...
+- [wellington](https://github.com/nodeschool/wellington): :school: :fountain: :dash: NodeSchool chapter i...
+- [mintype](https://github.com/ahdinosaur/mintype): :tea: minimal composable type abstraction

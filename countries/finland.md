@@ -1,29 +1,29 @@
 # Popular Repositories in Finland
 
-These are the most-starred repositories from programmers based in Finland:
+These are the repositories with the highest ratio of stars from programmers based in Finland:
 
-- [digitransit-ui](https://github.com/HSLdevcom/digitransit-ui)
-- [yle-dl](https://github.com/aajanki/yle-dl)
-- [potilastietojarjestelma](https://github.com/suomi/potilastietojarjestelma)
-- [backend-best-practices](https://github.com/futurice/backend-best-practices)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [reaktordevday](https://github.com/reaktor/reaktordevday)
-- [avoinministerio](https://github.com/avoinministerio/avoinministerio)
-- [maksunappi](https://github.com/reaktor/maksunappi)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [node-tupas](https://github.com/reaktor/node-tupas)
-- [SecondReality](https://github.com/mtuomi/SecondReality)
-- [tktltiki2](https://github.com/UniversityHelsinkiTKTL/tktltiki2)
-- [localstack](https://github.com/atlassian/localstack)
-- [kontena](https://github.com/kontena/kontena)
-- [partial.lenses](https://github.com/calmm-js/partial.lenses)
-- [jquery-continuous-calendar](https://github.com/continuouscalendar/jquery-continuous-calendar)
-- [reittiopas](https://github.com/reitti/reittiopas)
-- [objection.js](https://github.com/Vincit/objection.js)
-- [IrssiNotifier](https://github.com/murgo/IrssiNotifier)
-- [guetzli](https://github.com/google/guetzli)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit)
-- [ASTE-Prototype](https://github.com/aste-hsc/ASTE-Prototype)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [space-tyckiting](https://github.com/futurice/space-tyckiting)
+- [digitransit-ui](https://github.com/HSLdevcom/digitransit-ui): Digitransit UI
+- [yle-dl](https://github.com/aajanki/yle-dl): Download videos from Yle servers
+- [potilastietojarjestelma](https://github.com/suomi/potilastietojarjestelma): 
+- [backend-best-practices](https://github.com/futurice/backend-best-practices): An evolving description of general best practic...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [reaktordevday](https://github.com/reaktor/reaktordevday): Reaktor Dev Day Registration
+- [avoinministerio](https://github.com/avoinministerio/avoinministerio): Avoin Ministeriö
+- [maksunappi](https://github.com/reaktor/maksunappi): A Node.js library for online payments in Finland.
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [node-tupas](https://github.com/reaktor/node-tupas): A configurable Node.js module for TUPAS identif...
+- [SecondReality](https://github.com/mtuomi/SecondReality): Source code and data of Second Reality by Futur...
+- [tktltiki2](https://github.com/UniversityHelsinkiTKTL/tktltiki2): Template for theses and seminar papers at Unive...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [kontena](https://github.com/kontena/kontena): The developer friendly container and micro serv...
+- [partial.lenses](https://github.com/calmm-js/partial.lenses): Partial lenses is a comprehensive, high-perform...
+- [jquery-continuous-calendar](https://github.com/continuouscalendar/jquery-continuous-calendar): Date picker and range selector with scrollable ...
+- [reittiopas](https://github.com/reitti/reittiopas): Ihan hyvä reittiopas
+- [objection.js](https://github.com/Vincit/objection.js): An SQL-friendly ORM for Node.js
+- [IrssiNotifier](https://github.com/murgo/IrssiNotifier): notifies android phones from irc private messages
+- [guetzli](https://github.com/google/guetzli): 
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit): Pepperoni - React Native App Starter Kit for An...
+- [ASTE-Prototype](https://github.com/aste-hsc/ASTE-Prototype): Prototype for ASTE -platform
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [space-tyckiting](https://github.com/futurice/space-tyckiting): Futurice Space Tyckiting: Earth Domination Tour

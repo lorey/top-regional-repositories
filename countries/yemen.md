@@ -1,29 +1,29 @@
 # Popular Repositories in Yemen
 
-These are the most-starred repositories from programmers based in Yemen:
+These are the repositories with the highest ratio of stars from programmers based in Yemen:
 
-- [fie](https://github.com/fieteam/fie)
-- [weex-components](https://github.com/weexteam/weex-components)
-- [distributed-graph-analytics](https://github.com/Sotera/distributed-graph-analytics)
-- [citrus](https://github.com/webx/citrus)
-- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist)
-- [poc](https://github.com/cflq3/poc)
-- [egit](https://github.com/eclipse/egit)
-- [mq-benchmarking](https://github.com/tylertreat/mq-benchmarking)
-- [hank](https://github.com/LiveRamp/hank)
-- [Flotilla](https://github.com/tylertreat/Flotilla)
-- [wasp](https://github.com/alibaba/wasp)
-- [Chronicle-Engine](https://github.com/OpenHFT/Chronicle-Engine)
-- [airlift](https://github.com/airlift/airlift)
-- [btrace](https://github.com/btraceio/btrace)
-- [StreamCQL](https://github.com/HuaweiBigData/StreamCQL)
-- [mdrill](https://github.com/alibaba/mdrill)
-- [jHiccup](https://github.com/giltene/jHiccup)
-- [vue-antd](https://github.com/okoala/vue-antd)
-- [IntruderPayloads](https://github.com/1N3/IntruderPayloads)
-- [mondrian](https://github.com/pentaho/mondrian)
-- [copy-webpack-plugin](https://github.com/kevlened/copy-webpack-plugin)
-- [resume](https://github.com/billryan/resume)
-- [activator](https://github.com/typesafehub/activator)
-- [mbassador](https://github.com/bennidi/mbassador)
-- [coordtransform](https://github.com/wandergis/coordtransform)
+- [fie](https://github.com/fieteam/fie): FIE前端工程化工具
+- [weex-components](https://github.com/weexteam/weex-components): 
+- [distributed-graph-analytics](https://github.com/Sotera/distributed-graph-analytics): Distributed Graph Analytics (DGA) is a compendi...
+- [citrus](https://github.com/webx/citrus): Java-based Web Framework for Alibaba Group
+- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist): 厂商黑名单
+- [poc](https://github.com/cflq3/poc): poc from bugscan beebeeto
+- [egit](https://github.com/eclipse/egit): Eclipse Git Team Provider (EGit) project reposi...
+- [mq-benchmarking](https://github.com/tylertreat/mq-benchmarking): Performance benchmarks for various message queues.
+- [hank](https://github.com/LiveRamp/hank): Hank is a high performance distributed key-valu...
+- [Flotilla](https://github.com/tylertreat/Flotilla): Automated message queue orchestration for scale...
+- [wasp](https://github.com/alibaba/wasp): megastore-like system
+- [Chronicle-Engine](https://github.com/OpenHFT/Chronicle-Engine): A high performance, low latency, reactive proce...
+- [airlift](https://github.com/airlift/airlift): Airlift framework for building REST services
+- [btrace](https://github.com/btraceio/btrace): BTrace - a safe, dynamic tracing tool for the J...
+- [StreamCQL](https://github.com/HuaweiBigData/StreamCQL): 
+- [mdrill](https://github.com/alibaba/mdrill): for千亿数据即席分析
+- [jHiccup](https://github.com/giltene/jHiccup): jHiccup is a non-intrusive instrumentation tool...
+- [vue-antd](https://github.com/okoala/vue-antd): Vue UI Component & Ant.Design
+- [IntruderPayloads](https://github.com/1N3/IntruderPayloads): A collection of Burpsuite Intruder payloads, fu...
+- [mondrian](https://github.com/pentaho/mondrian): Mondrian is an Online Analytical Processing (OL...
+- [copy-webpack-plugin](https://github.com/kevlened/copy-webpack-plugin): Copy files and directories in webpack
+- [resume](https://github.com/billryan/resume): An elegant \LaTeX\ résumé template
+- [activator](https://github.com/typesafehub/activator): Typesafe Activator
+- [mbassador](https://github.com/bennidi/mbassador): An event bus aiming at ease of use and performa...
+- [coordtransform](https://github.com/wandergis/coordtransform): 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换

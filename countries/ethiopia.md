@@ -1,29 +1,29 @@
 # Popular Repositories in Ethiopia
 
-These are the most-starred repositories from programmers based in Ethiopia:
+These are the repositories with the highest ratio of stars from programmers based in Ethiopia:
 
-- [jGeez](https://github.com/samqty/jGeez)
-- [community-home](https://github.com/Meteor-Addis/community-home)
-- [EthiopianChronology](https://github.com/andegna/EthiopianChronology)
-- [data](https://github.com/geezorg/data)
-- [slimv](https://github.com/kovisoft/slimv)
-- [vumi](https://github.com/praekelt/vumi)
-- [playSMS](https://github.com/antonraharja/playSMS)
-- [SimpleDropDownEffects](https://github.com/codrops/SimpleDropDownEffects)
-- [Sharp-Architecture](https://github.com/sharparchitecture/Sharp-Architecture)
-- [BluetoothSerial](https://github.com/don/BluetoothSerial)
-- [Vaprobash](https://github.com/fideloper/Vaprobash)
-- [pdf-reader](https://github.com/yob/pdf-reader)
-- [jdbg](https://github.com/gobezu/jdbg)
-- [homepage](https://github.com/vdv73rus/homepage)
-- [samba4_init_script](https://github.com/AchuM/samba4_init_script)
-- [MEAN-Customer-Orders](https://github.com/sarahzt/MEAN-Customer-Orders)
-- [Sample-Calendar](https://github.com/miheretab/Sample-Calendar)
-- [Tracks](https://github.com/CellMigStandOrg/Tracks)
-- [metatab](https://github.com/CivicKnowledge/metatab)
-- [electron-builder](https://github.com/mmckegg/electron-builder)
-- [CakePHP-Quickpay-Plugin](https://github.com/miheretab/CakePHP-Quickpay-Plugin)
-- [sample_app](https://github.com/grebbel/sample_app)
-- [jGeez](https://github.com/yareda/jGeez)
-- [woocommerce-pos](https://github.com/wp-plugins/woocommerce-pos)
-- [docs](https://github.com/SoundCTL/docs)
+- [jGeez](https://github.com/samqty/jGeez): The Source code for jGeez library
+- [community-home](https://github.com/Meteor-Addis/community-home): The community home site for Meteor Addis Ababa.
+- [EthiopianChronology](https://github.com/andegna/EthiopianChronology): EthiopianChronology is simply a library designe...
+- [data](https://github.com/geezorg/data): Lexical Data of Ge'ez Languages
+- [slimv](https://github.com/kovisoft/slimv): Official mirror of Slimv versions released on v...
+- [vumi](https://github.com/praekelt/vumi): Messaging engine for the delivery of SMS, Star ...
+- [playSMS](https://github.com/antonraharja/playSMS): playSMS is a flexible Web-based Mobile Portal S...
+- [SimpleDropDownEffects](https://github.com/codrops/SimpleDropDownEffects): A jQuery plugin for transforming select inputs ...
+- [Sharp-Architecture](https://github.com/sharparchitecture/Sharp-Architecture): S#arp Architecture: ASP.NET MVC Best Practices ...
+- [BluetoothSerial](https://github.com/don/BluetoothSerial): Cordova (PhoneGap) Plugin for Serial Communicat...
+- [Vaprobash](https://github.com/fideloper/Vaprobash): Vagrant Provisioning Bash Scripts
+- [pdf-reader](https://github.com/yob/pdf-reader): The PDF::Reader library implements a PDF parser...
+- [jdbg](https://github.com/gobezu/jdbg): Joomla! debugging tool
+- [homepage](https://github.com/vdv73rus/homepage): Homepage
+- [samba4_init_script](https://github.com/AchuM/samba4_init_script): Samba4 init script for Debian Wheezy 
+- [MEAN-Customer-Orders](https://github.com/sarahzt/MEAN-Customer-Orders): Dashboard that manages products, customers and ...
+- [Sample-Calendar](https://github.com/miheretab/Sample-Calendar): It is Calendar done in CakePHP, the application...
+- [Tracks](https://github.com/CellMigStandOrg/Tracks): Repository for Tracks specification
+- [metatab](https://github.com/CivicKnowledge/metatab): Common files for parsing Metatab files
+- [electron-builder](https://github.com/mmckegg/electron-builder): A complete solution to package and build a read...
+- [CakePHP-Quickpay-Plugin](https://github.com/miheretab/CakePHP-Quickpay-Plugin): It is CakePHP-Quickpay-Plugin done based on Qui...
+- [sample_app](https://github.com/grebbel/sample_app): Ruby on Rails Tutorial sample application
+- [jGeez](https://github.com/yareda/jGeez): 
+- [woocommerce-pos](https://github.com/wp-plugins/woocommerce-pos): WordPress.org Plugin Mirror
+- [docs](https://github.com/SoundCTL/docs): SoundCTL Documentation

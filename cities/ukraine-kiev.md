@@ -1,29 +1,29 @@
 # Popular Repositories in Kiev
 
-These are the most-starred repositories from programmers based in Kiev:
+These are the repositories with the highest ratio of stars from programmers based in Kiev:
 
-- [i](https://github.com/e-government-ua/i)
-- [bandera-layout](https://github.com/muromec/bandera-layout)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [dict_uk](https://github.com/brown-uk/dict_uk)
-- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [react-essential-course](https://github.com/krambertech/react-essential-course)
-- [localstack](https://github.com/atlassian/localstack)
-- [dm](https://github.com/olexiim/dm)
-- [vagga](https://github.com/tailhook/vagga)
-- [dictionary](https://github.com/web-standards-ru/dictionary)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [ctop](https://github.com/bcicen/ctop)
-- [Letters](https://github.com/HowProgrammingWorks/Letters)
-- [YoptaScript](https://github.com/samgozman/YoptaScript)
-- [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard)
-- [trafaret](https://github.com/Deepwalker/trafaret)
-- [Impress](https://github.com/metarhia/Impress)
-- [reactide](https://github.com/reactide/reactide)
-- [social-likes](https://github.com/sapegin/social-likes)
-- [rocker-compose](https://github.com/grammarly/rocker-compose)
-- [yandex-tank](https://github.com/yandex/yandex-tank)
-- [web](https://github.com/Kottans/web)
-- [frontend-whitelist](https://github.com/melnik909/frontend-whitelist)
+- [i](https://github.com/e-government-ua/i): iGov.org.ua - Основной репозиторий
+- [bandera-layout](https://github.com/muromec/bandera-layout): Cyrillic bilingual keyboard
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [dict_uk](https://github.com/brown-uk/dict_uk): Project to generate POS tag dictionary for Ukra...
+- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats): This repo contains a list of various russian-sp...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [react-essential-course](https://github.com/krambertech/react-essential-course): ITVDN - React Essential course materials
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [dm](https://github.com/olexiim/dm): Матеріали курсу "Дискретна математика", який чи...
+- [vagga](https://github.com/tailhook/vagga): Vagga is a containerization tool without daemons
+- [dictionary](https://github.com/web-standards-ru/dictionary): Словарь терминов по фронтенду
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Letters](https://github.com/HowProgrammingWorks/Letters): Письма к студентам курса
+- [YoptaScript](https://github.com/samgozman/YoptaScript): Скриптовый язык программирования для гопников и...
+- [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard): Copy stuff into clipboard using JS
+- [trafaret](https://github.com/Deepwalker/trafaret): validate arbitrary data structures in python
+- [Impress](https://github.com/metarhia/Impress): Application Server for NodeJS, scaling, highloa...
+- [reactide](https://github.com/reactide/reactide): 
+- [social-likes](https://github.com/sapegin/social-likes): Beautiful social “like” buttons with counters f...
+- [rocker-compose](https://github.com/grammarly/rocker-compose): Docker composition tool with idempotency featur...
+- [yandex-tank](https://github.com/yandex/yandex-tank): Load and performance benchmark tool
+- [web](https://github.com/Kottans/web): :octocat: Kottans web course 🎓 (no worries all ...
+- [frontend-whitelist](https://github.com/melnik909/frontend-whitelist): Frontend WhiteList — это список полезных ресурс...

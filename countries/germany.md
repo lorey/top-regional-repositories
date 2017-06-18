@@ -1,29 +1,29 @@
 # Popular Repositories in Germany
 
-These are the most-starred repositories from programmers based in Germany:
+These are the repositories with the highest ratio of stars from programmers based in Germany:
 
-- [ctop](https://github.com/bcicen/ctop)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [gesetze](https://github.com/bundestag/gesetze)
-- [localstack](https://github.com/atlassian/localstack)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [guetzli](https://github.com/google/guetzli)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [shariff](https://github.com/heiseonline/shariff)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [python-fire](https://github.com/google/python-fire)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [Gutenberg](https://github.com/BafS/Gutenberg)
-- [de_faq](https://github.com/ewgRa/de_faq)
-- [reactide](https://github.com/reactide/reactide)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [shopware](https://github.com/shopware/shopware)
-- [postal](https://github.com/atech/postal)
-- [redux-offline](https://github.com/jevakallio/redux-offline)
-- [mastodon](https://github.com/tootsuite/mastodon)
-- [upspin](https://github.com/upspin/upspin)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [gdbgui](https://github.com/cs01/gdbgui)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [gesetze](https://github.com/bundestag/gesetze): Bundesgesetze und -verordnungen
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [guetzli](https://github.com/google/guetzli): 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [shariff](https://github.com/heiseonline/shariff): Shariff enables website users to share their fa...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [Gutenberg](https://github.com/BafS/Gutenberg): Modern framework to print correctly. 
+- [de_faq](https://github.com/ewgRa/de_faq): Полезная информация о жизни в Германии
+- [reactide](https://github.com/reactide/reactide): 
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [shopware](https://github.com/shopware/shopware): Shopware Repository
+- [postal](https://github.com/atech/postal): A fully featured open source mail delivery plat...
+- [redux-offline](https://github.com/jevakallio/redux-offline): :coffee: Something brewing here. Come back later.
+- [mastodon](https://github.com/tootsuite/mastodon): A GNU Social-compatible microblogging server
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [gdbgui](https://github.com/cs01/gdbgui): A modern, browser-based frontend to gdb (gnu de...
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups

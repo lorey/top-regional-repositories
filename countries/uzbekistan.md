@@ -1,29 +1,29 @@
 # Popular Repositories in Uzbekistan
 
-These are the most-starred repositories from programmers based in Uzbekistan:
+These are the repositories with the highest ratio of stars from programmers based in Uzbekistan:
 
-- [choyjs](https://github.com/WebStyle/choyjs)
-- [devon](https://github.com/muminoff/devon)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [php-telegram-bot](https://github.com/akalongman/php-telegram-bot)
-- [jii](https://github.com/jiisoft/jii)
-- [telegram-list](https://github.com/goq/telegram-list)
-- [yesql-bundle](https://github.com/olimsaidov/yesql-bundle)
-- [Polls-App-using-Django](https://github.com/AbduazizKayumov/Polls-App-using-Django)
-- [RSA](https://github.com/AbduazizKayumov/RSA)
-- [Django-rest-framework-app](https://github.com/AbduazizKayumov/Django-rest-framework-app)
-- [colorized-mahalla](https://github.com/muminoff/colorized-mahalla)
-- [IUT-E-class](https://github.com/ozodrukh/IUT-E-class)
-- [Gilde](https://github.com/AbduazizKayumov/Gilde)
-- [workly](https://github.com/workly-uz/workly)
-- [paycom-integration-php-template](https://github.com/umidjons/paycom-integration-php-template)
-- [progit2-uz](https://github.com/progit/progit2-uz)
-- [timepicker](https://github.com/WebStyle/timepicker)
-- [go-tour-uz](https://github.com/faxriddin/go-tour-uz)
-- [potrans](https://github.com/OzzyCzech/potrans)
-- [SketchSize](https://github.com/samlfsun/SketchSize)
-- [TDesktop-Dark-Theme](https://github.com/Recouse/TDesktop-Dark-Theme)
-- [algoliasearch-django](https://github.com/algolia/algoliasearch-django)
-- [the-eggs-ios](https://github.com/mgrebenets/the-eggs-ios)
-- [clean-code-javascript-ru](https://github.com/BoryaMogila/clean-code-javascript-ru)
-- [IPTools](https://github.com/S1lentium/IPTools)
+- [choyjs](https://github.com/WebStyle/choyjs): Sodda va moslashuvchan JavaScript freymvork.
+- [devon](https://github.com/muminoff/devon): Uzbek NLP library
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [php-telegram-bot](https://github.com/akalongman/php-telegram-bot): PHP Telegram Bot based on the official Telegram...
+- [jii](https://github.com/jiisoft/jii): Full-Stack JavaScript Framework architecture ba...
+- [telegram-list](https://github.com/goq/telegram-list): List of telegram groups, channels & bots // Спи...
+- [yesql-bundle](https://github.com/olimsaidov/yesql-bundle): Yesql Bundle
+- [Polls-App-using-Django](https://github.com/AbduazizKayumov/Polls-App-using-Django): 
+- [RSA](https://github.com/AbduazizKayumov/RSA): RSA Public Key Cryptosystem
+- [Django-rest-framework-app](https://github.com/AbduazizKayumov/Django-rest-framework-app): 
+- [colorized-mahalla](https://github.com/muminoff/colorized-mahalla): Colorizing grayscale images with neural networks
+- [IUT-E-class](https://github.com/ozodrukh/IUT-E-class): application for eclass.inha.uz 
+- [Gilde](https://github.com/AbduazizKayumov/Gilde): 
+- [workly](https://github.com/workly-uz/workly): Workly is the time & attendance solution for yo...
+- [paycom-integration-php-template](https://github.com/umidjons/paycom-integration-php-template): Set of classes to easy integration with Paycom ...
+- [progit2-uz](https://github.com/progit/progit2-uz): Pro Git (uz)
+- [timepicker](https://github.com/WebStyle/timepicker): Demo 
+- [go-tour-uz](https://github.com/faxriddin/go-tour-uz): 
+- [potrans](https://github.com/OzzyCzech/potrans): Command line tool for translate Gettext with Go...
+- [SketchSize](https://github.com/samlfsun/SketchSize): A Sketch plugin that lets you resize your desig...
+- [TDesktop-Dark-Theme](https://github.com/Recouse/TDesktop-Dark-Theme): Telegram Desktop Dark Theme
+- [algoliasearch-django](https://github.com/algolia/algoliasearch-django): Seamless integration of Algolia into your Djang...
+- [the-eggs-ios](https://github.com/mgrebenets/the-eggs-ios): Just you wait! (Ну, погоди!) - iOS version of 8...
+- [clean-code-javascript-ru](https://github.com/BoryaMogila/clean-code-javascript-ru): 
+- [IPTools](https://github.com/S1lentium/IPTools): PHP Library for manipulating network addresses ...

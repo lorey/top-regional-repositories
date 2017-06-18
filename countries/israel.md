@@ -1,29 +1,29 @@
 # Popular Repositories in Israel
 
-These are the most-starred repositories from programmers based in Israel:
+These are the repositories with the highest ratio of stars from programmers based in Israel:
 
-- [Open-Knesset](https://github.com/hasadna/Open-Knesset)
-- [Open-Knesset](https://github.com/ofri/Open-Knesset)
-- [bit](https://github.com/teambit/bit)
-- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups)
-- [petri](https://github.com/wix/petri)
-- [ISIS.js](https://github.com/DanielGorlo/ISIS.js)
-- [free-haaretz](https://github.com/yuvadm/free-haaretz)
-- [xbmc-israel](https://github.com/cubicle-vdo/xbmc-israel)
-- [localstack](https://github.com/atlassian/localstack)
-- [reactide](https://github.com/reactide/reactide)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [mimic](https://github.com/500tech/mimic)
-- [ctop](https://github.com/bcicen/ctop)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [openmuni-budgets](https://github.com/hasadna/openmuni-budgets)
-- [slim.js](https://github.com/eavichay/slim.js)
-- [Incheon](https://github.com/OpherV/Incheon)
-- [Cartiv](https://github.com/yonatanmn/Cartiv)
-- [magneto](https://github.com/MagnetoTesting/magneto)
-- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl)
-- [python-fire](https://github.com/google/python-fire)
-- [atom-go](https://github.com/ironSource/atom-go)
-- [react-templates](https://github.com/wix/react-templates)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [joola](https://github.com/joola/joola)
+- [Open-Knesset](https://github.com/hasadna/Open-Knesset): A project aimed at making the Israeli Knesset m...
+- [Open-Knesset](https://github.com/ofri/Open-Knesset): ** The official repo is at https://github.com/h...
+- [bit](https://github.com/teambit/bit): ⚡⚡ Distributed code component manager. 
+- [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups): security tips for startups
+- [petri](https://github.com/wix/petri): Wix experiment system (A/B test and feature tog...
+- [ISIS.js](https://github.com/DanielGorlo/ISIS.js): ISIS.js
+- [free-haaretz](https://github.com/yuvadm/free-haaretz): A nefarious browser extension that easily bypas...
+- [xbmc-israel](https://github.com/cubicle-vdo/xbmc-israel): XBMC Israeli streaming repo for streaming sites
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [reactide](https://github.com/reactide/reactide): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [mimic](https://github.com/500tech/mimic): Seamless client side mocking
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [openmuni-budgets](https://github.com/hasadna/openmuni-budgets): A web app and web API for storing, accessing, v...
+- [slim.js](https://github.com/eavichay/slim.js): Slim web components infrastructure
+- [Incheon](https://github.com/OpherV/Incheon): Multiplayer game server based on Node.JS
+- [Cartiv](https://github.com/yonatanmn/Cartiv): Super simple implementation of flux architectur...
+- [magneto](https://github.com/MagnetoTesting/magneto): Android Test Automation
+- [bootstrap-rtl](https://github.com/morteza/bootstrap-rtl): RTL Theme for Bootstrap v3.x
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [atom-go](https://github.com/ironSource/atom-go): ironSource.atom SDK for Go
+- [react-templates](https://github.com/wix/react-templates): Light weight templates for react
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [joola](https://github.com/joola/joola): Data middleware for building custom analytics a...

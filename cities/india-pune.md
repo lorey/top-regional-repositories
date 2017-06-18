@@ -1,29 +1,29 @@
 # Popular Repositories in Pune
 
-These are the most-starred repositories from programmers based in Pune:
+These are the repositories with the highest ratio of stars from programmers based in Pune:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [code-curiosity](https://github.com/joshsoftware/code-curiosity)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [rtMedia](https://github.com/rtMediaWP/rtMedia)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [ideahub](https://github.com/punerb/ideahub)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [rtpanel-child-theme](https://github.com/rtCamp/rtpanel-child-theme)
-- [rtpanel](https://github.com/rtCamp/rtpanel)
-- [algorithms](https://github.com/keon/algorithms)
-- [reactide](https://github.com/reactide/reactide)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [restfiddle](https://github.com/AnujaK/restfiddle)
-- [easyengine](https://github.com/EasyEngine/easyengine)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [frappe](https://github.com/frappe/frappe)
-- [Generatrix](https://github.com/leftshifters/Generatrix)
-- [dotemacs](https://github.com/ghoseb/dotemacs)
-- [realworld](https://github.com/gothinkster/realworld)
-- [AlgoWiki](https://github.com/vicky002/AlgoWiki)
-- [feather_cms](https://github.com/joshsoftware/feather_cms)
-- [rtsocial](https://github.com/rtCamp/rtsocial)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [code-curiosity](https://github.com/joshsoftware/code-curiosity): Open-source is now fun and rewarding! 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [rtMedia](https://github.com/rtMediaWP/rtMedia): rtMedia (formerly Buddypress Media) adds advanc...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [ideahub](https://github.com/punerb/ideahub): Josh Open Source Friday's
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [rtpanel-child-theme](https://github.com/rtCamp/rtpanel-child-theme): Example child theme for rtPanel wordpress theme...
+- [rtpanel](https://github.com/rtCamp/rtpanel): WordPress Theme Framework
+- [algorithms](https://github.com/keon/algorithms): :bulb: Minimal and clean examples of data struc...
+- [reactide](https://github.com/reactide/reactide): 
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [restfiddle](https://github.com/AnujaK/restfiddle): An Enterprise-grade API Management Platform for...
+- [easyengine](https://github.com/EasyEngine/easyengine): Command-line control panel for Nginx Server to ...
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer): Free resources for learning Full Stack Web Deve...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [frappe](https://github.com/frappe/frappe): Full Stack Web Framework in Python & JS. Used t...
+- [Generatrix](https://github.com/leftshifters/Generatrix): A PHP5 based MVC framework with Datbase Mapping...
+- [dotemacs](https://github.com/ghoseb/dotemacs): BG's custom Emacs setup
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [AlgoWiki](https://github.com/vicky002/AlgoWiki): :globe_with_meridians: Repository which contain...
+- [feather_cms](https://github.com/joshsoftware/feather_cms): Feather CMS is a lightweight CMS 
+- [rtsocial](https://github.com/rtCamp/rtsocial): rtSocial is lightest wordpress plugin for faceb...

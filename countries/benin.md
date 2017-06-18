@@ -1,29 +1,29 @@
 # Popular Repositories in Benin
 
-These are the most-starred repositories from programmers based in Benin:
+These are the repositories with the highest ratio of stars from programmers based in Benin:
 
-- [talks](https://github.com/PixelsCamp/talks)
-- [lists](https://github.com/myIPTVChannels/lists)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [autism](https://github.com/Mindera/autism)
-- [muton](https://github.com/Mindera/muton)
-- [docs](https://github.com/PixelsCamp/docs)
-- [mucuchies](https://github.com/ShiftForward/mucuchies)
-- [spruce-android](https://github.com/willowtreeapps/spruce-android)
-- [docker](https://github.com/tcaxias/docker)
-- [hardwarecity_foosball](https://github.com/ruimartinsptl/hardwarecity_foosball)
-- [ReactiveFacebook](https://github.com/YouClap/ReactiveFacebook)
-- [postcss-caralho](https://github.com/SaraVieira/postcss-caralho)
-- [project-workflow](https://github.com/joaobborges/project-workflow)
-- [CafeEdenApp](https://github.com/NetoPedro/CafeEdenApp)
-- [Kinect-General-Hackery-and-Game-Development](https://github.com/FranciscoPinto/Kinect-General-Hackery-and-Game-Development)
-- [verify-js](https://github.com/yconoclast/verify-js)
-- [guardian_sim](https://github.com/RobotnikAutomation/guardian_sim)
-- [guardian_robot](https://github.com/RobotnikAutomation/guardian_robot)
-- [droppin-bars](https://github.com/antoniocapelo/droppin-bars)
-- [skeletoid](https://github.com/Mindera/skeletoid)
-- [feup-contests](https://github.com/ferrolho/feup-contests)
-- [latte-pageobject](https://github.com/Mindera/latte-pageobject)
-- [angularStates](https://github.com/Mindera/angularStates)
-- [ReactiveDemo](https://github.com/NSCoimbra/ReactiveDemo)
-- [realjenius.com](https://github.com/realjenius/realjenius.com)
+- [talks](https://github.com/PixelsCamp/talks): Talks
+- [lists](https://github.com/myIPTVChannels/lists): A portuguese community of IPTV channels.
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [autism](https://github.com/Mindera/autism): This platform enables parents, care takers or v...
+- [muton](https://github.com/Mindera/muton): A feature toggle tool with support for feature ...
+- [docs](https://github.com/PixelsCamp/docs): General Information about Pixels Camp 2016
+- [mucuchies](https://github.com/ShiftForward/mucuchies): A client-side dashboard
+- [spruce-android](https://github.com/willowtreeapps/spruce-android): Spruce Animation Library
+- [docker](https://github.com/tcaxias/docker): Some docker files
+- [hardwarecity_foosball](https://github.com/ruimartinsptl/hardwarecity_foosball): 
+- [ReactiveFacebook](https://github.com/YouClap/ReactiveFacebook): Reactive Extensions for Facebook Swift SDK
+- [postcss-caralho](https://github.com/SaraVieira/postcss-caralho): This PostCSS plugin replaces !important with !c...
+- [project-workflow](https://github.com/joaobborges/project-workflow): Project Worflow
+- [CafeEdenApp](https://github.com/NetoPedro/CafeEdenApp): Application to a Portuguese Restaurant/Cafe/Sna...
+- [Kinect-General-Hackery-and-Game-Development](https://github.com/FranciscoPinto/Kinect-General-Hackery-and-Game-Development): Part of Codebits V's 48h nonstop programming co...
+- [verify-js](https://github.com/yconoclast/verify-js): Verify all kind of data using Promises (Object,...
+- [guardian_sim](https://github.com/RobotnikAutomation/guardian_sim): ROS packages for the mobile robot Guardian (sim...
+- [guardian_robot](https://github.com/RobotnikAutomation/guardian_robot): ROS packages for the mobile robot Guardian
+- [droppin-bars](https://github.com/antoniocapelo/droppin-bars): Droppin' Bars - Simple CSS Responsive Grid
+- [skeletoid](https://github.com/Mindera/skeletoid): An utils library for Android applications 🤖 mad...
+- [feup-contests](https://github.com/ferrolho/feup-contests): A repository to host students resolutions of pr...
+- [latte-pageobject](https://github.com/Mindera/latte-pageobject): Create your page objects with a fluid, creamy a...
+- [angularStates](https://github.com/Mindera/angularStates): Angular JS Service for managing service states ...
+- [ReactiveDemo](https://github.com/NSCoimbra/ReactiveDemo): ReactiveDemo for NSCoimbra
+- [realjenius.com](https://github.com/realjenius/realjenius.com): realjenius.com

@@ -1,29 +1,29 @@
 # Popular Repositories in Sudan
 
-These are the most-starred repositories from programmers based in Sudan:
+These are the repositories with the highest ratio of stars from programmers based in Sudan:
 
-- [openngo](https://github.com/Eptikar-IT-Solutions/openngo)
-- [sticky](https://github.com/ControlledChaos/sticky)
-- [peerjs-server](https://github.com/hamidabdulmalik/peerjs-server)
-- [hearhere](https://github.com/augustblack/hearhere)
-- [Leaflet](https://github.com/amiin211/Leaflet)
-- [impanyu.github.io](https://github.com/impanyu/impanyu.github.io)
-- [sinatra-cors-example](https://github.com/pfeilbr/sinatra-cors-example)
-- [highly-nested-resources](https://github.com/laravelista/highly-nested-resources)
-- [licensebox](https://github.com/Appray/licensebox)
-- [radio](https://github.com/windhamdavid/radio)
-- [subway](https://github.com/Anassdev/subway)
-- [jquery-imageprojection](https://github.com/widatama/jquery-imageprojection)
-- [Scroll-Infinite-ListView-Plugin](https://github.com/fabian7593/Scroll-Infinite-ListView-Plugin)
-- [wpml-term-meta](https://github.com/OnTheGoSystems/wpml-term-meta)
-- [jquery.randomClassJS](https://github.com/cjthedizzy/jquery.randomClassJS)
-- [Semantic-UI-Admin](https://github.com/ershagen/Semantic-UI-Admin)
-- [events-grid](https://github.com/sunilw/events-grid)
-- [v-sharp](https://github.com/phroggyy/v-sharp)
-- [Cinnamon-sound-with-apps-volume](https://github.com/Koutch/Cinnamon-sound-with-apps-volume)
-- [laravel-roles](https://github.com/appzcoder/laravel-roles)
-- [js-data-localforage](https://github.com/js-data/js-data-localforage)
-- [node_mediasite](https://github.com/ricardoalcocer/node_mediasite)
-- [video-chat](https://github.com/mertkahyaoglu/video-chat)
-- [cmb2-fontawesome-icon-picker](https://github.com/theKhorshed/cmb2-fontawesome-icon-picker)
-- [ng-lovefield](https://github.com/kutomer/ng-lovefield)
+- [openngo](https://github.com/Eptikar-IT-Solutions/openngo): OpenNGO is a platform to help NGOs better help ...
+- [sticky](https://github.com/ControlledChaos/sticky): jQuery Plugin for Sticky Objects
+- [peerjs-server](https://github.com/hamidabdulmalik/peerjs-server): Server for PeerJS
+- [hearhere](https://github.com/augustblack/hearhere): Hearhere is a user-centric radio application ba...
+- [Leaflet](https://github.com/amiin211/Leaflet): JavaScript library for mobile-friendly interact...
+- [impanyu.github.io](https://github.com/impanyu/impanyu.github.io): only for testing purpose
+- [sinatra-cors-example](https://github.com/pfeilbr/sinatra-cors-example): Sinatra CORS Example
+- [highly-nested-resources](https://github.com/laravelista/highly-nested-resources): This lesson will help you understand and handle...
+- [licensebox](https://github.com/Appray/licensebox): 
+- [radio](https://github.com/windhamdavid/radio): Audio Streaming, Chat, WebRTC & Charts
+- [subway](https://github.com/Anassdev/subway): Subway is a set of 306 pixel perfect crafted ic...
+- [jquery-imageprojection](https://github.com/widatama/jquery-imageprojection): Jquery plugin for simulating image projection
+- [Scroll-Infinite-ListView-Plugin](https://github.com/fabian7593/Scroll-Infinite-ListView-Plugin): A infinite scroll list view in android.
+- [wpml-term-meta](https://github.com/OnTheGoSystems/wpml-term-meta): 
+- [jquery.randomClassJS](https://github.com/cjthedizzy/jquery.randomClassJS): A jQuery plugin that generates randomly numbere...
+- [Semantic-UI-Admin](https://github.com/ershagen/Semantic-UI-Admin): Admin panel created with Semantic UI
+- [events-grid](https://github.com/sunilw/events-grid): Isotope grid layout Modern Tribe's Events Calendar
+- [v-sharp](https://github.com/phroggyy/v-sharp): A brand new programming language made to fix ev...
+- [Cinnamon-sound-with-apps-volume](https://github.com/Koutch/Cinnamon-sound-with-apps-volume): This is a fork of the original Cinnamon sound a...
+- [laravel-roles](https://github.com/appzcoder/laravel-roles): This package is DEPRECATED in favour of laravel...
+- [js-data-localforage](https://github.com/js-data/js-data-localforage): localforage adapter for js-data
+- [node_mediasite](https://github.com/ricardoalcocer/node_mediasite): Node-based media server and client
+- [video-chat](https://github.com/mertkahyaoglu/video-chat): Simple Video Chat with React and Peerjs
+- [cmb2-fontawesome-icon-picker](https://github.com/theKhorshed/cmb2-fontawesome-icon-picker): Custom field to pick icon from fontawesome icons.
+- [ng-lovefield](https://github.com/kutomer/ng-lovefield): This is an angular wrapper for the lovefield pr...

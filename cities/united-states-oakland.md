@@ -1,29 +1,29 @@
 # Popular Repositories in Oakland
 
-These are the most-starred repositories from programmers based in Oakland:
+These are the repositories with the highest ratio of stars from programmers based in Oakland:
 
-- [oakland](https://github.com/nodeschool/oakland)
-- [workshops](https://github.com/cyberwizardinstitute/workshops)
-- [handbook](https://github.com/clef/handbook)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [opendisclosure](https://github.com/openoakland/opendisclosure)
-- [localstack](https://github.com/atlassian/localstack)
-- [python-fire](https://github.com/google/python-fire)
-- [ctop](https://github.com/bcicen/ctop)
-- [sudo-humans](https://github.com/sudoroom/sudo-humans)
-- [keyboard_shortcuts](https://github.com/joshwyatt/keyboard_shortcuts)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [bridge_troll](https://github.com/railsbridge/bridge_troll)
-- [openbudgetoakland](https://github.com/openoakland/openbudgetoakland)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [service-workers](https://github.com/pinterest/service-workers)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [npmd](https://github.com/dominictarr/npmd)
-- [prophet](https://github.com/facebookincubator/prophet)
-- [javascript-koans](https://github.com/mrdavidlaing/javascript-koans)
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
-- [women-in-software-eng](https://github.com/triketora/women-in-software-eng)
-- [node-midi](https://github.com/justinlatimer/node-midi)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [nave](https://github.com/isaacs/nave)
-- [omnicommons.org](https://github.com/omnicommons/omnicommons.org)
+- [oakland](https://github.com/nodeschool/oakland): Discussion for the Oakland chapter of NodeSchool
+- [workshops](https://github.com/cyberwizardinstitute/workshops): lecture notes for cyberwizard workshops
+- [handbook](https://github.com/clef/handbook): An employee handbook built for inclusion
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [opendisclosure](https://github.com/openoakland/opendisclosure): THIS PROJECT IS UNMAINTAINED - SEE: https://git...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [sudo-humans](https://github.com/sudoroom/sudo-humans): hackerspace membership server
+- [keyboard_shortcuts](https://github.com/joshwyatt/keyboard_shortcuts): These are some of my favorite keyboard shorcuts
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [bridge_troll](https://github.com/railsbridge/bridge_troll): Event management system for all the Bridges (Ra...
+- [openbudgetoakland](https://github.com/openoakland/openbudgetoakland): Visualizations of Oakland's budget data, and ex...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [service-workers](https://github.com/pinterest/service-workers): A collection of utilities for creating/testing/...
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [npmd](https://github.com/dominictarr/npmd): 
+- [prophet](https://github.com/facebookincubator/prophet): Tool for producing high quality forecasts for t...
+- [javascript-koans](https://github.com/mrdavidlaing/javascript-koans): Koans to learn Javascript
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 💥 A curated list of Terminal frameworks, plugin...
+- [women-in-software-eng](https://github.com/triketora/women-in-software-eng): Crowdsourced repository of women in software en...
+- [node-midi](https://github.com/justinlatimer/node-midi): A node.js wrapper for RtMidi providing MIDI I/O
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [nave](https://github.com/isaacs/nave): 
+- [omnicommons.org](https://github.com/omnicommons/omnicommons.org): The Omni Commons website!

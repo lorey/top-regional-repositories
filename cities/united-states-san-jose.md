@@ -1,29 +1,29 @@
 # Popular Repositories in San Jose
 
-These are the most-starred repositories from programmers based in San Jose:
+These are the repositories with the highest ratio of stars from programmers based in San Jose:
 
-- [Interviews](https://github.com/kdn251/Interviews)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [gravity](https://github.com/marcobambini/gravity)
-- [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)
-- [python-fire](https://github.com/google/python-fire)
-- [localstack](https://github.com/atlassian/localstack)
-- [gdbgui](https://github.com/cs01/gdbgui)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [upspin](https://github.com/upspin/upspin)
-- [interview](https://github.com/andreis/interview)
-- [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-- [libcxx](https://github.com/llvm-mirror/libcxx)
-- [gitx](https://github.com/pieter/gitx)
-- [reactide](https://github.com/reactide/reactide)
-- [ctci](https://github.com/careercup/ctci)
-- [rend](https://github.com/Netflix/rend)
-- [guetzli](https://github.com/google/guetzli)
-- [realtime-analytics](https://github.com/pulsarIO/realtime-analytics)
-- [iaito](https://github.com/hteso/iaito)
-- [electrode-react-webapp](https://github.com/electrodejs/electrode-react-webapp)
-- [wmd](https://github.com/openlibrary/wmd)
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [gravity](https://github.com/marcobambini/gravity): Gravity Programming Language
+- [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition): Cracking the Coding Interview 6th Ed. Solutions
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [gdbgui](https://github.com/cs01/gdbgui): A modern, browser-based frontend to gdb (gnu de...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [upspin](https://github.com/upspin/upspin): Upspin
+- [interview](https://github.com/andreis/interview): Everything you need to kick ass on your coding ...
+- [system-design-interview](https://github.com/checkcheckzz/system-design-interview): System design interview for IT company
+- [libcxx](https://github.com/llvm-mirror/libcxx): Mirror of official libcxx git repository locate...
+- [gitx](https://github.com/pieter/gitx): A gitk clone for OS X
+- [reactide](https://github.com/reactide/reactide): 
+- [ctci](https://github.com/careercup/ctci): Cracking the Coding Interview, 5th Edition
+- [rend](https://github.com/Netflix/rend): A memcached proxy that manages data chunking an...
+- [guetzli](https://github.com/google/guetzli): 
+- [realtime-analytics](https://github.com/pulsarIO/realtime-analytics): Realtime analytics, this includes the core comp...
+- [iaito](https://github.com/hteso/iaito): A Qt and C++ GUI for radare2 reverse engineerin...
+- [electrode-react-webapp](https://github.com/electrodejs/electrode-react-webapp): Hapi plugin that provides a default React web a...
+- [wmd](https://github.com/openlibrary/wmd): Open Library branch of WMD.

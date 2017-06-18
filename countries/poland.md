@@ -1,29 +1,29 @@
 # Popular Repositories in Poland
 
-These are the most-starred repositories from programmers based in Poland:
+These are the repositories with the highest ratio of stars from programmers based in Poland:
 
-- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa)
-- [Kalkulator1](https://github.com/wybory2014/Kalkulator1)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [openpkw](https://github.com/openpkw/openpkw)
-- [ctop](https://github.com/bcicen/ctop)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [reactide](https://github.com/reactide/reactide)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [localstack](https://github.com/atlassian/localstack)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [hermes](https://github.com/allegro/hermes)
-- [otwartasiec](https://github.com/ferrante/otwartasiec)
-- [python-fire](https://github.com/google/python-fire)
-- [qnapi](https://github.com/QNapi/qnapi)
-- [karafka](https://github.com/karafka/karafka)
-- [jvm-bloggers](https://github.com/jvm-bloggers/jvm-bloggers)
-- [ralph](https://github.com/allegro/ralph)
-- [tipboard](https://github.com/allegro/tipboard)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [mydrinks](https://github.com/norzechowicz/mydrinks)
-- [ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2)
-- [planck.js](https://github.com/shakiba/planck.js)
-- [axion-release-plugin](https://github.com/allegro/axion-release-plugin)
-- [dumplie](https://github.com/dumplie/dumplie)
+- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa): A sample project containing usefull verbose ali...
+- [Kalkulator1](https://github.com/wybory2014/Kalkulator1): 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [openpkw](https://github.com/openpkw/openpkw): Ogólny opis systemu, dokumentacja
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [reactide](https://github.com/reactide/reactide): 
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [hermes](https://github.com/allegro/hermes): Fast and reliable message broker built on top o...
+- [otwartasiec](https://github.com/ferrante/otwartasiec): 
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [qnapi](https://github.com/QNapi/qnapi): Qt-based, multi-engine, multi-platform subtitle...
+- [karafka](https://github.com/karafka/karafka): Framework used to simplify Apache Kafka based R...
+- [jvm-bloggers](https://github.com/jvm-bloggers/jvm-bloggers): JVM Bloggers Core Project - contains core logic...
+- [ralph](https://github.com/allegro/ralph): Ralph is an asset management system for your da...
+- [tipboard](https://github.com/allegro/tipboard): Tipboard - in-house, tasty, local dashboarding ...
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [mydrinks](https://github.com/norzechowicz/mydrinks): 
+- [ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2): DDD-CqRS sample v2.0 project that helps you wit...
+- [planck.js](https://github.com/shakiba/planck.js): 2D physics engine for cross-platform JavaScript...
+- [axion-release-plugin](https://github.com/allegro/axion-release-plugin): Gradle release & version management plugin.
+- [dumplie](https://github.com/dumplie/dumplie): First ecommerce framework

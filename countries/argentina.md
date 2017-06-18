@@ -1,29 +1,29 @@
 # Popular Repositories in Argentina
 
-These are the most-starred repositories from programmers based in Argentina:
+These are the repositories with the highest ratio of stars from programmers based in Argentina:
 
-- [vot.ar](https://github.com/prometheus-ar/vot.ar)
-- [democracyos](https://github.com/DemocracyOS/democracyos)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [pilas](https://github.com/hugoruscitti/pilas)
-- [pyarweb](https://github.com/PyAr/pyarweb)
-- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory)
-- [sdk-php](https://github.com/mercadopago/sdk-php)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [preciosa](https://github.com/mgaitan/preciosa)
-- [chico](https://github.com/mercadolibre/chico)
-- [docker-workshop](https://github.com/gvilarino/docker-workshop)
-- [buenosaires](https://github.com/nodeschool/buenosaires)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [pyafipws](https://github.com/reingart/pyafipws)
-- [touchandgo](https://github.com/touchandgo-devs/touchandgo)
-- [storm](https://github.com/Cuevana/storm)
-- [cuba](https://github.com/soveran/cuba)
-- [reactide](https://github.com/reactide/reactide)
-- [localstack](https://github.com/atlassian/localstack)
-- [fisa-vim-config](https://github.com/fisadev/fisa-vim-config)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [canopus](https://github.com/satellogic/canopus)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [pysenteishon](https://github.com/edvm/pysenteishon)
-- [ninja-ide](https://github.com/ninja-ide/ninja-ide)
+- [vot.ar](https://github.com/prometheus-ar/vot.ar): VOT.AR - Sistema de Voto Electrónico
+- [democracyos](https://github.com/DemocracyOS/democracyos): DemocracyOS is an online space for deliberation...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [pilas](https://github.com/hugoruscitti/pilas): Pilas engine
+- [pyarweb](https://github.com/PyAr/pyarweb): El sitio web de Python Argentina 
+- [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory):  :microscope: Where students practice and recei...
+- [sdk-php](https://github.com/mercadopago/sdk-php): MercadoPago PHP SDK
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [preciosa](https://github.com/mgaitan/preciosa): Inteligencia colectiva contra la inflación
+- [chico](https://github.com/mercadolibre/chico): A collection of easy-to-use UI components.
+- [docker-workshop](https://github.com/gvilarino/docker-workshop): Docker workshop
+- [buenosaires](https://github.com/nodeschool/buenosaires): Repositorio para organizar y responder pregunta...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [pyafipws](https://github.com/reingart/pyafipws): Factura Electrónica AFIP y otros servicios web ...
+- [touchandgo](https://github.com/touchandgo-devs/touchandgo): Torrent streaming CLI and python library 
+- [storm](https://github.com/Cuevana/storm): Cuevana Storm App
+- [cuba](https://github.com/soveran/cuba): Rum based microframework for web development.
+- [reactide](https://github.com/reactide/reactide): 
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [fisa-vim-config](https://github.com/fisadev/fisa-vim-config): my vim configuration (lot of python, autocomple...
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [canopus](https://github.com/satellogic/canopus): Canopus framework and flight computer software ...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [pysenteishon](https://github.com/edvm/pysenteishon): Control your presentations swiping your touchsc...
+- [ninja-ide](https://github.com/ninja-ide/ninja-ide): {Ninja-IDE Is Not Just Another IDE}

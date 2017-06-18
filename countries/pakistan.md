@@ -1,29 +1,29 @@
 # Popular Repositories in Pakistan
 
-These are the most-starred repositories from programmers based in Pakistan:
+These are the repositories with the highest ratio of stars from programmers based in Pakistan:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [learn-angular2](https://github.com/panacloud/learn-angular2)
-- [learn-typescript](https://github.com/panacloud/learn-typescript)
-- [quran.com-frontend](https://github.com/quran/quran.com-frontend)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [open-source-billing](https://github.com/vteams/open-source-billing)
-- [reactide](https://github.com/reactide/reactide)
-- [quran_android](https://github.com/quran/quran_android)
-- [html5-showcase](https://github.com/ziaukhan/html5-showcase)
-- [localstack](https://github.com/atlassian/localstack)
-- [learn-react](https://github.com/panacloud/learn-react)
-- [fedena](https://github.com/projectfedena/fedena)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [create-react-native-app](https://github.com/react-community/create-react-native-app)
-- [realworld](https://github.com/gothinkster/realworld)
-- [RequestPermission](https://github.com/IvanVorobei/RequestPermission)
-- [learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs)
-- [clipbucket](https://github.com/arslancb/clipbucket)
-- [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)
-- [spruce-ios](https://github.com/willowtreeapps/spruce-ios)
-- [post-exploitation](https://github.com/mubix/post-exploitation)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [learn-angular2](https://github.com/panacloud/learn-angular2): Learn Angular 2 in Baby Steps
+- [learn-typescript](https://github.com/panacloud/learn-typescript): Learning TypeScript in Baby Steps
+- [quran.com-frontend](https://github.com/quran/quran.com-frontend): quran.com frontend
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [open-source-billing](https://github.com/vteams/open-source-billing): Open Source Billing a super simple way to creat...
+- [reactide](https://github.com/reactide/reactide): 
+- [quran_android](https://github.com/quran/quran_android): a quran reading application for android
+- [html5-showcase](https://github.com/ziaukhan/html5-showcase): HTML5 has the capability to create incredible w...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [learn-react](https://github.com/panacloud/learn-react): 
+- [fedena](https://github.com/projectfedena/fedena): Fedena SIS
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [create-react-native-app](https://github.com/react-community/create-react-native-app): (PREVIEW) Create a React Native app on any OS w...
+- [realworld](https://github.com/gothinkster/realworld): Fullstack example codebases for React, Angular,...
+- [RequestPermission](https://github.com/IvanVorobei/RequestPermission): simple permission request with beautiful UI
+- [learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs): Learn Reactive Programming with RxJS 5 and Type...
+- [clipbucket](https://github.com/arslancb/clipbucket): Open source video sharing website script, Tune....
+- [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl): A set of cool animated page controls written in...
+- [spruce-ios](https://github.com/willowtreeapps/spruce-ios): Swift library for choreographing animations on ...
+- [post-exploitation](https://github.com/mubix/post-exploitation): Post Exploitation Collection
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...

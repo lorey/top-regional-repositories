@@ -1,29 +1,29 @@
 # Popular Repositories in Ukraine
 
-These are the most-starred repositories from programmers based in Ukraine:
+These are the repositories with the highest ratio of stars from programmers based in Ukraine:
 
-- [i](https://github.com/e-government-ua/i)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [dict_uk](https://github.com/brown-uk/dict_uk)
-- [bandera-layout](https://github.com/muromec/bandera-layout)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [javascript](https://github.com/uprock/javascript)
-- [react-essential-course](https://github.com/krambertech/react-essential-course)
-- [YoptaScript](https://github.com/samgozman/YoptaScript)
-- [largescaleJS_ru](https://github.com/A/largescaleJS_ru)
-- [localstack](https://github.com/atlassian/localstack)
-- [postgresql_book](https://github.com/le0pard/postgresql_book)
-- [redux-in-russian](https://github.com/rajdee/redux-in-russian)
-- [dictionary](https://github.com/web-standards-ru/dictionary)
-- [social-likes](https://github.com/sapegin/social-likes)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [understandinges6ua](https://github.com/LambdaBooks/understandinges6ua)
-- [conference-videos](https://github.com/FrontenderMagazine/conference-videos)
-- [ctop](https://github.com/bcicen/ctop)
-- [reactide](https://github.com/reactide/reactide)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [html5checklist](https://github.com/ihorzenich/html5checklist)
-- [n2o](https://github.com/synrc/n2o)
-- [mostly-adequate-guide-ru](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
+- [i](https://github.com/e-government-ua/i): iGov.org.ua - Основной репозиторий
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [dict_uk](https://github.com/brown-uk/dict_uk): Project to generate POS tag dictionary for Ukra...
+- [bandera-layout](https://github.com/muromec/bandera-layout): Cyrillic bilingual keyboard
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [ru-tech-chats](https://github.com/mr-mig/ru-tech-chats): This repo contains a list of various russian-sp...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [javascript](https://github.com/uprock/javascript): 
+- [react-essential-course](https://github.com/krambertech/react-essential-course): ITVDN - React Essential course materials
+- [YoptaScript](https://github.com/samgozman/YoptaScript): Скриптовый язык программирования для гопников и...
+- [largescaleJS_ru](https://github.com/A/largescaleJS_ru): Russian translation of Addy Osmani book.
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [postgresql_book](https://github.com/le0pard/postgresql_book): Book about PostgreSQL (russian)
+- [redux-in-russian](https://github.com/rajdee/redux-in-russian): Original redux documentation with a translation...
+- [dictionary](https://github.com/web-standards-ru/dictionary): Словарь терминов по фронтенду
+- [social-likes](https://github.com/sapegin/social-likes): Beautiful social “like” buttons with counters f...
+- [system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large scale systems. Prep f...
+- [understandinges6ua](https://github.com/LambdaBooks/understandinges6ua): Ukrainian translation of “Understanding ES6” by...
+- [conference-videos](https://github.com/FrontenderMagazine/conference-videos): You may found here list of links to conference ...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [reactide](https://github.com/reactide/reactide): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [html5checklist](https://github.com/ihorzenich/html5checklist): HTML/CSS/JS markup checklist
+- [n2o](https://github.com/synrc/n2o): 🔥 WebSocket Application Server for Enterprises
+- [mostly-adequate-guide-ru](https://github.com/MostlyAdequate/mostly-adequate-guide-ru): Mostly adequate guide to FP (in javascript, tra...

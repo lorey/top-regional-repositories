@@ -1,29 +1,29 @@
 # Popular Repositories in Luxembourg
 
-These are the most-starred repositories from programmers based in Luxembourg:
+These are the repositories with the highest ratio of stars from programmers based in Luxembourg:
 
-- [ctop](https://github.com/bcicen/ctop)
-- [cameradar](https://github.com/EtixLabs/cameradar)
-- [hexMachina](https://github.com/DoclerLabs/hexMachina)
-- [spaceAPI-widget](https://github.com/Kaweechelchen/spaceAPI-widget)
-- [hexMVC](https://github.com/DoclerLabs/hexMVC)
-- [ror-refactor](https://github.com/zedtux/ror-refactor)
-- [seren](https://github.com/OlivierCroisier/seren)
-- [brewformulas.org](https://github.com/zedtux/brewformulas.org)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [sublime-snippets](https://github.com/mdo/sublime-snippets)
-- [poxi](https://github.com/maierfelix/poxi)
-- [random-ideas](https://github.com/jbenet/random-ideas)
-- [JoliNotif](https://github.com/jolicode/JoliNotif)
-- [pick](https://github.com/bndw/pick)
-- [Protip](https://github.com/DoclerLabs/Protip)
-- [sshj](https://github.com/hierynomus/sshj)
-- [portainer](https://github.com/portainer/portainer)
-- [geoportailScraper](https://github.com/svnee/geoportailScraper)
-- [FSPromise](https://github.com/MasGaNo/FSPromise)
-- [WordOfMouth](https://github.com/zedtux/WordOfMouth)
-- [nginx-module-sysguard](https://github.com/vozlt/nginx-module-sysguard)
-- [hellascoin-v2](https://github.com/hellascrypto/hellascoin-v2)
-- [remarkable](https://github.com/KNEIP/remarkable)
-- [oarhold](https://github.com/gjherbiet/oarhold)
-- [ParkLux](https://github.com/NaelKennyGameOfCode/ParkLux)
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [cameradar](https://github.com/EtixLabs/cameradar): Cameradar hacks its way into RTSP CCTV cameras
+- [hexMachina](https://github.com/DoclerLabs/hexMachina): Contains the full hexMachina project
+- [spaceAPI-widget](https://github.com/Kaweechelchen/spaceAPI-widget): An Übersicht that shows the actual status of yo...
+- [hexMVC](https://github.com/DoclerLabs/hexMVC): MVC implementation for hexMachina framework 
+- [ror-refactor](https://github.com/zedtux/ror-refactor): Atom package including a set of refactoring too...
+- [seren](https://github.com/OlivierCroisier/seren): Java Serialization Enhancer
+- [brewformulas.org](https://github.com/zedtux/brewformulas.org): A website to search and discover formulas from ...
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [sublime-snippets](https://github.com/mdo/sublime-snippets): Custom snippets for Sublime Text 2
+- [poxi](https://github.com/maierfelix/poxi): :octocat: A modern hackable pixel art editor
+- [random-ideas](https://github.com/jbenet/random-ideas): random ideas
+- [JoliNotif](https://github.com/jolicode/JoliNotif): :computer: Send notifications to your desktop d...
+- [pick](https://github.com/bndw/pick): Minimal password manager for macOS and Linux
+- [Protip](https://github.com/DoclerLabs/Protip): A new generation jQuery Tooltip plugin
+- [sshj](https://github.com/hierynomus/sshj): ssh, scp and sftp for java
+- [portainer](https://github.com/portainer/portainer): Simple management UI for Docker
+- [geoportailScraper](https://github.com/svnee/geoportailScraper): This script handily scrapes and converts the ou...
+- [FSPromise](https://github.com/MasGaNo/FSPromise): FSPromise.js, Part of FantaSite Framework. Add ...
+- [WordOfMouth](https://github.com/zedtux/WordOfMouth): Ruby server where register or subscribe events ...
+- [nginx-module-sysguard](https://github.com/vozlt/nginx-module-sysguard): Nginx sysguard module
+- [hellascoin-v2](https://github.com/hellascrypto/hellascoin-v2): 
+- [remarkable](https://github.com/KNEIP/remarkable): Simplifying tests!
+- [oarhold](https://github.com/gjherbiet/oarhold): A script to generate a lot of oar jobs, but to ...
+- [ParkLux](https://github.com/NaelKennyGameOfCode/ParkLux): 

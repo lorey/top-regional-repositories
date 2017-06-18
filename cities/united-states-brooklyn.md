@@ -1,29 +1,29 @@
 # Popular Repositories in Brooklyn
 
-These are the most-starred repositories from programmers based in Brooklyn:
+These are the repositories with the highest ratio of stars from programmers based in Brooklyn:
 
-- [corpora](https://github.com/dariusk/corpora)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [react-patterns](https://github.com/vasanthk/react-patterns)
-- [collection](https://github.com/MuseumofModernArt/collection)
-- [reactide](https://github.com/reactide/reactide)
-- [guetzli](https://github.com/google/guetzli)
-- [brooklynjs.github.io](https://github.com/brooklynjs/brooklynjs.github.io)
-- [localstack](https://github.com/atlassian/localstack)
-- [ctop](https://github.com/bcicen/ctop)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [Tone.js](https://github.com/Tonejs/Tone.js)
-- [twitter_ebooks](https://github.com/mispy/twitter_ebooks)
-- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-- [brubeck](https://github.com/j2labs/brubeck)
-- [tabletop](https://github.com/jsoma/tabletop)
-- [ice](https://github.com/NYTimes/ice)
-- [tacofancy](https://github.com/sinker/tacofancy)
-- [stately](https://github.com/intridea/stately)
-- [spike](https://github.com/static-dev/spike)
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [videogrep](https://github.com/antiboredom/videogrep)
-- [tracery](https://github.com/galaxykate/tracery)
-- [savepublishing](https://github.com/ftrain/savepublishing)
-- [ingredient-phrase-tagger](https://github.com/NYTimes/ingredient-phrase-tagger)
-- [curriculum2014](https://github.com/ScriptEdcurriculum/curriculum2014)
+- [corpora](https://github.com/dariusk/corpora): A collection of small corpuses of interesting d...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [react-patterns](https://github.com/vasanthk/react-patterns): React Techniques & Patterns 
+- [collection](https://github.com/MuseumofModernArt/collection): The Museum of Modern Art (MoMA) collection data
+- [reactide](https://github.com/reactide/reactide): 
+- [guetzli](https://github.com/google/guetzli): 
+- [brooklynjs.github.io](https://github.com/brooklynjs/brooklynjs.github.io): The world's most popular programming language, ...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [ctop](https://github.com/bcicen/ctop): Top-like tool for monitoring containers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [Tone.js](https://github.com/Tonejs/Tone.js): A Web Audio framework for making interactive mu...
+- [twitter_ebooks](https://github.com/mispy/twitter_ebooks): Better twitterbots for all your friends~
+- [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): Companies that don't do typical CS based whiteb...
+- [brubeck](https://github.com/j2labs/brubeck): Asynchronous web and messaging
+- [tabletop](https://github.com/jsoma/tabletop): Tabletop.js gives spreadsheets legs
+- [ice](https://github.com/NYTimes/ice): track changes with javascript
+- [tacofancy](https://github.com/sinker/tacofancy): community-driven taco repo. stars stars stars.
+- [stately](https://github.com/intridea/stately): 
+- [spike](https://github.com/static-dev/spike): :cactus: A modern static build tool, powered by...
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): Bare bones Python implementations of various Ma...
+- [videogrep](https://github.com/antiboredom/videogrep): automatic video supercuts with python
+- [tracery](https://github.com/galaxykate/tracery): Tracery: a story-grammar generation library for...
+- [savepublishing](https://github.com/ftrain/savepublishing): CoffeeScript code to quickly extract and displa...
+- [ingredient-phrase-tagger](https://github.com/NYTimes/ingredient-phrase-tagger): Extract structured data from ingredient phrases...
+- [curriculum2014](https://github.com/ScriptEdcurriculum/curriculum2014): ScriptEd's first and second year curriculum

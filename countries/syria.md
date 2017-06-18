@@ -1,29 +1,29 @@
 # Popular Repositories in Syria
 
-These are the most-starred repositories from programmers based in Syria:
+These are the repositories with the highest ratio of stars from programmers based in Syria:
 
-- [miniedit](https://github.com/parmaja/miniedit)
-- [first_app](https://github.com/AlHasan/first_app)
-- [Book-UI](https://github.com/khaledalhourani/Book-UI)
-- [rtl](https://github.com/khaledalhourani/rtl)
-- [Arabic-Wikipedia-Font-Improvements](https://github.com/khaledalhourani/Arabic-Wikipedia-Font-Improvements)
-- [monomath](https://github.com/kaptainzero/monomath)
-- [Scrollable-Content](https://github.com/khaledalhourani/Scrollable-Content)
-- [z80fun](https://github.com/inxonic/z80fun)
-- [node-microscape](https://github.com/etabits/node-microscape)
-- [Coolduino](https://github.com/Fablogia/Coolduino)
-- [pglist](https://github.com/parmaja/pglist)
-- [user_node_access](https://github.com/ayalsule/user_node_access)
-- [bigbluebutton](https://github.com/Passivate/bigbluebutton)
-- [Kazdoura](https://github.com/khaledalhourani/Kazdoura)
-- [jquery-ui](https://github.com/khaledalhourani/jquery-ui)
-- [OpenSocial](https://github.com/khaledalhourani/OpenSocial)
-- [better-debug](https://github.com/louy/better-debug)
-- [polygons-ar](https://github.com/etabits/polygons-ar)
-- [References](https://github.com/khaledalhourani/References)
-- [Include-facebook-group-wall](https://github.com/aml987/Include-facebook-group-wall)
-- [Fonts-Widget](https://github.com/khaledalhourani/Fonts-Widget)
-- [lawha](https://github.com/louy/lawha)
-- [meld](https://github.com/aularon/meld)
-- [mediafront_demo](https://github.com/khaledalhourani/mediafront_demo)
-- [Damascus-Meetup](https://github.com/khaledalhourani/Damascus-Meetup)
+- [miniedit](https://github.com/parmaja/miniedit): Mini text editor with highlighting code, made f...
+- [first_app](https://github.com/AlHasan/first_app): The first app for Ruby on Rails
+- [Book-UI](https://github.com/khaledalhourani/Book-UI): The new awesome Drupal's book UI
+- [rtl](https://github.com/khaledalhourani/rtl): Flip all LTR stuff in CSS files to RTL ones, cl...
+- [Arabic-Wikipedia-Font-Improvements](https://github.com/khaledalhourani/Arabic-Wikipedia-Font-Improvements): Improves Arabic Wikipedia fonts for better reading
+- [monomath](https://github.com/kaptainzero/monomath): mathematical library on mono
+- [Scrollable-Content](https://github.com/khaledalhourani/Scrollable-Content): Scrollable Content provides a scrolling functio...
+- [z80fun](https://github.com/inxonic/z80fun): AVR based computer with Z80 processor. Just for...
+- [node-microscape](https://github.com/etabits/node-microscape): Micro Sc(r)ape the Web!
+- [Coolduino](https://github.com/Fablogia/Coolduino): 
+- [pglist](https://github.com/parmaja/pglist): DokuWiki plugin, list the pages inside namespace
+- [user_node_access](https://github.com/ayalsule/user_node_access): 
+- [bigbluebutton](https://github.com/Passivate/bigbluebutton): BigBlueButton is an open source web conferencin...
+- [Kazdoura](https://github.com/khaledalhourani/Kazdoura): Kazdora Travel
+- [jquery-ui](https://github.com/khaledalhourani/jquery-ui): The official jQuery user interface library.
+- [OpenSocial](https://github.com/khaledalhourani/OpenSocial): OpenSocial sandbox files
+- [better-debug](https://github.com/louy/better-debug): A better alternative to debug module.
+- [polygons-ar](https://github.com/etabits/polygons-ar): A playable post on how harmless choices can mak...
+- [References](https://github.com/khaledalhourani/References): References module for Drupal 7
+- [Include-facebook-group-wall](https://github.com/aml987/Include-facebook-group-wall): This code allowed you to include any facebook g...
+- [Fonts-Widget](https://github.com/khaledalhourani/Fonts-Widget): Fonts widget block for Drupal 7
+- [lawha](https://github.com/louy/lawha): Micro-services developer's swiss army knife
+- [meld](https://github.com/aularon/meld): Meld
+- [mediafront_demo](https://github.com/khaledalhourani/mediafront_demo): A demo Drupal 7 site to show off the mediafront...
+- [Damascus-Meetup](https://github.com/khaledalhourani/Damascus-Meetup): Damascus Meetup website built with Drupal and C...

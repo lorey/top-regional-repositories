@@ -1,29 +1,29 @@
 # Popular Repositories in Shenzhen
 
-These are the most-starred repositories from programmers based in Shenzhen:
+These are the repositories with the highest ratio of stars from programmers based in Shenzhen:
 
-- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist)
-- [vue2-elm](https://github.com/bailicangdu/vue2-elm)
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
-- [node-interview](https://github.com/ElemeFE/node-interview)
-- [vlayout](https://github.com/alibaba/vlayout)
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [guetzli](https://github.com/google/guetzli)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [GodEye](https://github.com/zixun/GodEye)
-- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN)
-- [incubator-weex](https://github.com/apache/incubator-weex)
-- [manage-system](https://github.com/lin-xin/manage-system)
-- [Mars](https://github.com/AlloyTeam/Mars)
-- [Android-skin-support](https://github.com/ximsfei/Android-skin-support)
-- [atlas](https://github.com/alibaba/atlas)
-- [wxpy](https://github.com/youfou/wxpy)
-- [front-end-collect](https://github.com/foru17/front-end-collect)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [ResumeSample](https://github.com/geekcompany/ResumeSample)
-- [fis](https://github.com/fex-team/fis)
-- [wechat](https://github.com/node-webot/wechat)
-- [condom](https://github.com/oasisfeng/condom)
-- [python-fire](https://github.com/google/python-fire)
-- [article](https://github.com/amfe/article)
+- [white-hat-hackers-blacklist](https://github.com/shengxinjing/white-hat-hackers-blacklist): 厂商黑名单
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm): 基于 vue2 + vue-router2 + vuex + webpack + ES6/7 ...
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词
+- [node-interview](https://github.com/ElemeFE/node-interview): How to pass the Node.js interview of ElemeFE
+- [vlayout](https://github.com/alibaba/vlayout): Project vlayout is a powerfull LayoutManager ex...
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [guetzli](https://github.com/google/guetzli): 
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [GodEye](https://github.com/zixun/GodEye): Automaticly display Log,Crash,Network,ANR,Leak,...
+- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN): What-happens-when 的中文翻译，原仓库 https://github.com/...
+- [incubator-weex](https://github.com/apache/incubator-weex): Mirror of Apache Weex
+- [manage-system](https://github.com/lin-xin/manage-system): 基于Vue.js 2.x系列 + Element UI 后台管理系统解决方案
+- [Mars](https://github.com/AlloyTeam/Mars): 腾讯移动Web前端知识库
+- [Android-skin-support](https://github.com/ximsfei/Android-skin-support): Android-skin-support: 一款用心去做的Android 换肤框架, 极低的学...
+- [atlas](https://github.com/alibaba/atlas): A powerful Android Dynamic Component Framework.
+- [wxpy](https://github.com/youfou/wxpy): 微信个人号 API，基于 itchat，告别满屏 dict，更有 Python 范儿
+- [front-end-collect](https://github.com/foru17/front-end-collect): 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [ResumeSample](https://github.com/geekcompany/ResumeSample): Resume template for Chinese programmers . 程序员简历...
+- [fis](https://github.com/fex-team/fis): Front-end Integrated Solution - 前端集成解决方案， 最新版请进...
+- [wechat](https://github.com/node-webot/wechat): 微信公共平台消息接口服务中间件
+- [condom](https://github.com/oasisfeng/condom): 一个超轻超薄的Android工具库，阻止三方SDK中常见的严重影响用户体验的『链式唤醒』行为。...
+- [python-fire](https://github.com/google/python-fire): Python Fire is a library for automatically gene...
+- [article](https://github.com/amfe/article): 

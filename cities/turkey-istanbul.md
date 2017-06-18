@@ -1,29 +1,29 @@
 # Popular Repositories in Istanbul
 
-These are the most-starred repositories from programmers based in Istanbul:
+These are the repositories with the highest ratio of stars from programmers based in Istanbul:
 
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [tyyp](https://github.com/tyyporg/tyyp)
-- [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)
-- [turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com)
-- [arguman.org](https://github.com/arguman/arguman.org)
-- [acikkaynak](https://github.com/acikkaynak/acikkaynak)
-- [ruby101-kitap](https://github.com/vigo/ruby101-kitap)
-- [kemal](https://github.com/kemalcr/kemal)
-- [svg-turkiye-haritasi](https://github.com/dnomak/svg-turkiye-haritasi)
-- [paranoia](https://github.com/paranoiaproject/paranoia)
-- [tartJS](https://github.com/tart/tartJS)
-- [serdaripsum](https://github.com/halilkaya/serdaripsum)
-- [Interviews](https://github.com/kdn251/Interviews)
-- [reactjs-giris](https://github.com/ustun/reactjs-giris)
-- [anayasa](https://github.com/ahmetkizilay/anayasa)
-- [bricklayer](https://github.com/ademilter/bricklayer)
-- [localstack](https://github.com/atlassian/localstack)
-- [bash-guide](https://github.com/Idnan/bash-guide)
-- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-- [Knet.jl](https://github.com/denizyuret/Knet.jl)
-- [pq](https://github.com/f/pq)
-- [koding](https://github.com/koding/koding)
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
-- [kontra-is-anlasmasi](https://github.com/eserozvataf/kontra-is-anlasmasi)
-- [fil](https://github.com/fatiherikli/fil)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Roadmap to becoming a web developer in 2017
+- [tyyp](https://github.com/tyyporg/tyyp): An application level networking protocol to ena...
+- [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp): Turkish Nlp libraries
+- [turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com): Özenle seçilmiş Türkçe kaynaklar listesi
+- [arguman.org](https://github.com/arguman/arguman.org): Argument analysis and mapping platform
+- [acikkaynak](https://github.com/acikkaynak/acikkaynak): 
+- [ruby101-kitap](https://github.com/vigo/ruby101-kitap): Türkçe Ruby kitabı
+- [kemal](https://github.com/kemalcr/kemal): Fast, Effective, Simple web framework for Crystal
+- [svg-turkiye-haritasi](https://github.com/dnomak/svg-turkiye-haritasi): SVG Türkiye Haritası
+- [paranoia](https://github.com/paranoiaproject/paranoia): Paranoia is generic payment client for populer ...
+- [tartJS](https://github.com/tart/tartJS): A performance-obsessed JavaScript framework for...
+- [serdaripsum](https://github.com/halilkaya/serdaripsum): Serdar Ortac sarkisi olusturur.
+- [Interviews](https://github.com/kdn251/Interviews): Variety of solutions to common interview questions
+- [reactjs-giris](https://github.com/ustun/reactjs-giris): ReactJS'e Giriş
+- [anayasa](https://github.com/ahmetkizilay/anayasa): 1982 anayasası metni
+- [bricklayer](https://github.com/ademilter/bricklayer): Lightweight and independent Pinterest-like casc...
+- [localstack](https://github.com/atlassian/localstack): A fully functional local AWS cloud stack. Devel...
+- [bash-guide](https://github.com/Idnan/bash-guide): Bare minimum you need know about bash
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers): 🎬 A curated list of movies every hacker & cyber...
+- [Knet.jl](https://github.com/denizyuret/Knet.jl): Koç University deep learning framework.
+- [pq](https://github.com/f/pq): Human Readable Promise Chains
+- [koding](https://github.com/koding/koding): The Simplest Way to Manage Your Entire Dev Infr...
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer): Code and data for paper "Deep Photo Style Trans...
+- [kontra-is-anlasmasi](https://github.com/eserozvataf/kontra-is-anlasmasi): 
+- [fil](https://github.com/fatiherikli/fil): A playground for in-browser interpreters. Built...
