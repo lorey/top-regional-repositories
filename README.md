@@ -35,4 +35,8 @@ score(repo, region) := #(stars from users in the given region) / (#(stars of rep
 
 To be able to compute the given score, I have used the geocoded locations of popular GitHub users. I know, this favors repositories starred by popular GitHub users, but I don't think the effect is statistically relevant. The small number of geocoded users should be a bigger problem for statistical correctness :)
 
+## Find the best programmers worldwide
+
+I have a project called Programmer Map where you can find [the best programmers as well as interesting repos for many vities worldwide](http://programmermap.com). This is a new feature and will be integrated soon.
+
 Image: [TheAndrasBarta on Pixabay. CC0](https://pixabay.com/en/users/TheAndrasBarta-2004841/)
