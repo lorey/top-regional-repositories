@@ -37,6 +37,6 @@ To be able to compute the given score, I have used the geocoded locations of pop
 
 ## Find the best programmers worldwide
 
-I have a project called Programmer Map where you can find [the best programmers as well as interesting repos for many vities worldwide](http://programmermap.com). This is a new feature and will be integrated soon.
+I have a project called Programmer Map where you can find [the best programmers as well as interesting repos for many cities worldwide](http://programmermap.com). This is a new feature and will be integrated soon.
 
 Image: [TheAndrasBarta on Pixabay. CC0](https://pixabay.com/en/users/TheAndrasBarta-2004841/)
